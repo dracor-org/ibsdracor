@@ -1,4 +1,4 @@
-# newdracor
+# IbsDraCor
 
 Starter repository for new DraCor corpora
 
