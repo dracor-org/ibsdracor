@@ -19,12 +19,12 @@
     <encodingDesc>
       <projectDesc>
         <p>
-          Describe your corpus in a few sentences.
+          <!-- Describe your corpus in a few sentences. -->
         </p>
       </projectDesc>
     </encodingDesc>
     <revisionDesc>
-      <change when="yyyy-mm-dd" status="proposed"/>
+      <change when="2025-08-29" status="draft"/>
     </revisionDesc>
   </teiHeader>
 </teiCorpus>
