@@ -40,7 +40,7 @@
           <bibl type="originalSource">
             <author>Henrik Ibsen</author>
             <title type="main">Bygmester Solness</title>
-            <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1896</title>
+            <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1892</title>
             <edition>Henrik Ibsens skrifter 2010</edition>
           </bibl>
         </bibl>
@@ -79,6 +79,11 @@
     </profileDesc>
   </teiHeader>
   <standOff>
+    <listEvent>
+		<event type="print" when="1892"/>
+		<event type="premiere" when="1892-12-07"/>
+		<event type="written" notBefore="1891" notAfter="1892"/>
+    </listEvent>
     <listRelation>
       <relation name="wikidata" active="https://dracor.org/entity/ibs000005"
         passive="http://www.wikidata.org/entity/Q641378"/>
