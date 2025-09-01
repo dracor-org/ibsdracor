@@ -40,7 +40,7 @@
           <bibl type="originalSource">
             <title type="main">Lille Eyolf</title>
             <author>Henrik Ibsen</author>
-            <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1896</title>
+            <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1894</title>
             <edition>Henrik Ibsens skrifter 2010</edition>
           </bibl>
         </bibl>
@@ -76,6 +76,17 @@
     </profileDesc>
   </teiHeader>
   <standOff>
+    <listEvent>
+      <event type="print" when="1894">
+        <desc/>
+      </event>
+      <event type="premiere" when="1894-12-07">
+        <desc/>
+      </event>
+      <event type="written" notBefore="1893" notAfter="1894">
+        <desc/>
+      </event>
+    </listEvent>
     <listRelation>
       <relation name="wikidata" active="https://dracor.org/entity/ibs000004"
         passive="http://www.wikidata.org/entity/Q983970"/>
