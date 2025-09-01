@@ -40,7 +40,7 @@
           <bibl type="originalSource">
             <author>Henrik Ibsen</author>
             <title type="main">Fruen fra havet</title>
-            <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1896</title>
+            <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1888</title>
             <edition>Henrik Ibsens skrifter 2010</edition>
           </bibl>
         </bibl>
@@ -82,6 +82,17 @@
     </profileDesc>
   </teiHeader>
   <standOff>
+    <listEvent>
+      <event type="print" when="1888">
+			  <desc/>
+		  </event>
+		  <event type="premiere" when="1889-02-12">
+			  <desc/>
+		  </event>
+		  <event type="written" notBefore="1888" notAfter="1888">
+		  	<desc/>
+		  </event>
+	  </listEvent>
     <listRelation>
       <relation name="wikidata" active="https://dracor.org/entity/ibs000007"
         passive="http://www.wikidata.org/entity/Q1212719"/>
