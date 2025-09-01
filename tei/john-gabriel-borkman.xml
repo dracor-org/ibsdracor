@@ -82,6 +82,17 @@
     </profileDesc>
   </teiHeader>
   <standOff>
+    <listEvent>
+      <event type="print" when="1896">
+        <desc/>
+      </event>
+      <event type="premiere" when="1896-12-14">
+        <desc/>
+      </event>
+      <event type="written" notBefore="1895" notAfter="1896">
+        <desc/>
+      </event>
+    </listEvent>
     <listRelation>
       <relation name="wikidata" active="https://dracor.org/entity/ibs000003"
         passive="http://www.wikidata.org/entity/Q289117"/>
