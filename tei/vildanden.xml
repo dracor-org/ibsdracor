@@ -40,7 +40,7 @@
           <bibl type="originalSource">
             <author>Henrik Ibsen</author>
             <title type="main">Vildanden</title>
-            <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1896</title>
+            <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1884</title>
             <edition>Henrik Ibsens skrifter 2010</edition>
           </bibl>
         </bibl>
@@ -103,6 +103,17 @@
     </profileDesc>
   </teiHeader>
   <standOff>
+    <listEvent>
+      <event type="print" when="1884">
+        <desc/>
+      </event>
+      <event type="premiere" when="1885-01-09">
+        <desc/>
+      </event>
+      <event type="written" notBefore="1883" notAfter="1884">
+        <desc/>
+      </event>
+    </listEvent>
     <listRelation>
       <relation name="wikidata" active="https://dracor.org/entity/ibs000010"
         passive="http://www.wikidata.org/entity/Q1217608"/>
