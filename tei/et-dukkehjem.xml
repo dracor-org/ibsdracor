@@ -40,7 +40,7 @@
           <bibl type="originalSource">
             <author>Henrik Ibsen</author>
             <title type="main">Et dukkehjem</title>
-            <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1896</title>
+            <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1879</title>
             <edition>Henrik Ibsens skrifter 2010</edition>
           </bibl>
         </bibl>
@@ -85,6 +85,17 @@
     </profileDesc>
   </teiHeader>
   <standOff>
+    <listEvent>
+      <event type="print" when="1879">
+        <desc/>
+      </event>
+      <event type="premiere" when="1879-12-21">
+        <desc/>
+      </event>
+      <event type="written" notBefore="1878" notAfter="1879">
+        <desc/>
+      </event>
+    </listEvent>
     <listRelation>
       <relation name="wikidata" active="https://dracor.org/entity/ibs000014"
         passive="http://www.wikidata.org/entity/Q669694"/>
