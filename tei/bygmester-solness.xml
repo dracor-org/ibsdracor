@@ -80,10 +80,16 @@
   </teiHeader>
   <standOff>
     <listEvent>
-		<event type="print" when="1892"/>
-		<event type="premiere" when="1892-12-07"/>
-		<event type="written" notBefore="1891" notAfter="1892"/>
-    </listEvent>
+		<event type="print" when="1892">
+			<desc/>
+		</event>
+		<event type="premiere" when="1892-12-07">
+			<desc/>
+		</event>
+		<event type="written" notBefore="1891" notAfter="1892">
+			<desc/>
+		</event>
+	</listEvent>
     <listRelation>
       <relation name="wikidata" active="https://dracor.org/entity/ibs000005"
         passive="http://www.wikidata.org/entity/Q641378"/>
