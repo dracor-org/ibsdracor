@@ -1501,7 +1501,7 @@
           <stage>løfter sit glas</stage>
           <p>Skål, far!</p>
         </sp>
-        <sp who="#BILLING HOVSTAD">
+        <sp who="#BILLING #HOVSTAD">
           <speaker>HOVSTAD og BILLING</speaker>
           <p>Skål, skål, herr doktor.</p>
         </sp>
@@ -7419,7 +7419,7 @@
           <stage>knipser med fingrene og springer ned fra bordet</stage>
           <p>Nu har jeg det! Nu har jeg det, min sæl! I skal aldrig sætte jer fod i skolen mere!</p>
         </sp>
-        <sp who="#EJLIF MORTEN">
+        <sp who="#EJLIF #MORTEN">
           <speaker>GUTTERNE</speaker>
           <p>Ikke i skolen!</p>
         </sp>
