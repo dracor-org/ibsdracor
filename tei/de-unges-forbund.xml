@@ -1705,7 +1705,7 @@
           <speaker>THORA</speaker>
           <p>Ja, saa følger jeg ikke længere. Godnatt, Ragna! Godnatt; Godnatt!</p>
         </sp>
-        <sp who="#HELLE RAGNA">
+        <sp who="#HELLE #RAGNA">
           <speaker>HELLE og FRØKEN MONSEN</speaker>
           <p>Godnatt; Godnatt!</p>
         </sp>
@@ -5361,7 +5361,7 @@
             Parti ved Valgmandsvalget imorgen? Saa, siger jeg, hvorledes skulde det gaa till? Aa,
             siger han, ved Hjælp af denne Vexel –</p>
         </sp>
-        <sp who="#FJELDBO RINGDAL">
+        <sp who="#FJELDBO #RINGDAL">
           <speaker>FJELDBO og RINGDAL</speaker>
           <p>Vexel?</p>
         </sp>
