@@ -38,10 +38,10 @@
             </licence>
           </availability>
           <bibl type="originalSource">
-            <author>Henrik Ibsen</author>
-            <title type="main">Vildanden</title>
-            <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1884</title>
-            <edition>Henrik Ibsens skrifter 2010</edition>
+            <author>Henrik Ibsen</author>: <title type="main">Vildanden</title>. <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1884</title>.
+            In: <edition>Henrik Ibsens skrifter, bind 8</edition>.
+            <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
+			      <date when="2009">2009</date>
           </bibl>
         </bibl>
       </sourceDesc>
