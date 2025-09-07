@@ -38,10 +38,10 @@
             </licence>
           </availability>
           <bibl type="originalSource">
-            <author>Henrik Ibsen</author>
-            <title type="main">En folkefiende</title>
-            <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1882</title>
-            <edition>Henrik Ibsens skrifter 2010</edition>
+            <author>Henrik Ibsen</author>: <title type="main">En folkefiende</title>. <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1882</title>
+            In: <edition>Henrik Ibsens skrifter, bind 7</edition>.
+            <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
+			      <date when="2008">2008</date>
           </bibl>
         </bibl>
       </sourceDesc>
