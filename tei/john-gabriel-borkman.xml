@@ -38,10 +38,10 @@
             </licence>
           </availability>
           <bibl type="originalSource">
-            <title type="main">John Gabriel Borkman</title>
-            <author>Henrik Ibsen</author>
-            <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1896</title>
-            <edition>Henrik Ibsens skrifter 2010</edition>
+            <author>Henrik Ibsen</author>: <title type="main">John Gabriel Borkman</title>. <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1896</title>.
+            In: <edition>Henrik Ibsens skrifter, bind 10</edition>.
+            <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
+			      <date when="2010">2010</date>
           </bibl>
         </bibl>
       </sourceDesc>
