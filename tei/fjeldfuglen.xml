@@ -88,9 +88,6 @@
       </profileDesc>
    </teiHeader>
    <standOff>
-      <interp xml:id="firstLine">
-         <desc>Første linje i en strofe eller en metrisk gruppe</desc>
-      </interp>
       <listEvent>
          <event type="print" when="">
             <desc/>
