@@ -1,0 +1,645 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000028">
+   <teiHeader xml:lang="nob">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Henrik Ibsens skrifter</title>
+            <author>
+               <persName>
+                  <forename>Henrik</forename>
+                  <surname>Ibsen</surname>
+               </persName>
+               <idno type="wikidata">Q36661</idno>
+            </author>
+            <editor role="editor-in-chief">Vigdis Ystad</editor>
+            <editor role="managing-editor">Christian Janss</editor>
+            <editor role="text-editors">Hilde Bøe</editor>
+            <editor role="text-editors">Ståle Dingstad</editor>
+            <editor role="text-editors">Stine Brenna Taugbøl</editor>
+            <respStmt>
+               <resp>Modified encoding for DraCor by</resp>
+               <name xml:id="NME">Nina Marie Evensen</name>
+               <name xml:id="ER">Emil Røsås</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.5">Beta release</edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>University of Oslo, Center for Ibsen Studies</authority>
+            <publisher>DraCor</publisher>
+            <date when="2025">2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
+               <name>Henrik Ibsens skrifter, digital utgave (HISe)</name>
+               <idno type="URL">https://www.ibsen.uio.no/DRVIT_No%7CNoht.xhtml</idno>
+               <idno>Noht</idno>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+                     <ab>CC BY-NC 4.0</ab>
+                  </licence>
+               </availability>
+               <bibl type="originalSource">
+                  <author>Henrik Ibsen</author>
+                            :
+                            <title type="main">Norma</title>. <title type="sub">Historisk-kritisk utgave, elektronisk versjon</title>. In:
+                            <edition>Henrik Ibsens skrifter, bind 1</edition>. 
+                            <editor>Christian Janss, Hilde Bøe, Ståle Dingstad og Stine Brenna Taugbøl</editor>
+                  <pubPlace>Oslo</pubPlace>:
+                            <publisher>Aschehoug</publisher>
+                  <date when="2005">2005</date>
+                  <biblScope unit="page" from="341" to="362">341-362</biblScope>
+               </bibl>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="nob"/>
+            <language ident="dan-nob"/>
+            <language ident="lat"/>
+         </langUsage>
+         <particDesc>
+            <listPerson>
+               <person xml:id="NORMA" sex="FEMALE">
+                  <persName>Norma</persName>
+               </person>
+               <person xml:id="ADALGISA" sex="FEMALE">
+                  <persName>Adalgisa</persName>
+               </person>
+               <person xml:id="SEVERUS" sex="MALE">
+                  <persName>Severus</persName>
+               </person>
+               <person xml:id="ARIOVIST" sex="MALE">
+                  <persName>Ariovist</persName>
+               </person>
+               <personGrp xml:id="DRUIDER" sex="MALE">
+                  <name>Chor af Druider</name>
+               </personGrp>
+               <personGrp xml:id="DRUIDINDER">
+                  <name>Chor af Druidinder</name>
+               </personGrp>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <standOff>
+      <listEvent>
+         <event type="print" when="1994">
+            <desc/>
+         </event>
+         <event type="premiere" when="1851">
+            <desc/>
+         </event>
+         <event type="written" notBefore="1851" notAfter="1851">
+            <desc/>
+         </event>
+      </listEvent>
+      <listRelation>
+         <relation name="wikidata"
+                   active="https://dracor.org/entity/ibs000028"
+                   passive="http://www.wikidata.org/entity/Q3285327"/>
+      </listRelation>
+   </standOff>
+   <text type="drama" xml:lang="dan-nob">
+      <group>
+         <text xml:id="No1851-9" n="1">
+            <front>
+               <titlePage type="serial" n="1">
+                  <docTitle>
+                     <titlePart type="main">
+                        <cb n="137"/>NORMA</titlePart>
+                     <titlePart type="sub">ELLER EN POLITIKERS KJÆRLIGHED</titlePart>
+                     <titlePart type="desc">MUSIK-TRAGEDIE I TRE AKTER</titlePart>
+                  </docTitle>
+               </titlePage>
+               <div type="preface">
+                  <head>Fortale</head>
+                  <p>Forleden Dag befandt jeg mig paa Storthingsgalleriet; <cb n="138"/>den Sag, der diskutteredes, var af samme Natur som de fleste, og jeg kan derfor ikke længere erindre, hvorom den dreiede sig. Da <rs type="person" corresp="peJSchy">Schydtz</rs> tilfældigviis talede og jeg saaledes ikke havde Noget at fæste min Opmærksomhed til, lod jeg Phantasien frit Spillerum, og overgav mig til denne behagelige Svævenom halvt paa Virkelighedens, halvt paa Uvirkelighedens Gebet, hvortil vi i ledige Timer saa gjerne overlade os, naar Sjælen enten føler sig trættet eller den Yderverden, der omgiver os, fremkalder det tilbørlige søvndyssende Indtryk. Jeg tænkte som saa: I disse 106 Hoveder dels med, dels uden Parykker findes Kvintessentsen af al den Fortrinlighed, af al den aandelige Begavelse, som gamle <rs type="place" corresp="plN">Norge</rs> har at opvise ligefra <rs type="place" corresp="plNord">Nordkap</rs> til <rs type="place" corresp="plLin">Lindesnæs</rs>, ligefra <rs type="place" corresp="plSvi">Svinesund</rs> til <rs type="place" corresp="plSta">Stavanger</rs> (hvorfra <rs type="person" corresp="peTN">Natvig</rs> jo er valgt). Her findes Genialiteten, Veltalenheden, Patriotismen, Liberaliteten sammendynget i kompakte Masser. Og af alle disse fortrinlige Egenskaber have selv de sjeldneste Forekomstformer deres Repræsentanter, saaledes repræsenteres f. Ex. en vis Nuance af Genialiteten ved <rs type="person" corresp="peHTS">Skjerkholdt</rs>, en vis dito af Veltalenheden ved <rs type="person" corresp="peJCCP">Parneman</rs>, o. s. v., o. s. v. Den lyriske Begavelse finder naturligviis sit Udtryk gjennem Natvig, der saaledes paa en vis Maade danner Formidlingsledet mellem Poesien og Politiken.</p>
+                  <p>I denne Retning fortsatte jeg mine Betragtninger i nogle Timer, indtil Schydtz blev færdig og min uforstyrrede Tankeflugt saaledes afbrødes.</p>
+                  <p>Om Aftenen saa jeg «Norma», og pludselig gik der et Lys op for mig: «<rs type="org" corresp="orgStort">Storthinget</rs> er en dramatisk begavet Korporation!» Jeg vil ikke søge at gjøre hverken mig selv eller Læseren Rede for den Slutningsrække, der ledede mig til dette Resultat, thi hvo kjender vel ikke Tonernes Magt, hvo veed vel ikke, at det er Musiken givet med Alexandersværdet at overhugge Tanketraadens gordiske Knuder, med Lynfart at skyde os fremad paa den logiske Spiralvandring og stille os paa et Punkt, som vi mindst havde ventet? Men jo nøiere jeg betragtede Sagen, desto klarere og mere indlysende blev den mig. <rs type="person" corresp="peHHolm">Holmboe</rs> er den agtværdige Fader i Skuespillet, <rs type="person" corresp="peUAM">Motzfeldt</rs>, <rs type="person" corresp="peOVL">Lange</rs> og <rs type="person" corresp="peATH">Harris</rs> den gamle vrantne Onkel, som har tabt Følelsen for Livets Poesi, men som dog er god at have i Baghaanden, hvormeget hans prosaiske Verdensviisdom end optræder fiendtlig mod de unge Elskendes phantastiske Planer og Luftkasteller. Oppositionen overhovedet er Koketten, som enhver ung Fusentast gjerne courer <cb n="139"/>for men som han dog sædvanligviis til Slutning betænker sig paa at tage til Kone (især da hendes Medbeilerinde gjerne bringer ham en klækkeligere Medgift). <rs type="person" corresp="peABS">Stabell</rs> er naturligviis Intriguestykkets Helt, han er en af disse ægte dramatiske Charakterer, som <rs type="person" corresp="peJLHe">Heiberg</rs> omtaler, «som man mere maa gjætte sig til end anskue og som omsider ved Stykkets Slutning standse der, hvor man af Begyndelsen at dømme mindst skulde vente det.»</p>
+                  <p>Disse Betragtninger var det, som bevægede mig til at arrangere Operaen <rs type="work" corresp="woNo">«Norma eller en Politikers Kjærlighed,»</rs> hvis Text medfølger aftrykt, og som jeg herved tilbyder Thinget til Opførelse ved en eller anden festlig Leilighed. Musiken maa det selv sørge for, og da det jo eier Virtuoser paa alle mulige Instrumenter ligefra Trompet til Tromme og Basun, saa vil dette forhaabentlig ikke falde vanskeligt. Rigtignok veed jeg, at Thinget «indtil videre» har fuldt op at bestille, men det var jo dog ikke umuligt, at <rs type="person" corresp="peKongO1">hans Majestæt</rs> kunde befrygte farlige Følger af disse overvættes Anstrængelser, især i Hundedagene, og dersom altsaa Thinget en skjøn Dag skulde blive bevilget Ferie «indtil videre,» saa vilde det være godt, om det havde en nyttig og behagelig Tidsfordriv at divertere sig med.</p>
+               </div>
+               <castList>
+                  <head>Personerne</head>
+                  <castItem sameAs="NORMA">
+                     <role>NORMA</role> (udføres af) <actor>Oppositionen</actor>
+                  </castItem>
+                  <castItem sameAs="ADALGISA">
+                     <role>ADALGISA</role>, <roleDesc>hendes gode Veninde</roleDesc> – <actor>Regjeringspartiet</actor>
+                  </castItem>
+                  <castItem sameAs="SEVERUS">
+                     <role>SEVERUS</role>, <roleDesc>begge Damers Elsker</roleDesc> – <actor>en «Liberal» (eller i Mangel deraf: Hr. Stabell)</actor>
+                  </castItem>
+                  <castItem sameAs="ARIOVIST">
+                     <role>ARIOVIST</role>, <roleDesc>Normas Fader, en gammel Druide*)</roleDesc> – <actor>Hr. Ueland</actor>
+                  </castItem>
+                  <castItem>
+                     <role>NORMAS OG SEVERS TO SVINDSOTTIGE SØNNER</role> – <actor>Addressen af 1848</actor>.
+<actor>Do. af 1851</actor>
+                  </castItem>
+                  <castItem sameAs="DRUIDER">
+                     <role>CHOR AF DRUIDER</role> – <actor>Fornuftige Oppositionsmænd samt Skjerkholdt</actor>
+                  </castItem>
+                  <castItem sameAs="DRUIDINDER">
+                     <role>DO. AF DRUIDINDER</role> – <actor>de Stumme i Thinget</actor>
+                  </castItem>
+               </castList>
+               <note resp="narrator" place="bottom">*)(NB. Druiderne vare hedenske Hunde, der ligesom Uglerne og Flaggermusene helst dreve deres Spil i mørke Skove, hvor Oplysningen (fra Sol og Maane) vanskelig kunde trænge ind.)</note>
+            </front>
+            <body>
+               <div type="act" n="1">
+                  <head type="act">
+                     <cb n="140"/>FØRSTE AKT</head>
+                  <stage>En tyk Skov med tilbørligt Halvmørke, i Baggrunden «norske Klipper»; Blaaveis og Frihedskokarder blomstre i Granernes Ly. Midt paa Scenen en hellig Afgudssteen, hvori «Frihedsværket» er indfattet i Glas og Ramme.</stage>
+                  <div type="scene" n="1">
+                     <head>Første Scene</head>
+                     <stage>Ariovist, Druider og Druidinder komme med Trompeterne i Spidsen.</stage>
+                     <sp who="#ARIOVIST">
+                        <speaker>ARIOVIST</speaker>
+                        <lg type="stikisk-knittel" met="bi+ '8|'9" rhyme="r|R">
+                           <l met="∪-∪∪-∪∪-∪∪-" rhyme="a">Her staae vi paa Frihedens frieste Jord,</l>
+                           <l met="∪∪-∪∪-∪-∪∪-" rhyme="a">I det gamle, ja, i det ældgamle Nor!</l>
+                        </lg>
+                        <stage>(afsides)</stage>
+                        <p>Ja, for Norge er Død og Pine et ældgammelt Land.</p>
+                     </sp>
+                     <sp who="#DRUIDER #DRUIDINDER">
+                        <speaker>CHOR AF DRUIDER OG DRUIDINDER</speaker>
+                        <lg type="stikisk-knittel" met="bi+ '8|'9" rhyme="r|R" part="I">
+                           <l real="bi- ----" rhyme="b">Ja, ja, ja, ja!</l>
+                           <l real="bi- ----" rhyme="b">Ja, ja, ja, ja!<note type="met">Identisk rim.</note>
+                           </l>
+                        </lg>
+                     </sp>
+                     <sp>
+                        <speaker>ALLE</speaker>
+                        <lg part="M">
+                           <l met="-∪∪-∪∪-∪∪-" rhyme="a">Ja i det gamle, det ældgamle Nor!</l>
+                        </lg>
+                     </sp>
+                     <sp who="#ARIOVIST">
+                        <speaker>ARIOVIST</speaker>
+                        <lg part="M">
+                           <l met="∪-∪-∪-∪∪-∪" rhyme="C">Saa stærk som Egens kneisende Stamme</l>
+                           <l met="∪-∪-∪∪-∪-∪" rhyme="C">Staar «Frihedsværket» i Glas og Ramme! –</l>
+                           <l met="∪-∪∪-∪-∪∪-∪" rhyme="D">Det staar der saa fast i Stenen indfattet,</l>
+                           <l met="∪-∪∪-∪∪-∪-∪" rhyme="D">(Desværre det bliver ei tilfulde skattet) – – –</l>
+                        </lg>
+                     </sp>
+                     <sp who="#DRUIDER">
+                        <speaker>CHOR AF DRUIDER</speaker>
+                        <lg part="M">
+                           <l met="∪-∪∪-∪∪-∪-∪" rhyme="D">Desværre, det blier ei tilfulde skattet!</l>
+                           <l met="∪-∪∪-∪∪-∪∪-∪" rhyme="X">Desværre, desværre, desværre, desværre!!!</l>
+                        </lg>
+                     </sp>
+                     <sp who="#ARIOVIST">
+                        <speaker>ARIOVIST</speaker>
+                        <lg part="M">
+                           <l met="∪-∪-∪∪-∪-∪" rhyme="E">Men vi maae vaage, og vi maae bede,</l>
+                           <l met="∪-∪-∪∪-∪-∪" rhyme="E">Og om vor Helligdom maae vi frede;</l>
+                           <l met="∪-∪-∪∪-∪∪-" rhyme="f">For raa Barbarer vil rive den ned,</l>
+                           <l met="∪-∪∪-∪∪-∪-" rhyme="f">Vil flytte den hen paa et andet Sted,</l>
+                           <l met="∪-∪-∪∪-∪-" rhyme="g">Hvor Solen skinner den hele Dag,</l>
+                           <l met="∪-∪∪-∪-∪∪-∪" rhyme="H">(Og Maanen til visse Tider om Natten)</l>
+                           <l met="∪-∪-∪∪-∪-" rhyme="g">Og derfor er det en afgjort Sag</l>
+                           <l met="∪-∪-∪∪-∪-∪" rhyme="H">At vi maae værne om Frihedsskatten!</l>
+                           <l met="∪-∪∪-∪∪-∪-" rhyme="i">Ja, Noget maa gjøres, den Sag er klar!</l>
+                        </lg>
+                     </sp>
+                     <sp who="#DRUIDER">
+                        <speaker>DRUIDERNE</speaker>
+                        <lg part="M">
+                           <l met="∪-∪∪-∪∪-∪-" rhyme="i">Ja Noget maa gjøres, men hvad, o svar!</l>
+                        </lg>
+                     </sp>
+                     <sp who="#ARIOVIST">
+                        <speaker>ARIOVIST</speaker>
+                        <lg part="F">
+                           <l met="∪-∪-∪-∪-∪" rhyme="J">Ja, seer I, Børn! her just det gjælder,</l>
+                           <l met="∪-∪-∪∪-∪-" rhyme="k">At handle ret efter Alles Sind!</l>
+                           <l met="∪-∪∪-∪∪-∪-" rhyme="k">Jeg lagde den helst i et dirkfrit Skrin</l>
+                           <l met="∪∪-∪-∪∪-∪-∪" rhyme="J">Under Laas og Slaa i en sikker Kjælder,</l>
+                           <l met="∪-∪∪-∪∪-∪∪-" rhyme="l">
+                              <cb n="141"/>Saa kan man den finde, naar Verden forgaar,</l>
+                           <l met="∪-∪-∪∪-∪-" rhyme="l">Saa fersk og ny som den var igaar,<note type="met">Identisk rim.</note>
+                           </l>
+                           <l met="∪-∪-∪∪-∪-∪" rhyme="M">Thi Norges Fjelde, (det veed I alle),</l>
+                           <l met="∪-∪-∪-∪∪-∪" rhyme="M">Vil staae, naar hele Verden mon falde,</l>
+                           <l met="∪-∪∪-∪-∪∪-∪" rhyme="N">Men kom, lad os gaae en Smule til Siden,</l>
+                           <l met="∪-∪∪-∪∪-∪∪-∪" rhyme="N">At hvile os ud, samle Kræfter til Striden;</l>
+                           <stage>(afsides)</stage>
+                           <l met="bi++ ∪∪∪-∪∪∪-∪-∪∪-∪" rhyme="N">Det var desuden mit Princip alt fra jeg var liden,</l>
+                           <l met="bi++ ∪-∪∪∪-∪∪∪-∪∪-∪" rhyme="N">At holde mig en Hestelængde bagud for Tiden.*)</l>
+                        </lg>
+                     </sp>
+                     <stage>De gaae.</stage>
+                  </div>
+                  <div type="scene" n="2">
+                     <head>Anden Scene</head>
+                     <stage>Severus kommer ind i morgenbladsk deklamatorisk Bevægelse.</stage>
+                     <sp who="#SEVERUS">
+                        <speaker>SEVERUS</speaker>
+                        <lg type="stikisk-knittel" met="bi+ '8|'9" rhyme="r|R">
+                           <l met="∪-∪∪-∪-∪-" rhyme="x">O skyggende Skov, du i dit Skjød</l>
+                           <l met="-∪∪-∪∪-∪-∪" rhyme="X">Gjemmer vor Helligdom, Frihedsværket! –</l>
+                        </lg>
+                        <stage>(seer sig om)</stage>
+                        <p>For Fanden, de ere jo alt borte; saa kunde jeg have sparet det hele Vrøvl.</p>
+                        <lg type="stikisk-knittel" met="bi+ '8|'9" rhyme="r|R">
+                           <l met="-∪-∪-∪-∪" rhyme="A">Tys, forsigtig maa man være,</l>
+                           <l met="∪-∪-∪-∪-∪" rhyme="A">Det er min gamle gyldne Lære,</l>
+                           <l met="∪-∪-∪∪-∪∪-∪" rhyme="B">O, vee, hvis Norma mig her skulde finde,</l>
+                           <l met="∪-∪∪-∪∪-∪-∪" rhyme="B">Hvem veed hvad hun vel kunde faae i Sinde!</l>
+                           <l met="∪-∪-∪∪-∪-∪" rhyme="B">Hun er en høist erritabel Kvinde,</l>
+                           <l met="∪-∪-∪∪-∪-" rhyme="c">Og skjønt hun tit nok er vant til sligt,</l>
+                           <note resp="narrator" place="bottom">*)Man vil bemærke at de Vers, der fremsiges afsides, ere anderledes byggede, end de, der maa høres af Alle og Enhver; dette er ingenlunde nogen Skjødesløshed, men med Forsæt iagttaget, da vel underrettede Personer ville vide, at vore politiske Skuespillere endog til Dagligbrug betjene sig af et særegent Versemaal, naar de tale afsides.</note>
+                           <l met="∪-∪∪-∪∪-∪-" rhyme="c">Hun holder dog strængt paa Moral og Pligt,</l>
+                           <l met="∪-∪-∪∪-∪-" rhyme="d">Og derfor maa jeg, som nylig sagt,</l>
+                           <l met="∪-∪∪-∪-∪∪-" rhyme="d">
+                              <foreign xml:lang="lat">Politico modo</foreign> ta’e mig i Agt,</l>
+                           <l met="-∪∪-∪∪-∪-∪" rhyme="E">Ofre tilbørligt paa hendes Alter,</l>
+                           <l met="-∪∪-∪∪-∪-∪" rhyme="E">Røge med Virak i Bladets Spalter.</l>
+                           <l met="∪-∪∪-∪∪-∪-" rhyme="f">Men hvem kommer der i den dunkle Skov?</l>
+                           <l met="∪∪-∪-∪∪-∪-∪" rhyme="G">Adalgisa er det, mit Hjerte banker,</l>
+                           <l met="∪-∪∪-∪∪-∪-∪" rhyme="G">Knapt raader jeg meer over mine Tanker,</l>
+                           <l met="∪-∪∪-∪-∪∪-" rhyme="f">For lønlige Længsler er jeg et Rov!</l>
+                        </lg>
+                     </sp>
+                  </div>
+                  <div type="scene" n="3">
+                     <head>Tredie Scene</head>
+                     <stage>Severus, Adalgisa.</stage>
+                     <sp who="#ADALGISA">
+                        <speaker>ADALGISA</speaker>
+                        <stage>Recitativ</stage>
+                        <lg type="stikisk-knittel" met="bi+ '8|'9" rhyme="r|R" part="I">
+                           <l met="-∪∪-∪-∪∪-∪" rhyme="x">Eftersom du, S. T. o Severus!</l>
+                           <l met="∪-∪∪-∪∪-∪-" rhyme="x">Har her mig i Lunden et Stævne sat,</l>
+                           <l met="∪-∪∪-∪-∪∪-∪" rhyme="X">
+                              <cb n="142"/>Saa skulde jeg herved ikke undlade</l>
+                           <l met="-∪∪-∪∪-∪∪-" rhyme="x">Tjenstligst at melde min Ankomst for dig!</l>
+                        </lg>
+                     </sp>
+                     <sp who="#SEVERUS">
+                        <speaker>SEVERUS</speaker>
+                        <lg type="stikisk-knittel" met="bi+ '8|'9" rhyme="r|R">
+                           <l met="∪-∪-∪∪-∪∪-" rhyme="a">O, søde Stemme, o tryllende Ord! –</l>
+                           <l met="∪-∪∪-∪-∪-" rhyme="a">Saa hør da hvad i mit Hjerte boer!</l>
+                        </lg>
+                        <stage>(vil knæle, men betænker sig)</stage>
+                        <p>Dog nei, unter uns gesagt, veed du virkelig ikke, hvad jeg har paa Hjerte?</p>
+                     </sp>
+                     <sp who="#ADALGISA">
+                        <speaker>ADALGISA</speaker>
+                        <lg type="stikisk-knittel" met="bi+ '8|'9" rhyme="r|R" part="I">
+                           <l met="-∪-∪∪-∪∪-" rhyme="b">Som en ærbar og sædelig Mø</l>
+                           <l met="-∪∪-∪-∪∪-∪" rhyme="C">Holder jeg strængt paa Form og Dekorum.</l>
+                           <l met="-∪∪-∪∪-∪-∪" rhyme="C">Hjertet er ikke det rette Forum</l>
+                           <l part="I" met="∪-">Hos mig – –</l>
+                        </lg>
+                     </sp>
+                     <sp who="#SEVERUS">
+                        <speaker>SEVERUS</speaker>
+                        <lg part="M">
+                           <l part="F" met="∪-∪-∪-" rhyme="b">O vee mig, da maa jeg dø!</l>
+                           <l met="-∪∪-∪-∪-" rhyme="d">Laer du ei Naade gaae for Ret,</l>
+                           <l met="∪-∪∪-∪∪-∪-" rhyme="d">Da staar jeg der sandelig nok saa net,</l>
+                           <l met="∪-∪∪-∪-∪∪-∪" rhyme="E">Jeg veed jo, at mine Synder er mange,</l>
+                           <l met="∪-∪-∪∪-∪-∪" rhyme="E">(Thi Bladets Spalter er saare lange);</l>
+                           <l met="∪-∪-∪∪-∪∪-" rhyme="f">Men den, som staar paa Omvendelsens Vei,</l>
+                           <l met="∪-∪-∪∪-∪-" rhyme="f">Ham veed jeg vist du forstøder ei!</l>
+                        </lg>
+                     </sp>
+                     <sp who="#ADALGISA">
+                        <speaker>ADALGISA</speaker>
+                        <lg part="M">
+                           <l met="∪∪-∪-∪∪-∪∪-" rhyme="g">Og hvor kan jeg vel paa din Ærlighed tro,</l>
+                           <l met="∪-∪∪-∪∪-∪∪-" rhyme="g">Naar saadan paa engang du courer for To!</l>
+                        </lg>
+                     </sp>
+                     <sp who="#SEVERUS">
+                        <speaker>SEVERUS</speaker>
+                        <lg part="M">
+                           <l met="∪-∪∪-∪∪-∪∪-" rhyme="h">Ha, Norma du mener, o tro ikke sligt!</l>
+                        </lg>
+                     </sp>
+                     <sp who="#ADALGISA">
+                        <speaker>ADALGISA</speaker>
+                        <lg part="M">
+                           <l met="∪-∪∪-∪∪-∪-∪" rhyme="I">Hun har jo dog været din Ungdoms Flamme.</l>
+                        </lg>
+                     </sp>
+                     <sp who="#SEVERUS">
+                        <speaker>SEVERUS</speaker>
+                        <lg part="M">
+                           <l met="∪-∪∪-∪∪-∪∪-∪" rhyme="I">Det var hun, det maa jeg bekjende med Skamme,</l>
+                           <l met="∪-∪∪-∪∪-∪-" rhyme="h">Nu er det forbi, det var kun et Digt,</l>
+                           <l met="∪-∪∪-∪∪-∪-" rhyme="j">Det var kun en flygtig, poetisk Drøm,</l>
+                           <l met="∪-∪∪-∪∪-∪-" rhyme="j">En bristende Boble paa Livets Strøm.</l>
+                           <l met="∪∪-∪-∪-∪∪-∪" rhyme="K">Ja, jeg vil dig min Forvildelse male, –</l>
+                           <l met="-∪∪-∪-∪∪-∪" rhyme="K">Reent ud af Skjægget maa her jeg tale:</l>
+                           <l met="∪-∪∪-∪∪-∪-∪" rhyme="K">Jeg hørte engang til de Radikale,</l>
+                           <l met="∪-∪∪-∪∪-∪-∪" rhyme="K">(Som gaae under Navn af de Liberale),</l>
+                           <l met="∪-∪-∪∪-∪-∪" rhyme="K">Som tale haanligt om gyldne Sale,</l>
+                           <l met="∪-∪-∪-∪∪-∪" rhyme="K">Som skrue sig op med «Klipper» og «Dale,»</l>
+                           <l met="∪-∪-∪∪-∪-∪" rhyme="K">Som fast germanisk forstaae at prale</l>
+                           <l met="∪-∪∪-∪∪-∪-∪" rhyme="K">Med Norden, som vaagnede af sin Dvale,</l>
+                           <l met="∪-∪∪-∪-∪-∪" rhyme="K">Og jubler omkap med Vaarens Svale</l>
+                           <l met="∪-∪-∪-∪∪-∪" rhyme="K">Paa Frihedsdagen, – kort, til de Gale!</l>
+                           <l met="∪-∪∪-∪-∪∪-∪" rhyme="L">
+                              <cb n="143"/>Men nu er jeg kjed af længer at ride</l>
+                           <l met="∪-∪-∪∪-∪-∪" rhyme="L">Min gamle Kjæphest; for det Solide</l>
+                           <l met="∪-∪-∪∪-∪-" rhyme="m">Jeg sværmer grundig; – – du mig forstaar!</l>
+                        </lg>
+                     </sp>
+                     <sp who="#ADALGISA">
+                        <speaker>ADALGISA</speaker>
+                        <stage>overvældet</stage>
+                        <lg part="F">
+                           <l met="-∪∪-∪-∪∪-" rhyme="m">Kom til mit Bryst, du gjenfundne Faar!</l>
+                        </lg>
+                     </sp>
+                     <stage>Rørende Omfavnelse; Tæppet gaar for Velanstændighedens Skyld ned.</stage>
+                  </div>
+               </div>
+            </body>
+            <back>
+               <div type="ref">
+                  <p>(Forts.)</p>
+               </div>
+            </back>
+         </text>
+         <text xml:id="No1851-10" n="2">
+            <front>
+               <titlePage type="serial" n="2">
+                  <docTitle>
+                     <titlePart type="main">
+                        <cb n="156"/>NORMA</titlePart>
+                     <titlePart type="sub">ELLER EN POLITIKERS KJÆRLIGHED</titlePart>
+                     <titlePart type="desc">MUSIK-TRAGEDIE I TRE AKTER</titlePart>
+                  </docTitle>
+                  <docImprint>(Slutning fra forrige Nummer)</docImprint>
+               </titlePage>
+            </front>
+            <body>
+               <div type="act" n="2">
+                  <head type="act">ANDEN AKT</head>
+                  <stage>Et Lønkammer, hvor man kan snakke sammen i al Gemytlighed.</stage>
+                  <div type="scene" n="1">
+                     <head>Første Scene</head>
+                     <stage>Norma kommer med sine to Børn.</stage>
+                     <sp who="#NORMA">
+                        <speaker>NORMA</speaker>
+                        <lg type="stikisk-knittel" met="bi+ '8|'9" rhyme="r|R" part="I">
+                           <l met="∪-∪∪-∪∪-∪-" rhyme="a">De skjælve, de vakle, de arme Smaa,</l>
+                           <l met="∪-∪-∪∪-∪-" rhyme="a">Paa egne Been kan de neppe staae;</l>
+                           <l met="∪-∪∪-∪∪-∪-∪" rhyme="B">Det er dog en sørgelig Ting at være</l>
+                           <l met="-∪-∪∪-∪-∪" rhyme="B">Moder med en saa liden Ære.</l>
+                           <l met="∪-∪∪-∪-∪∪-" rhyme="c">
+                              <cb n="157"/>De haste jo alt fra Fødselen af</l>
+                           <l met="∪-∪-∪-∪∪-" rhyme="c">Med Syvmiilsstøvler mod deres Grav;</l>
+                           <l met="∪-∪∪-∪∪-∪-" rhyme="d">Severus er Skyld i den hele Sag,</l>
+                           <l met="∪-∪∪-∪-∪∪-" rhyme="d">(Han kunde jo have faret i Mag),</l>
+                           <l met="-∪∪-∪∪-∪∪-∪" rhyme="E">Sikkerlig havde jeg da været Moder</l>
+                           <l met="∪-∪-∪∪-∪-∪" rhyme="E">Til tvende sunde og stærke Poder.</l>
+                        </lg>
+                     </sp>
+                  </div>
+                  <div type="scene" n="2">
+                     <head>Anden Scene</head>
+                     <stage>De Forrige, Adalgisa.</stage>
+                     <sp who="#ADALGISA">
+                        <speaker>ADALGISA</speaker>
+                        <stage>afsides</stage>
+                        <lg type="stikisk-knittel" met="bi+ '8|'9" rhyme="r|R" part="I">
+                           <l met="∪-∪∪-∪∪-∪-∪" rhyme="A">Der er hun; nu kan jeg tilgavns dog plage</l>
+                           <l met="∪-∪-∪∪-∪∪-∪" rhyme="A">Den arme Taabe; hvor vil hun ei klage,</l>
+                           <l met="∪-∪∪-∪∪-∪∪-" rhyme="b">Gebærde sig, tænker jeg, næsten som gal,</l>
+                           <l met="∪-∪-∪∪-∪∪-" rhyme="b">Naar op jeg træder som hendes Rival?</l>
+                           <stage>(høit)</stage>
+                           <l met="-∪∪-∪-∪∪-∪" rhyme="C">Ei er det dig, min bedste Veninde!</l>
+                           <l met="∪-∪∪-∪-∪∪-∪" rhyme="C">Hvor herligt, at her jeg skulde dig finde,</l>
+                           <l met="∪-∪-∪-∪∪-" rhyme="d">Og dine Smaa, de leve endnu!</l>
+                        </lg>
+                     </sp>
+                     <sp who="#NORMA">
+                        <speaker>NORMA</speaker>
+                        <lg part="M">
+                           <l met="∪-∪∪-∪∪-∪∪-" rhyme="d">De leve; ja vist, men det Liv er en Gru!</l>
+                        </lg>
+                     </sp>
+                     <sp who="#ADALGISA">
+                        <speaker>ADALGISA</speaker>
+                        <lg part="M">
+                           <l met="∪-∪-∪-∪∪-∪" rhyme="E">Ja det er høist beklageligt, Kjære,</l>
+                           <l met="∪∪-∪-∪-∪∪-∪" rhyme="E">Men hvor kan det anderledes vel være,</l>
+                           <l met="∪-∪-∪∪-∪-" rhyme="f">Severus spiller et fiffigt Spil,</l>
+                           <l met="∪-∪-∪∪-∪-" rhyme="f">Han er dig utro, om saa du vil,</l>
+                           <l met="∪-∪-∪∪-∪∪-" rhyme="g">Og kun hvor Troskab og Kjærlighed boer,</l>
+                           <l met="∪-∪-∪∪-∪-" rhyme="g">Der voxer Afkommen stærk og stor.</l>
+                        </lg>
+                     </sp>
+                     <sp who="#NORMA">
+                        <speaker>NORMA</speaker>
+                        <lg part="F">
+                           <l met="∪-∪∪-∪-∪∪-" rhyme="h">Hvad, utro? O nei kom ikke med Sligt,</l>
+                           <l met="∪-∪-∪∪-∪-" rhyme="h">Det er kun Opspind, det er kun Digt;</l>
+                           <l met="∪-∪-∪∪-∪-" rhyme="h">Han veed jo dog hvad der er hans Pligt –</l>
+                           <l met="∪-∪-∪∪-∪-" rhyme="i">Det har han ofte i Bladet sagt.</l>
+                           <stage>(betænker sig)</stage>
+                           <l met="∪-∪-∪∪-∪∪-" rhyme="i">Men Et har dog min Mistænksomhed vakt.</l>
+                           <l met="∪-∪∪-∪-∪∪-∪" rhyme="J">Han sniger sig om i Lunden herinde.</l>
+                           <l met="∪-∪∪-∪∪-∪-∪" rhyme="J">Hvem veed hvad han egentlig har i Sinde. –</l>
+                        </lg>
+                     </sp>
+                  </div>
+                  <div type="scene" n="3">
+                     <head>Tredie Scene</head>
+                     <stage>De Forrige. Severus (kommer uden at bemærke Norma).</stage>
+                     <sp who="#SEVERUS">
+                        <speaker>SEVERUS</speaker>
+                        <stage>omfavner Adalgisa</stage>
+                        <lg type="stikisk-knittel" met="bi+ '8|'9" rhyme="r|R">
+                           <l met="-∪∪-∪-∪-∪" rhyme="A">Elskede! du paa disse Steder!</l>
+                        </lg>
+                     </sp>
+                     <sp who="#NORMA">
+                        <speaker>NORMA</speaker>
+                        <lg type="stikisk-knittel-kortvers" met="bi+ '5" rhyme="R">
+                           <l met="∪-∪∪-∪" rhyme="A">Forræder, Forræder!</l>
+                        </lg>
+                     </sp>
+                     <sp who="#SEVERUS">
+                        <speaker>SEVERUS</speaker>
+                        <stage>forbløffet</stage>
+                        <lg type="stikisk-knittel" met="bi+ '8|'9" rhyme="r|R">
+                           <l met="∪-∪-∪∪-∪∪-" rhyme="x">Ih, Gud bevare’s, Madam! er De her!</l>
+                        </lg>
+                     </sp>
+                     <sp who="#NORMA">
+                        <speaker>NORMA</speaker>
+                        <lg type="stikisk-knittel-kortvers" met="bi+ '5" rhyme="R">
+                           <l met="∪-∪∪-∪" rhyme="A">Forræder! Forræder!</l>
+                        </lg>
+                     </sp>
+                     <sp who="#SEVERUS">
+                        <speaker>SEVERUS</speaker>
+                        <lg type="stikisk-knittel" met="bi+ '8|'9" rhyme="r|R">
+                           <l met="∪-∪-∪∪-∪∪-∪" rhyme="A">Tys, vær dog stille, jeg beder, jeg beder!</l>
+                        </lg>
+                     </sp>
+                     <sp who="#NORMA">
+                        <speaker>
+                           <cb n="158"/>NORMA</speaker>
+                        <lg type="stikisk-knittel-kortvers" met="bi+ '5" rhyme="R">
+                           <l part="Y" met="∪">For – –</l>
+                        </lg>
+                     </sp>
+                     <sp who="#SEVERUS">
+                        <speaker>SEVERUS</speaker>
+                        <stage>hidsig</stage>
+                        <p>Nei, vil du nu bare holde Mund, det gaar saagu ikke an for dannede Mænd at lytte til ufornuftige Kvinders Skrig over Ting, som de ikke forstaae.</p>
+                        <stage>(hvisker ud til en Maskinkarl)</stage>
+                        <p>Aa, lad Tæppet gaae ned, dette er jo en skandaløs Scene.</p>
+                     </sp>
+                     <stage>Tæppet siger: «Det har De saagu Ret i», hvorpaa det gaar hurtigt ned.</stage>
+                  </div>
+               </div>
+               <div type="act" n="3">
+                  <head type="act">TREDIE AKT</head>
+                  <stage>Samme Skov som i første Akt.</stage>
+                  <div type="scene" n="1">
+                     <head>Første Scene</head>
+                     <stage>Det er allerede langt paa Dagen, men de fleste af Druiderne, der, som bekjendt, altid holde sig et Stykke bagud for Tiden, ligge endnu under Træerne i dyb Søvn; Nogle ere dog vaagnede, da Allarmtrommer og vilde Hyl høres bag Scenen ligesom i «Huldrens Hjem».</stage>
+                     <sp who="#DRUIDER">
+                        <speaker>EN VAAGEN DRUIDE</speaker>
+                        <lg type="stikisk-knittel" met="bi+ '8|'9" rhyme="r|R" part="I">
+                           <l met="∪-∪∪-∪-∪∪-" rhyme="a">Hvad er det for Larm, hvad er det for Skrig.</l>
+                        </lg>
+                     </sp>
+                     <sp who="#DRUIDER">
+                        <speaker>EN ANDEN</speaker>
+                        <lg part="M">
+                           <l met="∪∪-∪∪-∪∪-∪-" rhyme="a">Det er sikkert Signal til en blodig Krig,</l>
+                           <l met="∪-∪-∪∪-∪∪-" rhyme="b">Hør kun det vilde forbitrede Skraal,</l>
+                           <l met="∪-∪∪-∪∪-∪-" rhyme="b">Du veed jo, at Norma vil gjøre Kaal</l>
+                           <l met="∪∪-∪∪-∪∪-∪-" rhyme="c">Paa Severus, – det hørte jeg selv hun svor.</l>
+                        </lg>
+                     </sp>
+                     <sp who="#DRUIDER">
+                        <speaker>FØRSTE</speaker>
+                        <lg part="F">
+                           <l met="∪-∪-∪∪-∪∪-" rhyme="c">Nu ja, den Skade er ikke saa stor,</l>
+                           <l met="∪-∪∪-∪∪-∪∪-∪" rhyme="D">Han er jo i Grunden ei nogen af Vore,</l>
+                           <l met="∪-∪∪-∪∪-∪-∪" rhyme="D">Jeg troer knapt jeg offrede ham en Taare,</l>
+                           <l met="-∪∪-∪-∪∪-∪" rhyme="D">Selv om han livløs laa paa sin Baare!</l>
+                        </lg>
+                     </sp>
+                  </div>
+                  <div type="scene" n="2">
+                     <head>Anden Scene</head>
+                     <stage>De Forrige. Norma (kommer ind i Berserkergang, som om Nogen havde foreslaaet at forbedre Grundloven).</stage>
+                     <sp who="#NORMA">
+                        <speaker>NORMA</speaker>
+                        <lg type="stikisk-knittel" met="bi+ '8|'9" rhyme="r|R">
+                           <l met="-∪∪-∪∪-∪-" rhyme="a">Vaagn dog, Druider! o kom, o kom!</l>
+                           <l met="-∪∪-∪-∪∪-" rhyme="a">Alle som Een, – her holder jeg Dom.</l>
+                        </lg>
+                     </sp>
+                     <stage>Druiderne fare op i stor Forskrækkelse.</stage>
+                     <sp who="#DRUIDER">
+                        <speaker>EN SØVNDRUKKEN DRUIDE</speaker>
+                        <stage>forbitret</stage>
+                        <p>Gaa ad Regjeringen til! Hvad er det for Spektakel!</p>
+                     </sp>
+                     <sp who="#DRUIDER">
+                        <speaker>EN ANDEN</speaker>
+                        <stage>forskrækket</stage>
+                        <p>Har Høvdingen opløst de Vises Raad?</p>
+                     </sp>
+                     <sp who="#DRUIDER">
+                        <speaker>EN TREDIE</speaker>
+                        <stage>klagende</stage>
+                        <p>Mine tre Dalere om Dagen! Farvel, Farvel, du skjønne Tid!</p>
+                     </sp>
+                     <sp who="#NORMA">
+                        <speaker>NORMA</speaker>
+                        <lg type="stikisk-knittel" met="bi+ '8|'9" rhyme="r|R">
+                           <l met="-∪-∪∪-∪-∪" rhyme="B">Kom dog til Eder selv, jeg beder!</l>
+                           <l met="∪-∪∪-∪∪-∪∪-∪" rhyme="B">Det gjælder Severus, den frække Forræder!</l>
+                        </lg>
+                     </sp>
+                  </div>
+                  <div type="scene" n="3">
+                     <head>Tredie Scene</head>
+                     <stage>Severus føres frem, indviklet i sin egen Snare.</stage>
+                     <sp who="#NORMA">
+                        <speaker>NORMA</speaker>
+                        <lg type="stikisk-knittel" met="bi+ '8|'9" rhyme="r|R" part="I">
+                           <l met="∪-∪∪-∪-∪-∪" rhyme="A">Der er han, nu skal vor Standret sættes,</l>
+                           <l part="I" met="∪-∪∪-∪">Bekjend dine Synder –</l>
+                        </lg>
+                     </sp>
+                     <sp who="#SEVERUS">
+                        <speaker>
+                           <cb n="159"/>SEVERUS</speaker>
+                        <stage>afsides</stage>
+                        <lg part="F">
+                           <l part="F" met="-∪∪-∪" rhyme="A">Ah, hvor jeg lettes –</l>
+                           <l met="-∪∪-∪-∪-∪" rhyme="B">Listen er noget drøi i Længden,</l>
+                           <l met="∪-∪∪-∪-∪∪-∪" rhyme="A">Saa vinder jeg Tid, maaskee kan jeg reddes.<note type="met">Urent rim.</note>
+                           </l>
+                           <stage>(høit)</stage>
+                           <l met="∪-∪∪-∪∪-∪-∪" rhyme="B">Nu vel, jeg bekjender da først, at Mængden</l>
+                           <l met="∪-∪∪-∪∪-∪∪-" rhyme="c">Var engang den Guldkalv jeg ofrede til,</l>
+                           <l met="∪-∪∪-∪∪-∪-" rhyme="c">Det var kun et fiffigt beregnet Spil.</l>
+                        </lg>
+                     </sp>
+                     <sp who="#NORMA">
+                        <speaker>NORMA</speaker>
+                        <p>Ha, da skal du døe –</p>
+                        <stage>(hæver Dolken med oppositionelt Raseri, men støder naturligviis ikke til. Adalgisa kommer i det Samme i en Engels Skikkelse og forvandler ham til en Halvgud, eller, som man nutildags udtrykker sig, til en Minister)</stage>
+                     </sp>
+                     <sp who="#DRUIDER">
+                        <speaker>DRUIDERNE</speaker>
+                        <stage>forbløffede</stage>
+                        <lg type="stikisk-knittel" met="bi+ '8|'9" rhyme="r|R" part="I">
+                           <l met="∪-∪-∪∪-∪∪-∪" rhyme="X">Hva – hvad behager ærbødigste Tjener! –</l>
+                        </lg>
+                        <stage>(bukke dybt)</stage>
+                     </sp>
+                     <sp who="#SEVERUS">
+                        <speaker>
+                           <cb n="160"/>SEVERUS</speaker>
+                        <stage>med imponerende Holdning</stage>
+                        <lg part="F">
+                           <l met="∪-∪-∪∪-∪-∪" rhyme="D">Da af vor vise Lykurg det sagt er:</l>
+                           <l met="∪-∪∪-∪∪-∪-" rhyme="e">«Der hersker den skjønneste Enighed</l>
+                           <l met="∪-∪-∪∪-∪∪-∪" rhyme="D">Imellem Statens forskjellige Magter,»<note type="met">Urent rim.</note>
+                           </l>
+                           <l met="∪-∪∪-∪∪-∪-" rhyme="e">Saa haaber jeg, jeg kan gaae bort i Fred!</l>
+                        </lg>
+                     </sp>
+                     <sp who="#NORMA">
+                        <speaker>NORMA</speaker>
+                        <stage>forekommende</stage>
+                        <p>Ih, ja Gud bevare’s, hvor kan Deres Velbaarenhed troe andet – –</p>
+                     </sp>
+                     <stage>Severus gaar.</stage>
+                     <stage>Tæppet falder.</stage>
+                     <sp who="#ARIOVIST">
+                        <speaker>ARIOVIST</speaker>
+                        <stage>bliver staaende i en grublende Stilling</stage>
+                        <stage>(afsides)</stage>
+                        <p>Det var da Fanden til Historie; hvem veed om ikke ogsaa jeg – – – nu ja, kommer Tid, kommer Raad! – – –</p>
+                     </sp>
+                     <stage>Ende.</stage>
+                  </div>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
