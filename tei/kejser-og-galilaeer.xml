@@ -41,8 +41,7 @@
                <bibl type="originalSource">
                   <author>Henrik Ibsen</author> : <title type="main">Kejser og Galilæer</title>.
                      <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1873</title>. In:
-                     <edition>Henrik Ibsens skrifter, bind 6</edition>. <editor>Christian Janss,
-                     Hilde Bøe og Ellen Nessheim Wiger</editor>
+                     <edition>Henrik Ibsens skrifter, bind 6</edition>. 
                   <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
                   <date when="2008">2008</date>
                   <biblScope unit="page" from="255" to="744">255-744</biblScope>
@@ -241,7 +240,7 @@
                   <persName>Ammian</persName>
                </person>
                <person xml:id="MAKRINA" sex="FEMALE">
-                  <persName>HANS SØSTER MAKRINA</persName>
+                  <persName>Makrina</persName>
                </person>
                <person xml:id="PERSEREN" sex="MALE">
                   <persName>En persisk overløber</persName>
