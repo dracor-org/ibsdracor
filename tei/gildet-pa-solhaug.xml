@@ -39,13 +39,10 @@
                   </licence>
                </availability>
                <bibl type="originalSource">
-                  <author>Henrik Ibsen</author>
-                            :
-                            <title type="main">Gildet på Solhaug</title>. <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1883</title>. In:
-                            <edition>Henrik Ibsens skrifter, bind 2</edition>. 
-                            <editor>Christian Janss, Hilde Bøe og Stine Brenna Taugbøl</editor>
-                  <pubPlace>Oslo</pubPlace>:
-                            <publisher>Aschehoug</publisher>
+                  <author>Henrik Ibsen</author> : <title type="main">Gildet på Solhaug</title>.
+                     <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1883</title>. In:
+                     <edition>Henrik Ibsens skrifter, bind 2</edition>. 
+                  <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
                   <date when="2006">2006</date>
                   <biblScope unit="page" from="93" to="188">93-188</biblScope>
                </bibl>
@@ -92,7 +89,7 @@
          <event type="print" when="1883">
             <desc/>
          </event>
-         <event type="premiere" when="">
+         <event type="premiere" when="1856">
             <desc/>
          </event>
          <event type="written" notBefore="1883" notAfter="1883">
@@ -100,9 +97,8 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata"
-                   active="https://dracor.org/entity/ibs000010"
-                   passive="http://www.wikidata.org/entity/Q1774368"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000010"
+            passive="http://www.wikidata.org/entity/Q1774368"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="dan-nob">
@@ -113,8 +109,7 @@
                   <pb n="105"/>GILDET PÅ SOLHAUG</titlePart>
                <titlePart type="desc">SKUESPIL I TRE AKTER</titlePart>
             </docTitle>
-            <byline>AF
-<docAuthor>HENRIK IBSEN</docAuthor>
+            <byline>AF <docAuthor>HENRIK IBSEN</docAuthor>
             </byline>
             <docEdition>ANDEN UDGAVE MED EN FORTALE AF FORFATTEREN</docEdition>
             <docImprint>
@@ -126,58 +121,6 @@
                <date>1883<pb n="106"/>
                </date>
             </docImprint>
-         </titlePage>
-         <div type="preface">
-            <head>
-               <pb n="107"/>Fortale til anden udgave</head>
-            <p>«<rs type="work" corresp="woG2">Gildet på Solhaug</rs>» skrev jeg i <rs type="place" corresp="plBerg">Bergen</rs> i sommeren 1855, altså for omtrent 28 år siden.</p>
-            <p>Stykket opførtes samme steds for første gang den 2. Januar 1856 som festforestilling til erindring om <rs type="org" corresp="orgNTB">den norske scenes</rs> stiftelsesdag.</p>
-            <p>Jeg var dengang ansat som instruktør ved det bergenske teater og ledede altså selv indstuderingen af mit stykke. Det fik en fortrinlig, en sjelden stemningsfuld udførelse. Med lyst og hengivelse blev det givet, og således blev det også modtaget. «Den bergenske lyrik», der efter sigende skal have afgjort de seneste politiske valg deroppe, svulmede på hin teateraften højt i det fuldt besatte hus. Forestillingen endte med talrige fremkaldelser af forfatteren og af de spillende. Senere på aftenen gav orkestret, ledsaget af en stor del af publikum, mig en serenade udenfor mine vinduer. Jeg tror næsten, jeg lod mig henrive til at holde et slags tale til de forsamlede; jeg ved i al fald, at jeg følte mig såre lykkelig.</p>
-            <p>Et par måneder senere opførtes «Gildet på Solhaug» i <rs type="place" corresp="plKri">Kristiania</rs>. Også dersteds blev det af almenheden modtaget med meget bifald, og dagen efter den første opførelse skrev <rs type="person" corresp="peBB">Bjørnson</rs> i «<rs type="org" corresp="orgMorg">Morgenbladet</rs>» en varm, elskværdig, ungdommelig opsats derom. Egentlig var det ikke nogen anmeldelse eller kritik; det var snarere en stemningsrig fri fantasi, digterisk improviseret over stykket og over forestillingen.</p>
-            <p>
-               <pb n="108"/>Men så kom den rigtige kritik, forfattet af de rigtige kritikere.</p>
-            <p>Hvorledes blev man i hin tid, – jeg mener i årene fra 1850 til omkring 1860, – en rigtig literatur-kritiker, og navnlig dramatisk kritiker i Kristiania?</p>
-            <p>Jo, det gik i regelen således til: Efter nogen tids forberedende øvelser i «<rs type="org" corresp="orgSamf">Samfundsbladet</rs>» og efter oftere at have påhørt de diskussioner, som om aftenerne efter teatertid førtes på Treschows kafé eller «hos Ingebret», begav den vordende kritiker sig hen i <rs type="person" corresp="peJAAFD">Johan Dahls</rs> boglade og lod sig forskrive fra <rs type="place" corresp="plKbh">København</rs> et exemplar af <rs type="person" corresp="peJLHe">J. L. Heibergs</rs> «Prosaiske Skrifter», om hvilke han havde hørt sige, at de skulde indeholde en afhandling betitlet «Om Vaudevillen». Denne afhandling blev da læst, grublet over og kanske tildels også forstået. Gennem disse skrifter blev man endvidere bekendt med en polemik, som Heiberg i sin tid havde ført imod professor <rs type="person" corresp="peAGOe">Øhlenschlæger</rs> og imod digteren <rs type="person" corresp="peCHau">Hauch</rs> i <rs type="place" corresp="plSoroe">Sorø</rs>. Lejlighedsvis erfarede man deraf også, at <rs type="person" corresp="peJIB">J. I. Baggesen</rs> (forfatter af «Gjengangerbrevene») allerede tidligere havde åbnet et lignende felttog imod den store digter, som havde skrevet både «Axel og Valborg» og «Hakon Jarl».</p>
-            <p>Megen anden for en kritiker nyttig viden lod sig også uddrage af disse skrifter. Af dem lærte man f. ex., at en ret kritiker var på smagens vegne forpligtet til at føle sig forarget over hiater. Blev i et eller andet vers et sådant uhyre påtruffet, kunde man være sikker på, at de unge kristianiensiske kritiserende Jeronimusser, ligervis som <rs type="person" corresp="peLuH">Holbergs</rs> egen, udråbte deres: Hillemænd, verden står ikke til påske!</p>
-            <p>Og så havde den datidige norske hovedstads-kritik en særegen ejendommelighed, hvis udspring jeg længe ikke kunde blive klog på. Vore kritikere plejede nemlig, hver gang en begyndende forfatter udgav en bog eller fik et lidet teaterstykke opført, at geråde i en ustyrlig vrede og at gebærde sig som om der gennem bogens udgivelse eller stykkets opførelse var tilføjet dem selv og de aviser, de skrev i, en blodig fornærmelse. Som sagt, jeg grublede længe over denne besynderlighed. Endelig fik jeg rede i sagen. Ved nemlig at <pb n="109"/>læse det danske «<rs type="org" corresp="orgMfLit">Månedskrift for Literatur</rs>» blev jeg opmærksom på, at gamle etatsråd <rs type="person" corresp="peChMo">Molbech</rs> i sin tid havde plejet at betages af en svær vrede, når en ung digter udgav en bog eller fik et skuespil opført i København.</p>
-            <p>Således, eller omtrent således, var den domstol beskaffen, der nu i dagspressen tog sig for at stille «Gildet på Solhaug» for kritikens skranke i Kristiania. Den var for størstedelen sammensat af unge mænd, der i kritisk henseende levede på lån fra diverse kanter. Deres kritiske tanker var for længe siden tænkte og udtalte af andre; deres meninger var for lang tid siden formuleret andetsteds. Lånegods var hele deres æstetiske teori; lånegods var hele deres kritiske metode; lånegods var i et og alt, i stort og i småt, den polemiske taktik, de gjorde brug af. Ja, lige til sindsstemningen, så var den lånt. Lånt, lånt var det alt sammen. Det eneste originale ved dem var, at de evig og altid benyttede lånegodset forkert og i utide.</p>
-            <p>At dette kollegium, hvis medlemmer kritisk livnærede sig ved lån, troede at måtte i digterisk henseende forudsætte noget lignende hos mig, kan ikke forundre nogen. Et par aviser der oppe, og muligens flere, fandt da også ganske rigtig ud, at jeg havde lånt dette eller hint fra <rs type="person" corresp="peHHer">Henrik Hertz</rs>’s skuespil «Svend Dyrings hus».</p>
-            <p>Denne kritiske påstand er grundløs og uefterrettelig. Det er åbenbart benyttelsen af kæmpevisernes versemål i begge stykkerne, som har foranlediget den. Men hos mig er sprogtonen en ganske anden end hos Hertz; diktionen i mit stykke har et ganske andet klangpræg end i hans; over det rytmiske i mit stykke vifter en let sommerluft; over det rytmiske hos Hertz ruger der høstvejr.</p>
-            <p>Heller ikke, hvad karakterer, handling, eller overhovedet hvad det faktiske indhold angår, findes der mellem begge stykker nogen anden eller større lighed end den, der er en nødvendig følge af, at stoffet til dem begge er hentet ud fra kæmpevisernes trange forestillingskreds.</p>
-            <p>Med fuldt så stor eller vel endnu større føje kunde man påstå, at <pb n="109"/>Hertz i sit «Svend Dyrings hus» havde lånt et og andet, og det ikke så lidt endda, fra <rs type="person" corresp="peHvK">Heinrich v. Kleist</rs>’s «Käthchen von Heilbronn», der er skrevet i begyndelsen af dette århundrede. Käthchens forhold til grev Wetter-Strahl er i alt væsentligt det samme, som Ragnhilds til ridder Stig Hvide. Ligesom Ragnhild drives også Käthchen af en gådefuld, uforklarlig magt til at følge den mand, hun elsker, på alle hans veje, til lønligt at liste sig efter ham, til viljeløst at lægge sig ned og sove i hans nærhed, til naturnødvendigt at vende tilbage til ham, så ofte hun end jages bort. Hertil kommer det overnaturliges indgriben på flere andre måder både hos Kleist og hos Hertz.</p>
-            <p>Men er der nogen, som tviler på, at man i den endnu ældre dramatiske literatur, med en smule god eller ond vilje, måtte kunne opdrive et skuespil, om hvilket det kunde påståes, at Kleist derfra havde lånt et eller andet til sit «Käthchen von Heilbronn»? <emph>Jeg</emph> tviler i al fald ikke derpå. Men deslige påvisninger vilde være ørkesløse. Det, der gør et kunstværk til sin ophavsmands åndelige ejendom, det er, at han har påtrykt værket sin egen personligheds stempel. Jeg mener derfor, at til trods for de antydede lighedspunkter er «Svend Dyrings hus» lige så ubestridelig og udelukkende et originalværk af Henrik Hertz, som «Käthchen von Heilbronn» er et originalværk af Heinrich v. Kleist.</p>
-            <p>Den samme ret gør jeg for mit eget vedkommende gældende med hensyn til «Gildet på Solhaug». Jeg håber også, at man for fremtiden vil lade enhver af de tre navnefættere få beholde ubeskåret, hvad der med rette tilhører ham.</p>
-            <p>
-               <rs type="person" corresp="peGB">Georg Brandes</rs> har ved given anledning betegnet «Gildet på Solhaug» i dets forhold til «Svend Dyrings hus», ikke som bygget på noget lån, men som tilblevet under en påvirkning, en indflydelse, udøvet af den ældre digter på den yngre. Hans udtalelser om mit arbejde er for resten så velvillige, at jeg herfor, som for så meget andet, har al grund til at være ham takskyldig.</p>
-            <p>Men ikke desto mindre må jeg fastholde, at sagen i virkeligheden <pb n="110"/>heller ikke forholder sig således, som Brandes har opfattet den. Henrik Hertz har aldrig i nogen særlig grad tiltalt mig som dramatisk digter. Jeg kan derfor ikke få i mit hoved, at han nogensinde skulde, mig uafvidende, have kunnet øve nogen indflydelse på min egen dramatiske produktion.</p>
-            <p>På dette punkt og i denne forbindelse kunde jeg indskrænke mig til at henvise til <rs type="person" corresp="peVaVa">dr. Valfrid Vasenius</rs>, docent i æsthetik ved <rs type="org" corresp="orgUHel">universitetet i <rs type="place" corresp="plHel">Helsingfors</rs>
-               </rs>. I sin afhandling for den filosofiske doktorgrad: «Henrik Ibsens dramatiska diktning i dess førsta skede» (1879) så vel som i sit værk «Henrik Ibsen, ett skaldeporträtt» (343 sider. <rs type="org" corresp="orgJSel">Jos. Seligmann &amp; comp</rs>. <rs type="place" corresp="plSthlm">Stockholm</rs>. 1882.) har han gjort rede for sit grundsyn på mit her omhandlede skuespil, – i sidstnævnte skrift suppleret med, hvad jeg under et samvær i <rs type="place" corresp="plMun">München</rs> for tre år siden i al korthed meddelte ham. Hertil kunde jeg, som sagt, henvise.</p>
-            <p>Men for god ordens skyld vil jeg dog selv på de følgende blade i omrids fortælle «Gildet på Solhaug»s tilblivelseshistorie.</p>
-            <p>Her er den:</p>
-            <p>Jeg indledede denne fortale med en oplysning om, at stykket er skrevet i sommeren 1855.</p>
-            <p>Året i forvejen havde jeg skrevet «<rs type="work" corresp="woF2">Fru Inger til Østråt</rs>». Beskæftigelsen med dette drama havde nødsaget mig til literært og historisk at fordybe mig i Norges middelalder, navnlig da i den senere del af samme. Jeg forsøgte, så godt det lod sig gøre, at leve mig ind i hine tiders sæder og skikke, i menneskernes følelsesliv, i deres tænkesæt og udtryksmåde.</p>
-            <p>Denne periode er imidlertid ikke særdeles tiltalende at dvæle ved i længden; den frembyder heller ikke synderlig stof, der egner sig for dramatisk behandling.</p>
-            <p>Jeg tyede derfor også snart over til selve sagatiden. Men kongesagaerne og over hovedet de strængere historiske overleveringer fra denne fjerne tidsalder fængslede mig ikke; jeg kunde dengang ikke for mine digteriske øjemed gøre nogen dramatisk brug af stridighederne <pb n="111"/>mellem konger og høvdinger, mellem partier og flokke. Det skulde først komme senere.</p>
-            <p>Derimod fandt jeg i rigt mål i de islandske ætte-sagaer, hvad jeg behøvede som menneskelig iklædning for de stemninger, forestillinger og tanker, der dengang opfyldte, eller i al fald mere eller mindre klart foresvævede mig. Disse gammelnordiske literære bidrag til vor sagatids personalhistorie havde jeg hidtil ikke kendt, knapt nok hørt dem nævne. Da faldt mig ved et tilfælde <rs type="person" corresp="peNMP">N. M. Petersen</rs>s, i al fald for sprogtonens vedkommende, fortræffelige oversættelse i hænde. Ud fra disse ætte-krøniker med deres vekslende forhold og optrin mellem mand og mand, mellem kvinde og kvinde, over hovedet mellem menneske og menneske, slog mig et personligt, fyldigt, levende livsindhold imøde; og ud af denne min leven sammen med alle disse afsluttede, enkelte, personlige kvinder og mænd fremstod i min tanke det første rå, tågede udkast til «<rs type="work" corresp="woHH">Hærmændene på Helgeland</rs>».</p>
-            <p>Hvor meget der af enkelthederne udformede sig i mig, ved jeg ikke længer at opgive. Men jeg husker godt, at de to skikkelser, jeg først fik øje på, var de to kvinder, som senere blev til Hjørdis og Dagny. Et stort gilde med æggende og skæbnesvangre sammenstød skulde der være i stykket. For øvrigt vilde jeg af karakterer, lidenskaber og indbyrdes forhold optage alt det, der forekom mig at være mest typisk for sagalivet. Med <emph>et</emph> ord, – hvad der i Vølsungasagaen var blevet episk omdigtet, vilde jeg, dramatisk, ligefrem gengive.</p>
-            <p>Nogen hel, sammenhængende plan udkastede jeg vel ikke dengang. Dog stod det klart for mig, at et sådant skuespil var det første, som nu skulde skrives.</p>
-            <p>Men så kom der adskilligt imellem. Det meste deraf var vel af personlig natur og formodentlig det stærkest og nærmest afgørende; men jeg tror nok, det heller ikke var ganske uden betydning, at jeg just på den tid beskæftigede mig med indgående at studere <rs type="person" corresp="peMaLa">Landstad</rs>s samling af «Norske folkeviser», der var udkommet et par år i forvejen. De stemninger, jeg dengang befandt mig i, forligedes bedre <pb n="112"/>med middelalderens literære romantik end med sagaens kendsgerninger, bedre med verseformen end med prosastilen, bedre med det sprogmusikalske element i kæmpevisen, end med det karakteriserende i sagaen.</p>
-            <p>Således skede det, at det formløst gærende udkast til tragedien «Hærmændene på Helgeland» foreløbig forvandlede sig til det lyriske drama «Gildet på Solhaug».</p>
-            <p>De to kvindeskikkelser, plejesøstrene Hjørdis og Dagny i den påtænkte tragedie blev til søstrene Margit og Signe i det fuldførte lyriske drama. Disse to sidstnævntes afstamning fra de to sagakvinder, vil let falde i øjnene, når der først gøres opmærksom derpå. Slægtsligheden er umiskendelig. Tragediens den gang kun løst planlagte helt, den vidt berejste og ved fremmede kongehoffer vel modtagne høvding, vikingen Sigurd, omformede sig til riddersmanden og sangeren Gudmund Alfsøn, der også har færdedes længe i fremmede lande og levet i kongens gård. Hans stilling mellem de to søstre blev ændret i overensstemmelse med de forandrede tidsomstændigheder og forholde; men begge søstrenes stilling lige over for ham forblev væsentlig den samme, som i den oprindelig påtænkte og senere fuldførte tragedie. Det skæbnesvangre gilde, som det i mit første udkast havde været mig så magtpåliggende at male, blev i dramaet den skueplads, på hvilken personerne helt igennem optrådte; det blev den baggrund, imod hvilken handlingen hævede sig frem og meddelte det samlede billede den grundstemning, jeg havde tilsigtet. Stykkets afslutning dæmpedes og formildedes visst nok i overensstemmelse med dets art som drama og ikke tragedie; men mellem rettroende æstetikere turde der kanske alligevel kunne tvistes om, hvor vidt der i denne afslutning ikke er blevet tilbage et drag af uformidlet tragik som et vidnesbyrd om dramaets udspring.</p>
-            <p>Herpå skal jeg imidlertid ikke videre indlade mig. Jeg har kun villet hævde og fastslå, at det foreliggende skuespil, lige så fuldt som <pb n="113"/>alle mine øvrige dramatiske arbejder, er et naturnødvendigt udslag af min livsgang på et bestemt punkt. Det er opstået indenfra og ikke formedelst nogen ydre påvirkning eller indflydelse.</p>
-            <p>Således og ikke anderledes hænger det sammen med tilblivelsen af «Gildet på Solhaug».</p>
-            <closer>
-               <dateline>
-                  <rs type="place" corresp="plRom">Rom</rs>, i <date>April 1883</date>
-               </dateline>
-               <signed>Henrik Ibsen</signed>
-            </closer>
-         </div>
-         <titlePage type="part">
-            <docTitle>
-               <titlePart type="main">
-                  <pb n="114"/>GILDET PÅ SOLHAUG</titlePart>
-            </docTitle>
          </titlePage>
          <castList>
             <head>
@@ -235,22 +178,32 @@
          <div type="act" n="1">
             <head type="act">
                <pb n="116"/>FØRSTE AKT</head>
-            <stage>En stadselig stue med dør i baggrunden og på begge sidevæggene. Foran tilhøjre et karnap-vindu med små, runde, blyindfattede ruder, og ved vinduet et bord med en mængde kvindesmykker. Langs væggen tilvenstre et større bord med sølvkruse, bægre og drikkehorn. Døren i baggrunden fører ud til en åben svalegang, hvorigennem ses et vidt fjordlandskab.</stage>
-            <stage>Bengt Gautesøn, fru Margit, Knut Gæsling og Erik fra Hægge sidder om drikkebordet tilvenstre. I baggrunden dels sidder dels står Knuts mænd; et par ølboller går rundt mellem dem. Langt borte høres kirkeklokker, som ringer til højmesse.</stage>
+            <stage>En stadselig stue med dør i baggrunden og på begge sidevæggene. Foran tilhøjre et
+               karnap-vindu med små, runde, blyindfattede ruder, og ved vinduet et bord med en
+               mængde kvindesmykker. Langs væggen tilvenstre et større bord med sølvkruse, bægre og
+               drikkehorn. Døren i baggrunden fører ud til en åben svalegang, hvorigennem ses et
+               vidt fjordlandskab.</stage>
+            <stage>Bengt Gautesøn, fru Margit, Knut Gæsling og Erik fra Hægge sidder om drikkebordet
+               tilvenstre. I baggrunden dels sidder dels står Knuts mænd; et par ølboller går rundt
+               mellem dem. Langt borte høres kirkeklokker, som ringer til højmesse.</stage>
             <sp who="#ERIK">
                <speaker>ERIK</speaker>
                <stage>rejser sig op ved bordet</stage>
-               <p>Og nu, kort og godt, hvad svar har I at give mig på mit ærend som Knut Gæslings bejlermand?</p>
+               <p>Og nu, kort og godt, hvad svar har I at give mig på mit ærend som Knut Gæslings
+                  bejlermand?</p>
             </sp>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
                <stage>skotter urolig til sin hustru</stage>
-               <p>Ja, jeg – jeg tænker nu – <stage>(da hun tier)</stage> Hm, Margit, lad os først høre, hvad <emph>du</emph> mener.</p>
+               <p>Ja, jeg – jeg tænker nu – <stage>(da hun tier)</stage> Hm, Margit, lad os først
+                  høre, hvad <emph>du</emph> mener.</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
                <stage>står op</stage>
-               <p>Herr Knut Gæsling, – det var mig længe vitterligt, hvad Erik fra Hægge nys fremsatte om eder. Jeg ved fuldt vel, at I stammer fra en berømmelig slægt; I er rig på gods og guld, og vor kongelige herre er eder synderlig bevågen.</p>
+               <p>Herr Knut Gæsling, – det var mig længe vitterligt, hvad Erik fra Hægge nys
+                  fremsatte om eder. Jeg ved fuldt vel, at I stammer fra en berømmelig slægt; I er
+                  rig på gods og guld, og vor kongelige herre er eder synderlig bevågen.</p>
             </sp>
             <sp who="#BENGT">
                <speaker>
@@ -287,10 +240,10 @@
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
-               <p>Så lidet kan mine ord krænke jer. Min søster kender eder jo kun af de viser, som er gjort om eder, – og de viser klinger ilde for høviske øren.</p>
-               <lg type="strofisk-strofe-folkevisevers-kjempevise"
-                   met="bi++ ('8 '7)² ('8 '7)²"
-                   rhyme="(a B)² (c D)²">
+               <p>Så lidet kan mine ord krænke jer. Min søster kender eder jo kun af de viser, som
+                  er gjort om eder, – og de viser klinger ilde for høviske øren.</p>
+               <lg type="strofisk-strofe-folkevisevers-kjempevise" met="bi++ ('8 '7)² ('8 '7)²"
+                  rhyme="(a B)² (c D)²">
                   <l met="∪∪-∪-∪∪-∪-" rhyme="a">Eders fædres gård er et utrygt hjem</l>
                   <l met="∪∪-∪∪-∪-∪" rhyme="B">mellem alle de vilde gæster.</l>
                   <l met="∪∪-∪-∪∪-∪∪-" rhyme="a">Både nat og dag har I gilde med dem.</l>
@@ -304,32 +257,38 @@
             </sp>
             <sp who="#ERIK">
                <speaker>ERIK</speaker>
-               <p>Nu ja – sandt nok – Knut Gæsling lever noget vildt og ustyrligt. Men sligt ændrer sig let, når han får sig en hustru i gården.</p>
+               <p>Nu ja – sandt nok – Knut Gæsling lever noget vildt og ustyrligt. Men sligt ændrer
+                  sig let, når han får sig en hustru i gården.</p>
             </sp>
             <sp who="#KNUT">
                <speaker>KNUT</speaker>
-               <p>Og vel skal I mærke jer dette, fru Margit. Det kan være en uge siden, at jeg var til drikkegilde på Hægge hos Erik, som her står. Øllet var stærkt; og da det led ud på kvelden gjorde jeg det løfte, at Signe, eders fagre søster, skulde vorde min viv, før året var omme. Aldrig skal det siges Knut Gæsling på, at han har brudt noget løfte. Derfor ser I selv, at I må kåre mig til eders søsters husbond, – enten med det gode eller med det onde.</p>
+               <p>Og vel skal I mærke jer dette, fru Margit. Det kan være en uge siden, at jeg var
+                  til drikkegilde på Hægge hos Erik, som her står. Øllet var stærkt; og da det led
+                  ud på kvelden gjorde jeg det løfte, at Signe, eders fagre søster, skulde vorde min
+                  viv, før året var omme. Aldrig skal det siges Knut Gæsling på, at han har brudt
+                  noget løfte. Derfor ser I selv, at I må kåre mig til eders søsters husbond, –
+                  enten med det gode eller med det onde.</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
-               <lg type="stikisk-folkevisevers-kjempevise"
-                   met="bi++ '7|'8|'9"
-                   rhyme="r|R">
-                  <l met="∪-∪-∪∪-∪∪-∪" rhyme="A">Før <emph>det</emph> skal ske, vil jeg ikke fordølge,</l>
+               <lg type="stikisk-folkevisevers-kjempevise" met="bi++ '7|'8|'9" rhyme="r|R">
+                  <l met="∪-∪-∪∪-∪∪-∪" rhyme="A">Før <emph>det</emph> skal ske, vil jeg ikke
+                     fordølge,</l>
                   <l met="∪∪-∪∪-∪∪-∪∪-∪" rhyme="A">I må skille jer af med jert ravende følge.</l>
                   <l met="∪-∪∪-∪∪-∪∪-" rhyme="b">I må ikke længer med skrig og med larm</l>
                   <l met="-∪∪-∪∪-∪∪-" rhyme="b">jage rundt bygden tilhest og i karm;</l>
                   <l met="∪∪-∪∪-∪-∪-" rhyme="c">I må døve den gru, som langvejs står</l>
                   <l met="∪∪-∪-∪∪-∪-" rhyme="c">af Knut Gæslings komme til bryllupsgård.</l>
                   <l met="-∪∪∪-∪∪∪-∪∪-∪" rhyme="D">Høvisk må I te jer, når I rider til gilde;</l>
-                  <l met="-∪∪∪-∪∪-∪∪∪-∪" rhyme="D">øksen skal I hjemme bag stuedøren stille; –<note type="met">Urent rim.</note>
-                  </l>
+                  <l met="-∪∪∪-∪∪-∪∪∪-∪" rhyme="D">øksen skal I hjemme bag stuedøren stille; –</l>
                   <l met="∪-∪∪∪-∪∪-∪-" rhyme="e">I ved, den sidder løs i jer hånd, når mjød</l>
                   <l met="∪-∪∪∪-∪∪-∪∪-" rhyme="e">og øl har gjort jer panden fortumlet og rød.</l>
                   <l met="-∪∪-∪∪∪-∪∪-" rhyme="f">Ærbare kvinder skal I lade med fred;</l>
                   <l met="∪-∪∪-∪∪-∪" rhyme="G">lad hvermand beholde sit eje;</l>
-                  <l met="∪∪-∪-∪∪-∪∪∪- &amp; ∪-∪∪-∪∪-∪∪∪-" rhyme="f">I må ikke frækt skikke nogen den besked,</l>
-                  <l met="∪-∪∪-∪∪∪-∪∪-" rhyme="f">at hvis han er klog, så tar han ligskjorten med,</l>
+                  <l met="∪∪-∪-∪∪-∪∪∪- &amp; ∪-∪∪-∪∪-∪∪∪-" rhyme="f">I må ikke frækt skikke nogen
+                     den besked,</l>
+                  <l met="∪-∪∪-∪∪∪-∪∪-" rhyme="f">at hvis han er klog, så tar han ligskjorten
+                     med,</l>
                   <l met="∪∪-∪∪-∪-∪" rhyme="G">når han færdes på eders veje.</l>
                   <l met="∪-∪∪∪-∪∪-∪∪-" rhyme="h">
                      <pb n="118"/>Og arter I jer sådan til året går ud,</l>
@@ -339,7 +298,8 @@
             <sp who="#KNUT">
                <speaker>KNUT</speaker>
                <stage>med indædt harme</stage>
-               <p>I ved snildt at belægge eders ord, fru Margit. For sandt – I burde være præst og ikke eders husbonds frue.</p>
+               <p>I ved snildt at belægge eders ord, fru Margit. For sandt – I burde være præst og
+                  ikke eders husbonds frue.</p>
             </sp>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
@@ -348,7 +308,8 @@
             <sp who="#KNUT">
                <speaker>KNUT</speaker>
                <stage>uden at agte på ham</stage>
-               <p>Men vel skal I mærke jer, at havde en våbenfør mand talt mig til på slig vis som I, så –</p>
+               <p>Men vel skal I mærke jer, at havde en våbenfør mand talt mig til på slig vis som
+                  I, så –</p>
             </sp>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
@@ -357,7 +318,8 @@
             <sp who="#KNUT">
                <speaker>KNUT</speaker>
                <stage>som før</stage>
-               <p>Nu, kort og godt, så skulde han fornummet, at øksen sidder mig løs i hånden, som I fornylig sagde.</p>
+               <p>Nu, kort og godt, så skulde han fornummet, at øksen sidder mig løs i hånden, som I
+                  fornylig sagde.</p>
             </sp>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
@@ -371,12 +333,15 @@
             </sp>
             <sp who="#KNUT">
                <speaker>KNUT</speaker>
-               <p>Vel, vel; jeg vil heller ikke regne det så nøje med jer, fru Margit. I har mere kløgt, end alle vi andre tilhobe. Der er min hånd; – kan hænde der er skælig grund for alle de hvasse ord, I sagde mig.</p>
+               <p>Vel, vel; jeg vil heller ikke regne det så nøje med jer, fru Margit. I har mere
+                  kløgt, end alle vi andre tilhobe. Der er min hånd; – kan hænde der er skælig grund
+                  for alle de hvasse ord, I sagde mig.</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>
                   <pb n="119"/>MARGIT</speaker>
-               <p>Det må jeg lide; nu er I jo alt på god vej til at bedre jer. Og hør så et ord til. Vi holder gilde her på Solhaug idag.</p>
+               <p>Det må jeg lide; nu er I jo alt på god vej til at bedre jer. Og hør så et ord til.
+                  Vi holder gilde her på Solhaug idag.</p>
             </sp>
             <sp who="#KNUT">
                <speaker>KNUT</speaker>
@@ -384,16 +349,20 @@
             </sp>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
-               <p>Ja, herr Gæsling. I skal vide, det er vor bryllupsdag; idag for tre år siden blev jeg fru Margits mand.</p>
+               <p>Ja, herr Gæsling. I skal vide, det er vor bryllupsdag; idag for tre år siden blev
+                  jeg fru Margits mand.</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
                <stage>utålmodig, afbrydende</stage>
-               <p>Som jeg sagde, vi holder gilde idag. Når I nu kommer fra kirken og har røgtet eders øvrige ærender, så rider I hid igen og tager del i laget. I kan da lære min søster at kende.</p>
+               <p>Som jeg sagde, vi holder gilde idag. Når I nu kommer fra kirken og har røgtet
+                  eders øvrige ærender, så rider I hid igen og tager del i laget. I kan da lære min
+                  søster at kende.</p>
             </sp>
             <sp who="#KNUT">
                <speaker>KNUT</speaker>
-               <p>Vel, fru Margit; jeg takker jer. Dog var det ikke for at søge kirken, jeg red herned imorges. Min rejse gælder Gudmund Alfsøn, eders frænde.</p>
+               <p>Vel, fru Margit; jeg takker jer. Dog var det ikke for at søge kirken, jeg red
+                  herned imorges. Min rejse gælder Gudmund Alfsøn, eders frænde.</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
@@ -424,11 +393,14 @@
             </sp>
             <sp who="#KNUT">
                <speaker>KNUT</speaker>
-               <p>Har I da ikke hørt, at Gudmund Alfsøn er kommen tilbage til landet igen? Han fulgte med kansleren Audun af Hægranæs, som var sendt til Frankrig for at hente vor nye dronning.</p>
+               <p>Har I da ikke hørt, at Gudmund Alfsøn er kommen tilbage til landet igen? Han
+                  fulgte med kansleren Audun af Hægranæs, som var sendt til Frankrig for at hente
+                  vor nye dronning.</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
-               <p>Det er ret nok; men kongens bryllup holdes i disse dage med stor pragt i Bergen, og der er Gudmund Alfsøn med.</p>
+               <p>Det er ret nok; men kongens bryllup holdes i disse dage med stor pragt i Bergen,
+                  og der er Gudmund Alfsøn med.</p>
             </sp>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
@@ -442,7 +414,9 @@
             <sp who="#KNUT">
                <speaker>KNUT</speaker>
                <stage>sagte</stage>
-               <p>Det synes så; men lad dig ikke mærke med noget. <stage>(højt)</stage> Nu ja, fru Margit, jeg får lige fuldt tage afsted på lykke og fromme; ved kveldstid kommer jeg igen.</p>
+               <p>Det synes så; men lad dig ikke mærke med noget. <stage>(højt)</stage> Nu ja, fru
+                  Margit, jeg får lige fuldt tage afsted på lykke og fromme; ved kveldstid kommer
+                  jeg igen.</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
@@ -480,9 +454,12 @@
             </sp>
             <sp who="#KNUT">
                <speaker>KNUT</speaker>
-               <p>Det kan jeg lide, herr Bengt Gautesøn. Jeg har det på samme sæt; og jeg har nu engang drukket på svogerskab mellem os. I får se til, om ikke jeg også holder fast ved mit ord. – Guds fred til ikveld!</p>
+               <p>Det kan jeg lide, herr Bengt Gautesøn. Jeg har det på samme sæt; og jeg har nu
+                  engang drukket på svogerskab mellem os. I får se til, om ikke jeg også holder fast
+                  ved mit ord. – Guds fred til ikveld!</p>
             </sp>
-            <stage>Han og Erik går med mændene ud i baggrunden. Bengt følger dem til døren. Klokkeringningen er imidlertid ophørt.</stage>
+            <stage>Han og Erik går med mændene ud i baggrunden. Bengt følger dem til døren.
+               Klokkeringningen er imidlertid ophørt.</stage>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
                <stage>kommer tilbage</stage>
@@ -496,7 +473,9 @@
             <sp who="#BENGT">
                <speaker>
                   <pb n="122"/>BENGT</speaker>
-               <p>Knut Gæsling er ikke god at komme ud for. Og når jeg tænker mig om, så gav vi ham også altfor mange umilde ord. Nå, lad os ikke gruble over den sag. Idag må vi være lystige, Margit! Og det, mener jeg, vi har god grund til begge to.</p>
+               <p>Knut Gæsling er ikke god at komme ud for. Og når jeg tænker mig om, så gav vi ham
+                  også altfor mange umilde ord. Nå, lad os ikke gruble over den sag. Idag må vi være
+                  lystige, Margit! Og det, mener jeg, vi har god grund til begge to.</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
@@ -505,7 +484,9 @@
             </sp>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
-               <p>Jeg var ikke ganske ung, da jeg bejled til dig, det er sandt. Men den rigeste mand på mange, mange mile, det ved jeg da visst, at jeg var. Du var en fager ungmø, af ædel slægt; men medgiften skulde ikke friste nogen frier.</p>
+               <p>Jeg var ikke ganske ung, da jeg bejled til dig, det er sandt. Men den rigeste mand
+                  på mange, mange mile, det ved jeg da visst, at jeg var. Du var en fager ungmø, af
+                  ædel slægt; men medgiften skulde ikke friste nogen frier.</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
@@ -518,20 +499,21 @@
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
-               <p>Å, intet, intet. <stage>(går over mod højre)</stage> Jeg vil pynte mig med perler og ringe. Det er jo min glædesfest ikveld.</p>
+               <p>Å, intet, intet. <stage>(går over mod højre)</stage> Jeg vil pynte mig med perler
+                  og ringe. Det er jo min glædesfest ikveld.</p>
             </sp>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
-               <p>Slig tale tykkes jeg vel om. Lad mig se, du klæder dig i din bedste stads, så vore gæster kan sige: lyksalig hun, som fik Bengt Gautesøn til husbond. – Men nu må jeg ud i madburet; der er fuldt op at tage vare på idag.</p>
+               <p>Slig tale tykkes jeg vel om. Lad mig se, du klæder dig i din bedste stads, så vore
+                  gæster kan sige: lyksalig hun, som fik Bengt Gautesøn til husbond. – Men nu må jeg
+                  ud i madburet; der er fuldt op at tage vare på idag.</p>
             </sp>
             <stage>Han går ud til venstre.</stage>
             <sp who="#MARGIT">
                <speaker>
                   <pb n="123"/>MARGIT</speaker>
                <stage>segner ned i en stol ved bordet til højre</stage>
-               <lg type="stikisk-folkevisevers-kjempevise"
-                   met="bi++ '7|'8|'9"
-                   rhyme="r|R">
+               <lg type="stikisk-folkevisevers-kjempevise" met="bi++ '7|'8|'9" rhyme="r|R">
                   <l met="∪-∪∪-∪∪-∪∪-∪" rhyme="A">Vel var det, han gik. Når jeg ser ham herinde,</l>
                   <l met="∪-∪∪-∪∪-∪-∪" rhyme="A">det er mig som blodet holdt op at rinde;</l>
                   <l met="∪-∪∪-∪-∪∪-" rhyme="b">det er som en kold, en knugende magt</l>
@@ -555,49 +537,48 @@
                   <l met="∪-∪∪-∪∪∪-∪∪-" rhyme="h">jeg kender en vise, som kan sorgen forslå.</l>
                </lg>
                <stage>(hun synger)</stage>
-               <lg type="strofisk-strofegruppe-folkevisevers-kjempevise"
-                   met="bi++ ('8 '7)²"
-                   rhyme="(a B)²">
+               <lg type="strofisk-strofegruppe-folkevisevers-kjempevise" met="bi++ ('8 '7)²"
+                  rhyme="(a B)²">
                   <l met="-∪∪-∪-∪-" rhyme="a">Bergkongen red sig under ø;</l>
-                  <l type="refreng" met="∪-∪∪-∪∪∪-∪" rhyme="B">– så klageligt rinde mine dage –</l>
+                  <l met="∪-∪∪-∪∪∪-∪" rhyme="B">– så klageligt rinde mine dage –</l>
                   <l met="-∪∪-∪∪-∪-" rhyme="a">vilde han fæste den væne mø.</l>
-                  <l type="refreng" met="∪-∪∪-∪∪-∪" rhyme="B">– ret aldrig du kommer tilbage –</l>
+                  <l met="∪-∪∪-∪∪-∪" rhyme="B">– ret aldrig du kommer tilbage –</l>
                   <l met="-∪∪-∪∪-∪-" rhyme="a">Bergkongen red til herr Håkons gård;</l>
-                  <l type="refreng" met="∪-∪∪-∪∪∪-∪" rhyme="B">– så klageligt rinde mine dage –</l>
-                  <l met="∪∪-∪∪-∪∪-∪- &amp; ∪∪-∪∪-∪-∪∪-" rhyme="a">liden Kirsten stod ude, slog ud sit hår.</l>
-                  <l type="refreng" met="∪-∪∪-∪∪-∪" rhyme="B">– ret aldrig du kommer tilbage –</l>
+                  <l met="∪-∪∪-∪∪∪-∪" rhyme="B">– så klageligt rinde mine dage –</l>
+                  <l met="∪∪-∪∪-∪∪-∪- &amp; ∪∪-∪∪-∪-∪∪-" rhyme="a">liden Kirsten stod ude, slog ud
+                     sit hår.</l>
+                  <l met="∪-∪∪-∪∪-∪" rhyme="B">– ret aldrig du kommer tilbage –</l>
                   <l met="-∪∪-∪∪-∪-" rhyme="a">
                      <pb n="124"/>Bergkongen fæsted den væne viv;</l>
-                  <l type="refreng" met="∪-∪∪-∪∪∪-∪" rhyme="B">– så klageligt rinde mine dage –</l>
+                  <l met="∪-∪∪-∪∪∪-∪" rhyme="B">– så klageligt rinde mine dage –</l>
                   <l met="∪-∪∪-∪∪-∪∪-" rhyme="a">han spændte en sølvgjord omkring hendes liv.</l>
-                  <l type="refreng" met="∪-∪∪-∪∪-∪" rhyme="B">– ret aldrig du kommer tilbage –</l>
+                  <l met="∪-∪∪-∪∪-∪" rhyme="B">– ret aldrig du kommer tilbage –</l>
                   <l met="-∪∪-∪∪-∪-" rhyme="a">Bergkongen fæsted den liljevånd</l>
-                  <l type="refreng" met="∪-∪∪-∪∪∪-∪" rhyme="B">– så klageligt rinde mine dage –</l>
+                  <l met="∪-∪∪-∪∪∪-∪" rhyme="B">– så klageligt rinde mine dage –</l>
                   <l met="∪-∪-∪∪∪-∪∪-" rhyme="a">med femten guldringe til hver hendes hånd.</l>
-                  <l type="refreng" met="∪-∪∪-∪∪-∪" rhyme="B">– ret aldrig du kommer tilbage –</l>
+                  <l met="∪-∪∪-∪∪-∪" rhyme="B">– ret aldrig du kommer tilbage –</l>
                   <l met="∪-∪∪-∪∪-∪-" rhyme="a">Tre sommere gik, og der gik vel fem;</l>
-                  <l type="refreng" met="∪-∪∪-∪∪∪-∪" rhyme="B">– så klageligt rinde mine dage –</l>
+                  <l met="∪-∪∪-∪∪∪-∪" rhyme="B">– så klageligt rinde mine dage –</l>
                   <l met="-∪∪∪-∪∪-∪-" rhyme="a">Kirsten sad i berget i alle dem.</l>
-                  <l type="refreng" met="∪-∪∪-∪∪-∪" rhyme="B">– ret aldrig du kommer tilbage –</l>
+                  <l met="∪-∪∪-∪∪-∪" rhyme="B">– ret aldrig du kommer tilbage –</l>
                   <l met="∪-∪∪-∪∪-∪-" rhyme="a">Fem sommere gik, og der gik vel ni;</l>
-                  <l type="refreng" met="∪-∪∪-∪∪∪-∪" rhyme="B">– så klageligt rinde mine dage –</l>
+                  <l met="∪-∪∪-∪∪∪-∪" rhyme="B">– så klageligt rinde mine dage –</l>
                   <l met="∪∪-∪-∪∪-∪∪-" rhyme="a">liden Kirsten så ikke solen i li.</l>
-                  <l type="refreng" met="∪-∪∪-∪∪-∪" rhyme="B">– ret aldrig du kommer tilbage –</l>
+                  <l met="∪-∪∪-∪∪-∪" rhyme="B">– ret aldrig du kommer tilbage –</l>
                   <l met="-∪∪-∪∪-∪-" rhyme="a">Dalen har blomster og fuglesang;</l>
-                  <l type="refreng" met="∪-∪∪-∪∪∪-∪" rhyme="B">– så klageligt rinde mine dage –</l>
+                  <l met="∪-∪∪-∪∪∪-∪" rhyme="B">– så klageligt rinde mine dage –</l>
                   <l met="∪-∪∪∪-∪∪-∪-" rhyme="a">i berget er der guld og en nat så lang.</l>
-                  <l type="refreng" met="∪-∪∪-∪∪-∪" rhyme="B">– ret aldrig du kommer tilbage –</l>
+                  <l met="∪-∪∪-∪∪-∪" rhyme="B">– ret aldrig du kommer tilbage –</l>
                </lg>
                <stage>(hun rejser sig og går henover gulvet)</stage>
-               <lg type="stikisk-folkevisevers-kjempevise"
-                   met="bi++ '7|'8|'9"
-                   rhyme="r|R">
+               <lg type="stikisk-folkevisevers-kjempevise" met="bi++ '7|'8|'9" rhyme="r|R">
                   <l met="∪-∪∪-∪∪-∪-" rhyme="a">Den vise sang Gudmund så mangen kveld,</l>
                   <l met="∪∪-∪∪-∪-∪" rhyme="B">da han var hos min fader hjemme.</l>
                   <l met="∪∪-∪∪-∪-∪∪-" rhyme="a">Der er noget deri, – jeg ved ikke selv, –</l>
                   <l met="∪∪-∪∪∪-∪∪∪-∪" rhyme="B">der er noget, som jeg aldrig kunde glemme;</l>
                   <l met="∪∪-∪∪-∪-∪∪-" rhyme="c">der er noget, som mægtigt fyldte min hu, –</l>
-                  <l met="∪∪-∪∪-∪∪-∪∪∪-" rhyme="c">som jeg aldrig forstod, – som jeg grubler på endnu.</l>
+                  <l met="∪∪-∪∪-∪∪-∪∪∪-" rhyme="c">som jeg aldrig forstod, – som jeg grubler på
+                     endnu.</l>
                   <stage>(forfærdet, standser)</stage>
                   <l met="-∪-∪∪-∪∪∪-" rhyme="d">Røde guldringe! Beltet om mit liv –!</l>
                   <l met="∪-∪∪-∪∪-∪∪-" rhyme="d">Med guld var det bergkongen fæsted sin viv!</l>
@@ -633,7 +614,8 @@
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
                <stage>går over mod højre</stage>
-               <p>Gudmund Alfsøn er med til bryllupsgildet i kongsgården; det ved du lige så godt som jeg.</p>
+               <p>Gudmund Alfsøn er med til bryllupsgildet i kongsgården; det ved du lige så godt
+                  som jeg.</p>
             </sp>
             <sp who="#SIGNE">
                <speaker>SIGNE</speaker>
@@ -654,10 +636,7 @@
             </sp>
             <sp who="#SIGNE">
                <speaker>SIGNE</speaker>
-               <lg type="stikisk-folkevisevers-kjempevise"
-                   met="bi++ '7|'8|'9"
-                   rhyme="r|R"
-                   part="I">
+               <lg type="stikisk-folkevisevers-kjempevise" met="bi++ '7|'8|'9" rhyme="r|R" part="I">
                   <l met="∪-∪-∪∪-∪∪-" rhyme="a">Det var sig årle, da klokkerne klang,</l>
                   <l met="∪-∪∪-∪∪-∪" rhyme="B">mig lysted at ride til kirke;</l>
                   <l met="∪-∪∪-∪-∪∪-" rhyme="a">de vildene fugle kviddred og sang</l>
@@ -696,7 +675,8 @@
                   <l met="∪-∪-∪∪-∪-" rhyme="l">Der var så stille på kirkesti;</l>
                   <l met="∪-∪∪-∪∪-∪∪-" rhyme="l">mig tyktes, at fuglene lytted i li,</l>
                   <l met="∪-∪-∪∪-∪-" rhyme="m">at lærken daled og gøken taug,</l>
-                  <l met="-∪∪-∪∪-∪- &amp; ∪-∪-∪∪-∪-" rhyme="m">og at det svared fra fjeld og haug.</l>
+                  <l met="-∪∪-∪∪-∪- &amp; ∪-∪-∪∪-∪-" rhyme="m">og at det svared fra fjeld og
+                     haug.</l>
                </lg>
             </sp>
             <sp who="#MARGIT">
@@ -714,7 +694,8 @@
                   <l met="∪-∪-∪∪-∪∪-" rhyme="o">Fuldt vel jeg kendte den dejlige sang;</l>
                   <l met="-∪∪-∪∪-∪-" rhyme="o">Gudmund har sunget den mangen gang;</l>
                   <l met="-∪∪-∪∪-∪-" rhyme="p">Gudmund har sunget den mangen kveld, –</l>
-                  <l met="∪-∪∪∪-∪∪-∪∪-" rhyme="p">og alt, hvad han har sunget, det mindes jeg vel.</l>
+                  <l met="∪-∪∪∪-∪∪-∪∪-" rhyme="p">og alt, hvad han har sunget, det mindes jeg
+                     vel.</l>
                </lg>
             </sp>
             <sp who="#MARGIT">
@@ -735,8 +716,7 @@
                   <l met="∪-∪∪-∪∪-∪-" rhyme="s">Der falder mig ind –. Margit, ved du hvad?</l>
                   <l met="∪-∪∪-∪-∪" rhyme="T">Hans harpe har hængt så længe</l>
                   <l met="∪-∪∪-∪∪∪-∪∪-" rhyme="u">på væggen derinde. Jeg vil tage den ned;</l>
-                  <l met="∪∪-∪∪-∪-∪∪∪-" rhyme="u">jeg vil pudse den blank og stille den beredt<note type="met">Urent rim.</note>
-                  </l>
+                  <l met="∪∪-∪∪-∪-∪∪∪-" rhyme="u">jeg vil pudse den blank og stille den beredt</l>
                   <l met="∪-∪∪-∪-∪" rhyme="T">og stemme dens gyldne strænge.</l>
                </lg>
             </sp>
@@ -782,7 +762,8 @@
                <speaker>MARGIT</speaker>
                <stage>ser mod karnappet</stage>
                <lg part="M">
-                  <l met="∪-∪∪-∪∪-∪∪-" rhyme="c'">Og <emph>han</emph> skulde komme til Solhaug som gæst!</l>
+                  <l met="∪-∪∪-∪∪-∪∪-" rhyme="c'">Og <emph>han</emph> skulde komme til Solhaug som
+                     gæst!</l>
                </lg>
             </sp>
             <sp who="#SIGNE">
@@ -812,7 +793,8 @@
                <stage>stryger hendes hår</stage>
                <lg part="M">
                   <l met="∪-∪∪-∪-∪∪-∪" rhyme="D'">Jeg mener –; nu ja, det vil sig jo vise –;</l>
-                  <l met="∪-∪∪∪-∪∪∪-∪-" rhyme="e'">jeg mener, – hvis en bejler red sig hid ikveld –?</l>
+                  <l met="∪-∪∪∪-∪∪∪-∪-" rhyme="e'">jeg mener, – hvis en bejler red sig hid ikveld
+                     –?</l>
                </lg>
             </sp>
             <sp who="#SIGNE">
@@ -852,7 +834,8 @@
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
                <lg part="M">
-                  <l met="∪-∪∪-∪∪∪-∪-" rhyme="h'">Men hvis han var mægtig? Hvis hans hus var rigt?</l>
+                  <l met="∪-∪∪-∪∪∪-∪-" rhyme="h'">Men hvis han var mægtig? Hvis hans hus var
+                     rigt?</l>
                </lg>
             </sp>
             <sp who="#SIGNE">
@@ -861,20 +844,27 @@
                   <l met="∪-∪∪-∪∪-∪-" rhyme="i'">Å, var han end konge, med hallen fuld</l>
                   <l met="∪-∪-∪∪-∪-" rhyme="i'">af dyre klæder og røden guld,</l>
                   <l met="∪-∪∪-∪∪-∪" rhyme="J'">det skulde så lidet mig friste.</l>
-                  <l met="∪-∪∪∪-∪∪-∪∪∪-" rhyme="k'">Nu bæres det mig for, jeg er rig nok med mig selv,</l>
+                  <l met="∪-∪∪∪-∪∪-∪∪∪-" rhyme="k'">Nu bæres det mig for, jeg er rig nok med mig
+                     selv,</l>
                   <l met="∪-∪∪-∪∪-∪∪-" rhyme="k'">med sommer og sol og den susende elv,</l>
                   <l met="∪-∪∪-∪∪-∪" rhyme="J'">med dig og de fugle på kviste.</l>
-                  <l met="∪∪-∪-∪∪∪-∪∪- &amp; -∪∪∪-∪∪∪-∪∪-" rhyme="l'">Kære søster min, – her vil jeg bygge og bo;</l>
+                  <l met="∪∪-∪-∪∪∪-∪∪- &amp; -∪∪∪-∪∪∪-∪∪-" rhyme="l'">Kære søster min, – her vil jeg
+                     bygge og bo;</l>
                   <l met="∪∪-∪∪∪-∪∪-∪∪-" rhyme="l'">
                      <pb n="129"/>og at skænke nogen bejler min hånd og min tro,</l>
-                  <l met="∪∪-∪∪∪-∪∪-∪∪-" rhyme="l'">dertil har jeg ikke tid; dertil er jeg for fro!</l>
+                  <l met="∪∪-∪∪∪-∪∪-∪∪-" rhyme="l'">dertil har jeg ikke tid; dertil er jeg for
+                     fro!</l>
                </lg>
             </sp>
             <stage>Hun iler syngende ud til venstre.</stage>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
                <stage>efter et ophold</stage>
-               <p>Gudmund Alfsøn skulde komme hid? Hid – til Solhaug? Nej, nej, det kan ikke være. – Signe havde hørt ham synge, sagde hun. Når jeg hørte granerne suse dybt derinde i skoven, når jeg hørte fossen rulle og fuglene lokke i trætoppene, da bares det mig tidt nok for, som om Gudmunds kvæder blanded sig alt imellem. Og dog var han langvejs herfra. – Signe har skuffet sig selv. Gudmund kommer ikke.</p>
+               <p>Gudmund Alfsøn skulde komme hid? Hid – til Solhaug? Nej, nej, det kan ikke være. –
+                  Signe havde hørt ham synge, sagde hun. Når jeg hørte granerne suse dybt derinde i
+                  skoven, når jeg hørte fossen rulle og fuglene lokke i trætoppene, da bares det mig
+                  tidt nok for, som om Gudmunds kvæder blanded sig alt imellem. Og dog var han
+                  langvejs herfra. – Signe har skuffet sig selv. Gudmund kommer ikke.</p>
             </sp>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
@@ -887,7 +877,8 @@
             </sp>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
-               <p>Gudmund Alfsøn, din frænde! <stage>(råber ud gennem døren til højre)</stage> Det bedste gæstekammer må holdes rede – og det på stand!</p>
+               <p>Gudmund Alfsøn, din frænde! <stage>(råber ud gennem døren til højre)</stage> Det
+                  bedste gæstekammer må holdes rede – og det på stand!</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
@@ -896,7 +887,10 @@
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
                <stage>ser ud gennem svalegangen</stage>
-               <p>Ikke så lige endnu; men længe vil det ikke vare. <stage>(råber ud til højre igen)</stage> Den snittede egeseng med dragehovederne! <stage>(går hen til Margit)</stage> Hans våbendrager bragte bud og hilsen fra ham; selv følger han efter.</p>
+               <p>Ikke så lige endnu; men længe vil det ikke vare. <stage>(råber ud til højre
+                     igen)</stage> Den snittede egeseng med dragehovederne! <stage>(går hen til
+                     Margit)</stage> Hans våbendrager bragte bud og hilsen fra ham; selv følger han
+                  efter.</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>
@@ -905,23 +899,29 @@
             </sp>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
-               <p>Ja, det skulde jeg vel mene. En våbendrager og sex rustede mænd er hos ham. Nå ja, Gudmund Alfsøn er jo også en hel anden mand nu, end dengang han drog ud på langfærd. Men jeg må ned og tage imod ham. <stage>(råber ud)</stage> Læg gyldenlæders-sadlen på min hest! Og glem ikke bidslet med ormehovederne! <stage>(ser ud i baggrunden)</stage> Au, der er han alt ved ledet! Nå, så min stav da; min sølvknappede stav! Slig en herre, – Krist fri mig – ham må vi tage imod med ære, med stor ære!</p>
+               <p>Ja, det skulde jeg vel mene. En våbendrager og sex rustede mænd er hos ham. Nå ja,
+                  Gudmund Alfsøn er jo også en hel anden mand nu, end dengang han drog ud på
+                  langfærd. Men jeg må ned og tage imod ham. <stage>(råber ud)</stage> Læg
+                  gyldenlæders-sadlen på min hest! Og glem ikke bidslet med ormehovederne!
+                     <stage>(ser ud i baggrunden)</stage> Au, der er han alt ved ledet! Nå, så min
+                  stav da; min sølvknappede stav! Slig en herre, – Krist fri mig – ham må vi tage
+                  imod med ære, med stor ære!</p>
             </sp>
             <stage>Han går skyndsomt ud i baggrunden.</stage>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
                <stage>grublende</stage>
-               <lg type="stikisk-folkevisevers-kjempevise"
-                   met="bi++ '7|'8|'9"
-                   rhyme="r|R"
-                   part="I">
-                  <l met="∪-∪∪-∪∪∪-∪∪-" rhyme="a">Han vandred fra bygden som den fattigste svend.</l>
+               <lg type="stikisk-folkevisevers-kjempevise" met="bi++ '7|'8|'9" rhyme="r|R" part="I">
+                  <l met="∪-∪∪-∪∪∪-∪∪-" rhyme="a">Han vandred fra bygden som den fattigste
+                     svend.</l>
                   <l met="∪-∪∪∪-∪∪∪-∪∪-" rhyme="a">Nu kommer han med væbner og med rustede mænd.</l>
                   <l met="∪-∪-∪∪-∪-" rhyme="b">Hvad vil han? Er det hans agt at se,</l>
                   <l met="∪-∪∪-∪∪-∪∪-" rhyme="b">om bittert jeg nages af kummer og ve?</l>
                   <l met="-∪∪-∪-∪∪-∪" rhyme="C">Lyster det ham at prøve og friste,</l>
-                  <l met="∪∪-∪∪-∪∪-∪∪-∪" rhyme="C">hvad jeg mægter at bære, før hjertet må briste?</l>
-                  <l met="-∪∪∪-∪-∪- &amp; -∪∪-∪-∪∪-" rhyme="d">Mener han, at –? Ah, prøv kun derpå;</l>
+                  <l met="∪∪-∪∪-∪∪-∪∪-∪" rhyme="C">hvad jeg mægter at bære, før hjertet må
+                     briste?</l>
+                  <l met="-∪∪∪-∪-∪- &amp; -∪∪-∪-∪∪-" rhyme="d">Mener han, at –? Ah, prøv kun
+                     derpå;</l>
                   <l met="∪-∪∪-∪∪-∪-" rhyme="d">så ringe en fryd skal du deraf få!</l>
                </lg>
             </sp>
@@ -953,11 +953,15 @@
             </sp>
             <sp who="#GUDMUND">
                <speaker>GUDMUND</speaker>
-               <p>Jeg takker jer. Og hvordan går det hende? Hun lider dog <emph>vel</emph> i alle måder vil jeg tro?</p>
+               <p>Jeg takker jer. Og hvordan går det hende? Hun lider dog <emph>vel</emph> i alle
+                  måder vil jeg tro?</p>
             </sp>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
-               <p>Ja, det kan I sværge på, hun gør. Der fattes hende intet. Hele fem terner kan hun byde og råde over; en fuldt sadlet ganger står rede, så snart det kun lyster hende. Nå, snart sagt, så har hun alt, hvad en høvisk kvinde kan begære for at være fornøjet i sine kår.</p>
+               <p>Ja, det kan I sværge på, hun gør. Der fattes hende intet. Hele fem terner kan hun
+                  byde og råde over; en fuldt sadlet ganger står rede, så snart det kun lyster
+                  hende. Nå, snart sagt, så har hun alt, hvad en høvisk kvinde kan begære for at
+                  være fornøjet i sine kår.</p>
             </sp>
             <sp who="#GUDMUND">
                <speaker>GUDMUND</speaker>
@@ -974,7 +978,9 @@
             </sp>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
-               <p>Ja, enten I nu vil tro det eller ikke, så bæres det mig for, at Margit var lystigere til sinde alt imens hun leved i fattige kår, end siden hun blev frue på Solhaug.</p>
+               <p>Ja, enten I nu vil tro det eller ikke, så bæres det mig for, at Margit var
+                  lystigere til sinde alt imens hun leved i fattige kår, end siden hun blev frue på
+                  Solhaug.</p>
             </sp>
             <sp who="#GUDMUND">
                <speaker>GUDMUND</speaker>
@@ -991,7 +997,12 @@
             </sp>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
-               <p>Ja, mener I ikke, det går mig lige så? Jeg vil aldrig gælde for en ærlig herremand mere, dersom jeg skønner, hvad hun yderligere kan ønske sig. Jeg er om hende så lang dagen er; og ingen skal kunne sige mig på, at jeg holder hende strængt; alt tilsyn med hus og gård har jeg taget på mig; og ikke desmindre –. Nå, I var jo altid en lystig svend; jeg tænker nok, I bringer solskin med jer. Hys; der kommer fru Margit! Lad jer ikke mærke med, at jeg –</p>
+               <p>Ja, mener I ikke, det går mig lige så? Jeg vil aldrig gælde for en ærlig herremand
+                  mere, dersom jeg skønner, hvad hun yderligere kan ønske sig. Jeg er om hende så
+                  lang dagen er; og ingen skal kunne sige mig på, at jeg holder hende strængt; alt
+                  tilsyn med hus og gård har jeg taget på mig; og ikke desmindre –. Nå, I var jo
+                  altid en lystig svend; jeg tænker nok, I bringer solskin med jer. Hys; der kommer
+                  fru Margit! Lad jer ikke mærke med, at jeg –</p>
             </sp>
             <stage>
                <pb n="133"/>Margit kommer i rig dragt fra venstre.</stage>
@@ -1003,7 +1014,9 @@
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
                <stage>standser, ser fremmed på ham</stage>
-               <p>Forlad mig, herr ridder; men –? <stage>(som om hun først nu genkendte ham)</stage> For sandt, hvis jeg ikke fejler, så er det Gudmund Alfsøn. <stage>(rækker hånden frem)</stage>
+               <p>Forlad mig, herr ridder; men –? <stage>(som om hun først nu genkendte ham)</stage>
+                  For sandt, hvis jeg ikke fejler, så er det Gudmund Alfsøn. <stage>(rækker hånden
+                     frem)</stage>
                </p>
             </sp>
             <sp who="#GUDMUND">
@@ -1014,7 +1027,8 @@
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
                <stage>leende</stage>
-               <p>Nej men, Margit, hvad tænker du dog på? Jeg meldte dig jo nylig, at din frænde –</p>
+               <p>Nej men, Margit, hvad tænker du dog på? Jeg meldte dig jo nylig, at din frænde
+                  –</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
@@ -1037,7 +1051,11 @@
             <sp who="#MARGIT">
                <speaker>
                   <pb n="134"/>MARGIT</speaker>
-               <p>Hel sælsomt. Jeg var dog visst et barn dengang; og det tykkes mig en evig lang tid siden jeg var barn. <stage>(kaster sig ned i en stol)</stage> Nå, sæt eder, min frænde! Hvil eder ud; ikveld skal I danse og forlyste os med eders sang. <stage>(med et tvungent smil)</stage> Ja, I ved vel, vi er glade her på gården idag, – vi holder gilde.</p>
+               <p>Hel sælsomt. Jeg var dog visst et barn dengang; og det tykkes mig en evig lang tid
+                  siden jeg var barn. <stage>(kaster sig ned i en stol)</stage> Nå, sæt eder, min
+                  frænde! Hvil eder ud; ikveld skal I danse og forlyste os med eders sang.
+                     <stage>(med et tvungent smil)</stage> Ja, I ved vel, vi er glade her på gården
+                  idag, – vi holder gilde.</p>
             </sp>
             <sp who="#GUDMUND">
                <speaker>GUDMUND</speaker>
@@ -1050,15 +1068,19 @@
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
                <stage>afbrydende</stage>
-               <p>Min frænde har alt hørt det. <stage>(til Gudmund)</stage> Vil I ikke lægge eders kappe bort?</p>
+               <p>Min frænde har alt hørt det. <stage>(til Gudmund)</stage> Vil I ikke lægge eders
+                  kappe bort?</p>
             </sp>
             <sp who="#GUDMUND">
                <speaker>GUDMUND</speaker>
-               <p>Jeg takker eder, fru Margit; men det bæres mig for, som her er koldt, – koldere, end jeg havde ventet.</p>
+               <p>Jeg takker eder, fru Margit; men det bæres mig for, som her er koldt, – koldere,
+                  end jeg havde ventet.</p>
             </sp>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
-               <p>Da er jeg både sved og varm; men jeg har også fuldt op at tage vare på. <stage>(til Margit)</stage> Lad nu ikke tiden falde lang for vor gæst, mens jeg er ude. I kan jo snakke sammen om gamle dage. <stage>(vil gå)</stage>
+               <p>Da er jeg både sved og varm; men jeg har også fuldt op at tage vare på.
+                     <stage>(til Margit)</stage> Lad nu ikke tiden falde lang for vor gæst, mens jeg
+                  er ude. I kan jo snakke sammen om gamle dage. <stage>(vil gå)</stage>
                </p>
             </sp>
             <sp who="#MARGIT">
@@ -1069,7 +1091,10 @@
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
                <stage>leende, til Gudmund, idet han kommer tilbage</stage>
-               <p>Ser I vel; herr Bengt til Solhaug er manden, som forstår at færdes mellem kvindfolk. Der er ikke den stund så kort, at min <pb n="134"/>hustru kan være mig foruden. <stage>(til Margit, idet han tager hende under hagen)</stage> Vær du trøstig; jeg skal snart være hos dig.</p>
+               <p>Ser I vel; herr Bengt til Solhaug er manden, som forstår at færdes mellem
+                  kvindfolk. Der er ikke den stund så kort, at min <pb n="134"/>hustru kan være mig
+                  foruden. <stage>(til Margit, idet han tager hende under hagen)</stage> Vær du
+                  trøstig; jeg skal snart være hos dig.</p>
             </sp>
             <stage>Han går ud i baggrunden.</stage>
             <sp who="#MARGIT">
@@ -1080,10 +1105,7 @@
             <stage>Kort taushed.</stage>
             <sp who="#GUDMUND">
                <speaker>GUDMUND</speaker>
-               <lg type="stikisk-folkevisevers-kjempevise"
-                   met="bi++ '7|'8|'9"
-                   rhyme="r|R"
-                   part="I">
+               <lg type="stikisk-folkevisevers-kjempevise" met="bi++ '7|'8|'9" rhyme="r|R" part="I">
                   <l met="∪-∪-∪∪∪-∪-∪" rhyme="A">Hvorlunde lever eders søster kære?</l>
                </lg>
             </sp>
@@ -1103,7 +1125,8 @@
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
                <lg part="M">
-                  <l met="-∪∪-∪∪∪- &amp; ∪-∪-∪∪∪-" part="F" rhyme="b">Her har hun været siden jeg –</l>
+                  <l met="-∪∪-∪∪∪- &amp; ∪-∪-∪∪∪-" part="F" rhyme="b">Her har hun været siden jeg
+                     –</l>
                   <stage>(slår om)</stage>
                   <l met="∪∪-∪∪-∪∪-∪∪-" rhyme="b">For tre år siden kom hun til Solhaug med mig.</l>
                   <stage>(lidt efter)</stage>
@@ -1171,8 +1194,7 @@
                   <stage>(roligere)</stage>
                   <l met="∪-∪∪∪-" part="F" rhyme="o">Det falder mig så svært</l>
                   <l met="∪-∪∪-∪∪-∪-" rhyme="o">at mindes; den ting har jeg aldrig lært.</l>
-                  <l met="∪-∪∪∪-∪∪-∪" rhyme="N">Meld heller om de år, I var borte; –<note type="met">Urent rim.</note>
-                  </l>
+                  <l met="∪-∪∪∪-∪∪-∪" rhyme="N">Meld heller om de år, I var borte; –</l>
                   <l met="∪-∪∪-∪∪-∪-" rhyme="p">
                      <pb n="136"/>den tid er vel ej på bedrift så arm;</l>
                   <l met="-∪∪∪-∪∪∪-∪ &amp; -∪∪-∪∪-∪-∪" rhyme="Q">meget må I kunne mig berette;</l>
@@ -1184,7 +1206,8 @@
                <speaker>GUDMUND</speaker>
                <lg part="M">
                   <l met="∪-∪-∪∪-∪∪-" rhyme="r">I kongens hal var jeg aldrig så fro,</l>
-                  <l met="∪∪-∪∪-∪∪∪-∪∪- &amp; ∪-∪∪∪-∪∪∪-∪∪-" rhyme="r">som dengang jeg var smådreng i den fattige bo.</l>
+                  <l met="∪∪-∪∪-∪∪∪-∪∪- &amp; ∪-∪∪∪-∪∪∪-∪∪-" rhyme="r">som dengang jeg var smådreng
+                     i den fattige bo.</l>
                </lg>
             </sp>
             <sp who="#MARGIT">
@@ -1192,13 +1215,15 @@
                <stage>uden at se på ham</stage>
                <lg part="M">
                   <l met="∪-∪-∪∪-∪-∪" rhyme="S">Og jeg – hver dag, jeg på Solhaug bode,</l>
-                  <l met="∪∪-∪∪∪-∪∪∪-∪-∪" rhyme="S">takked himlen, at den gjorde mine kår så gode.</l>
+                  <l met="∪∪-∪∪∪-∪∪∪-∪-∪" rhyme="S">takked himlen, at den gjorde mine kår så
+                     gode.</l>
                </lg>
             </sp>
             <sp who="#GUDMUND">
                <speaker>GUDMUND</speaker>
                <lg part="M">
-                  <l met="∪-∪∪-∪∪-∪∪- &amp; ∪-∪∪∪-∪-∪∪-" rhyme="t">Vel eder, dersom I kan takke fordi –</l>
+                  <l met="∪-∪∪-∪∪-∪∪- &amp; ∪-∪∪∪-∪-∪∪-" rhyme="t">Vel eder, dersom I kan takke
+                     fordi –</l>
                </lg>
             </sp>
             <sp who="#MARGIT">
@@ -1208,8 +1233,10 @@
                   <l met="∪-∪∪-∪-∪∪-" rhyme="t">Og er jeg da ikke hædret og fri?</l>
                   <l met="-∪∪∪-∪∪∪-∪∪-" rhyme="u">Kan jeg ikke byde, som det huer mig bedst?</l>
                   <l met="-∪∪∪-∪∪-∪∪-∪" rhyme="V">Kan jeg ikke, alt som det lyster mig, råde?</l>
-                  <l met="∪-∪∪-∪∪∪-∪∪- &amp; -∪∪∪-∪∪∪-∪∪-" rhyme="u">Her er jeg den første; ingen sidder mig næst;</l>
-                  <l met="∪-∪∪-∪-∪∪-∪ &amp; ∪∪-∪-∪-∪∪-∪ &amp; ∪∪-∪∪∪-∪∪-∪" rhyme="V">og det, ved I, var mig altid til måde.</l>
+                  <l met="∪-∪∪-∪∪∪-∪∪- &amp; -∪∪∪-∪∪∪-∪∪-" rhyme="u">Her er jeg den første; ingen
+                     sidder mig næst;</l>
+                  <l met="∪-∪∪-∪-∪∪-∪ &amp; ∪∪-∪-∪-∪∪-∪ &amp; ∪∪-∪∪∪-∪∪-∪" rhyme="V">og det, ved I,
+                     var mig altid til måde.</l>
                   <l met="∪-∪∪∪-∪∪-∪∪∪-" rhyme="w">I tænkte nok at finde mig kummerlig og træt;</l>
                   <l met="∪∪-∪∪-∪-∪-" rhyme="w">men I ser, jeg er fro, mit sind er let.</l>
                   <l met="∪-∪-∪∪-∪∪-∪" rhyme="Y">Se, derfor kunde I sparet jert komme</l>
@@ -1234,7 +1261,8 @@
             <sp who="#GUDMUND">
                <speaker>GUDMUND</speaker>
                <lg part="M">
-                  <l met="∪-∪∪-∪∪∪-∪∪∪-" rhyme="z">I ved, hvi jeg kommer? Og det er jer ikke med?</l>
+                  <l met="∪-∪∪-∪∪∪-∪∪∪-" rhyme="z">I ved, hvi jeg kommer? Og det er jer ikke
+                     med?</l>
                   <stage>(hilser og vil gå)</stage>
                   <l met="∪-∪∪-∪∪-∪-∪" rhyme="A'">Guds fred og farvel da, min ædle frue!</l>
                </lg>
@@ -1257,7 +1285,8 @@
                <speaker>MARGIT</speaker>
                <lg part="M">
                   <l met="∪∪-∪-∪∪-∪-∪" rhyme="D'">Eders nød? Nu, højt må I hige, frænde;</l>
-                  <l met="∪∪-∪-∪-∪∪-∪ &amp; ∪∪-∪∪∪-∪∪-∪" rhyme="D'">jeg gad vide, hvor I tænker at ende!</l>
+                  <l met="∪∪-∪-∪-∪∪-∪ &amp; ∪∪-∪∪∪-∪∪-∪" rhyme="D'">jeg gad vide, hvor I tænker at
+                     ende!</l>
                   <l met="∪-∪∪-∪∪-∪-" rhyme="c'">I kan eder klæde i fløjel rød,</l>
                   <l met="∪-∪-∪∪-∪-" rhyme="e'">er kongens mand, ejer gods og guld –</l>
                </lg>
@@ -1326,7 +1355,8 @@
                   <l met="∪-∪∪-∪-∪∪-∪" rhyme="O'">At tigge om ly, om bolster og pude</l>
                   <l met="∪-∪∪-∪-∪∪-" rhyme="q'">i fremmed folks hus, det var mig for tungt;</l>
                   <l met="∪-∪∪-∪∪-∪-" rhyme="q'">min tro var jo frejdig; mit håb var ungt;</l>
-                  <l met="∪-∪∪-∪-∪-∪ &amp; ∪-∪-∪∪-∪-∪" rhyme="R'">jeg tænkte: når du til Solhaug kommer,</l>
+                  <l met="∪-∪∪-∪-∪-∪ &amp; ∪-∪-∪∪-∪-∪" rhyme="R'">jeg tænkte: når du til Solhaug
+                     kommer,</l>
                   <l met="-∪∪-∪-∪-∪" rhyme="S'">da er du frelst fra al din kvide;</l>
                   <l met="∪-∪∪-∪∪-∪∪-∪" rhyme="S'">der finder du venner; på dem kan du lide. –</l>
                   <l met="∪-∪∪-∪-∪-∪" rhyme="R'">Men håbet er skørt som markens blommer.</l>
@@ -1351,8 +1381,7 @@
                   <l met="∪-∪-∪∪-" part="F" rhyme="v'">Mit sind er ej som en træls.</l>
                   <l met="∪-∪∪-∪∪-∪∪-∪" rhyme="W'">Nu tykkes mig livet en usselig gave;</l>
                   <l met="∪-∪∪-∪-∪-" rhyme="y'">jeg agter det fast for intet værd.</l>
-                  <l met="-∪∪∪-∪∪-∪-" rhyme="y'">Skrinlagt har I alt, hvad der var mig kært;<note type="met">Urent rim.</note>
-                  </l>
+                  <l met="-∪∪∪-∪∪-∪-" rhyme="y'">Skrinlagt har I alt, hvad der var mig kært;</l>
                   <l met="∪-∪∪-∪-∪∪-∪" rhyme="W'">mit fagreste håb jeg måtte begrave.</l>
                   <l met="∪-∪∪-∪" part="I">Farvel da, fru Margit!</l>
                </lg>
@@ -1419,7 +1448,8 @@
                   <l met="∪-∪∪-∪-∪∪-∪" rhyme="K''">jeg hilded mig selv i brogede lænker.</l>
                   <l met="-∪∪-∪∪-∪∪-∪" rhyme="K''">Tro mig, så klageligt vederlag skænker</l>
                   <l met="-∪∪-∪∪-∪-" rhyme="j''">rigdom, når barmen er sorrigfuld.</l>
-                  <l met="∪-∪∪-∪-∪∪- &amp; -∪∪∪-∪-∪∪-" rhyme="l''">Dengang vi var børn, – hvor var jeg da fro!</l>
+                  <l met="∪-∪∪-∪-∪∪- &amp; -∪∪∪-∪-∪∪-" rhyme="l''">Dengang vi var børn, – hvor var
+                     jeg da fro!</l>
                   <l met="∪∪-∪-∪-∪∪-" rhyme="l''">Vore kår var ringe, fattigt vort bo;</l>
                   <l met="∪-∪-∪∪∪-∪-∪" rhyme="M''">men rigt var håbet i mit bryst herinde.</l>
                </lg>
@@ -1428,7 +1458,8 @@
                <speaker>GUDMUND</speaker>
                <stage>der ufravendt har betragtet hende</stage>
                <lg part="M">
-                  <l met="∪∪-∪∪-∪∪-∪∪-∪" rhyme="M''">Og du arted dig alt til den dejligste kvinde.</l>
+                  <l met="∪∪-∪∪-∪∪-∪∪-∪" rhyme="M''">Og du arted dig alt til den dejligste
+                     kvinde.</l>
                </lg>
             </sp>
             <sp who="#MARGIT">
@@ -1525,7 +1556,8 @@
                   <l met="∪-∪-∪∪-∪-" rhyme="h'''">om barmen er jeg så let og fri,</l>
                   <l met="∪∪-∪∪-∪-∪" rhyme="I'''">som et barn under abildgrene.</l>
                   <stage>(farer sammen i skræk)</stage>
-                  <l met="∪∪-∪∪-∪-∪∪-∪" rhyme="J'''">Ah, hvad falder mig ind! Hvor kunde jeg glemme –!</l>
+                  <l met="∪∪-∪∪-∪-∪∪-∪" rhyme="J'''">Ah, hvad falder mig ind! Hvor kunde jeg glemme
+                     –!</l>
                   <l met="∪∪-∪∪-∪∪-∪-" rhyme="k'''">Alle helgene se til mig nådigt ned!</l>
                   <l met="-∪-∪∪" part="I">Fredløs, sagde du –?</l>
                </lg>
@@ -1638,7 +1670,8 @@
                <stage>idet han atter forvarer flasken</stage>
                <lg part="M">
                   <l part="F" met="-∪∪-∪-" rhyme="e''''">Vel, at jeg fik den gemt. –</l>
-                  <l met="-∪∪-∪∪-∪∪-∪ &amp; ∪-∪-∪∪-∪∪-∪" rhyme="F''''">Tre dage efter var farten tilende.</l>
+                  <l met="-∪∪-∪∪-∪∪-∪ &amp; ∪-∪-∪∪-∪∪-∪" rhyme="F''''">Tre dage efter var farten
+                     tilende.</l>
                   <l met="∪-∪-∪∪-∪∪-∪" rhyme="F''''">Så lønligt flygted jeg med mine svende;</l>
                   <l met="∪-∪∪-∪-∪-" rhyme="g''''">jeg vidste jo nok, i kongens hal</l>
                   <l met="∪∪-∪-∪∪-∪∪-" rhyme="g''''">vilde Audun listelig volde mit fald, –</l>
@@ -1668,9 +1701,11 @@
             <sp who="#GUDMUND">
                <speaker>GUDMUND</speaker>
                <lg part="M">
-                  <l part="F" met="∪-∪-∪∪-∪ &amp; ∪-∪∪-∪-∪" rhyme="I''''">Jeg? Intet. Å, lad mig samle</l>
+                  <l part="F" met="∪-∪-∪∪-∪ &amp; ∪-∪∪-∪-∪" rhyme="I''''">Jeg? Intet. Å, lad mig
+                     samle</l>
                   <l met="∪∪-∪∪-∪-∪∪-" rhyme="j''''">mine tanker; jeg er så frejdig og fro</l>
-                  <l met="∪-∪∪-∪∪∪-∪- &amp; ∪-∪∪-∪∪-∪∪-" rhyme="j''''">fordi jeg, som fordum, er hos eder to.</l>
+                  <l met="∪-∪∪-∪∪∪-∪- &amp; ∪-∪∪-∪∪-∪∪-" rhyme="j''''">fordi jeg, som fordum, er hos
+                     eder to.</l>
                   <l part="I" met="∪-∪-∪">Men, sig mig, – Signe –?</l>
                </lg>
             </sp>
@@ -1680,8 +1715,7 @@
                <lg part="M">
                   <l part="F" met="∪-∪-" rhyme="k''''">Hun kommer snart.</l>
                   <l met="∪-∪-∪∪-∪∪-∪" rhyme="L''''">Hun må jo pynte sig lidt for sin frænde,</l>
-                  <l met="∪-∪∪-∪-∪∪-" rhyme="k''''">og det er vel ikke gjort i en fart.<note type="met">Urent rim.</note>
-                  </l>
+                  <l met="∪-∪∪-∪-∪∪-" rhyme="k''''">og det er vel ikke gjort i en fart.</l>
                </lg>
             </sp>
             <sp who="#GUDMUND">
@@ -1694,17 +1728,23 @@
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
                <stage>ser efter ham</stage>
-               <p>Hvor han er fager og mandig. <stage>(med et suk)</stage> Der er ikke megen lighed mellem ham og – <stage>(rydder lidt op ved drikkebordet, men standser igen dermed)</stage> Dengang var du fri, sagde han. Ja, dengang! <stage>(kort taushed)</stage> Det var en sælsom fortælling, den om prinsessen, som –. Hun havde en anden kær, og så –. Ja, disse kvinder i de fremmede lande, – jeg har hørt det før, – de er ikke veke som vi; de ræddes ikke for at gøre en tanke til dåd. <stage>(tager et bæger, som står på bordet)</stage> Af dette bæger drak Gudmund og jeg på et frydeligt gensyn, da han rejste. Det er fast det eneste arvestykke, jeg bragte med til Solhaug. <stage>(sætter bægeret ind i et vægskab)</stage>
-                  <pb n="145"/>Hvor blid denne sommerdag er. Her er så lyst herinde. Så lifligt har ikke solen skinnet i tre år.</p>
+               <p>Hvor han er fager og mandig. <stage>(med et suk)</stage> Der er ikke megen lighed
+                  mellem ham og – <stage>(rydder lidt op ved drikkebordet, men standser igen
+                     dermed)</stage> Dengang var du fri, sagde han. Ja, dengang! <stage>(kort
+                     taushed)</stage> Det var en sælsom fortælling, den om prinsessen, som –. Hun
+                  havde en anden kær, og så –. Ja, disse kvinder i de fremmede lande, – jeg har hørt
+                  det før, – de er ikke veke som vi; de ræddes ikke for at gøre en tanke til dåd.
+                     <stage>(tager et bæger, som står på bordet)</stage> Af dette bæger drak Gudmund
+                  og jeg på et frydeligt gensyn, da han rejste. Det er fast det eneste arvestykke,
+                  jeg bragte med til Solhaug. <stage>(sætter bægeret ind i et vægskab)</stage>
+                  <pb n="145"/>Hvor blid denne sommerdag er. Her er så lyst herinde. Så lifligt har
+                  ikke solen skinnet i tre år.</p>
             </sp>
             <stage>Signe, og efter hende Gudmund kommer ind fra venstre.</stage>
             <sp who="#SIGNE">
                <speaker>SIGNE</speaker>
                <stage>løber leende hen til Margit</stage>
-               <lg type="stikisk-folkevisevers-kjempevise"
-                   met="bi++ '7|'8|'9"
-                   rhyme="r|R"
-                   part="I">
+               <lg type="stikisk-folkevisevers-kjempevise" met="bi++ '7|'8|'9" rhyme="r|R" part="I">
                   <l met="∪∪-∪-∪∪-∪∪-" rhyme="a">Ha-ha-ha! Han vil ikke tro, det er mig!</l>
                </lg>
             </sp>
@@ -1713,13 +1753,15 @@
                <stage>smilende, til Gudmund</stage>
                <lg part="M">
                   <l met="-∪∪-∪-∪∪-∪" rhyme="B">Ser du; mens fjernt fra bygden du vandred,</l>
-                  <l met="∪-∪-∪∪-∪-∪ &amp; -∪∪-∪∪-∪-∪" rhyme="B">har også <emph>hun</emph> sig så stærkt forandret.</l>
+                  <l met="∪-∪-∪∪-∪-∪ &amp; -∪∪-∪∪-∪-∪" rhyme="B">har også <emph>hun</emph> sig så
+                     stærkt forandret.</l>
                </lg>
             </sp>
             <sp who="#GUDMUND">
                <speaker>GUDMUND</speaker>
                <lg part="M">
-                  <l met="∪-∪∪-∪-∪∪- &amp; ∪-∪-∪∪-∪∪-" rhyme="a">Tilvisse! Men at hun skulde –! Nej, nej,</l>
+                  <l met="∪-∪∪-∪-∪∪- &amp; ∪-∪-∪∪-∪∪-" rhyme="a">Tilvisse! Men at hun skulde –! Nej,
+                     nej,</l>
                   <l met="∪-∪-∪-∪∪-" rhyme="c">det var dog aldrig faldet mig ind.</l>
                   <stage>(griber Signes hænder og ser på hende)</stage>
                   <l met="∪-∪∪-∪∪-∪-" rhyme="c">Og dog, dit uskyldige barnesind</l>
@@ -1735,7 +1777,8 @@
                <speaker>SIGNE</speaker>
                <stage>truer med fingeren</stage>
                <lg part="M">
-                  <l met="∪-∪∪-∪∪-∪∪-∪" rhyme="G">Ja, vogt dig! Hvis hulderens harme du vækker, –</l>
+                  <l met="∪-∪∪-∪∪-∪∪-∪" rhyme="G">Ja, vogt dig! Hvis hulderens harme du vækker,
+                     –</l>
                   <l met="∪-∪-∪∪-∪-" rhyme="f">pas på, – hun hilder dig i sit garn!</l>
                </lg>
             </sp>
@@ -1798,9 +1841,8 @@
             <sp who="#GUDMUND">
                <speaker>GUDMUND</speaker>
                <stage>synger</stage>
-               <lg type="strofisk-strofegruppe-folkevisevers-kjempevise"
-                   met="bi+ '9 '9 '8 '8"
-                   rhyme="A A b b">
+               <lg type="strofisk-strofegruppe-folkevisevers-kjempevise" met="bi+ '9 '9 '8 '8"
+                  rhyme="A A b b">
                   <l met="∪-∪∪-∪∪-∪∪-∪" rhyme="A">Jeg vandred i lien så tung og så ene;</l>
                   <l met="∪-∪∪-∪∪-∪∪-∪" rhyme="A">de småfugle kviddred fra busker og grene;</l>
                   <l met="∪-∪∪-∪∪-∪∪-" rhyme="b">så listeligt kviddred de sangere små:</l>
@@ -1812,17 +1854,15 @@
                   <l met="-∪∪-∪∪-∪-" rhyme="b">fæster den rødder i hjertets grund!</l>
                </lg>
             </sp>
-            <stage>Han går under efterspillet op mod baggrunden, hvor han sætter harpen fra sig.</stage>
+            <stage>Han går under efterspillet op mod baggrunden, hvor han sætter harpen fra
+               sig.</stage>
             <sp who="#SIGNE">
                <speaker>SIGNE</speaker>
                <stage>tankefuld, gentager for sig selv</stage>
-               <lg type="strofisk-strofe-folkevisevers-kjempevise"
-                   part="Y"
-                   met="bi+ '8 '8"
-                   rhyme="b b">
+               <lg type="strofisk-strofe-folkevisevers-kjempevise" part="Y" met="bi+ '8 '8"
+                  rhyme="b b">
                   <l met="∪-∪∪-∪∪-∪∪-" rhyme="b">Den spirer så let; i den flygtigste stund</l>
-                  <l met="-∪∪-∪∪-∪-" rhyme="b">fæster den rødder i hjertets grund.<note type="met">Ufullstendig strofe.</note>
-                  </l>
+                  <l met="-∪∪-∪∪-∪-" rhyme="b">fæster den rødder i hjertets grund.</l>
                </lg>
             </sp>
             <sp who="#MARGIT">
@@ -1832,19 +1872,17 @@
             </sp>
             <sp who="#SIGNE">
                <speaker>SIGNE</speaker>
-               <p>Jeg? Nej visst ikke. Jeg mente kun – <stage>(synker atter hen som i drømme)</stage>
+               <p>Jeg? Nej visst ikke. Jeg mente kun – <stage>(synker atter hen som i
+                     drømme)</stage>
                </p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
                <stage>halv højt; ser frem for sig</stage>
-               <lg type="strofisk-strofe-folkevisevers-kjempevise"
-                   part="Y"
-                   met="bi+ '9 '9"
-                   rhyme="A A">
+               <lg type="strofisk-strofe-folkevisevers-kjempevise" part="Y" met="bi+ '9 '9"
+                  rhyme="A A">
                   <l met="∪-∪∪-∪∪-∪∪-∪" rhyme="A">Den vokser som eken i årene lange;</l>
-                  <l met="∪-∪∪-∪∪-∪∪-∪" rhyme="A">den næres ved tanker og sorger og sange.<note type="met">Ufullstendig strofe.</note>
-                  </l>
+                  <l met="∪-∪∪-∪∪-∪∪-∪" rhyme="A">den næres ved tanker og sorger og sange.</l>
                </lg>
             </sp>
             <sp who="#SIGNE">
@@ -1862,9 +1900,8 @@
                <speaker>
                   <pb n="148"/>GÆSTERNE</speaker>
                <stage>synger</stage>
-               <lg type="strofisk-strofe-folkevisevers"
-                   met="bi++ ('8 '7)² '8 '4 '3"
-                   rhyme="(a B)² c c B">
+               <lg type="strofisk-strofe-folkevisevers" met="bi++ ('8 '7)² '8 '4 '3"
+                  rhyme="(a B)² c c B">
                   <l met="∪∪-∪∪-∪-∪-" rhyme="a">Over tilje med sang og strengespil</l>
                   <l met="∪-∪-∪∪-∪" rhyme="B">i gildestuen vi træde.</l>
                   <l met="∪-∪-∪∪-∪-" rhyme="a">Guds fred vi ønsker den frue mild;</l>
@@ -1879,13 +1916,15 @@
          <div type="act" n="2">
             <head type="act">
                <pb n="150"/>ANDEN AKT</head>
-            <stage>En birkelund, der støder op til huset, hvoraf et hjørne ses til venstre. En fodsti fører op i lien i baggrunden. Til højre for stien fosser en elv nedover og taber sig mellem fjeldstykker og stene. Det er lys sommernat. Døren til huset står åben; vinduerne er oplyste. Musik høres derinde.</stage>
+            <stage>En birkelund, der støder op til huset, hvoraf et hjørne ses til venstre. En
+               fodsti fører op i lien i baggrunden. Til højre for stien fosser en elv nedover og
+               taber sig mellem fjeldstykker og stene. Det er lys sommernat. Døren til huset står
+               åben; vinduerne er oplyste. Musik høres derinde.</stage>
             <sp>
                <speaker>GÆSTERNE</speaker>
                <stage>synger i gildestuen</stage>
-               <lg type="strofisk-strofe-krønikestrofe"
-                   met="bi+ '8 '8 '7 '8 '8 '7"
-                   rhyme="a a B c c B">
+               <lg type="strofisk-strofe-krønikestrofe" met="bi+ '8 '8 '7 '8 '8 '7"
+                  rhyme="a a B c c B">
                   <l met="∪-∪-∪∪-∪-" rhyme="a">Lad fedlen klinge; ved strengeklang</l>
                   <l met="-∪∪-∪∪-∪-" rhyme="a">træder vi dansen den nat så lang.</l>
                   <l met="∪-∪∪-∪∪-∪" rhyme="B">Hvor lystigt at trine på tilje!</l>
@@ -1894,7 +1933,8 @@
                   <l met="∪-∪∪-∪-∪" rhyme="B">han favner den væne lilje!</l>
                </lg>
             </sp>
-            <stage>Knut Gæsling og Erik fra Hægge kommer ud fra huset. Musik, dans og lystighed vedbliver under det følgende at lyde dæmpet derinde.</stage>
+            <stage>Knut Gæsling og Erik fra Hægge kommer ud fra huset. Musik, dans og lystighed
+               vedbliver under det følgende at lyde dæmpet derinde.</stage>
             <sp who="#ERIK">
                <speaker>ERIK</speaker>
                <p>Bare det ikke kommer til at angre dig, Knut.</p>
@@ -1905,11 +1945,16 @@
             </sp>
             <sp who="#ERIK">
                <speaker>ERIK</speaker>
-               <p>Ja, ja, voveligt er det dog. Du er kongens foged. Der udgår herrebud til dig, at du skal fange Gudmund Alfsøn, hvor du kan <pb n="151"/>komme over ham. Og nu, da du har ham lige i næven, så tilsiger du ham dit venskab og lader ham færdes frit, hvor det lyster ham.</p>
+               <p>Ja, ja, voveligt er det dog. Du er kongens foged. Der udgår herrebud til dig, at
+                  du skal fange Gudmund Alfsøn, hvor du kan <pb n="151"/>komme over ham. Og nu, da
+                  du har ham lige i næven, så tilsiger du ham dit venskab og lader ham færdes frit,
+                  hvor det lyster ham.</p>
             </sp>
             <sp who="#KNUT">
                <speaker>KNUT</speaker>
-               <p>Jeg ved, hvad jeg gør. I hans egen stue har jeg søgt ham, og der var han ikke at finde. Og dersom jeg nu forsøgte på at gribe ham <emph>her</emph>, – mener du da, at fru Margit var tilsinds at give mig Signe til hustru?</p>
+               <p>Jeg ved, hvad jeg gør. I hans egen stue har jeg søgt ham, og der var han ikke at
+                  finde. Og dersom jeg nu forsøgte på at gribe ham <emph>her</emph>, – mener du da,
+                  at fru Margit var tilsinds at give mig Signe til hustru?</p>
             </sp>
             <sp who="#ERIK">
                <speaker>ERIK</speaker>
@@ -1918,7 +1963,10 @@
             </sp>
             <sp who="#KNUT">
                <speaker>KNUT</speaker>
-               <p>Og med det onde gad jeg nødig gå frem. Gudmund er jo også min ven fra gamle tider; og han kan gøre mig nytte. <stage>(bestemt)</stage> Derfor bliver det, som jeg har sagt. Ikveld skal ingen her på gården vide, at Gudmund Alfsøn er fredløs; – imorgen får han se at hjælpe sig selv.</p>
+               <p>Og med det onde gad jeg nødig gå frem. Gudmund er jo også min ven fra gamle tider;
+                  og han kan gøre mig nytte. <stage>(bestemt)</stage> Derfor bliver det, som jeg har
+                  sagt. Ikveld skal ingen her på gården vide, at Gudmund Alfsøn er fredløs; –
+                  imorgen får han se at hjælpe sig selv.</p>
             </sp>
             <sp who="#ERIK">
                <speaker>ERIK</speaker>
@@ -1926,17 +1974,16 @@
             </sp>
             <sp who="#KNUT">
                <speaker>KNUT</speaker>
-               <p>Å, kongens lov! Du ved lige så godt som jeg, kongens lov agtes ikke stort her inde i bygderne. Skulde kongens lov gælde, så måtte mangen staut karl iblandt os bøde både for bruderov og manddrab. – Kom nu her! Jeg gad vide, hvor Signe –?</p>
+               <p>Å, kongens lov! Du ved lige så godt som jeg, kongens lov agtes ikke stort her inde
+                  i bygderne. Skulde kongens lov gælde, så måtte mangen staut karl iblandt os bøde
+                  både for bruderov og manddrab. – Kom nu her! Jeg gad vide, hvor Signe –?</p>
             </sp>
             <stage>De går ud til højre.</stage>
             <stage>
                <pb n="151"/>Gudmund og Signe kommer nedover fodstien i baggrunden.</stage>
             <sp who="#SIGNE">
                <speaker>SIGNE</speaker>
-               <lg type="stikisk-folkevisevers-kjempevise"
-                   met="bi++ '7|'8|'9"
-                   rhyme="r|R"
-                   part="I">
+               <lg type="stikisk-folkevisevers-kjempevise" met="bi++ '7|'8|'9" rhyme="r|R" part="I">
                   <l met="∪-∪-∪∪-∪∪-" rhyme="a">Å tal! Bliv ved! Lad mig lytte dertil;</l>
                   <l met="∪-∪∪∪-∪∪-∪-" rhyme="a">det høres som det væneste strengespil.</l>
                </lg>
@@ -1975,14 +2022,16 @@
                   <l met="-∪-∪∪∪-∪∪-" rhyme="d">Hør mig, Signe. Medens årene randt</l>
                   <l met="-∪∪-∪∪∪-∪∪-∪" rhyme="E">tænkte jeg trofast både vinter og sommer</l>
                   <l met="∪-∪-∪∪-∪∪-∪" rhyme="E">på eder to, mine fagreste blommer.</l>
-                  <l met="∪∪-∪∪∪-∪∪-∪∪-" rhyme="f">Men jeg kunde ikke fuldt mine tanker forstå; –</l>
+                  <l met="∪∪-∪∪∪-∪∪-∪∪-" rhyme="f">Men jeg kunde ikke fuldt mine tanker forstå;
+                     –</l>
                   <l met="∪∪-∪-∪∪-∪∪-" rhyme="f">da jeg rejste, var du som alferne små, –</l>
                   <l met="∪-∪∪-∪-∪∪-∪" rhyme="G">som alferne små, der færdes i skove</l>
                   <l met="∪-∪∪-∪∪-∪∪-∪" rhyme="G">og lege som bedst, når vi drømme og sove.</l>
                   <l met="∪∪-∪∪-∪-∪-∪" rhyme="H">Men idag, da jeg stod i Solhaugs stue,</l>
                   <l met="∪∪-∪∪-∪-∪" rhyme="I">da forstod jeg mig selv tilfulde, –</l>
                   <l met="∪-∪-∪∪∪-∪-∪" rhyme="H">forstod, at Margit var så stolt en frue,</l>
-                  <l met="∪-∪∪∪-∪∪∪-∪∪-∪" rhyme="I">men du den allerdejligste blandt ungmøer hulde.</l>
+                  <l met="∪-∪∪∪-∪∪∪-∪∪-∪" rhyme="I">men du den allerdejligste blandt ungmøer
+                     hulde.</l>
                </lg>
             </sp>
             <sp who="#SIGNE">
@@ -1992,11 +2041,13 @@
                <lg part="M">
                   <l met="∪-∪∪-∪-∪-" rhyme="j">Jeg mindes, vi sad ved arnens glød</l>
                   <l met="∪-∪∪-∪∪-∪-∪" rhyme="K">en vinterkveld, – nu er det længe siden; –</l>
-                  <l met="∪-∪∪-∪-∪-∪ &amp; ∪-∪-∪∪-∪-∪" rhyme="K">du sang for mig om den jomfru liden,</l>
+                  <l met="∪-∪∪-∪-∪-∪ &amp; ∪-∪-∪∪-∪-∪" rhyme="K">du sang for mig om den jomfru
+                     liden,</l>
                   <l met="∪-∪∪∪-∪-∪∪-" rhyme="j">som nøkken havde lokket ned i sit skød.</l>
                   <l met="∪-∪∪-∪∪-∪∪-∪" rhyme="L">Der glemte hun bort både fader og moder;</l>
                   <l met="∪-∪∪-∪∪-∪∪-∪" rhyme="L">der glemte hun bort både søster og broder;</l>
-                  <l met="∪-∪∪-∪-∪∪- &amp; ∪-∪-∪∪-∪∪-" rhyme="m">hun glemte bort både himmel og jord,</l>
+                  <l met="∪-∪∪-∪-∪∪- &amp; ∪-∪-∪∪-∪∪-" rhyme="m">hun glemte bort både himmel og
+                     jord,</l>
                   <l met="∪-∪∪-∪∪-∪-" rhyme="m">hun glemte sin gud og hvert kristent ord.</l>
                   <l met="∪-∪∪-∪∪-∪-" rhyme="n">Men tæt under strande den smådreng stod;</l>
                   <l met="∪-∪-∪∪-∪∪-" rhyme="n">han var tilsinde så mødig og mod;</l>
@@ -2023,7 +2074,8 @@
                   <l met="∪-∪-∪∪-∪∪-" rhyme="s">gik også jeg i en drømmende blund;</l>
                   <l met="∪-∪∪∪-∪∪-∪∪-" rhyme="t">de gådefulde ord, du ikveld har mig sagt</l>
                   <l met="∪-∪∪-∪∪-∪∪-" rhyme="t">om kærligheds magt, har mig frydeligt vakt.</l>
-                  <l met="-∪∪∪-∪∪-∪- &amp; ∪∪-∪-∪∪-∪-" rhyme="u">Aldrig tyktes himlen mig før så blå,</l>
+                  <l met="-∪∪∪-∪∪-∪- &amp; ∪∪-∪-∪∪-∪-" rhyme="u">Aldrig tyktes himlen mig før så
+                     blå,</l>
                   <l met="-∪∪-∪∪-∪-∪" rhyme="V">aldrig så fager den verden vide;</l>
                   <l met="∪-∪∪∪-∪∪-∪-" rhyme="u">mig tykkes, jeg kan fuglenes røst forstå,</l>
                   <l met="∪∪-∪∪-∪∪-∪" rhyme="V">når jeg vandrer med dig under lide.</l>
@@ -2071,7 +2123,8 @@
                   <l part="F" met="∪∪-∪∪-" rhyme="a'">Og jeg venter dig her;</l>
                   <stage>(lytter mod højre)</stage>
                   <l met="∪∪-∪-∪∪-∪-" rhyme="a'">eller bedre, – nede ved elven, der</l>
-                  <l met="-∪∪∪-∪∪∪-∪∪-∪" rhyme="B'">hører jeg Knut Gæsling; der er piger og svende.</l>
+                  <l met="-∪∪∪-∪∪∪-∪∪-∪" rhyme="B'">hører jeg Knut Gæsling; der er piger og
+                     svende.</l>
                </lg>
             </sp>
             <sp who="#GUDMUND">
@@ -2113,7 +2166,8 @@
                <speaker>GUDMUND</speaker>
                <lg part="M">
                   <l part="F" met="-∪∪∪-" rhyme="i'">Margit, er du der?</l>
-                  <l met="∪-∪∪∪-∪∪∪-∪∪∪-" rhyme="j'">Hvi går du så alene? Jeg har søgt dig overalt.</l>
+                  <l met="∪-∪∪∪-∪∪∪-∪∪∪-" rhyme="j'">Hvi går du så alene? Jeg har søgt dig
+                     overalt.</l>
                </lg>
             </sp>
             <sp who="#MARGIT">
@@ -2218,7 +2272,8 @@
                   <l met="∪-∪-∪∪-∪∪-" rhyme="w'">om dagen er jeg så ræd som en hind.</l>
                   <l met="∪∪-∪∪-∪-∪∪-" rhyme="z'">Og hvad er det vel mere? Mindes dig kun</l>
                   <l met="∪∪-∪∪-∪∪-∪-" rhyme="z'">hine kvinder i fremmede lande, – hun,</l>
-                  <l met="∪-∪∪-∪∪-∪-" rhyme="a''">den fagre prinsesse; – se, <emph>hun</emph> var vild;</l>
+                  <l met="∪-∪∪-∪∪-∪-" rhyme="a''">den fagre prinsesse; – se, <emph>hun</emph> var
+                     vild;</l>
                   <l met="∪-∪-∪∪-∪-" rhyme="a''">mod hende er jeg som lammet mild.</l>
                   <l met="∪-∪∪-∪∪-∪∪-" rhyme="b''">At længes og hige hun voved ej blot;</l>
                   <l part="I" met="∪-∪∪-∪∪-">hun pønsed på dåd; og se <emph>det</emph> –</l>
@@ -2244,8 +2299,7 @@
                <lg part="M">
                   <l part="F" met="∪-∪∪∪-" rhyme="d''">Jeg gemte den, fordi</l>
                   <l met="∪-∪∪-∪-∪∪-" rhyme="d''">jeg tænkte, med den at løse mig fri,</l>
-                  <l met="∪-∪-∪∪-∪∪-" rhyme="e''">hvis kongens mænd skulde komme mig nær.<note type="met">Urent rim.</note>
-                  </l>
+                  <l met="∪-∪-∪∪-∪∪-" rhyme="e''">hvis kongens mænd skulde komme mig nær.</l>
                   <l met="∪-∪∪-∪∪-∪∪-" rhyme="e''">Men alt fra ikveld har den mistet sit værd;</l>
                   <l met="∪-∪-∪∪-∪∪- &amp; -∪∪-∪∪-∪∪-" rhyme="e''">
                      <pb n="157"/>nu vil jeg stride med arm og med sværd,</l>
@@ -2273,7 +2327,8 @@
                <lg part="M">
                   <l met="-∪∪∪-∪∪-∪ &amp; -∪-∪-∪∪-∪" rhyme="H''">Skænke den til nøkken dernede.</l>
                   <l met="∪-∪∪-∪-∪∪∪-" rhyme="g''">Han har mig så tidt forlystet med sit spil</l>
-                  <l met="∪-∪∪∪-∪∪-∪ &amp; ∪-∪-∪-∪∪-∪" rhyme="H''">og sunget mig mangt underligt kvæde.</l>
+                  <l met="∪-∪∪∪-∪∪-∪ &amp; ∪-∪-∪-∪∪-∪" rhyme="H''">og sunget mig mangt underligt
+                     kvæde.</l>
                   <l part="I" met="∪-">Giv hid.</l>
                   <stage>(tager flasken ud af hans hånd)</stage>
                   <l part="M" met="∪-∪">Der er den!</l>
@@ -2315,12 +2370,13 @@
                   <l met="∪∪-∪-∪∪-∪" rhyme="K''">som er gjort om kirken dernede.</l>
                   <l met="∪-∪∪-∪∪-∪∪-" rhyme="l''">Det var sig en frue og dertil en svend;</l>
                   <l met="∪∪-∪-∪-∪- &amp; ∪∪-∪∪∪-∪-" rhyme="m''">alt så havde de hinanden kær.</l>
-                  <l met="∪-∪∪-∪∪-∪- &amp; ∪-∪-∪∪∪-∪-" rhyme="l''">Den dag de bar hende til jorden hen,</l>
-                  <l met="∪-∪∪-∪-" rhyme="m''">han blødede ved sit sværd.<note type="met">Urent rim.</note>
-                  </l>
+                  <l met="∪-∪∪-∪∪-∪- &amp; ∪-∪-∪∪∪-∪-" rhyme="l''">Den dag de bar hende til jorden
+                     hen,</l>
+                  <l met="∪-∪∪-∪-" rhyme="m''">han blødede ved sit sværd.</l>
                   <l met="∪-∪∪-∪∪-∪-" rhyme="n''">Hun jordedes syd under kirkevæg,</l>
                   <l met="∪-∪∪-∪∪-" rhyme="o''">han stædtes til mulde i nord; –</l>
-                  <l met="∪-∪∪-∪∪∪-∪∪∪-" rhyme="n''">der trivedes fordum hverken siljer eller hæg</l>
+                  <l met="∪-∪∪-∪∪∪-∪∪∪-" rhyme="n''">der trivedes fordum hverken siljer eller
+                     hæg</l>
                   <l met="-∪∪-∪∪- &amp; ∪-∪-∪∪-" rhyme="o''">alt i den viede jord; –</l>
                   <l met="∪-∪-∪∪-∪-" rhyme="p''">men næste vår på de grave to</l>
                   <l met="∪-∪∪-∪∪-∪-∪" rhyme="Q''">der vokste de fagreste liljeblommer;</l>
@@ -2341,14 +2397,16 @@
                <lg part="M">
                   <l met="∪-∪∪-∪∪-∪-" rhyme="r''">Vel sandt, det kan tydes på mange sæt;</l>
                   <l met="∪∪-∪∪-∪∪-∪-" rhyme="s''">men jeg tror nu den retteste mening er:</l>
-                  <l met="-∪∪∪-∪∪∪-∪∪∪-" rhyme="s''">kirken kan ej skille to, som har hinanden kær.</l>
+                  <l met="-∪∪∪-∪∪∪-∪∪∪-" rhyme="s''">kirken kan ej skille to, som har hinanden
+                     kær.</l>
                </lg>
             </sp>
             <sp who="#GUDMUND">
                <speaker>GUDMUND</speaker>
                <stage>sagte</stage>
                <lg part="M">
-                  <l met="∪∪-∪∪∪-∪-∪∪-∪ &amp; ∪∪-∪∪-∪∪-∪∪-∪" rhyme="T''">Alle helgener, dersom –! Da er det på tide,</l>
+                  <l met="∪∪-∪∪∪-∪-∪∪-∪ &amp; ∪∪-∪∪-∪∪-∪∪-∪" rhyme="T''">Alle helgener, dersom –! Da
+                     er det på tide,</l>
                   <l met="∪∪-∪-∪∪-∪" rhyme="T''">at hun får det hele at vide.</l>
                   <stage>(højt)</stage>
                   <l met="-∪-∪-∪∪-" rhyme="u''">Svar mig, Margit, – vil du mit held?</l>
@@ -2395,24 +2453,28 @@
                </lg>
             </sp>
             <stage>Han standser pludselig. Stemmer og latter høres henne ved elvebredden.</stage>
-            <stage>Signe og nogle unge piger kommer fra højre. Knut, Erik og flere yngre mænd er i følge med dem.</stage>
+            <stage>Signe og nogle unge piger kommer fra højre. Knut, Erik og flere yngre mænd er i
+               følge med dem.</stage>
             <sp who="#KNUT">
                <speaker>KNUT</speaker>
                <stage>endnu i frastand</stage>
                <p>Gudmund Alfsøn! Vent; jeg må tale et ord med dig.</p>
             </sp>
-            <stage>Han bliver stående i samtale med Erik. De øvrige fremmede går imidlertid ind i huset.</stage>
+            <stage>Han bliver stående i samtale med Erik. De øvrige fremmede går imidlertid ind i
+               huset.</stage>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
                <stage>for sig selv</stage>
-               <p>Gøre ham så rig og fro –! Hvad kan han andet mene, end –! <stage>(halvhøjt)</stage> Signe, – kære, kære søster!</p>
+               <p>Gøre ham så rig og fro –! Hvad kan han andet mene, end –!
+                     <stage>(halvhøjt)</stage> Signe, – kære, kære søster!</p>
             </sp>
             <stage>Hun griber Signe om livet og går samtalende med hende op mod baggrunden.</stage>
             <sp who="#GUDMUND">
                <speaker>
                   <pb n="159"/>GUDMUND</speaker>
                <stage>sagte, idet han følger dem med øjnene</stage>
-               <p>Ja, sådan er det rådeligst. Både Signe og jeg må fra Solhaug. Knut Gæsling har jo vist sig som min ven; han hjælper mig nok.</p>
+               <p>Ja, sådan er det rådeligst. Både Signe og jeg må fra Solhaug. Knut Gæsling har jo
+                  vist sig som min ven; han hjælper mig nok.</p>
             </sp>
             <sp who="#KNUT">
                <speaker>KNUT</speaker>
@@ -2436,7 +2498,8 @@
             </sp>
             <sp who="#KNUT">
                <speaker>KNUT</speaker>
-               <p>Tør? Vær du rolig for det; Knut Gæsling tør alt, hvad han vil. Nej, det er noget andet. – Du ved jo, jeg gælder her i bygden for en vild, ustyrlig karl –</p>
+               <p>Tør? Vær du rolig for det; Knut Gæsling tør alt, hvad han vil. Nej, det er noget
+                  andet. – Du ved jo, jeg gælder her i bygden for en vild, ustyrlig karl –</p>
             </sp>
             <sp who="#GUDMUND">
                <speaker>GUDMUND</speaker>
@@ -2451,11 +2514,14 @@
             <sp who="#SIGNE">
                <speaker>SIGNE</speaker>
                <stage>til Margit, idet de kommer nedover ved huset</stage>
-               <p>Jeg forstår dig ikke. Du taler, som om en uventet lykke var bleven dig til del. Hvad er det vel, du mener?</p>
+               <p>Jeg forstår dig ikke. Du taler, som om en uventet lykke var bleven dig til del.
+                  Hvad er det vel, du mener?</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
-               <p>Signe, – du er et barn endnu; du ved ikke hvad det vil sige at færdes i en evig rædsel for at –. <stage>(pludselig afbrydende)</stage> Tænk dig, Signe, at måtte visne og dø uden at have levet!</p>
+               <p>Signe, – du er et barn endnu; du ved ikke hvad det vil sige at færdes i en evig
+                  rædsel for at –. <stage>(pludselig afbrydende)</stage> Tænk dig, Signe, at måtte
+                  visne og dø uden at have levet!</p>
             </sp>
             <sp who="#SIGNE">
                <speaker>SIGNE</speaker>
@@ -2470,7 +2536,9 @@
             <stage>Gudmund og Knut kommer nedover på den anden side.</stage>
             <sp who="#GUDMUND">
                <speaker>GUDMUND</speaker>
-               <p>Nu, hvis det er sådan fat, – dersom dette vilde liv ikke huer dig længer, så vil jeg skænke dig det bedste råd, som nogen ven har i eje: fæst dig en ærbar ungmø til hustru.</p>
+               <p>Nu, hvis det er sådan fat, – dersom dette vilde liv ikke huer dig længer, så vil
+                  jeg skænke dig det bedste råd, som nogen ven har i eje: fæst dig en ærbar ungmø
+                  til hustru.</p>
             </sp>
             <sp who="#KNUT">
                <speaker>KNUT</speaker>
@@ -2491,7 +2559,9 @@
             </sp>
             <sp who="#KNUT">
                <speaker>KNUT</speaker>
-               <p>Ej, det skal du lidet agte. Der er jo ingen her, uden fru Margit, som ved besked om det endnu; og så længe jeg er din ven, så har du en, du fuldt kan lide på. Hør nu bare –</p>
+               <p>Ej, det skal du lidet agte. Der er jo ingen her, uden fru Margit, som ved besked
+                  om det endnu; og så længe jeg er din ven, så har du en, du fuldt kan lide på. Hør
+                  nu bare –</p>
             </sp>
             <stage>Han fortsætter hviskende, idet de igen går opover.</stage>
             <sp who="#SIGNE">
@@ -2505,7 +2575,8 @@
             </sp>
             <sp who="#SIGNE">
                <speaker>SIGNE</speaker>
-               <p>Da vil jeg være ærligere mod dig. Men svar mig først på et. <stage>(undsélig, nølende)</stage> Er der – er der ingen, som har sagt dig noget om mig?</p>
+               <p>Da vil jeg være ærligere mod dig. Men svar mig først på et. <stage>(undsélig,
+                     nølende)</stage> Er der – er der ingen, som har sagt dig noget om mig?</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
@@ -2519,12 +2590,14 @@
             <sp who="#MARGIT">
                <speaker>
                   <pb n="162"/>MARGIT</speaker>
-               <p>Det er sandt. <stage>(sagte)</stage> Knut Gæsling –; skulde han allerede –? <stage>(spændt, til Signe)</stage> Nu? Og så?</p>
+               <p>Det er sandt. <stage>(sagte)</stage> Knut Gæsling –; skulde han allerede –?
+                     <stage>(spændt, til Signe)</stage> Nu? Og så?</p>
             </sp>
             <sp who="#SIGNE">
                <speaker>SIGNE</speaker>
                <stage>sagte, jublende</stage>
-               <p>Bejleren er kommen! Han er kommen, Margit! Dengang vidste jeg ikke, hvem du mente; men nu –!</p>
+               <p>Bejleren er kommen! Han er kommen, Margit! Dengang vidste jeg ikke, hvem du mente;
+                  men nu –!</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
@@ -2532,27 +2605,28 @@
             </sp>
             <sp who="#SIGNE">
                <speaker>SIGNE</speaker>
-               <p>Å, det ved jeg ikke. <stage>(slår armene om hendes hals)</stage> Men verden tykkes mig så fager og rig fra den stund, han sagde mig, at han havde mig kær.</p>
+               <p>Å, det ved jeg ikke. <stage>(slår armene om hendes hals)</stage> Men verden tykkes
+                  mig så fager og rig fra den stund, han sagde mig, at han havde mig kær.</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
-               <p>Men, Signe, Signe; jeg fatter ikke, at du så snart –! Du har jo neppe kendt ham før idag.</p>
+               <p>Men, Signe, Signe; jeg fatter ikke, at du så snart –! Du har jo neppe kendt ham
+                  før idag.</p>
             </sp>
             <sp who="#SIGNE">
                <speaker>SIGNE</speaker>
-               <p>Å, jeg forstår mig endnu så lidet på kærlighed; men det ved jeg, sandt er det, som der står i visen:</p>
-               <lg type="strofisk-strofe-folkevisevers-kjempevise"
-                   part="Y"
-                   met="bi+ '8 '8"
-                   rhyme="b b">
+               <p>Å, jeg forstår mig endnu så lidet på kærlighed; men det ved jeg, sandt er det, som
+                  der står i visen:</p>
+               <lg type="strofisk-strofe-folkevisevers-kjempevise" part="Y" met="bi+ '8 '8"
+                  rhyme="b b">
                   <l met="∪-∪∪-∪∪-∪∪-" rhyme="b">den spirer så let; i den flygtigste stund</l>
-                  <l met="-∪∪-∪∪-∪-" rhyme="b">fæster den rødder i hjertets grund –<note type="met">Ufullstendig strofe.</note>
-                  </l>
+                  <l met="-∪∪-∪∪-∪-" rhyme="b">fæster den rødder i hjertets grund –</l>
                </lg>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
-               <p>Lad så være. Og når så er, da har jeg ikke længer nødig at dølge noget for dig. Ah –</p>
+               <p>Lad så være. Og når så er, da har jeg ikke længer nødig at dølge noget for dig. Ah
+                  –</p>
             </sp>
             <stage>Hun standser pludselig, da hun ser Knut og Gudmund komme nærmere.</stage>
             <sp who="#KNUT">
@@ -2644,13 +2718,15 @@
             </sp>
             <sp who="#KNUT">
                <speaker>KNUT</speaker>
-               <p>Ej, ej; er det sådan fat? Hør, fru Margit, I har ikke nødig at lade så forundret; jeg skønner nu det hele.</p>
+               <p>Ej, ej; er det sådan fat? Hør, fru Margit, I har ikke nødig at lade så forundret;
+                  jeg skønner nu det hele.</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>
                   <pb n="165"/>MARGIT</speaker>
                <stage>til Signe</stage>
-               <p>Men du sagde jo nys –? <stage>(fatter pludselig sammenhængen)</stage> Gudmund var det, du mente!</p>
+               <p>Men du sagde jo nys –? <stage>(fatter pludselig sammenhængen)</stage> Gudmund var
+                  det, du mente!</p>
             </sp>
             <sp who="#SIGNE">
                <speaker>SIGNE</speaker>
@@ -2665,7 +2741,11 @@
             <sp who="#KNUT">
                <speaker>KNUT</speaker>
                <stage>til Margit</stage>
-               <p>Og imorges, da I fik mit ord på, at jeg ingen ufred skulde yppe her ikveld, – I har da vidst, at Gudmund Alfsøn var ivente. Ha, ha, bild jer aldrig ind, at I kan drive gæk med Knut Gæsling! Signe er bleven mig kær. Endnu før middag var det bare mit ubesindige løfte, som drev mig til at bejle efter hende; men <emph>nu</emph> –</p>
+               <p>Og imorges, da I fik mit ord på, at jeg ingen ufred skulde yppe her ikveld, – I
+                  har da vidst, at Gudmund Alfsøn var ivente. Ha, ha, bild jer aldrig ind, at I kan
+                  drive gæk med Knut Gæsling! Signe er bleven mig kær. Endnu før middag var det bare
+                  mit ubesindige løfte, som drev mig til at bejle efter hende; men <emph>nu</emph>
+                  –</p>
             </sp>
             <sp who="#SIGNE">
                <speaker>SIGNE</speaker>
@@ -2688,7 +2768,9 @@
             </sp>
             <sp who="#KNUT">
                <speaker>KNUT</speaker>
-               <p>Det er godt; så har jeg ikke mere at gøre på Solhaug. Men efter midnat, – mærk jer det, – da er dagen til ende; da tør I nok få <pb n="166"/>se mig igen, og så får lykken råde for, hvem der skal føre Signe fra gården, Gudmund eller jeg.</p>
+               <p>Det er godt; så har jeg ikke mere at gøre på Solhaug. Men efter midnat, – mærk jer
+                  det, – da er dagen til ende; da tør I nok få <pb n="166"/>se mig igen, og så får
+                  lykken råde for, hvem der skal føre Signe fra gården, Gudmund eller jeg.</p>
             </sp>
             <sp who="#GUDMUND">
                <speaker>GUDMUND</speaker>
@@ -2701,14 +2783,16 @@
             </sp>
             <sp who="#KNUT">
                <speaker>KNUT</speaker>
-               <p>Vær spag; vær bare spag, Gudmund Alfsøn! Før solen rinder skal du være i min magt. Og hun, – din fæstemø –. <stage>(går hen til døren, vinker og råber dæmpet)</stage> Erik! Erik, kom her! Afsted til vore frænder! <stage>(truende, mens Erik viser sig i døren)</stage> Ja, ve jer alle, når jeg kommer igen!</p>
+               <p>Vær spag; vær bare spag, Gudmund Alfsøn! Før solen rinder skal du være i min magt.
+                  Og hun, – din fæstemø –. <stage>(går hen til døren, vinker og råber
+                     dæmpet)</stage> Erik! Erik, kom her! Afsted til vore frænder! <stage>(truende,
+                     mens Erik viser sig i døren)</stage> Ja, ve jer alle, når jeg kommer igen!</p>
             </sp>
             <stage>Han og Erik går ud til venstre i baggrunden.</stage>
             <sp who="#SIGNE">
                <speaker>SIGNE</speaker>
                <stage>sagte til Gudmund</stage>
-               <p>Å, men så sig mig, hvad skal alt dette
-betyde?</p>
+               <p>Å, men så sig mig, hvad skal alt dette betyde?</p>
             </sp>
             <sp who="#GUDMUND">
                <speaker>GUDMUND</speaker>
@@ -2727,28 +2811,28 @@ betyde?</p>
                <speaker>
                   <pb n="167"/>MARGIT</speaker>
                <stage>hen for sig</stage>
-               <p>Hende, – hende er det! Hende, som han knapt har tænkt på før ikveld. Havde jeg været fri, så ved jeg nok hvem han havde kåret. – Ja, fri!</p>
+               <p>Hende, – hende er det! Hende, som han knapt har tænkt på før ikveld. Havde jeg
+                  været fri, så ved jeg nok hvem han havde kåret. – Ja, fri!</p>
             </sp>
             <stage>Bengt og gæsterne, mænd og kvinder, kommer ud fra huset.</stage>
             <sp>
                <speaker>UNGE PIGER og SVENDE</speaker>
                <stage>synger</stage>
-               <lg type="strofisk-strofegruppe-folkevisevers"
-                   met="bi++ '8 '7 '8 '5"
-                   rhyme="a B a B">
+               <lg type="strofisk-strofegruppe-folkevisevers" met="bi++ '8 '7 '8 '5" rhyme="a B a B">
                   <l met="∪-∪∪-∪∪-∪-" rhyme="a">Herude, herude skal gildet stå,</l>
                   <l met="-∪∪-∪-∪ &amp; ∪-∪-∪-∪" rhyme="B">alt mens de fugle blunde,</l>
                   <l met="∪-∪∪-∪∪∪-∪-" rhyme="a">hvor lystigt at lege mellem blomster små</l>
-                  <l type="refreng" met="∪-∪-∪" rhyme="B">i birkelunde.</l>
+                  <l met="∪-∪-∪" rhyme="B">i birkelunde.</l>
                   <l met="∪-∪∪-∪∪-∪-" rhyme="a">Herude, herude skal lyst og skemt</l>
                   <l met="-∪∪-∪-∪" rhyme="B">lyde fra alle munde,</l>
                   <l met="∪-∪∪-∪∪-∪∪-" rhyme="a">al kvide må ende, når fedlen er stemt</l>
-                  <l type="refreng" met="∪-∪-∪" rhyme="B">i birkelunde.</l>
+                  <l met="∪-∪-∪" rhyme="B">i birkelunde.</l>
                </lg>
             </sp>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
-               <p>Se, sådan skal det være! Det må jeg lide! Jeg er lystig, og min hustru ligervis; og derfor skal I være lystige alle sammen.</p>
+               <p>Se, sådan skal det være! Det må jeg lide! Jeg er lystig, og min hustru ligervis;
+                  og derfor skal I være lystige alle sammen.</p>
             </sp>
             <sp>
                <speaker>EN AF GÆSTERNE</speaker>
@@ -2761,7 +2845,9 @@ betyde?</p>
             </sp>
             <sp>
                <speaker>EN ANDEN GÆST</speaker>
-               <p>Nej, lad være med det; det vækker bare ufred i laget. <stage>(med dæmpet stemme)</stage> I drages vel til minde, at Knut Gæsling er på gården ikveld.</p>
+               <p>Nej, lad være med det; det vækker bare ufred i laget. <stage>(med dæmpet
+                     stemme)</stage> I drages vel til minde, at Knut Gæsling er på gården
+                  ikveld.</p>
             </sp>
             <sp>
                <speaker>
@@ -2771,11 +2857,13 @@ betyde?</p>
             </sp>
             <sp who="#GAMMELMAND">
                <speaker>EN GAMMEL MAND</speaker>
-               <p>Men I, fru Margit –; jeg ved, eders slægt var altid sagnkyndig, og I selv kunde mange vakkre eventyr, alt imens I var barn.</p>
+               <p>Men I, fru Margit –; jeg ved, eders slægt var altid sagnkyndig, og I selv kunde
+                  mange vakkre eventyr, alt imens I var barn.</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
-               <p>Ak, jeg har glemt dem alle tilhobe. Men spørg Gudmund Alfsøn, min frænde; han kender et eventyr, som er lystigt nok.</p>
+               <p>Ak, jeg har glemt dem alle tilhobe. Men spørg Gudmund Alfsøn, min frænde; han
+                  kender et eventyr, som er lystigt nok.</p>
             </sp>
             <sp who="#GUDMUND">
                <speaker>GUDMUND</speaker>
@@ -2784,7 +2872,14 @@ betyde?</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
-               <p>Ej, hvilket klageligt ansigt du sætter op! Vær lystig, Gudmund! Vær lystig! Ja, ja, det falder dig ikke så let, kan jeg tro. <stage>(leende, til gæsterne)</stage> Han har set huldren ikveld. Hun vilde forlokke ham; men Gudmund er en trofast svend. <stage>(vender sig atter til Gudmund)</stage> Nu ja, eventyret er ikke endt endnu. Når du fører din hjertenskær over hej og gennem skove, så vend dig aldrig om; se dig aldrig tilbage; – huldren sidder bag hver en busk og ler; og til slut – <stage>(med dæmpet stemme, idet hun træder tæt hen til ham)</stage> kommer du dog ikke længer end hun vil.</p>
+               <p>Ej, hvilket klageligt ansigt du sætter op! Vær lystig, Gudmund! Vær lystig! Ja,
+                  ja, det falder dig ikke så let, kan jeg tro. <stage>(leende, til gæsterne)</stage>
+                  Han har set huldren ikveld. Hun vilde forlokke ham; men Gudmund er en trofast
+                  svend. <stage>(vender sig atter til Gudmund)</stage> Nu ja, eventyret er ikke endt
+                  endnu. Når du fører din hjertenskær over hej og gennem skove, så vend dig aldrig
+                  om; se dig aldrig tilbage; – huldren sidder bag hver en busk og ler; og til slut –
+                     <stage>(med dæmpet stemme, idet hun træder tæt hen til ham)</stage> kommer du
+                  dog ikke længer end hun vil.</p>
             </sp>
             <stage>Hun går over mod højre.</stage>
             <sp who="#SIGNE">
@@ -2796,18 +2891,22 @@ betyde?</p>
                <speaker>
                   <pb n="168"/>BENGT</speaker>
                <stage>går fornøjet om mellem gæsterne</stage>
-               <p>Ha, ha, ha! Fru Margit ved at sætte det sammen! Når hun først vil, så gør hun det meget bedre end jeg.</p>
+               <p>Ha, ha, ha! Fru Margit ved at sætte det sammen! Når hun først vil, så gør hun det
+                  meget bedre end jeg.</p>
             </sp>
             <sp who="#GUDMUND">
                <speaker>GUDMUND</speaker>
                <stage>for sig selv</stage>
-               <p>Hun truer; jeg må rive det sidste håb fra hende; før bliver hun ikke rolig tilsinds. <stage>(vender sig til de fremmede)</stage> Jeg kender et lidet kvæde. Hvis det lyster eder at høre, så –</p>
+               <p>Hun truer; jeg må rive det sidste håb fra hende; før bliver hun ikke rolig
+                  tilsinds. <stage>(vender sig til de fremmede)</stage> Jeg kender et lidet kvæde.
+                  Hvis det lyster eder at høre, så –</p>
             </sp>
             <sp>
                <speaker>FLERE AF GÆSTERNE</speaker>
                <p>Tak, tak, Gudmund Alfsøn!</p>
             </sp>
-            <stage>Man slutter sig om ham, nogle siddende, andre stående. Margit læner sig til et træ foran til højre. Signe står til venstre nær ved huset.</stage>
+            <stage>Man slutter sig om ham, nogle siddende, andre stående. Margit læner sig til et
+               træ foran til højre. Signe står til venstre nær ved huset.</stage>
             <sp who="#GUDMUND">
                <speaker>GUDMUND</speaker>
                <stage>synger</stage>
@@ -2829,7 +2928,8 @@ betyde?</p>
             <sp who="#GAMMELMAND">
                <speaker>
                   <pb n="169"/>EN GAMMEL MAND</speaker>
-               <p>Det er et vakkert kvæde. Se, hvor de unge svende skotter did hen. <stage>(peger mod pigerne)</stage> Ja, ja, hver har vel sin, kan jeg tro.</p>
+               <p>Det er et vakkert kvæde. Se, hvor de unge svende skotter did hen. <stage>(peger
+                     mod pigerne)</stage> Ja, ja, hver har vel sin, kan jeg tro.</p>
             </sp>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
@@ -2839,7 +2939,8 @@ betyde?</p>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
                <stage>sagte, bævende</stage>
-               <p>Å, at måtte lide al den spot og spe! Nej, nej; nu må den sidste redning fristes.</p>
+               <p>Å, at måtte lide al den spot og spe! Nej, nej; nu må den sidste redning
+                  fristes.</p>
             </sp>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
@@ -2847,7 +2948,9 @@ betyde?</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
-               <p>Det går snart over. <stage>(vender sig til gæsterne)</stage> Det bæres mig for, som jeg nys sagde, jeg havde glemt alle mine eventyr. Men jeg tror dog, jeg mindes et.</p>
+               <p>Det går snart over. <stage>(vender sig til gæsterne)</stage> Det bæres mig for,
+                  som jeg nys sagde, jeg havde glemt alle mine eventyr. Men jeg tror dog, jeg mindes
+                  et.</p>
             </sp>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
@@ -2870,9 +2973,7 @@ betyde?</p>
             <sp who="#MARGIT">
                <speaker>
                   <pb n="170"/>MARGIT</speaker>
-               <lg type="stikisk-folkevisevers-kjempevise"
-                   met="bi++ '7|'8|'9"
-                   rhyme="r|R">
+               <lg type="stikisk-folkevisevers-kjempevise" met="bi++ '7|'8|'9" rhyme="r|R">
                   <l met="∪-∪∪-∪-∪∪-" rhyme="a">Det var sig en ungmø fager og fin,</l>
                   <l met="∪-∪∪-∪-" rhyme="b">hun sad i sin faders gård;</l>
                   <l met="∪-∪∪-∪∪-∪∪-" rhyme="a">hun sømmed i silke, hun sømmed i lin; –</l>
@@ -2919,7 +3020,8 @@ betyde?</p>
                   <l met="∪-∪-∪∪-∪-" rhyme="u">og stævner over den salte sø!</l>
                   <stage>(skriger)</stage>
                   <l met="∪-∪∪-∪-∪∪-∪" rhyme="V">Med mig er det ude; berget er lukket!</l>
-                  <l met="∪∪-∪∪∪-∪∪∪-∪∪-∪" rhyme="V">Solen lyser ikke mere; alle stjerner er slukket.</l>
+                  <l met="∪∪-∪∪∪-∪∪∪-∪∪-∪" rhyme="V">Solen lyser ikke mere; alle stjerner er
+                     slukket.</l>
                </lg>
             </sp>
             <stage>Hun vakler og segner afmægtig over mod en træstamme.</stage>
@@ -2939,20 +3041,23 @@ betyde?</p>
          <div type="act" n="3">
             <head type="act">
                <pb n="173"/>TREDJE AKT</head>
-            <stage>Stuen på Solhaug ligesom før men nu i uorden efter gildet. Det er fremdeles nat; en mild dæmring er udbredt over værelset og over landskabet udenfor.</stage>
-            <stage>Bengt står i den åbne svalegang med en ølbolle i hånden. En flok gæster er i færd med at forlade gården. Inde i stuen går en pige og rydder op.</stage>
+            <stage>Stuen på Solhaug ligesom før men nu i uorden efter gildet. Det er fremdeles nat;
+               en mild dæmring er udbredt over værelset og over landskabet udenfor.</stage>
+            <stage>Bengt står i den åbne svalegang med en ølbolle i hånden. En flok gæster er i færd
+               med at forlade gården. Inde i stuen går en pige og rydder op.</stage>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
                <stage>råber til de bortdragende</stage>
-               <p>Guds fred da, og vel mødt igen på Solhaug! I kunde ellers gerne blevet her og sovet ud, I, lige så vel som de andre. Nå ja, ja –; nej vent; jeg følger med til ledet; jeg må drikke jer til endnu en gang.</p>
+               <p>Guds fred da, og vel mødt igen på Solhaug! I kunde ellers gerne blevet her og
+                  sovet ud, I, lige så vel som de andre. Nå ja, ja –; nej vent; jeg følger med til
+                  ledet; jeg må drikke jer til endnu en gang.</p>
             </sp>
             <stage>Han går ud.</stage>
             <sp>
                <speaker>GÆSTERNE</speaker>
                <stage>synger i frastand</stage>
-               <lg type="strofisk-strofe-folkevisevers"
-                   met="bi+ ('8 '7)² '4 '8 '4"
-                   rhyme="(a B)² c c x">
+               <lg type="strofisk-strofe-folkevisevers" met="bi+ ('8 '7)² '4 '8 '4"
+                  rhyme="(a B)² c c x">
                   <l met="∪-∪∪-∪-∪-" rhyme="a">Guds fred og farvel til hver og en,</l>
                   <l met="∪-∪-∪-∪" rhyme="B">som har på gården hjemme!</l>
                   <l met="∪-∪-∪∪-∪-" rhyme="a">Nu går vor sti over stok og sten; –</l>
@@ -2971,7 +3076,8 @@ betyde?</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
-               <p>Jeg er frisk og vel; du kan gå ned og sove. Vent; sig mig, er alle gæsterne borte?</p>
+               <p>Jeg er frisk og vel; du kan gå ned og sove. Vent; sig mig, er alle gæsterne
+                  borte?</p>
             </sp>
             <sp>
                <speaker>PIGEN</speaker>
@@ -2983,23 +3089,25 @@ betyde?</p>
             </sp>
             <sp>
                <speaker>PIGEN</speaker>
-               <p>Han sover nok også. <stage>(peger mod højre)</stage> For lidt siden gik han ind i sit kammer, der, lige over gangen.</p>
+               <p>Han sover nok også. <stage>(peger mod højre)</stage> For lidt siden gik han ind i
+                  sit kammer, der, lige over gangen.</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
                <p>Godt; du kan gå.</p>
             </sp>
             <stage>Pigen går ud til venstre.</stage>
-            <stage>Margit går langsomt hen over gulvet, sætter sig ved bordet til højre og ser ud mod det åbne vindu.</stage>
+            <stage>Margit går langsomt hen over gulvet, sætter sig ved bordet til højre og ser ud
+               mod det åbne vindu.</stage>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
-               <lg type="stikisk-folkevisevers-kjempevise"
-                   met="bi++ '7|'8|'9"
-                   rhyme="r|R">
+               <lg type="stikisk-folkevisevers-kjempevise" met="bi++ '7|'8|'9" rhyme="r|R">
                   <l met="∪-∪∪-∪∪-∪∪-" rhyme="a">Imorgen så drager vel Gudmund herfra,</l>
                   <l met="∪-∪∪-∪∪-∪-∪" rhyme="B">han drager vel ud i den verden vide;</l>
-                  <l met="∪-∪∪-∪∪-∪∪-" rhyme="a">jeg sidder igen med min husbond, og <emph>da</emph> –;</l>
-                  <l met="-∪∪-∪-∪∪- &amp; ∪-∪-∪-∪∪-" rhyme="c">mig vil det gå som blomsterne små,</l>
+                  <l met="∪-∪∪-∪∪-∪∪-" rhyme="a">jeg sidder igen med min husbond, og <emph>da</emph>
+                     –;</l>
+                  <l met="-∪∪-∪-∪∪- &amp; ∪-∪-∪-∪∪-" rhyme="c">mig vil det gå som blomsterne
+                     små,</l>
                   <l met="∪∪-∪∪-∪∪-∪∪-" rhyme="c">som den fattige urt, som det knækkede strå, –</l>
                   <l met="∪-∪∪-∪∪-∪" rhyme="B">jeg har kun at visne og lide.</l>
                   <stage>
@@ -3019,11 +3127,12 @@ betyde?</p>
                   <l met="∪-∪-∪-∪∪-∪" rhyme="J">Ak, også mine øjne var blinde</l>
                   <l met="∪-∪∪-∪∪-∪-" rhyme="k">for sommerens liv og for lysets skær –</l>
                   <stage>(hun springer op)</stage>
-                  <l met="∪-∪∪-∪∪-∪-∪" rhyme="J">Men <emph>nu</emph> –! Og så stænges i buret inde!</l>
-                  <l met="∪-∪-∪∪-∪-" rhyme="k">Nej, nej, min ungdom er mere værd.<note type="met">Urent rim.</note>
-                  </l>
+                  <l met="∪-∪∪-∪∪-∪-∪" rhyme="J">Men <emph>nu</emph> –! Og så stænges i buret
+                     inde!</l>
+                  <l met="∪-∪-∪∪-∪-" rhyme="k">Nej, nej, min ungdom er mere værd.</l>
                   <l met="∪-∪∪-∪∪-∪-" rhyme="l">Tre år af mit liv har jeg offret ham,</l>
-                  <l met="∪-∪∪-∪∪-∪ &amp; ∪-∪-∪-∪-∪" rhyme="M">min husbond; men nu må det briste.</l>
+                  <l met="∪-∪∪-∪∪-∪ &amp; ∪-∪-∪-∪-∪" rhyme="M">min husbond; men nu må det
+                     briste.</l>
                   <l met="-∪∪-∪∪-∪-∪" rhyme="M">Mægted jeg længere sligt at friste,</l>
                   <l met="-∪∪-∪∪-∪-" rhyme="l">måtte jeg være som duen tam.</l>
                   <l met="∪-∪∪∪-∪∪-∪-" rhyme="n">Her kedes jeg tildøde af smålig kiv;</l>
@@ -3044,7 +3153,8 @@ betyde?</p>
                   <l met="-∪∪-∪∪-∪" rhyme="S">lægge før tiden i mulde?</l>
                   <l met="∪-∪-∪∪-∪-" rhyme="t">Og dog –? Hvem ved? Hun er ung endnu;</l>
                   <l met="∪-∪∪∪-∪∪-∪∪-" rhyme="t">hun bærer ham vel ikke så dybt i sin hu.</l>
-                  <stage>(atter taushed; hun tager den lille flaske frem, ser længe på den og siger sagte)</stage>
+                  <stage>(atter taushed; hun tager den lille flaske frem, ser længe på den og siger
+                     sagte)</stage>
                   <l met="∪-∪-∪∪-∪-∪" rhyme="U">I denne flaske –; med den jeg kunde –;</l>
                   <l met="∪-∪∪-∪∪-∪-∪" rhyme="U">så måtte min husbond for evig blunde.</l>
                   <stage>(i skræk)</stage>
@@ -3058,11 +3168,13 @@ betyde?</p>
                   <l met="∪∪-∪∪-∪∪-∪-" rhyme="y">som må købes med blod, med min sjæls forlis.</l>
                </lg>
             </sp>
-            <stage>Bengt, med den tomme ølbolle i hånden, kommer ind fra svalegangen; hans ansigt blusser; han går med usikkre skridt.</stage>
+            <stage>Bengt, med den tomme ølbolle i hånden, kommer ind fra svalegangen; hans ansigt
+               blusser; han går med usikkre skridt.</stage>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
                <stage>slænger bollen på bordet til venstre</stage>
-               <p>Se så; det var et gilde, som vil spørges ud over alle bygder. <stage>(får øje på Margit)</stage> Nå, er du der? Du er kommen dig igen. Det må jeg lide.</p>
+               <p>Se så; det var et gilde, som vil spørges ud over alle bygder. <stage>(får øje på
+                     Margit)</stage> Nå, er du der? Du er kommen dig igen. Det må jeg lide.</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
@@ -3073,9 +3185,12 @@ betyde?</p>
                <speaker>
                   <pb n="176"/>BENGT</speaker>
                <stage>sætter sig ved bordet til venstre</stage>
-               <p>Jeg har sørget for al ting. Jeg fulgte de sidste gæster ned til ledet. Men hvor blev Knut Gæsling af ikveld? – Lad mig få mjød, Margit! Jeg er tørstig. Fyld mig bægeret der.</p>
+               <p>Jeg har sørget for al ting. Jeg fulgte de sidste gæster ned til ledet. Men hvor
+                  blev Knut Gæsling af ikveld? – Lad mig få mjød, Margit! Jeg er tørstig. Fyld mig
+                  bægeret der.</p>
             </sp>
-            <stage>Margit henter en mjødkande fra et skab og skænker i bægeret, der står foran ham på bordet.</stage>
+            <stage>Margit henter en mjødkande fra et skab og skænker i bægeret, der står foran ham
+               på bordet.</stage>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
                <stage>går med kanden over til højre</stage>
@@ -3083,7 +3198,8 @@ betyde?</p>
             </sp>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
-               <p>Ja visst gjorde jeg. Den praler, – den storskryder! Jeg mindes nok, at han trued mig igår morges.</p>
+               <p>Ja visst gjorde jeg. Den praler, – den storskryder! Jeg mindes nok, at han trued
+                  mig igår morges.</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
@@ -3101,7 +3217,11 @@ betyde?</p>
             </sp>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
-               <p>Jeg vil slå ham ihjæl, siger jeg! Jeg er ikke ræd for at møde ti slige karle som han. Ude på stabburet hænger min farfaders økse; skaftet er indlagt med sølv, og når jeg kommer med <emph>den</emph>, så –! <stage>(slår i bordet og drikker)</stage> Imorgen ruster jeg mig; jeg drager ud med alle mine mænd og slår Knut Gæsling ihjæl.</p>
+               <p>Jeg vil slå ham ihjæl, siger jeg! Jeg er ikke ræd for at møde ti slige karle som
+                  han. Ude på stabburet hænger min farfaders økse; skaftet er indlagt med sølv, og
+                  når jeg kommer med <emph>den</emph>, så –! <stage>(slår i bordet og
+                     drikker)</stage> Imorgen ruster jeg mig; jeg drager ud med alle mine mænd og
+                  slår Knut Gæsling ihjæl.</p>
             </sp>
             <stage>Han drikker tilbunds.</stage>
             <sp who="#MARGIT">
@@ -3113,7 +3233,9 @@ betyde?</p>
             <stage>Hun vil gå.</stage>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
-               <p>Margit, kom her! Fyld mig mit bæger igen. <stage>(hun nærmer sig; han vil drage hende ned på sit knæ)</stage> Ha-ha-ha; du er vakker, Margit! Jeg holder af dig.</p>
+               <p>Margit, kom her! Fyld mig mit bæger igen. <stage>(hun nærmer sig; han vil drage
+                     hende ned på sit knæ)</stage> Ha-ha-ha; du er vakker, Margit! Jeg holder af
+                  dig.</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
@@ -3133,7 +3255,8 @@ betyde?</p>
             <stage>Hun lader bægeret blive stående og vil gå ud til venstre.</stage>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
-               <p>Hør du, Margit. En ting kan du takke himlen for, og det er, at jeg tog dig tilægte, før Gudmund Alfsøn kom igen.</p>
+               <p>Hør du, Margit. En ting kan du takke himlen for, og det er, at jeg tog dig
+                  tilægte, før Gudmund Alfsøn kom igen.</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
@@ -3143,7 +3266,8 @@ betyde?</p>
             <sp who="#BENGT">
                <speaker>
                   <pb n="178"/>BENGT</speaker>
-               <p>Jo, for hele hans eje er ikke tiende delen så stort som mit. Og det er jeg sikker på, at han havde bejlet efter dig, ifald du ikke havde været frue på Solhaug.</p>
+               <p>Jo, for hele hans eje er ikke tiende delen så stort som mit. Og det er jeg sikker
+                  på, at han havde bejlet efter dig, ifald du ikke havde været frue på Solhaug.</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
@@ -3152,7 +3276,8 @@ betyde?</p>
             </sp>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
-               <p>Jeg tør sværge på det, Margit. Bengt Gautesøn har to kloge øjne i panden. Men nu kan han jo tage Signe.</p>
+               <p>Jeg tør sværge på det, Margit. Bengt Gautesøn har to kloge øjne i panden. Men nu
+                  kan han jo tage Signe.</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
@@ -3160,7 +3285,10 @@ betyde?</p>
             </sp>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
-               <p>Tage hende? Å ja, siden han ikke kan få dig. Men havde du været fri, så –. Ha-ha-ha, Gudmund er ligesom de andre; han misunder mig, at jeg er din husbond. Det er derfor, jeg kan så godt lide dig, Margit. – Hid med bægeret! Fuldt til randen!</p>
+               <p>Tage hende? Å ja, siden han ikke kan få dig. Men havde du været fri, så –.
+                  Ha-ha-ha, Gudmund er ligesom de andre; han misunder mig, at jeg er din husbond.
+                  Det er derfor, jeg kan så godt lide dig, Margit. – Hid med bægeret! Fuldt til
+                  randen!</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
@@ -3169,22 +3297,30 @@ betyde?</p>
             </sp>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
-               <p>Knut Gæsling bejlede jo også efter Signe; men ham vil jeg slå ihjæl. Gudmund er en hæderlig karl; han skal få hende. Tænk dig, Margit, hvor godt vi skal leve sammen som grander. Så drager vi på gæsteri til hinanden, og så sidder vi, så lang dagen er, hver med sin hustru på skødet, og drikker og snakker sammen om løst og fast.</p>
+               <p>Knut Gæsling bejlede jo også efter Signe; men ham vil jeg slå ihjæl. Gudmund er en
+                  hæderlig karl; han skal få hende. Tænk dig, Margit, hvor godt vi skal leve sammen
+                  som grander. Så drager vi på gæsteri til hinanden, og så sidder vi, så lang dagen
+                  er, hver med sin hustru på skødet, og drikker og snakker sammen om løst og
+                  fast.</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>
                   <pb n="179"/>MARGIT</speaker>
-               <stage>røber en stedse stigende sjælekamp; uvilkårligt har hun taget flasken frem, medens hun siger</stage>
+               <stage>røber en stedse stigende sjælekamp; uvilkårligt har hun taget flasken frem,
+                  medens hun siger</stage>
                <p>Ja vel; ja vel.</p>
             </sp>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
-               <p>Ha-ha-ha; i førstningen, tænker jeg, Gudmund vil se lidt umildt til mig, når jeg favner dig; men sligt forvinder han snart, kan jeg tro.</p>
+               <p>Ha-ha-ha; i førstningen, tænker jeg, Gudmund vil se lidt umildt til mig, når jeg
+                  favner dig; men sligt forvinder han snart, kan jeg tro.</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
                <stage>sagte</stage>
-               <p>Dette er mere end et menneske kan bære! <stage>(hælder indholdet af flasken i bægeret, går hen til vinduet, kaster den ud og siger uden at se på ham)</stage> Dit bæger er fuldt.</p>
+               <p>Dette er mere end et menneske kan bære! <stage>(hælder indholdet af flasken i
+                     bægeret, går hen til vinduet, kaster den ud og siger uden at se på ham)</stage>
+                  Dit bæger er fuldt.</p>
             </sp>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
@@ -3198,7 +3334,8 @@ betyde?</p>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
                <stage>leende, idet han læner sig bagover i stolen</stage>
-               <p>Nå; venter du kanske på mig? <stage>(blinker til hende)</stage> Gå du bare; jeg kommer snart efter.</p>
+               <p>Nå; venter du kanske på mig? <stage>(blinker til hende)</stage> Gå du bare; jeg
+                  kommer snart efter.</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
@@ -3209,7 +3346,8 @@ betyde?</p>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
                <stage>rejser sig</stage>
-               <p>Jeg kan godt lide hende. Det angrer mig ikke, at jeg tog hende til ægte, skønt hun ikke ejed mere arvegods, end bægeret der og de søljer, hun stod brud med.</p>
+               <p>Jeg kan godt lide hende. Det angrer mig ikke, at jeg tog hende til ægte, skønt hun
+                  ikke ejed mere arvegods, end bægeret der og de søljer, hun stod brud med.</p>
             </sp>
             <stage>
                <pb n="180"/>Han går til bordet ved vinduet og tager bægeret.</stage>
@@ -3217,7 +3355,8 @@ betyde?</p>
             <sp>
                <speaker>HUSKARLEN</speaker>
                <stage>råber</stage>
-               <p>Herr Bengt, herr Bengt, I skynde jer ud det rappeste I kan! Knut Gæsling stævner med et væbnet følge op mod gården.</p>
+               <p>Herr Bengt, herr Bengt, I skynde jer ud det rappeste I kan! Knut Gæsling stævner
+                  med et væbnet følge op mod gården.</p>
             </sp>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
@@ -3226,21 +3365,20 @@ betyde?</p>
             </sp>
             <sp>
                <speaker>HUSKARLEN</speaker>
-               <p>Nogle af eders gæster så ham nede på vejen, og så løb de ilsomt tilbage for at vare jer ad.</p>
+               <p>Nogle af eders gæster så ham nede på vejen, og så løb de ilsomt tilbage for at
+                  vare jer ad.</p>
             </sp>
             <sp who="#BENGT">
                <speaker>BENGT</speaker>
                <p>Godt; så skal jeg da også –! Hent mig min farfaders økse!</p>
             </sp>
             <stage>Han og huskarlen går ud i baggrunden.</stage>
-            <stage>Lidt efter kommer Gudmund og Signe sagte og varsomt ind gennem døren til højre.</stage>
+            <stage>Lidt efter kommer Gudmund og Signe sagte og varsomt ind gennem døren til
+               højre.</stage>
             <sp who="#SIGNE">
                <speaker>SIGNE</speaker>
                <stage>dæmpet</stage>
-               <lg type="stikisk-folkevisevers-kjempevise"
-                   met="bi++ '7|'8|'9"
-                   rhyme="r|R"
-                   part="I">
+               <lg type="stikisk-folkevisevers-kjempevise" met="bi++ '7|'8|'9" rhyme="r|R" part="I">
                   <l part="I" met="∪-∪∪-∪">Det må da så være!</l>
                </lg>
             </sp>
@@ -3256,8 +3394,8 @@ betyde?</p>
                <speaker>SIGNE</speaker>
                <lg part="M">
                   <l part="F" met="-∪-∪" rhyme="B">Ak, at drage</l>
-                  <l met="∪-∪∪-∪-∪∪- &amp; ∪-∪∪-∪∪-∪-" rhyme="a">som flygtning fra bygden, hvor jeg er født –!<note type="met">Urent rim.</note>
-                  </l>
+                  <l met="∪-∪∪-∪-∪∪- &amp; ∪-∪∪-∪∪-∪-" rhyme="a">som flygtning fra bygden, hvor jeg
+                     er født –!</l>
                   <stage>(tørrer øjnene)</stage>
                   <l met="∪-∪-∪∪-∪" rhyme="B">Og dog, jeg vil ikke klage;</l>
                   <l met="∪-∪∪-∪∪-∪∪-" rhyme="c">
@@ -3278,7 +3416,8 @@ betyde?</p>
             <sp who="#SIGNE">
                <speaker>SIGNE</speaker>
                <lg part="M">
-                  <l met="∪-∪-∪∪-∪∪- &amp; -∪∪-∪∪-∪∪-" rhyme="f">Å, lad os flygte! Men hvor går vi hen?</l>
+                  <l met="∪-∪-∪∪-∪∪- &amp; -∪∪-∪∪-∪∪-" rhyme="f">Å, lad os flygte! Men hvor går vi
+                     hen?</l>
                </lg>
             </sp>
             <sp who="#GUDMUND">
@@ -3362,7 +3501,8 @@ betyde?</p>
                <speaker>GUDMUND</speaker>
                <stage>stiller sig foran hende</stage>
                <lg part="F">
-                  <l met="-∪∪-∪∪-∪∪- &amp; ∪-∪-∪∪-∪∪-" rhyme="s">Frygt ikke; vel skal jeg værge min brud.</l>
+                  <l met="-∪∪-∪∪-∪∪- &amp; ∪-∪-∪∪-∪∪-" rhyme="s">Frygt ikke; vel skal jeg værge min
+                     brud.</l>
                </lg>
             </sp>
             <stage>
@@ -3442,7 +3582,8 @@ betyde?</p>
             <sp who="#GUDMUND">
                <speaker>GUDMUND</speaker>
                <stage>drager sværdet</stage>
-               <p>Endnu ikke, vil jeg håbe. <stage>(hvisker til Margit)</stage> Vær rolig; ingen har drukket af bægeret der.</p>
+               <p>Endnu ikke, vil jeg håbe. <stage>(hvisker til Margit)</stage> Vær rolig; ingen har
+                  drukket af bægeret der.</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
@@ -3461,9 +3602,11 @@ betyde?</p>
             <sp>
                <speaker>
                   <pb n="184"/>HUSKARLEN</speaker>
-               <p>Gæsterne og eders folk har fåt bugt med voldsmændene. Knut Gæsling og hans mænd er bundne. Der kommer de.</p>
+               <p>Gæsterne og eders folk har fåt bugt med voldsmændene. Knut Gæsling og hans mænd er
+                  bundne. Der kommer de.</p>
             </sp>
-            <stage>Gudmunds svende, gæster og huskarle fører Knut Gæsling, Erik fra Hægge og flere af Knuts mænd bundne mellem sig.</stage>
+            <stage>Gudmunds svende, gæster og huskarle fører Knut Gæsling, Erik fra Hægge og flere
+               af Knuts mænd bundne mellem sig.</stage>
             <sp who="#KNUT">
                <speaker>KNUT</speaker>
                <stage>bleg og stille</stage>
@@ -3479,7 +3622,8 @@ betyde?</p>
             </sp>
             <sp who="#KNUT">
                <speaker>KNUT</speaker>
-               <p>Han løb imod mig med løftet økse; jeg vilde værge for mig, og så hug jeg uforvarende til.</p>
+               <p>Han løb imod mig med løftet økse; jeg vilde værge for mig, og så hug jeg
+                  uforvarende til.</p>
             </sp>
             <sp who="#ERIK">
                <speaker>ERIK</speaker>
@@ -3491,11 +3635,15 @@ betyde?</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
-               <p>Jeg kræver intet. Gud må dømme os alle. Dog jo, – et kræver jeg; lad fare eders onde anslag imod min søster.</p>
+               <p>Jeg kræver intet. Gud må dømme os alle. Dog jo, – et kræver jeg; lad fare eders
+                  onde anslag imod min søster.</p>
             </sp>
             <sp who="#KNUT">
                <speaker>KNUT</speaker>
-               <p>Aldrig skal jeg mere prøve på at løse mit usalige løfte. Tro mig, jeg skal bedre mig. Bare jeg ikke får lide en uhæderlig straf for <pb n="185"/>min gerning. <stage>(til Gudmund)</stage> Skulde du komme til ære og værdighed igen, så tal godt for mig hos kongen.</p>
+               <p>Aldrig skal jeg mere prøve på at løse mit usalige løfte. Tro mig, jeg skal bedre
+                  mig. Bare jeg ikke får lide en uhæderlig straf for <pb n="185"/>min gerning.
+                     <stage>(til Gudmund)</stage> Skulde du komme til ære og værdighed igen, så tal
+                  godt for mig hos kongen.</p>
             </sp>
             <sp who="#GUDMUND">
                <speaker>GUDMUND</speaker>
@@ -3523,7 +3671,8 @@ betyde?</p>
             </sp>
             <sp who="#GUDMUND">
                <speaker>GUDMUND</speaker>
-               <p>Tak, Margit. Og nu farvel. <stage>(lyttende)</stage> Hys; jeg hører hovslag i gården.</p>
+               <p>Tak, Margit. Og nu farvel. <stage>(lyttende)</stage> Hys; jeg hører hovslag i
+                  gården.</p>
             </sp>
             <sp who="#SIGNE">
                <speaker>SIGNE</speaker>
@@ -3547,11 +3696,13 @@ betyde?</p>
             </sp>
             <sp who="#GUDMUND">
                <speaker>GUDMUND</speaker>
-               <p>Så er alt forbi! Å, Signe, at miste dig nu, – det var det tungeste, jeg kunde friste.</p>
+               <p>Så er alt forbi! Å, Signe, at miste dig nu, – det var det tungeste, jeg kunde
+                  friste.</p>
             </sp>
             <sp who="#KNUT">
                <speaker>KNUT</speaker>
-               <p>Nej, Gudmund, dyrt skal du sælge livet; løs os; vi er alle rede til at slå for dig.</p>
+               <p>Nej, Gudmund, dyrt skal du sælge livet; løs os; vi er alle rede til at slå for
+                  dig.</p>
             </sp>
             <sp who="#ERIK">
                <speaker>ERIK</speaker>
@@ -3583,7 +3734,8 @@ betyde?</p>
             <sp who="#SENDEBUDET">
                <speaker>
                   <pb n="187"/>SENDEBUDET</speaker>
-               <p>Jeg har befaling at byde eder til gæst i kongens gård. Han skænker eder sit venskab som før, og rige forleninger dertil.</p>
+               <p>Jeg har befaling at byde eder til gæst i kongens gård. Han skænker eder sit
+                  venskab som før, og rige forleninger dertil.</p>
             </sp>
             <sp who="#GUDMUND">
                <speaker>GUDMUND</speaker>
@@ -3612,15 +3764,13 @@ betyde?</p>
             </sp>
             <sp who="#SENDEBUDET">
                <speaker>SENDEBUDET</speaker>
-               <p>For tre dage siden mistede han hovedet i Bergen. <stage>(med dæmpet stemme)</stage> Han havde krænket Norges dronning.</p>
+               <p>For tre dage siden mistede han hovedet i Bergen. <stage>(med dæmpet
+                     stemme)</stage> Han havde krænket Norges dronning.</p>
             </sp>
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
                <stage>går hen mellem Gudmund og Signe</stage>
-               <lg type="stikisk-folkevisevers-kjempevise"
-                   met="bi++ '7|'8|'9"
-                   rhyme="r|R"
-                   part="I">
+               <lg type="stikisk-folkevisevers-kjempevise" met="bi++ '7|'8|'9" rhyme="r|R" part="I">
                   <l met="∪-∪-∪∪-∪-" rhyme="a">Så følger straffen i brødens fjed!</l>
                   <l met="-∪∪-∪-∪∪-∪" rhyme="B">Skærmende engle, fromme og milde,</l>
                   <l met="∪-∪-∪∪-∪∪-" rhyme="a">har nådigt skuet inat til mig ned</l>
@@ -3653,15 +3803,14 @@ betyde?</p>
                   <l met="∪-∪-∪∪-∪∪-" rhyme="i">Min ædle sanger, – i sorrig og lyst</l>
                   <l met="-∪∪-∪∪-∪-∪" rhyme="J">slå kun din harpe, som bedst du lærte;</l>
                   <l met="-∪∪∪-∪-∪∪-" rhyme="i">tro mig, der er strenge dybt i mit bryst,</l>
-                  <l met="∪∪-∪∪∪-∪∪-∪ &amp; ∪∪-∪-∪-∪∪-∪" rhyme="J">som skal svare dig i fryd og i smerte.</l>
+                  <l met="∪∪-∪∪∪-∪∪-∪ &amp; ∪∪-∪-∪-∪∪-∪" rhyme="J">som skal svare dig i fryd og i
+                     smerte.</l>
                </lg>
             </sp>
             <sp>
                <speaker>KORSANG</speaker>
                <stage>af mænd og kvinder</stage>
-               <lg type="strofisk-strofe-trokeisk-femtakter"
-                   met="bi 10 9 9 10"
-                   rhyme="A b b A">
+               <lg type="strofisk-strofe-trokeisk-femtakter" met="bi 10 9 9 10" rhyme="A b b A">
                   <l rhyme="A">Over jorden vogter lysets øje,</l>
                   <l rhyme="b">værner kærligt om den frommes fjed,</l>
                   <l rhyme="b">sender trøstens milde stråler ned; –</l>
