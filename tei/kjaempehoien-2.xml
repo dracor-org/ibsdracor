@@ -1,0 +1,2446 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000026">
+   <teiHeader xml:lang="nob">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kjæmpehøien, 2. versjon</title>
+            <author>
+               <persName>
+                  <forename>Henrik</forename>
+                  <surname>Ibsen</surname>
+               </persName>
+               <idno type="wikidata">Q36661</idno>
+            </author>
+            <editor role="editor-in-chief">Vigdis Ystad</editor>
+            <editor role="managing-editor">Christian Janss</editor>
+            <editor role="text-editors">Hilde Bøe</editor>
+            <editor role="text-editors">Ståle Dingstad</editor>
+            <editor role="text-editors">Stine Brenna Taugbøl</editor>
+            <respStmt>
+               <resp>Modified encoding for DraCor by</resp>
+               <name xml:id="NME">Nina Marie Evensen</name>
+               <name xml:id="ER">Emil Røsås</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.5">Beta release</edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>University of Oslo, Center for Ibsen Studies</authority>
+            <publisher>DraCor</publisher>
+            <date when="2025">2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
+               <name>Henrik Ibsens skrifter, digital utgave (HISe)</name>
+               <idno type="URL">https://www.ibsen.uio.no/DRVIT_K2%7CK2ht.xhtml</idno>
+               <idno>K2ht</idno>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+                     <ab>CC BY-NC 4.0</ab>
+                  </licence>
+               </availability>
+               <bibl type="originalSource">
+                  <author>Henrik Ibsen</author> : <title type="main">Kjæmpehøien, 2.
+                  versjon</title>. <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg.
+                  1854</title>. In: <edition>Henrik Ibsens skrifter, bind 1</edition>. 
+                  <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
+                  <date when="2005">2005</date>
+                  <biblScope unit="page" from="293" to="339">293-339</biblScope>
+               </bibl>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="nob"/>
+            <language ident="dan-nob"/>
+         </langUsage>
+         <particDesc>
+            <listPerson>
+               <person xml:id="RODERIK" sex="MALE">
+                  <persName>Roderik</persName>
+               </person>
+               <person xml:id="BLANKA" sex="FEMALE">
+                  <persName>Blanka</persName>
+               </person>
+               <person xml:id="GANDALF" sex="MALE">
+                  <persName>Gandalf</persName>
+               </person>
+               <person xml:id="ASGAUT" sex="MALE">
+                  <persName>Asgaut</persName>
+               </person>
+               <person xml:id="HROLLOUG" sex="MALE">
+                  <persName>Hrolloug</persName>
+               </person>
+               <person xml:id="JOSTEIN" sex="MALE">
+                  <persName>Jostein</persName>
+               </person>
+               <person xml:id="HEMMING" sex="MALE">
+                  <persName>Hemming</persName>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <standOff>
+      <listEvent>
+         <event type="print" when="1854">
+            <desc/>
+         </event>
+         <event type="premiere" when="1850">
+            <desc/>
+         </event>
+         <event type="written" notBefore="1853" notAfter="1854">
+            <desc/>
+         </event>
+      </listEvent>
+      <listRelation>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000026"
+            passive="http://www.wikidata.org/entity/Q1774352"/>
+      </listRelation>
+   </standOff>
+   <text type="drama" xml:lang="dan-nob">
+      <front>
+         <titlePage type="serial" n="1">
+            <docTitle>
+               <titlePart type="main">
+                  <pb n="295"/>KJÆMPEHØIEN</titlePart>
+               <titlePart type="desc">DRAMATISK DIGTNING I EEN ACT</titlePart>
+            </docTitle>
+            <byline>AF <docAuthor>HENRIK IBSEN</docAuthor>
+            </byline>
+         </titlePage>
+         <castList>
+            <head>
+               <pb n="296"/>Personerne</head>
+            <castItem sameAs="RODERIK">
+               <role>RODERIK</role>, <roleDesc>en gammel Eneboer</roleDesc>
+            </castItem>
+            <castItem sameAs="BLANKA">
+               <role>BLANKA</role>, <roleDesc>hans Pleiedatter</roleDesc>
+            </castItem>
+            <castItem sameAs="GANDALF">
+               <role>GANDALF</role>, <roleDesc>Søkonge fra Norge</roleDesc>
+            </castItem>
+            <castItem sameAs="ASGAUT">
+               <role>ASGAUT</role>, <roleDesc>en gammel Viking</roleDesc>
+            </castItem>
+            <castGroup>
+               <castItem sameAs="HROLLOUG">
+                  <role>HROLLOUG</role>,</castItem>
+               <castItem sameAs="JOSTEIN">
+                  <role>JOSTEIN</role> og</castItem>
+               <castItem>
+                  <role>FLERE VIKINGER</role>
+               </castItem>
+            </castGroup>
+            <castItem sameAs="HEMMING">
+               <role>HEMMING</role>, <roleDesc>en ung Skjald i Gandalfs Tjeneste</roleDesc>
+            </castItem>
+         </castList>
+         <set>
+            <p>Handlingen foregaaer paa en liden Ø ved Sicilien, kort før Christendommens Indførelse
+               i Norge.</p>
+         </set>
+      </front>
+      <body>
+         <div type="act" n="1" part="I">
+            <stage>
+               <pb n="297"/>En aaben Plads, omgiven af Træer, nær ved Strandbredden. Til Venstre i
+               Baggrunden en antik Tempelruin. Midt paa Scenen en stor Kjæmpehøi, hvorpaa en Bauta,
+               omvunden af Blomsterkrandse.</stage>
+            <div type="scene" n="1">
+               <head>1ste Scene</head>
+               <stage>Roderik sidder skrivende til Høire. Til Venstre Blanka i en halvt liggende
+                  Stilling.</stage>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg type="strofisk-strofegruppe-trokeisk-firtakter" met="bi 7|8" rhyme="r|R">
+                     <lg type="strofe" rhyme="A b b A c c D D">
+                        <l rhyme="A">Aftenrødens sidste Luer</l>
+                        <l rhyme="b">Bølge som et Hav ibrand.</l>
+                        <l rhyme="b">Der er tempeltyst ved Strand,</l>
+                        <l rhyme="A">Tyst som under Løvets Buer.</l>
+                        <l rhyme="c">Sommeraftnens milde Fred</l>
+                        <l rhyme="c">Daler som en Due ned,</l>
+                        <l rhyme="D">Svæver som en Svane over</l>
+                        <l rhyme="D">Skovens Blomst og Havets Vover.</l>
+                     </lg>
+                     <lg type="strofe" rhyme="A B B A C d d C">
+                        <l rhyme="A">I Orangekrattet blunder</l>
+                        <l rhyme="B">Fortids Guder og Gudinder,</l>
+                        <l rhyme="B">Høie marmorhugne Minder</l>
+                        <l rhyme="A">Om en Verden, som gik under;</l>
+                        <l rhyme="C">Troskab, Tapperheden, Dyden</l>
+                        <l rhyme="d">Staa forstenet, dødt og rigt, –</l>
+                        <l rhyme="d">Gives vel et mere ligt</l>
+                        <l rhyme="C">Billed paa det sjunkne Syden?</l>
+                     </lg>
+                     <stage>
+                        <pb n="298"/>(reiser sig)</stage>
+                     <lg type="strofe" rhyme="a B B a (C d)²">
+                        <l rhyme="a">Men min Fader har fortalt</l>
+                        <l rhyme="B">Om et Land bag fjerne Bølger,</l>
+                        <l rhyme="B">Hvor et frodigt Liv sig dølger,</l>
+                        <l rhyme="a">Ei et meislet eller malt.</l>
+                        <l rhyme="C">Her er Guddomslivet veget,</l>
+                        <l rhyme="d">Spores kun i Stenens Træk, –</l>
+                        <l rhyme="C">Der det aander, kraftigt præget,</l>
+                        <l rhyme="d">Som en Kjæmper stærk og kjæk.</l>
+                     </lg>
+                     <lg type="strofe" rhyme="(A b)² (C d)²">
+                        <l rhyme="A">Og naar Aftnens lumre Stilhed</l>
+                        <l rhyme="b">Tynger knugende mit Bryst,</l>
+                        <l rhyme="A">See, da stiger Nordens Billed</l>
+                        <l rhyme="b">For mit Øie sneebelyst.</l>
+                        <l rhyme="C">Her er smuldrende Ruiner,</l>
+                        <l rhyme="d">Døsig Dvale tung og blød, –</l>
+                        <l rhyme="C">Der er styrtende Laviner</l>
+                        <l rhyme="d">Foraarsliv og Vinterdød!</l>
+                     </lg>
+                     <lg type="strofe" part="Y" rhyme="A">
+                        <l rhyme="A">Hvis jeg havde Svanehammen</l>
+                        <l>– –</l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp who="#RODERIK">
+                  <speaker>RODERIK</speaker>
+                  <stage>efter en Pause, skrivende</stage>
+                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R"
+                     part="I">
+                     <l rhyme="X">«Da, hedder det, har Ragnarok forsonet</l>
+                     <l rhyme="x">De vilde Kræfter, vakt et luttret Liv;</l>
+                     <l rhyme="X">Alfader, Balder og den milde Freia</l>
+                     <l rhyme="x">Skal styre Askurs Æt i Fred paany.»</l>
+                     <stage>(efter et Øieblik at have betragtet hende)</stage>
+                     <l rhyme="x">Men Blanka, see, nu drømmer du igjen;</l>
+                     <l rhyme="X">Du stirrer tankefuld igjennem Luften,</l>
+                     <l part="I">Hvad søger du?</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>
+                     <pb n="299"/>BLANKA</speaker>
+                  <stage>nærmer sig</stage>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Tilgiv mig, gode Fader!</l>
+                     <l rhyme="X">Jeg fulgte kun et Stykke Vei med Svanen,</l>
+                     <l rhyme="X">Som fløi paa hvide Vinger over Havet.</l>
+                  </lg>
+               </sp>
+               <sp who="#RODERIK">
+                  <speaker>RODERIK</speaker>
+                  <lg part="M">
+                     <l rhyme="x">Og hvis jeg ikke havde standset dig</l>
+                     <l rhyme="X">I Flugten, du min unge, fagre Svane!</l>
+                     <l rhyme="x">Hvem veed, hvor langt du da var fløien med,</l>
+                     <l part="I">Maaskee til Thule.</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Hvorfor ikke det?</l>
+                     <l rhyme="x">Did flyver Svanen jo ved Foraarstid,</l>
+                     <l rhyme="X">Men vender dog hvert Efteraar tilbage.</l>
+                     <stage>(sætter sig ved hans Fødder)</stage>
+                     <l rhyme="X">Dog jeg er ingen Svane, kald mig heller</l>
+                     <l rhyme="x">En fangen Falk, der sidder tam og tro</l>
+                     <l part="I">Med gylden Ring om Foden.</l>
+                  </lg>
+               </sp>
+               <sp who="#RODERIK">
+                  <speaker>RODERIK</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Nu, og Ringen?</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l rhyme="X">Det er min Kjærlighed til dig, min Fader!</l>
+                     <l rhyme="x">Ved den du bundet har din unge Falk!</l>
+                     <l rhyme="x">Den kan ei fly, selv om den vilde det.</l>
+                     <stage>(reiser sig)</stage>
+                     <l rhyme="x">Men seer du vel, naar Svanen seiler let</l>
+                     <l rhyme="X">Henover Bølgen, som en Sky for Vinden,</l>
+                     <l rhyme="x">Da maa jeg mindes hvad du har fortalt</l>
+                     <l rhyme="X">Om Heltelivet i det fjerne Thule.</l>
+                     <l rhyme="X">Da tykkes mig at Fuglen er en Snekke</l>
+                     <l rhyme="x">Med Dragehoved og med gylden Fløi;</l>
+                     <l rhyme="x">
+                        <pb n="300"/>I Stavnen skuer jeg den unge Helt</l>
+                     <l rhyme="X">Med Kobberhjelmen om de gule Lokker,</l>
+                     <l rhyme="x">Med Øine blaa, med mandigt hvælvet Bryst,</l>
+                     <l rhyme="X">Med Sværdet knuget i den stærke Høire.</l>
+                     <l rhyme="x">Jeg følger Helten paa hans raske Færd,</l>
+                     <l rhyme="X">Og mine Drømme tumle sig om Snekken,</l>
+                     <l rhyme="X">Og lege, overgivent som Delphiner,</l>
+                     <l rhyme="X">I Phantasiens dybe, svale Bølger.</l>
+                  </lg>
+               </sp>
+               <sp who="#RODERIK">
+                  <speaker>RODERIK</speaker>
+                  <lg part="M">
+                     <l rhyme="x">Du er en Sværmerske, mit gode Barn;</l>
+                     <l rhyme="X">Jeg frygter næsten, at din Tanke dvæler</l>
+                     <l rhyme="X">For tidt hos Folket i det høie Norden.</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l rhyme="x">Og hvis er Skylden, Fader, om saa var?</l>
+                  </lg>
+               </sp>
+               <sp who="#RODERIK">
+                  <speaker>RODERIK</speaker>
+                  <lg part="M">
+                     <l part="I">Du mener, at jeg selv –?</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">O ja, hvad Andet?</l>
+                     <l rhyme="x">Du lever selv jo kun i Mindet om</l>
+                     <l rhyme="X">Dit Ungdomsliv blandt Nordens stærke Helte;</l>
+                     <l rhyme="x">Og nægt det ei: saa tidt du melder om</l>
+                     <l rhyme="X">Den raske Kjæmpefærd, om Dyst og Holmgang,</l>
+                     <l rhyme="X">Da luer Kinden og dit Øie gløder,</l>
+                     <l rhyme="x">Det tykkes mig, du vorder ung paany.</l>
+                  </lg>
+               </sp>
+               <sp who="#RODERIK">
+                  <speaker>
+                     <pb n="301"/>RODERIK</speaker>
+                  <lg part="M">
+                     <l rhyme="x">Vel sandt, men jeg har ogsaa Grund dertil;</l>
+                     <l rhyme="X">Jeg har jo selv blandt Nordens Helte levet,</l>
+                     <l rhyme="x">Og alt hvad Mindet hvisker mig om dem,</l>
+                     <l rhyme="X">Det er jo Blade fra min egen Saga;</l>
+                     <l rhyme="X">Du derimod, som fostredes i Syden,</l>
+                     <l rhyme="X">Som aldrig saa de sølvblaa Vinterfjelde,</l>
+                     <l rhyme="x">Som aldrig hørte Ludurhornets Klang, –</l>
+                     <l rhyme="X">Hvor kan det fængsle dig hvad jeg fortæller?</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l rhyme="x">O siig, behøver Mennesket at see</l>
+                     <l rhyme="X">Og høre Alting med de ydre Sandser?</l>
+                     <l rhyme="X">Har ikke ogsaa Sjælen Blik og Øre,</l>
+                     <l rhyme="x">Hvormed den lytte kan og skue grant?</l>
+                     <l rhyme="x">Med legemlige Øine seer jeg vel</l>
+                     <l rhyme="X">Den rige Farveglød, som Rosen eier;</l>
+                     <l rhyme="x">Men Sjælens Blik kan i dens Bæger see</l>
+                     <l rhyme="X">En deilig Alf med Sommerfuglevinger,</l>
+                     <l rhyme="X">Som skjælmsk sig skjuler bag de røde Blade</l>
+                     <l rhyme="X">Og nynner om en lønlig Magt fra Himlen,</l>
+                     <l rhyme="x">Der skjænkte Blomsten Farvepragt og Duft.</l>
+                  </lg>
+               </sp>
+               <sp who="#RODERIK">
+                  <speaker>RODERIK</speaker>
+                  <lg part="M">
+                     <l part="I">Vel sandt, min Datter!</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Fast jeg skulde tro,</l>
+                     <l rhyme="x">At just fordi jeg ikke skued selv,</l>
+                     <l rhyme="X">Saa staaer det Hele mere skjønt for Tanken.</l>
+                     <l rhyme="X">Saa gaaer det idetmindste dig, min Fader, –</l>
+                     <l rhyme="X">De gamle Gudesagn og Heltekvæder,</l>
+                     <l rhyme="x">Dem mindes du og taler om med Lyst</l>
+                     <l rhyme="X">Og ridser dem paa Pergament med Runer;</l>
+                     <l rhyme="x">
+                        <pb n="302"/>Men hvis jeg spørger om dit eget Liv</l>
+                     <l rhyme="X">I Nordens Egne, mørknes tidt dit Øie,</l>
+                     <l rhyme="X">Din Læbe tier og det tykkes stundom</l>
+                     <l rhyme="X">Som om din Barm blev Hjem for tunge Minder.</l>
+                  </lg>
+               </sp>
+               <sp who="#RODERIK">
+                  <speaker>RODERIK</speaker>
+                  <stage>reiser sig</stage>
+                  <lg part="M">
+                     <l rhyme="x">Nævn ikke mere derom, gode Barn!</l>
+                     <l rhyme="x">Hvo er vel den, hvis Ungdomsminder ei</l>
+                     <l rhyme="x">Er blandede med mangt et bittert Nag?</l>
+                     <l rhyme="X">Du veed, Normannerne er vilde Kjæmper –</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l rhyme="x">Men er da Sydens Kriger mindre grum?</l>
+                     <l rhyme="X">Har du forglemt hiin Nat for ti Aar siden,</l>
+                     <l rhyme="X">Dengang de Fremmede paa Kysten landed</l>
+                     <l part="I">Og plyndrede –</l>
+                  </lg>
+               </sp>
+               <sp who="#RODERIK">
+                  <speaker>RODERIK</speaker>
+                  <stage>med synlig Uro</stage>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Nok derom, lad os gaa.</l>
+                     <l rhyme="x">Det lakker alt mod Aftentide; – kom!</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <stage>idet de gaae</stage>
+                  <lg part="M">
+                     <l part="I">Giv mig din Haand!</l>
+                     <stage>(standser)</stage>
+                     <l part="M">Nei vent!</l>
+                  </lg>
+               </sp>
+               <sp who="#RODERIK">
+                  <speaker>RODERIK</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Hvad fattes dig?</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>
+                     <pb n="303"/>BLANKA</speaker>
+                  <lg part="M">
+                     <l rhyme="x">For første Gang har jeg idag forglemt –</l>
+                  </lg>
+               </sp>
+               <sp who="#RODERIK">
+                  <speaker>RODERIK</speaker>
+                  <lg part="M">
+                     <l part="I">Hvad har du glemt?</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <stage>pegende mod Høien</stage>
+                  <lg part="M">
+                     <l part="F" rhyme="X">See Stenen der og Krandsen!</l>
+                  </lg>
+               </sp>
+               <sp who="#RODERIK">
+                  <speaker>RODERIK</speaker>
+                  <lg part="M">
+                     <l part="I">Det er –</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="F">
+                     <l part="F" rhyme="x">Den gamle, visne fra igaar;</l>
+                     <l rhyme="X">Jeg har forglemt at bytte den i Aften, –</l>
+                     <l rhyme="x">Dog – lad mig følge dig til Hytten først,</l>
+                     <l rhyme="x">Saa gaaer jeg siden ud paa Blomsterfangst:</l>
+                     <l rhyme="a">Violen dufter bedst, naar Aftnens Dug</l>
+                     <l rhyme="B">Har badet den i blanke Perlevover,</l>
+                     <l rhyme="a">Og Rosens Knop er ingentid saa smuk,</l>
+                     <l rhyme="B">Som naar den plukkes mens den barnligt sover.</l>
+                  </lg>
+               </sp>
+               <stage>De gaae ud til Venstre i Baggrunden.</stage>
+            </div>
+         </div>
+         <div type="act" n="1" part="M">
+            <div type="scene" n="2">
+               <head>2den Scene</head>
+               <stage>Gandalf og Vikingerne komme fra Høire.</stage>
+               <sp who="#ASGAUT">
+                  <speaker>ASGAUT</speaker>
+                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R"
+                     part="I">
+                     <l part="I">Her er vi snart ved Stedet.</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Hvor? lad see!</l>
+                  </lg>
+               </sp>
+               <sp who="#ASGAUT">
+                  <speaker>ASGAUT</speaker>
+                  <lg part="M">
+                     <l rhyme="X">Nei vent kun lidt til vi er bagved Skoven.</l>
+                     <l rhyme="x">Paa Klippeskraaningen mod Havet stod</l>
+                     <l rhyme="x">En Rest af Muren, da vi drog afsted,</l>
+                     <l rhyme="x">Den staaer der sagtens endnu tænker jeg.</l>
+                  </lg>
+               </sp>
+               <sp who="#JOSTEIN">
+                  <speaker>JOSTEIN</speaker>
+                  <lg part="M">
+                     <l rhyme="x">Hør, sig os Drot, hvad kan det baade os</l>
+                     <l rhyme="X">At traske om som Narre her paa Holmen?</l>
+                  </lg>
+               </sp>
+               <sp who="#HROLLOUG">
+                  <speaker>HROLLOUG</speaker>
+                  <lg part="M">
+                     <l part="I">Ja, sig, hvad skal vi?</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Tie, skal I, tie!</l>
+                     <l rhyme="X">Og lystre blindt hvad Eders Konning byder.</l>
+                     <stage>
+                        <pb n="305"/>(til Asgaut)</stage>
+                     <l rhyme="x">Det synes mig forresten som I har</l>
+                     <l rhyme="x">Gjort altfor ryddigt Huus da sidst I var her.</l>
+                     <l rhyme="x">I kunde sagtens have levnet lidt</l>
+                     <l part="I">For mig og for min Hævn.</l>
+                  </lg>
+               </sp>
+               <sp who="#HROLLOUG">
+                  <speaker>HROLLOUG</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Du er vor Konning,</l>
+                     <l rhyme="X">Og Troskab svoer dig dine Mænd paa Thinge;</l>
+                     <l rhyme="x">Men da vi fulgte dig i Ledingsfærd,</l>
+                     <l rhyme="X">Saa var det for at vinde Ry og Hæder.</l>
+                  </lg>
+               </sp>
+               <sp who="#JOSTEIN">
+                  <speaker>JOSTEIN</speaker>
+                  <lg part="M">
+                     <l rhyme="X">Og Guld og Skatte, Hrolloug, Guld og Skatte!</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>FLERE</speaker>
+                  <lg part="M">
+                     <l rhyme="x">Ja, det er Loven, Gandalf, Agt for den!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l rhyme="x">Jeg kjender Loven vel saa godt som I;</l>
+                     <l rhyme="x">Men var det ei fra gamle Tider Skik</l>
+                     <l rhyme="X">Og Vedtægt mellem os, at naar en Frænde</l>
+                     <l rhyme="x">For Fiendehaand blev fældet og hans Lig</l>
+                     <l rhyme="X">Laa ubegravet som et Rov for Ravnen,</l>
+                     <l part="I">Saa maatte Blodhævn til?</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>NOGLE</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Jo, saadan er det!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l rhyme="x">Saa værer rede da med Sværd og Skjold,</l>
+                     <l rhyme="X">I har en Drot at hævne, jeg en Fader.</l>
+                  </lg>
+               </sp>
+               <sp who="#JOSTEIN">
+                  <speaker>
+                     <pb n="306"/>JOSTEIN</speaker>
+                  <lg part="M">
+                     <l part="I">En Drot?</l>
+                  </lg>
+               </sp>
+               <sp who="#HROLLOUG">
+                  <speaker>HROLLOUG</speaker>
+                  <lg part="M">
+                     <l part="M">En Fader?</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Vent, jeg vil berette</l>
+                     <l rhyme="x">Hvad der er hændt. I veed min Fader var</l>
+                     <l rhyme="X">En vældig Viking. Tolv Aar er det siden</l>
+                     <l rhyme="X">Han sidste Gang en Vaar drog ud i Leding</l>
+                     <l rhyme="X">Med Asgaut der og sine gamle Kjæmper.</l>
+                     <l rhyme="x">To Aar han flakkede fra Strand til Strand</l>
+                     <l rhyme="X">Og gjæsted Bretland, Valland, ja selv Blaaland;</l>
+                     <l rhyme="x">Til Slutning hærjed han paa Sikiløi,</l>
+                     <l rhyme="X">Og hørte der berette om en Høvding,</l>
+                     <l rhyme="x">Som boed her paa Holmen i et Slot</l>
+                     <l rhyme="X">Med stærke Mure bygget op paa Fjeldet</l>
+                     <l rhyme="x">Og der var kostelige Skatte gjemt.</l>
+                     <l rhyme="X">Ved Nattetid han landed under Stranden,</l>
+                     <l rhyme="x">Og Borgen hærjed han med Ild og Sværd;</l>
+                     <l rhyme="x">Selv var han foran som en ægget Bjørn</l>
+                     <l rhyme="x">Og i Berserkergangen saa han ei</l>
+                     <l rhyme="X">Hvordan hans Kjæmper segned rundt omkring ham.</l>
+                     <l rhyme="x">Og da det første Daggry randt i Øst,</l>
+                     <l rhyme="x">Laa hele Borgen rygende i Gruus;</l>
+                     <l rhyme="x">Kun Asgaut stod igjen med nogle Faa.</l>
+                     <l rhyme="x">Min Fader og vel hundrede med ham</l>
+                     <l rhyme="X">Var redet gjennem Flammerne til Valhal.</l>
+                  </lg>
+               </sp>
+               <sp who="#ASGAUT">
+                  <speaker>ASGAUT</speaker>
+                  <lg part="M">
+                     <l rhyme="x">Jeg heiste Snekkens Seil i høien Raa</l>
+                     <l rhyme="X">Og vendte Stavnen hjemad imod Norden;</l>
+                     <l rhyme="X">Der søgte jeg forgjæves efter Gandalf,</l>
+                     <l rhyme="X">
+                        <pb n="307"/>Den unge Ørn var fløien over Havet</l>
+                     <l rhyme="x">Til Island eller Færø, blev mig sagt.</l>
+                     <l rhyme="x">Jeg stævned efter ham, men fandt ham ei,</l>
+                     <l rhyme="x">Dog Navnet kjendte de saavidt jeg foer;</l>
+                     <l rhyme="X">Thi skjøndt hans Drage fløi som Sky for Stormen,</l>
+                     <l rhyme="X">Saa fløi hans Rygte dog paa bedre Vinger.</l>
+                     <l rhyme="x">I Sommer, veed I, traf jeg ham tilslut</l>
+                     <l rhyme="x">Det var i Velskland; jeg beretted ham,</l>
+                     <l rhyme="X">Hvad der var skeet, hvordan hans Fader endte,</l>
+                     <l rhyme="X">Og Gandalf svoer ved alle Valhals Guder</l>
+                     <l rhyme="x">At tage blodig Hævn med Ild og Sværd.</l>
+                  </lg>
+               </sp>
+               <sp who="#JOSTEIN">
+                  <speaker>JOSTEIN</speaker>
+                  <lg part="M">
+                     <l rhyme="X">Det er en gammel Skik og den bør agtes.</l>
+                     <l rhyme="X">Men hvis jeg havde været Konning Gandalf,</l>
+                     <l rhyme="X">Saa var jeg bleven liggende i Velskland,</l>
+                     <l part="I">For der var Guld at vinde.</l>
+                  </lg>
+               </sp>
+               <sp who="#HROLLOUG">
+                  <speaker>HROLLOUG</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Hæder med!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l rhyme="x">Det er Jer Troskab mod den faldne Drot.</l>
+                  </lg>
+               </sp>
+               <sp who="#JOSTEIN">
+                  <speaker>JOSTEIN</speaker>
+                  <lg part="M">
+                     <l rhyme="x">Nu, nu, godt Ord igjen, jeg meente blot –</l>
+                     <l part="I">Den Faldne kunde vente.</l>
+                  </lg>
+               </sp>
+               <sp who="#ASGAUT">
+                  <speaker>ASGAUT</speaker>
+                  <stage>med undertrykt Forbittrelse</stage>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Usle Slægt!</l>
+                  </lg>
+               </sp>
+               <sp who="#JOSTEIN">
+                  <speaker>JOSTEIN</speaker>
+                  <lg part="M">
+                     <l part="I">Men siden vi nu engang er her –</l>
+                  </lg>
+               </sp>
+               <sp who="#HROLLOUG">
+                  <speaker>
+                     <pb n="308"/>HROLLOUG</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Ja</l>
+                     <l rhyme="X">Saa lad os reise ham et værdigt Minde!</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>NOGLE</speaker>
+                  <lg part="M">
+                     <l part="I">Ja, ja!</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>ANDRE</speaker>
+                  <lg part="M">
+                     <l part="M">Med Brand og Blod!</l>
+                  </lg>
+               </sp>
+               <sp who="#ASGAUT">
+                  <speaker>ASGAUT</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Det kan jeg lide!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l rhyme="X">Og nu afsted at speide rundt om Øen;</l>
+                     <l rhyme="X">Thi end i Nat skal Hævnen være fuldbragt,</l>
+                     <l part="I">Hvis ei, saa maa jeg falde selv.</l>
+                  </lg>
+               </sp>
+               <sp who="#ASGAUT">
+                  <speaker>ASGAUT</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Det svoer han.</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l rhyme="X">Det svoer jeg dyrt ved alle Valhals Guder!</l>
+                     <l part="I">Og end engang jeg sværger –</l>
+                  </lg>
+               </sp>
+               <sp who="#HEMMING">
+                  <speaker>HEMMING</speaker>
+                  <stage>med en Harpe over Skulderen, har under det Foregaaende nærmet sig mellem
+                     Kjæmperne, og udbryder bønligt</stage>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Sværg ei, Gandalf!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="I">Hvad gaaer der af Dig?</l>
+                  </lg>
+               </sp>
+               <sp who="#HEMMING">
+                  <speaker>
+                     <pb n="309"/>HEMMING</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Sværg ei her i Skoven!</l>
+                     <l rhyme="x">Her kan ei vore Guder høre Dig.</l>
+                     <l rhyme="X">I Snekkens Stavn, i Nord paa vore Bjerge</l>
+                     <l rhyme="x">Der høre de Dig nok, men ikke her.</l>
+                  </lg>
+               </sp>
+               <sp who="#ASGAUT">
+                  <speaker>ASGAUT</speaker>
+                  <lg part="M">
+                     <l rhyme="x">Har Sydens Pestluft smittet ogsaa Dig?</l>
+                  </lg>
+               </sp>
+               <sp who="#HEMMING">
+                  <speaker>HEMMING</speaker>
+                  <lg part="M">
+                     <l rhyme="X">I Velskland hørte jeg de fromme Præster</l>
+                     <l rhyme="x">Fortælle deiligt om den hvide Christ,</l>
+                     <l rhyme="x">Og hvad de sagde svæver for min Hu</l>
+                     <l rhyme="X">Ved Nat og Dag, det vil ei meer forsvinde.</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l rhyme="x">Jeg tog Dig med fordi Du alt som Gut</l>
+                     <l rhyme="X">Forraadte Tegn paa rige Skjaldekræfter;</l>
+                     <l rhyme="x">Du skulde see min djærve Ledingsfærd,</l>
+                     <l rhyme="X">Og naar Kong Gandalf sad som graanet Gubbe</l>
+                     <l rhyme="X">Ved Egebordet mellem sine Kjæmper,</l>
+                     <l rhyme="X">Da skulde Drottens unge Skjald forkorte</l>
+                     <l rhyme="x">Den lange Vinterkveld med Heltekvad,</l>
+                     <l rhyme="X">Og saa til Slutning sjunge mig mit Drapa;</l>
+                     <l rhyme="x">Thi Mindet reist af Skjaldetungens Lyn</l>
+                     <l rhyme="X">Er bedste Bauta over Heltens Gravhøi.</l>
+                     <l rhyme="x">Gaa nu, slæng Harpen væk og put Dig selv</l>
+                     <l rhyme="x">I Munkekutten, hvis det lyster Dig!</l>
+                     <l rhyme="X">Ha, ha, Kong Gandalf faaer en dygtig Sanger!</l>
+                  </lg>
+               </sp>
+               <sp who="#ASGAUT">
+                  <speaker>
+                     <pb n="310"/>ASGAUT</speaker>
+                  <lg part="M">
+                     <l rhyme="a">Det er en muggen Tid vi lever i,</l>
+                     <l rhyme="x">Det bærer ned ad Bakke med vor Tro</l>
+                     <l rhyme="a">Og vore Sæder fra den gamle Tid;</l>
+                     <l rhyme="X">Held mig! min Nakke luder alt af Ælde,</l>
+                     <l rhyme="x">Mit Øie skal ei skue Nordens Fald;</l>
+                     <l rhyme="b">Men Du, Kong Gandalf, Du er ung og stærk,</l>
+                     <l rhyme="C">Og hvor Du færdes i det vide Fjerne,</l>
+                     <l rhyme="b">Saa kom ihu, at det er Kongeværk</l>
+                     <l rhyme="C">Om Folkets Guder og dets Kraft at værne!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <stage>efter en Pause</stage>
+                  <lg part="F">
+                     <l rhyme="x">Han har ei nogen freidig Lid til mig,</l>
+                     <l rhyme="X">Vel at han gik! Der ligger som en Tyngsel</l>
+                     <l rhyme="x">Paa mine Skuldre, naar han er mig nær.</l>
+                     <l rhyme="x">Den gamle Steenmand med de barske Træk!</l>
+                     <l rhyme="X">Han ligner Asathor, som stod med Mjølner</l>
+                     <l rhyme="X">Og Styrkebæltet hugget ud i Graasteen</l>
+                     <l rhyme="x">I Offerlunden ved min Faders Gaard.</l>
+                     <l rhyme="x">Min Faders Gaard! Hvo veed hvordan det nu</l>
+                     <l rhyme="X">Seer ud derhjemme paa de gamle Tomter!</l>
+                     <l rhyme="X">Ja Fjeld og Skov er sagtens end de samme,</l>
+                     <l rhyme="X">Men Folkets Bryst? – Har det de gamle Strænge?</l>
+                     <l rhyme="X">Nei, der er falden Meeldug over Tiden,</l>
+                     <l rhyme="x">Og det er den, som suger Nordens Saft</l>
+                     <l rhyme="X">Og tærer giftigt paa dets bedste Blomster.</l>
+                     <l rhyme="x">Vel, jeg vil hjemad, redde hvad der end</l>
+                     <l rhyme="X">Staaer til at redde før det styrter sammen.</l>
+                     <stage>(efter en Pause, idet han seer sig om)</stage>
+                     <l rhyme="X">Hvor der er lifligt her i Sydens Lunde,</l>
+                     <l rhyme="x">
+                        <pb n="311"/>Min Graneskov har ei saa stærk en Duft.</l>
+                     <stage>(han bemærker Høien)</stage>
+                     <l rhyme="x">Hvad nu? En Kjæmpegrav? Den gjemmer nok</l>
+                     <l rhyme="X">En Landsmand fra de gamle friske Dage!</l>
+                     <l rhyme="X">En Kjæmpegrav i Syden! det er billigt,</l>
+                     <l rhyme="x">Thi Syden gav os jo vort Ulivssaar.</l>
+                     <l rhyme="x">Hvor her er vakkert! Jeg maa tænke paa</l>
+                     <l rhyme="x">En Vinterkveld, da jeg som liden Gut</l>
+                     <l rhyme="X">Sad paa min Faders Knæ ved Arneflammen,</l>
+                     <l rhyme="X">Mens han fortalte mig om vore Guder,</l>
+                     <l rhyme="x">Om Odin, Balder og den stærke Thor,</l>
+                     <l rhyme="x">Og da jeg nævnte for ham Freias Lund,</l>
+                     <l rhyme="x">Saa skildred han mig den som Lunden her;</l>
+                     <l rhyme="X">Men da jeg vilde vide lidt om Freia,</l>
+                     <l rhyme="X">Hvordan hun selv saa ud, da smaalo Gubben</l>
+                     <l rhyme="X">Og satte mig paa Gulvet ned og svared:</l>
+                     <l rhyme="x">«Det vil en Kvinde nok fortælle Dig!»</l>
+                     <stage>(lyttende)</stage>
+                     <l rhyme="X">Tys! Fodtrin gjennem Skoven! Rolig Gandalf!</l>
+                     <l rhyme="x">De bringe Førstegrøden af Din Hævn.</l>
+                  </lg>
+                  <stage>(træder tilside saaledes, at han er halvskjult mellem Buskene
+                     tilhøire)</stage>
+               </sp>
+            </div>
+         </div>
+         <div type="act" n="1" part="M">
+            <div type="scene" n="3">
+               <head>3die Scene</head>
+               <stage>Gandalf. Blanka (med Egeblade i Haaret og en Kurv med Blomster kommer fra
+                  Venstre).</stage>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <stage>beskjæftiget med at flette en Blomsterkrands</stage>
+                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R"
+                     part="I">
+                     <l rhyme="X">Der risler Kilder i de grønne Dale,</l>
+                     <l rhyme="x">Der gynger klare Bølger under Strand;</l>
+                     <l rhyme="x">Men Kildens Rislen, Bølgens sagte Røst</l>
+                     <l rhyme="X">Har ei saa stærk en Magt, som hine Blomster,</l>
+                     <l rhyme="x">Der favnes søsterligen Bryst ved Bryst</l>
+                     <l rhyme="X">I tætte Klynger rundt om Høiens Side;</l>
+                     <l rhyme="x">De mane mig ved Nat og Dag herhen,</l>
+                     <l rhyme="X">Her er det godt at længes og at drømme.</l>
+                     <l rhyme="X">See nu er Krandsen færdig, Heltens Bauta</l>
+                     <l rhyme="x">Saa haard og kold skal dølges under den;</l>
+                     <l rhyme="x">Ja, det er smukt! <stage>(visende mod Høien)</stage> Et undergaaet
+                        Liv</l>
+                     <l rhyme="X">Med Kjæmpekræfter, dybt i Muld begravet,</l>
+                     <l rhyme="X">Og Mindet som til Efterslægten taler</l>
+                     <l rhyme="X">En iiskold Kampesteen, som hiin paa Høien;</l>
+                     <l rhyme="x">Da kommer Kunsten og med venlig Haand</l>
+                     <l rhyme="x">Den plukker Blomster ved Naturens Bryst,</l>
+                     <l rhyme="x">Og dækker Mindets haarde Kampesteen</l>
+                     <l rhyme="X">Med hvide Lilier, duftende Kjærminder.</l>
+                     <stage>(hun stiger op paa Høien, hænger Krandsen over Bautastenen og siger
+                        derpaa efter en Pause)</stage>
+                     <l rhyme="x">
+                        <pb n="313"/>Nu seiler atter mine Drømmes Flok,</l>
+                     <l rhyme="X">Som Trækfuglskaren over Havets Bølger;</l>
+                     <l rhyme="X">Jeg drages did, hvorhen min Længsel stunder,</l>
+                     <l rhyme="x">Og villigt følger jeg den skjulte Magt,</l>
+                     <l rhyme="x">Som har sin Kongestol i Sjælens Dyb.</l>
+                     <l rhyme="x">Jeg staaer i Norden, er en Kjæmpers Brud,</l>
+                     <l rhyme="X">Og speider som en Ørn fra Fjeldets Tinde.</l>
+                     <l rhyme="x">Bag blanke Bølger dukker Snekken frem;</l>
+                     <l rhyme="x">O flye som Maagen mod din Fædrestrand!</l>
+                     <l rhyme="X">Jeg er et Sydens Barn jeg kan ei vente; –</l>
+                     <l rhyme="x">Jeg river Egekrandsen af mit Haar,</l>
+                     <l rhyme="x">Tag den min Helt! den er det andet Bud,</l>
+                     <l rhyme="X">Der hilser Dig – min Længsel var det Første.</l>
+                     <stage>(hun kaster Krandsen. Gandalf træder frem og griber den)</stage>
+                     <l part="I">Hvad nu? Der staaer –</l>
+                     <stage>(hun gnider Øinene og stirrer forundret paa ham)</stage>
+                     <l part="F" rhyme="x">Nei det er ingen Drøm.</l>
+                     <l rhyme="x">Hvo er Du, Fremmede? Hvad søger Du</l>
+                     <l part="I">Ved Stranden her?</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Stig ned af Høien først</l>
+                     <l part="I">Saa kan vi tales ved.</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <stage>stiger ned</stage>
+                  <lg part="M">
+                     <l part="F" rhyme="X">See saa, her er jeg!</l>
+                     <stage>(afsides idet hun betragter ham)</stage>
+                     <l rhyme="X">Ringbrynjen over Brystet, Kobberhjelmen</l>
+                     <l rhyme="x">Aldeles som min Fader har fortalt.</l>
+                     <stage>(høit)</stage>
+                     <l part="I">Tag Hjelmen af!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="M">Hvorfor?</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>
+                     <pb n="314"/>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Saa gjør det dog!</l>
+                     <stage>(afsides)</stage>
+                     <l rhyme="X">To klare Øine, Lokker som en Kornmark,</l>
+                     <l rhyme="x">Aldeles som jeg saa ham i min Drøm.</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="I">Hvo er Du, Kvinde?</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Jeg? et fattigt Barn!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l rhyme="X">Dog vist den Fagreste som Øen eier.</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <stage>leende</stage>
+                  <lg part="M">
+                     <l rhyme="X">Den Fagreste? Ja, det kan være muligt,</l>
+                     <l part="I">Thi her er ingen Anden.</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Ingen Anden?</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l rhyme="X">Med mindre, at min Fa’er, – men han er gammel</l>
+                     <l rhyme="x">Og har et sølvgraat Skjæg saa langt som saa –,</l>
+                     <l rhyme="X">O nei, saa troer jeg dog <emph>jeg</emph> vinder Prisen.</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="I">Du har et lystigt Sind.</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Ei altid, Du!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l rhyme="X">Men siig mig dog, hvordan det hænger sammen</l>
+                     <l rhyme="x">Du lever ene med Din Fader her,</l>
+                     <l rhyme="X">
+                        <pb n="315"/>Og jeg har dog saa sikkert hørt berette,</l>
+                     <l rhyme="X">At Øen skulde være rigt bebygget.</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l rhyme="x">Det var den engang, for en treaars Tid;</l>
+                     <l rhyme="X">Men – ja det er en sørgelig Fortælling,</l>
+                     <l rhyme="x">Dog Du skal høre den, ifald Du vil.</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="I">Javist jeg vil!</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Seer Du, for tre Aar siden –</l>
+                     <stage>(sætter sig)</stage>
+                     <l part="I">Kom, sæt Dig ned!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <stage>træder et Skridt tilbage</stage>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Nei, sid kun Du, jeg staaer.</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l rhyme="x">For tre Aar siden kom en væbnet Flok</l>
+                     <l rhyme="X">Af Røvere, Gud veed hvorfra, til Øen;</l>
+                     <l rhyme="x">De plyndred rundtomkring, hvor de drog frem</l>
+                     <l rhyme="x">Og myrded Alt, hvad levende de fandt,</l>
+                     <l rhyme="X">De Faa, som kunde, redded’ sig ved Flugten</l>
+                     <l rhyme="x">Og søgte til min Faders Borg, som laa</l>
+                     <l rhyme="X">Paa Klippepynten ikke langt fra Havet.</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="I">Din Faders, siger Du?</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>
+                     <pb n="316"/>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Javist, min Faders.</l>
+                     <l rhyme="X">Det var en skyfuld Aften, da de stormed</l>
+                     <l rhyme="X">Mod Borgeporten, trængte gjennem Muren,</l>
+                     <l rhyme="X">Brød ind i Gaarden, myrdede for Fode;</l>
+                     <l rhyme="x">Jeg flygtet angstfuld ud i Nattens Mulm</l>
+                     <l rhyme="X">Og søgte mig et Skjulested i Skoven.</l>
+                     <l rhyme="X">Jeg saa vort Hjem at hvirvles op i Flammer,</l>
+                     <l rhyme="X">Jeg hørte Skjoldebrag og bange Dødsskrig.</l>
+                     <l rhyme="X">Tilsidst blev Alting tyst; thi Alt var myrdet. –</l>
+                     <l rhyme="x">Den vilde Skare drog mod Stranden ned</l>
+                     <l rhyme="X">Og seiled bort. Den næste Morgen sad jeg</l>
+                     <l rhyme="X">Paa Klippen ved de rygende Ruiner.</l>
+                     <l rhyme="X">Jeg var den Eneste de havde skaanet.</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l rhyme="X">Men Du fortalte jo, Din Fader lever.</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l rhyme="X">Min <emph>Pleie</emph>fader; vent, nu skal Du høre!</l>
+                     <l rhyme="x">Jeg sad paa Klippen sorgfuld og beklemt</l>
+                     <l rhyme="X">Og lytted til den rædselsfulde Stilhed,</l>
+                     <l rhyme="X">Da lød det som et dæmpet Suk fra Dybet</l>
+                     <l rhyme="X">I Klippekløften under mine Fødder;</l>
+                     <l rhyme="x">Jeg lytted bange, steg tilsidst derned</l>
+                     <l rhyme="x">Og fandt en Fremmed blødende og bleg.</l>
+                     <l rhyme="x">Jeg nærmed mig saa bange som jeg var,</l>
+                     <l part="I">Forbandt hans Saar og pleied ham.</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Og han?</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l rhyme="X">Fortalte, da han efterhaanden kom sig,</l>
+                     <l rhyme="x">At han var dragen med et Kjøbmandsskib</l>
+                     <l rhyme="x">
+                        <pb n="317"/>Herhid til Øen endnu samme Dag,</l>
+                     <l rhyme="x">Da Borgen plyndredes, var flygtet did</l>
+                     <l rhyme="X">Og havde kjæmpet kjækt mod Røverflokken,</l>
+                     <l rhyme="X">Indtil han blødende af Mathed styrted</l>
+                     <l rhyme="X">I Klippekløften, hvor jeg siden fandt ham,</l>
+                     <l rhyme="X">Og efter den Tid har vi levet sammen;</l>
+                     <l rhyme="X">Han bygged os en Hytte dybt i Skoven,</l>
+                     <l rhyme="X">Og blev mig kjær, o kjær, som ingen Anden;</l>
+                     <l part="I">Men kom, Du maa dog see ham!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Nei – nei vent!</l>
+                     <l rhyme="x">Vi træffe tidsnok sammen, tænker jeg.</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l rhyme="x">Ja, ja da, som Du vil, men Du kan troe;</l>
+                     <l rhyme="x">Han saa Dig gjerne under Hyttens Tag;</l>
+                     <l rhyme="X">For Du maa vide, Gjæstfriheden hører</l>
+                     <l part="I">Ei blot i Norden hjemme.</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Norden? Saa</l>
+                     <l part="I">Du veed da –</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Hvor Du kommer fra? O ja!</l>
+                     <l rhyme="x">Min Fader har fortalt om Jer saatidt,</l>
+                     <l part="I">At jeg ved første Øiekast –</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Og dog,</l>
+                     <l part="I">Du blev ei bange?</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Bange? Hvorfor bange?</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>
+                     <pb n="318"/>GANDALF</speaker>
+                  <lg part="M">
+                     <l rhyme="x">Nu, har han ikke sagt – ja, har han ei –</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l rhyme="x">Fortalt at I er djærve Helte? Jo!</l>
+                     <l rhyme="x">Men hvorfor skulde det forskrække mig?</l>
+                     <l rhyme="X">Jeg veed, I søger Ry paa fjerne Strande</l>
+                     <l rhyme="X">I mandig Dyst med drabelige Kjæmper,</l>
+                     <l rhyme="x">Men jeg har hverken Pantser eller Sværd,</l>
+                     <l part="I">Hvi skulde jeg vel da –</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Nei vist, nei vist!</l>
+                     <l rhyme="X">Men hine Fremmede, som brændte Borgen?</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="I">Hvad de?</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Nu ja, jeg meente blot, har ei</l>
+                     <l part="I">Din Fader sagt hvorfra de kom?</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Nei aldrig.</l>
+                     <l rhyme="x">De var jo Fremmede for ham som os,</l>
+                     <l rhyme="x">Men hvis Du vil, saa skal jeg spørge ham.</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <stage>hurtigt</stage>
+                  <lg part="M">
+                     <l part="I">Nei, lad kun være!</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Ah, nu fatter jeg!</l>
+                     <l rhyme="x">Du vide vil, hvor Du skal søge dem</l>
+                     <l rhyme="x">Og tage Blodhævn som I kalde det.</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>
+                     <pb n="319"/>GANDALF</speaker>
+                  <lg part="M">
+                     <l rhyme="X">Ha, Blodhævn! Tak! Du minder mig om Ordet;</l>
+                     <l part="I">Fast havde jeg forglemt –</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Men veed Du vel,</l>
+                     <l part="I">Det er en hæslig Skik.</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <stage>gaaende mod Baggrunden</stage>
+                  <lg part="M">
+                     <l part="M">Farvel!</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Du gaaer?</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l>Vi træffes tidsnok. <stage>(standser)</stage> Siig mig endnu Eet:</l>
+                     <l rhyme="x">Hvo hviler under Kjæmpehøien der?</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="I">Det veed jeg ei.</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Du veed det ei, og dog</l>
+                     <l rhyme="X">Du slynger Blomster rundt om Heltens Bauta.</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l rhyme="x">Min Fader førte mig en Morgen hid</l>
+                     <l rhyme="x">Og viste mig den friske Gravhøi, som</l>
+                     <l rhyme="X">Jeg aldrig forhen havde seet ved Stranden,</l>
+                     <l rhyme="X">Han bad mig holde Morgenbøn ved Høien</l>
+                     <l rhyme="x">Og i min Bøn at tænke fromt paa dem,</l>
+                     <l rhyme="X">Som havde hærjet os med Sværd og Flamme.</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>
+                     <pb n="320"/>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="I">Og Du?</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Hver Morgenstund fra den Dag af</l>
+                     <l rhyme="X">Jeg bad en stille Bøn for deres Frelse;</l>
+                     <l rhyme="X">Og friske Blomster fletted jeg hver Aften</l>
+                     <l part="I">Til Krands om Mindestenen.</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Sælsomt, sælsomt!</l>
+                     <l rhyme="x">Hvor kan Du bede for Din Avindsmand?</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="I">Det byder mig min Tro.</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <stage>hæftigt</stage>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Den Tro er feig,</l>
+                     <l rhyme="x">Det er en Tro, som suger Heltens Kraft,</l>
+                     <l rhyme="X">See derfor døde Kjæmpelivet Straadød</l>
+                     <l part="I">Hos Eder her i Syden!</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Men ifald</l>
+                     <l rhyme="x">Min feige Tro, som nu Du kalder den,</l>
+                     <l rhyme="X">Blev plantet om i Eders friske Jordbund,</l>
+                     <l rhyme="x">Da veed jeg vist der spired frem af den</l>
+                     <l rhyme="X">En Blomsterfylde, riig nok til at dække</l>
+                     <l part="I">Den nøgne Fjeldvæg.</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Lad Du Fjeldet staae</l>
+                     <l rhyme="X">Med nøgne Vægge til de falde sammen!</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="I">Hør! tag mig med derop!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>
+                     <pb n="321"/>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Hvad mener Du?</l>
+                     <l part="I">Jeg styrer hjemad –</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Ja jeg seiler med Dig;</l>
+                     <l rhyme="X">Jeg har jo længst i Tankerne gjort Farten</l>
+                     <l rhyme="x">Didop, hvor Du har hjemme mellem Iis</l>
+                     <l rhyme="X">Og Snee og store sorte Graneskove!</l>
+                     <l rhyme="X">Der skulde komme Lystighed i Hallen,</l>
+                     <l rhyme="x">Ifald jeg maatte raade kan Du troe,</l>
+                     <l rhyme="x">Thi jeg er munter; – har Du nogen Skjald?</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l rhyme="x">Jeg havde En, men her i Syden har</l>
+                     <l rhyme="X">Den lumre Luftning slapped Harpens Strenge,</l>
+                     <l part="I">Den vil ei klinge.</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Godt! saa skal jeg være</l>
+                     <l part="I">Din Skjald.</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Og Du? – Du kunde følge med os,</l>
+                     <l part="I">Forlade Hjem og Fader?</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <stage>leende</stage>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Ha, ha, ha!</l>
+                     <l part="I">Jeg troer Du tager det for Alvor.</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Var det</l>
+                     <l part="I">Da kun dit Skjemt?</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Ak ja! en tosset Drøm,</l>
+                     <l rhyme="X">Som tidt jeg drømte før vi saa hinanden,</l>
+                     <l rhyme="x">Og som jeg vist vil drømme mangen Gang,</l>
+                     <l part="I">Naar Du <stage>
+                           <pb n="322"/>(pludselig afbrydende)</stage> Du seer saa stivt paa
+                        mig!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Gjør jeg?</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="I">Javist, hvad tænker Du paa?</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Jeg? paa Intet.</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="I">Paa Intet?</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Ja, jeg veed ei selv paa hvad,</l>
+                     <l rhyme="x">Dog jo, jeg veed – og Du skal høre det:</l>
+                     <l rhyme="x">Jeg tænker paa hvordan Du plante vil</l>
+                     <l rhyme="x">I Norden Dine Blomster, og imens</l>
+                     <l rhyme="X">Saa falder mig min egen Tro isinde;</l>
+                     <l rhyme="x">Der er et Ord deri som aldrig før</l>
+                     <l rhyme="x">Jeg fattet har; nu har Du lært mig det.</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="I">Hvad mener Du?</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Der siges, at Valfader</l>
+                     <l rhyme="X">Faaer kun en Halvdeel af de slagne Kjæmper,</l>
+                     <l rhyme="x">Den anden Halvdeel hører Freia til.</l>
+                     <l rhyme="X">Det har jeg aldrig kunnet ret begribe;</l>
+                     <l rhyme="x">Men nu, nu fatter jeg – jeg er jo selv</l>
+                     <l rhyme="X">En slagen Kjæmpe og min bedste Halvdeel</l>
+                     <l part="I">Blev Freias Eiendom.</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>
+                     <pb n="323"/>BLANKA</speaker>
+                  <stage>studsende</stage>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Hvad skal det sige?</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="I">Nu, kort og godt, saa viid –</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <stage>hurtigt</stage>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Nei, lad kun være!</l>
+                     <l rhyme="X">Jeg tør ei dvæle længer her i Aften;</l>
+                     <l rhyme="x">Min Fader venter, jeg maa gaae; Farvel!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="I">Du gaaer?</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <stage>tager Egekrandsen, som han har ladet falde, slynger den om hans
+                     Hjelm</stage>
+                  <lg part="M">
+                     <l part="F" rhyme="x">See der, Du kan beholde den!</l>
+                     <l rhyme="X">See, hvad jeg før i mine Drømme gav Dig,</l>
+                     <l part="I">Det skjænker jeg Dig vaagen nu.</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="F">
+                     <l part="F" rhyme="x">Farvel!</l>
+                  </lg>
+               </sp>
+               <stage>Han gaaer hurtig ud til Høire.</stage>
+            </div>
+            <div type="scene" n="4">
+               <head>
+                  <pb n="324"/>4de Scene</head>
+               <sp who="#BLANKA" xml:id="BLANKA_1">
+                  <speaker>BLANKA</speaker>
+                  <stage>alene</stage>
+                  <lg type="strofisk-strofegruppe-trokeisk-firtakter" met="bi 7|8" rhyme="r|R">
+                     <lg type="strofe" rhyme="(A b)² C D D C">
+                        <l rhyme="A">Han er borte! Lydløst Stille</l>
+                        <l rhyme="b">Raader paa den øde Kyst.</l>
+                        <l rhyme="A">Lydløst Stille, Gravens Stille</l>
+                        <l rhyme="b">Raader ogsaa i mit Bryst.</l>
+                        <l rhyme="C">Kom han da kun for at svinde</l>
+                        <l rhyme="D">Som et Solstreif gjennem Taagen?</l>
+                        <l rhyme="D">Ak! snart seiler han som Maagen</l>
+                        <l rhyme="C">Langt herfra for Nattens Vinde.</l>
+                     </lg>
+                     <lg type="strofe" part="Y" rhyme="A B B A">
+                        <l rhyme="A">Og hvad har jeg saa tilbage?</l>
+                        <l rhyme="B">Kun en Blomst for mine Drømme,</l>
+                        <l rhyme="B">Ensomheden for at svømme,</l>
+                        <l rhyme="A">Som Petrellen om hans Drage</l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA" xml:id="BLANKA_2">
+                  <stage>(Vikingernes Krigsluur høres fra Venstre)</stage>
+                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R">
+                     <l rhyme="X">Ha! hvad var det! Et Horn, det kom fra Skoven.</l>
+                  </lg>
+               </sp>
+            </div>
+         </div>
+         <div type="act" n="1" part="F">
+            <div type="scene" n="5">
+               <head>5te Scene</head>
+               <stage>Blanka. Gandalf (fra Høire).</stage>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <stage>afsides</stage>
+                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R"
+                     part="I">
+                     <l part="I">Det er for sildigt!</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">O, der er han atter!</l>
+                     <l part="I">Hvad vil Du?</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Skynd Dig, skynd Dig bort herfra!</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="I">Hvad mener Du?</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Afsted! Her truer Faren!</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="I">Hvad Fare?</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="M">Døden!</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Jeg forstaar Dig ei.</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>
+                     <pb n="326"/>GANDALF</speaker>
+                  <lg part="M">
+                     <l rhyme="X">Jeg vilde dulgt det for Dig; derfor gik jeg</l>
+                     <l rhyme="X">At kalde Folket ned igjen til Snekken</l>
+                     <l rhyme="x">Og seile bort; Du skulde aldrig vidst –</l>
+                     <l rhyme="X">Dog Hornet varsler, at det er forsilde;</l>
+                     <l part="I">De komme hid.</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="M">Hvem kommer – hvem?</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Saa vid da:</l>
+                     <l rhyme="X">De Fremmede, som fordum hærjed’ Øen,</l>
+                     <l part="I">Var Vikinger som jeg.</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="M">Fra Norden?</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Ja.</l>
+                     <l rhyme="x">Min Fader faldt, og han var deres Drot, –</l>
+                     <l part="I">Thi maa han hævnes.</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="M">Hævnes?</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Det er Skik</l>
+                     <l part="I">Og Vedtægt mellem os.</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Ha, jeg begriber!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="I">De komme! Stil Dig bag ved mig.</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="F">
+                     <l part="F" rhyme="X">Væk, Blodmand!</l>
+                  </lg>
+               </sp>
+            </div>
+            <div type="scene" n="6">
+               <head>
+                  <pb n="327"/>6te Scene</head>
+               <stage>De Forrige. Asgaut, Hemming og Vikingerne (der føre Roderik mellem
+                  sig).</stage>
+               <sp who="#ASGAUT">
+                  <speaker>ASGAUT</speaker>
+                  <stage>til Gandalf</stage>
+                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R"
+                     part="I">
+                     <l rhyme="X">En mager Fangst – dog altid Noget, Gandalf!</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="I">Min Fader!</l>
+                  </lg>
+                  <stage>(kaster sig i hans Arme)</stage>
+               </sp>
+               <sp who="#RODERIK">
+                  <speaker>RODERIK</speaker>
+                  <lg part="M">
+                     <l part="M">Blanka! O mit Barn!</l>
+                  </lg>
+               </sp>
+               <sp who="#JOSTEIN">
+                  <speaker>JOSTEIN</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">En Kvinde!</l>
+                     <l part="I">Saa faar han Reisefølge.</l>
+                  </lg>
+               </sp>
+               <sp who="#ASGAUT">
+                  <speaker>ASGAUT</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Ja, til Hel!</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l rhyme="X">O Fader, hvorfor har Du aldrig sagt mig –</l>
+                  </lg>
+               </sp>
+               <sp who="#RODERIK">
+                  <speaker>RODERIK</speaker>
+                  <lg part="M">
+                     <l rhyme="X">Tys, tys, min Datter! <stage>(pegende paa Gandalf)</stage> Er det
+                        Eders Høvding?</l>
+                  </lg>
+               </sp>
+               <sp who="#ASGAUT">
+                  <speaker>ASGAUT</speaker>
+                  <lg part="M">
+                     <l rhyme="x">Saa er det. <stage>(til Gandalf)</stage> Manden kan berette
+                        Dig,</l>
+                     <l rhyme="x">Hvordan Din Fader faldt; thi han var med</l>
+                     <l rhyme="x">Og slap derfra med Livet, har han sagt.</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="I">Ti! Jeg vil Intet høre.</l>
+                  </lg>
+               </sp>
+               <sp who="#ASGAUT">
+                  <speaker>
+                     <pb n="328"/>ASGAUT</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Godt, saa lad</l>
+                     <l part="I">Os tage fat paa Værket.</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Gud! hvad vil de?</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <stage>dæmpet</stage>
+                  <lg part="M">
+                     <l part="I">Jeg kan ei, Asgaut!</l>
+                  </lg>
+               </sp>
+               <sp who="#ASGAUT">
+                  <speaker>ASGAUT</speaker>
+                  <stage>ligeledes</stage>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Er vor Høvding feig?</l>
+                     <l rhyme="x">Har Kvindens glatte Tunge daaret ham?</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="I">Nu ligemeget! Jeg har sagt –</l>
+                  </lg>
+               </sp>
+               <sp who="#ASGAUT">
+                  <speaker>ASGAUT</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Betænk,</l>
+                     <l rhyme="X">Det gjælder al din Agt blandt Dine Kjæmper.</l>
+                     <l rhyme="X">Dit Løfte gav Du Valhals høie Guder,</l>
+                     <l rhyme="X">Og brydes det, saa er Du Hvermands Nidding.</l>
+                     <l rhyme="X">Glem ei, vor gamle Tro er svagt befæsted, –</l>
+                     <l rhyme="x">Den vakler alt; et Stød kan rokke den,</l>
+                     <l rhyme="X">Og kommer Stødet ovenfra, fra Drotten,</l>
+                     <l part="I">Da har den faaet Banesaaret.</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Ha!</l>
+                     <l rhyme="x">Det var en ulyksalig Ed, jeg svoer.</l>
+                  </lg>
+               </sp>
+               <sp who="#ASGAUT">
+                  <speaker>ASGAUT</speaker>
+                  <stage>til Vikingerne</stage>
+                  <lg part="M">
+                     <l part="I">Nu rede, Kjæmper!</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Vil I myrde ham,</l>
+                     <l part="I">Den værgeløse Gubbe?</l>
+                  </lg>
+               </sp>
+               <sp who="#ASGAUT">
+                  <speaker>ASGAUT</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Ned med Begge!</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>
+                     <pb n="329"/>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="I">O Gud!</l>
+                  </lg>
+               </sp>
+               <sp who="#HROLLOUG">
+                  <speaker>HROLLOUG</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Nei, Kvinden er for fager! Hun</l>
+                     <l part="I">Kan følge med paa Snekken.</l>
+                  </lg>
+               </sp>
+               <sp who="#JOSTEIN">
+                  <speaker>JOSTEIN</speaker>
+                  <stage>leende</stage>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Ja, som Skjoldmø.</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="I">Tilbage!</l>
+                  </lg>
+               </sp>
+               <sp who="#RODERIK">
+                  <speaker>RODERIK</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Skaaner skaaner kun mit Barn!</l>
+                     <l rhyme="x">Jeg bringer Eder Drottens Banemand,</l>
+                     <l part="I">Ifald I skaane hende!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <stage>hurtigt</stage>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Bring os ham,</l>
+                     <l part="I">Saa er hun fri – ei sandt?</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>VIKINGERNE</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Jo, jo, det er hun!</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <stage>til Roderik</stage>
+                  <lg part="M">
+                     <l part="I">Hvad lover Du?</l>
+                  </lg>
+               </sp>
+               <sp who="#ASGAUT">
+                  <speaker>ASGAUT</speaker>
+                  <lg part="M">
+                     <l part="M">Saa skaf ham hid!</l>
+                  </lg>
+               </sp>
+               <sp who="#RODERIK">
+                  <speaker>RODERIK</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Her staar han!</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>NOGLE</speaker>
+                  <lg part="M">
+                     <l part="I">Ha, Gubben der!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="M">O vee!</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>
+                     <pb n="330"/>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Nei, nei, Du skal ei –</l>
+                  </lg>
+               </sp>
+               <sp who="#RODERIK">
+                  <speaker>RODERIK</speaker>
+                  <lg part="M">
+                     <l rhyme="X">For denne Haand fandt Vikingen sin Bane;</l>
+                     <l rhyme="x">Nu hviler han i Kjæmpehøien der!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="I">Min Faders Gravhøi!</l>
+                  </lg>
+               </sp>
+               <sp who="#RODERIK">
+                  <speaker>RODERIK</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Han var stærk og djærv;</l>
+                     <l rhyme="x">Thi jorded’ jeg ham paa hans Fædres Viis.</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="I">Da han er høilagt, saa –</l>
+                  </lg>
+               </sp>
+               <sp who="#ASGAUT">
+                  <speaker>ASGAUT</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Nei, ligefuldt</l>
+                     <l rhyme="x">Den faldne Konning kræver Blod, – slaa til!</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l rhyme="X">Han skuffer Eder! <stage>(til Gandalf)</stage> Har Du ei
+                        begrebet,</l>
+                     <l rhyme="X">Det er kun mig, sin Datter, han vil frelse?</l>
+                     <l rhyme="x">Dog, hvad forstaar vel Du et kjærligt Sind,</l>
+                     <l part="I">Der offrer Alt for den, som –</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Jeg forstaar ei?</l>
+                     <l rhyme="X">Du troer ei, jeg forstaar? <stage>(til Vikingerne)</stage> Han
+                        skal ei fældes!</l>
+                  </lg>
+               </sp>
+               <sp who="#ASGAUT">
+                  <speaker>ASGAUT</speaker>
+                  <lg part="M">
+                     <l part="I">Hvordan?</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">O, Fader! han er god som Du.</l>
+                  </lg>
+               </sp>
+               <sp who="#ASGAUT">
+                  <speaker>
+                     <pb n="331"/>ASGAUT</speaker>
+                  <lg part="M">
+                     <l part="I">Du svigter Eden?</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Nei, jeg holder den!</l>
+                  </lg>
+               </sp>
+               <sp who="#JOSTEIN">
+                  <speaker>JOSTEIN</speaker>
+                  <lg part="M">
+                     <l part="I">Hvad er din Agt?</l>
+                  </lg>
+               </sp>
+               <sp who="#HROLLOUG">
+                  <speaker>HROLLOUG</speaker>
+                  <lg part="M">
+                     <l part="M">Siig frem!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Jeg har jo svoret</l>
+                     <l rhyme="x">At hævne Drotten eller falde selv.</l>
+                     <l rhyme="X">Nu vel! han der er fri – jeg gaaer til Valhal!</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <stage>til Roderik</stage>
+                  <lg part="M">
+                     <l part="I">Hvad mener han?</l>
+                  </lg>
+               </sp>
+               <sp who="#ASGAUT">
+                  <speaker>ASGAUT</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Det er Din Agt – du vil –?</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l rhyme="X">I holde en af mine Snekker rede,</l>
+                     <l rhyme="X">Med spændte Seil og Baalet tændt i Stavnen;</l>
+                     <l rhyme="x">Paa Fortids Viis jeg vil bestige den!</l>
+                     <l rhyme="X">See, Aftenvinden blæser ud fra Stranden, –</l>
+                     <l rhyme="X">Paa røde Vinger farer jeg til Valhal!</l>
+                  </lg>
+               </sp>
+               <sp who="#ASGAUT">
+                  <speaker>ASGAUT</speaker>
+                  <lg part="M">
+                     <l rhyme="x">Ha, det er Kvinden, som har koglet Dig!</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>
+                     <pb n="332"/>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="I">Nei, du maa leve!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Leve? Jeg er tro</l>
+                     <l rhyme="x">Mod mine Guder, kan ei svige dem.</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l rhyme="x">Din Ed er blodig – Balder hader den.</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l rhyme="X">O, Balder lever ikke meer iblandt os!</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l rhyme="x">For Dig han lever; thi dit Sind er mildt.</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l rhyme="x">Ja, til min Undergang! Det blev mit Kald</l>
+                     <l rhyme="x">Som Drot at værne om vort Kjæmpeliv, –</l>
+                     <l rhyme="x">Men Kraften svigter mig! Kom Asgaut, Du</l>
+                     <l rhyme="x">Skal tage Kongespiret af min Haand;</l>
+                     <l rhyme="x">Du er en Kjæmper af det ægte Malm –</l>
+                     <l rhyme="X">Paa mig har Sydens Gift alt længe tæret;</l>
+                     <l rhyme="x">Men kan jeg ikke leve for mit Folk,</l>
+                     <l part="I">Saa kan jeg dø for det.</l>
+                  </lg>
+               </sp>
+               <sp who="#ASGAUT">
+                  <speaker>ASGAUT</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Vel talt, Kong Gandalf!</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l rhyme="x">Saa er da Loddet kastet! Fald som Helt</l>
+                     <l rhyme="X">I trofast Kjærlighed til Dine Guder!</l>
+                     <l rhyme="X">Men nu, da vi maa skilles ad for evigt,</l>
+                     <l rhyme="X">Saa vid, at naar Du falder selv for Løftet,</l>
+                     <l rhyme="X">Da har Du ogsaa mig til Døden viet!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>
+                     <pb n="333"/>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="I">Hvordan! Til Døden Dig?</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Mit Liv var ligt</l>
+                     <l rhyme="X">En Blomsterknop, i fremmed Jordbund plantet,</l>
+                     <l rhyme="X">Og derfor blunded den i Svøbet fængslet:</l>
+                     <l rhyme="x">Da kom en Straale fra det fjerne Hjem, –</l>
+                     <l rhyme="X">O, det var Dig, min Gandalf! Blomsten aabned</l>
+                     <l rhyme="x">Sit Bæger, – ak, et flygtigt Øieblik!</l>
+                     <l rhyme="x">Saa blegned Straalen – Blomsten maatte dø</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l rhyme="x">O, har jeg fattet Dig? Du kunde – Ha,</l>
+                     <l rhyme="X">Saa er mit Løfte tifold ulyksaligt!</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="I">Vi mødes atter!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Aldrig, aldrig meer!</l>
+                     <l rhyme="x">Dig venter Himlen og den hvide Christ.</l>
+                     <l rhyme="x">Jeg gaar til Valhal; taus jeg sætter mig</l>
+                     <l rhyme="X">Ved Bordets Ende, nederst imod Døren,</l>
+                     <l rhyme="x">Thi Hallens Lystighed er ei for mig.</l>
+                  </lg>
+               </sp>
+               <sp who="#JOSTEIN">
+                  <speaker>JOSTEIN</speaker>
+                  <stage>kommer tilbage med et Banner i Haanden</stage>
+                  <lg part="M">
+                     <l rhyme="x">See, nu er Snekken rede, som Du bød.</l>
+                  </lg>
+               </sp>
+               <sp who="#ASGAUT">
+                  <speaker>ASGAUT</speaker>
+                  <lg part="M">
+                     <l rhyme="x">Du faar en prægtig Ende! Mangen Helt</l>
+                     <l part="I">Vil nok misunde Dig.</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <stage>til Blanka</stage>
+                  <lg part="M">
+                     <l part="M">Farvel!</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>
+                     <pb n="334"/>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Farvel!</l>
+                     <l rhyme="X">Farvel for Livet og for Evigheden!</l>
+                  </lg>
+               </sp>
+               <sp who="#RODERIK">
+                  <speaker>RODERIK</speaker>
+                  <stage>kjæmpende med sig selv.</stage>
+                  <lg part="M">
+                     <l rhyme="X">Stands, stands! <stage>(kaster sig ned for Blanka)</stage>
+                        Barmhjertighed! Tilgiv, tilgiv mig!</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="I">O Gud!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="M">Hvad mener han?</l>
+                  </lg>
+               </sp>
+               <sp who="#RODERIK">
+                  <speaker>RODERIK</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Alt vil jeg skrifte:</l>
+                     <l rhyme="x">Min hele Færd imod Dig var Bedrag!</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="I">O, Skrækken har forvirret ham!</l>
+                  </lg>
+               </sp>
+               <sp who="#RODERIK">
+                  <speaker>RODERIK</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Nei, nei!</l>
+                     <stage>(til Gandalf, efterat have reist sig)</stage>
+                     <l rhyme="X">Du, unge Drot, er løst ifra Dit Løfte;</l>
+                     <l rhyme="X">Din Faders Skygge kræver ingen Blodhævn!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="I">Ha! saa forklar!</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="M">O tal!</l>
+                  </lg>
+               </sp>
+               <sp who="#RODERIK">
+                  <speaker>RODERIK</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Her staar Kong Rørek.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>NOGLE</speaker>
+                  <lg part="M">
+                     <l part="I">Den faldne Konning!</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>
+                     <pb n="335"/>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="M">Himmel!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <stage>tvivlende</stage>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Du min Fader?</l>
+                  </lg>
+               </sp>
+               <sp who="#RODERIK">
+                  <speaker>RODERIK</speaker>
+                  <lg part="M">
+                     <l rhyme="x">See, Asgaut! Husker Du den Skramme, som</l>
+                     <l rhyme="x">Du gav mig paa vort første Vikingtog,</l>
+                     <l part="I">Dengang vi kom i Strid om Byttet?</l>
+                  </lg>
+                  <stage>Han blotter sin Arm og viser Asgaut den.</stage>
+               </sp>
+               <sp who="#ASGAUT">
+                  <speaker>ASGAUT</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Ja,</l>
+                     <l part="I">Ved Thor, det er Kong Rørek!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <stage>kaster sig i hans Arme</stage>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Fader! Fader!</l>
+                     <l rhyme="X">Nu har Du andengang mig Livet skjænket.</l>
+                     <l part="I">O, tag min Tak!</l>
+                  </lg>
+               </sp>
+               <sp who="#RODERIK">
+                  <speaker>RODERIK</speaker>
+                  <stage>nedslaaet; til Blanka</stage>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Og Du – hvad skjænker Du</l>
+                     <l part="I">Den gamle Røver?</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Kjærlighed som før!</l>
+                     <l rhyme="X">Jeg er din Datter! Har ei tre Aars Ømhed</l>
+                     <l rhyme="x">Udslettet hver en Blodplet i dit Skjold?</l>
+                  </lg>
+               </sp>
+               <sp who="#ASGAUT">
+                  <speaker>ASGAUT</speaker>
+                  <lg part="M">
+                     <l rhyme="X">Men saa forklar dog, at Du endnu lever!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="I">Hun redded’ ham.</l>
+                  </lg>
+               </sp>
+               <sp who="#RODERIK">
+                  <speaker>
+                     <pb n="336"/>RODERIK</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Ja, som en venlig Alf</l>
+                     <l rhyme="X">Hun heled’ mine Saar og sysled’ om mig;</l>
+                     <l rhyme="x">Og alt imens fortalte hun saa smukt</l>
+                     <l rhyme="X">Om Troen hos de stille Folk i Syden,</l>
+                     <l rhyme="x">At selv mit haarde Bryst blev blødt derved.</l>
+                     <l rhyme="x">Og Dag for Dag jeg dulgte, hvem jeg var;</l>
+                     <l part="I">Jeg voved ei –</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Men Kjæmpehøien der?</l>
+                  </lg>
+               </sp>
+               <sp who="#RODERIK">
+                  <speaker>RODERIK</speaker>
+                  <lg part="M">
+                     <l rhyme="x">Der grov jeg ned min Rustning og mit Sværd.</l>
+                     <l rhyme="X">Det tyktes mig, som om den vilde Viking</l>
+                     <l rhyme="x">Var skriinlagt med det Samme. Og mit Barn</l>
+                     <l rhyme="X">Bad fromt en Bøn for ham hver Dag ved Høien.</l>
+                  </lg>
+               </sp>
+               <sp who="#ASGAUT">
+                  <speaker>ASGAUT</speaker>
+                  <lg part="M">
+                     <l part="I">Farvel!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="M">Hvor gaar Du?</l>
+                  </lg>
+               </sp>
+               <sp who="#ASGAUT">
+                  <speaker>ASGAUT</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Nordpaa med min Snekke!</l>
+                     <l rhyme="x">Nu seer jeg klarlig, min Tid er forbi –</l>
+                     <l rhyme="x">Og Vikinglivet ogsaa. Jeg vil gaa</l>
+                     <l rhyme="x">Til Island; did er end ei Sotten trængt.</l>
+                     <stage>(til Blanka)</stage>
+                     <l rhyme="X">Du unge Kvinde, tag min Plads hos Drotten!</l>
+                     <l rhyme="X">Thor kan ei mere – Mjølner er af Lave;</l>
+                     <l rhyme="x">Nu raade Balder gjennem Dig. – Farvel!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>
+                     <pb n="337"/>GANDALF</speaker>
+                  <lg part="M">
+                     <l rhyme="X">Ja, Balder raader gjennem Dig, min Blanka!</l>
+                     <l rhyme="X">Nu føler jeg mit Vikinglivs Betydning:</l>
+                     <l rhyme="X">Det var ei ene Lyst til Ry og Rigdom,</l>
+                     <l rhyme="x">Som drev mig bort fra mine Fædres Hjem;</l>
+                     <l rhyme="X">Nei, hvad mig leded’ var en lønlig Længsel,</l>
+                     <l rhyme="x">En stille Higen efter Balder. See,</l>
+                     <l rhyme="X">Nu er min Længsel stillet; Hjem vi fare;</l>
+                     <l rhyme="x">Der vil jeg leve fredsel blandt mit Folk.</l>
+                     <stage>(til Vikingerne)</stage>
+                     <l part="I">Og I vil følge mig?</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>ALLE</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Vi følge Dig!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="I">Og Du, min Blanka?</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Jeg? Jeg er jo og</l>
+                     <l rhyme="X">Et Nordens Barn; thi mellem Eders Bjerge</l>
+                     <l rhyme="x">Slog jo mit Hjertes bedste Blomster Rod.</l>
+                     <l rhyme="X">Til Eder stævned’ jeg i mine Drømme,</l>
+                     <l rhyme="x">Fra Eder hented’ jeg min Kjærlighed!</l>
+                  </lg>
+               </sp>
+               <sp who="#RODERIK">
+                  <speaker>RODERIK</speaker>
+                  <lg part="M">
+                     <l part="I">Og saa afsted!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <lg part="M">
+                     <l part="M">Men Du?</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Du følger os!</l>
+                  </lg>
+               </sp>
+               <sp who="#RODERIK">
+                  <speaker>RODERIK</speaker>
+                  <lg part="M">
+                     <l rhyme="x">Jeg bliver her. <stage>(peger paa Høien)</stage> Min Gravhøi
+                        venter mig.</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>
+                     <pb n="338"/>BLANKA</speaker>
+                  <lg part="M">
+                     <l part="I">Jeg skulde lade Dig alene?</l>
+                  </lg>
+               </sp>
+               <sp who="#HEMMING">
+                  <speaker>HEMMING</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="x">Nei!</l>
+                     <l rhyme="X">Vær uden Frygt! Jeg lukke vil hans Øine</l>
+                     <l rhyme="X">Og sjunge ham et Drapa hist fra Høien;</l>
+                     <l rhyme="X">Det blier mit sidste Kvad. <stage>(rørt, idet han griber Gandalfs
+                           Haand)</stage> Farvel min Konge!</l>
+                     <l rhyme="x">Nu har Du fundet Dig en bedre Skjald.</l>
+                  </lg>
+               </sp>
+               <sp who="#RODERIK">
+                  <speaker>RODERIK</speaker>
+                  <stage>med Fasthed</stage>
+                  <lg part="M">
+                     <l rhyme="X">Det maa saa være; Du er Drot, min Gandalf,</l>
+                     <l rhyme="x">Og Du har høie Pligter mod Dit Folk.</l>
+                     <stage>(lægger deres Hænder sammen)</stage>
+                     <l rhyme="x">I er den unge Morgenrødes Børn, –</l>
+                     <l rhyme="X">Drag did, hvor Kongestolen Eder venter;</l>
+                     <l rhyme="X">Jeg er den Sidste fra de sjunkne Tider,</l>
+                     <l rhyme="x">Min Kongestol er Graven – und mig den!</l>
+                  </lg>
+               </sp>
+               <sp who="#GANDALF">
+                  <speaker>GANDALF</speaker>
+                  <stage>med Fatning</stage>
+                  <lg part="M">
+                     <l part="I">Og nu til Norge!</l>
+                  </lg>
+               </sp>
+               <sp who="#HROLLOUG">
+                  <speaker>HROLLOUG</speaker>
+                  <lg part="M">
+                     <l part="M">Hjemad!</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>ALLE</speaker>
+                  <lg part="M">
+                     <l part="F" rhyme="X">Hjem! Til Norge!</l>
+                  </lg>
+               </sp>
+               <sp who="#BLANKA">
+                  <speaker>
+                     <pb n="339"/>BLANKA</speaker>
+                  <stage>begeistret, idet hun river Banneret af Josteins Haand</stage>
+                  <lg part="F">
+                     <l rhyme="a">Ja, nu afsted! Mod Nord skal Farten gaae</l>
+                     <l rhyme="a">Igjennem Storm og Skum paa Bølger blaa.</l>
+                     <l rhyme="B">Snart dæmrer Dagen over Jøklens Tinde,</l>
+                     <l rhyme="B">Snart vorder Ledingsfærden kun et Minde!</l>
+                     <l rhyme="c">Alt sidder Nordens Viking paa sin Høi;</l>
+                     <l rhyme="c">Forbi er Tiden, da han vældig fløi</l>
+                     <l rhyme="D">Fra Kyst til Kyst med Vaabenbrag og Flammer!</l>
+                     <l rhyme="D">I Støvet synker Tordengudens Hammer,</l>
+                     <l rhyme="e">Og Norden vorder selv en Kjæmpegrav.</l>
+                     <l rhyme="e">Men glem ei Løftet, som Alfader gav:</l>
+                     <l rhyme="F">Naar Mos og Blommer dække Høiens Side,</l>
+                     <l rhyme="F">Skal Heltens Aand paa Idavold jo stride! –</l>
+                     <l rhyme="g">
+                        <emph>Saa stiger ogsaa Norden fra sin Grav</emph>
+                     </l>
+                     <l rhyme="g">
+                        <emph>Til luttret Aandsbedrift paa Tankens Hav!</emph>
+                     </l>
+                  </lg>
+               </sp>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
