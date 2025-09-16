@@ -143,6 +143,54 @@
                <person xml:id="MAGERPERSON" sex="MALE">
                   <persName>En mager person</persName>
                </person>
+               <personGrp xml:id="TROLDUNGER" sex="UNKNOWN">
+                  <name>Troldunger</name>
+               </personGrp>
+               <personGrp xml:id="TROLDJOMFRUER" sex="FEMALE">
+                  <name>Troldjomfruer</name>
+               </personGrp>
+               <person xml:id="HELGA" sex="FEMALE">
+                  <persName>Helga</persName>
+               </person>
+               <personGrp xml:id="VOGTERE" sex="MALE">
+                  <name>Vogtere</name>
+               </personGrp>
+               <personGrp xml:id="DANSERE" sex="FEMALE">
+                  <name>Dansere</name>
+               </personGrp>
+               <person xml:id="TYV" sex="MALE">
+                  <persName>Tyven</persName>
+               </person>
+               <person xml:id="MONSIEURBALLON" sex="MALE">
+                  <persName>Monsieur Ballon</persName>
+               </person>
+               <person xml:id="TRUMPETERSTRAALE" sex="MALE">
+                  <persName>Trumpeterstraale</persName>
+               </person>
+               <person xml:id="EBERKOPF" sex="MALE">
+                  <persName>Eberkopf</persName>
+               </person>
+               <person xml:id="MASTERCOTTON" sex="MALE">
+                  <persName>Master Cotton</persName>
+               </person>
+               <person xml:id="HAELER" sex="MALE">
+                  <persName>Hæleren</persName>
+               </person>
+               <person xml:id="SOLVEJG" sex="FEMALE">
+                  <persName>Solvejg</persName>
+               </person>
+               <person xml:id="BRUDGOMMEN" sex="MALE">
+                  <persName>Brudgommen</persName>
+               </person>
+               <person xml:id="KJOEGEMESTER" sex="MALE">
+                  <persName>Kjøgemesteren</persName>
+               </person>
+               <person xml:id="SKIPPER" sex="MALE">
+                  <persName>Kaptejnen</persName>
+               </person>
+               <personGrp xml:id="BRUDGFORELDRE">
+                  <name>Brudgommens foreldre</name>
+               </personGrp>
             </listPerson>
          </particDesc>
       </profileDesc>
