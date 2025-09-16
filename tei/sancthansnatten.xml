@@ -253,21 +253,25 @@
                   </castItem>
                   <castGroup>
                      <castItem sameAs="JORGEN">
-                        <role>JØRGEN KVIST</role>, <roleDesc>Student</roleDesc>
+                        <role>JØRGEN KVIST</role>, 
+                        <roleDesc>Student</roleDesc>
                         <actor>Prom</actor>
                      </castItem>
                      <castItem sameAs="JULIANE">
-                        <role>JULIANE</role>, <roleDesc>hans Søster</roleDesc>
+                        <role>JULIANE</role>, 
+                        <roleDesc>hans Søster</roleDesc>
                         <actor>Md<hi>m</hi> Hundevadt</actor>
                      </castItem>
                      <roleDesc>Fru Bergs Børn af første Ægteskab –</roleDesc>
                   </castGroup>
                   <castItem sameAs="ANNA">
-                     <role>ANNA</role>, <roleDesc>hendes Steddatter</roleDesc>
+                     <role>ANNA</role>, 
+                     <roleDesc>hendes Steddatter</roleDesc>
                      <actor>" Bruun</actor>
                   </castItem>
                   <castItem sameAs="BERG">
-                     <role>BERG</role>, <roleDesc>forhenværende Gaardeier, hendes afdøde Mands
+                     <role>BERG</role>, 
+                     <roleDesc>forhenværende Gaardeier, hendes afdøde Mands
                         Fader</roleDesc>
                      <actor>P. N</actor>
                   </castItem>
