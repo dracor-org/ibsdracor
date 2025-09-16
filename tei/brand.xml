@@ -87,10 +87,10 @@
                   <persName>Gerd</persName>
                </person>
                <person xml:id="BONDEN" sex="MALE">
-                  <persName>En bonde</persName>
+                  <persName>Bonden</persName>
                </person>
                <person xml:id="SONNEN" sex="MALE">
-                  <persName>Hans søn</persName>
+                  <persName>Sønnen</persName>
                </person>
                <person xml:id="SKRIVERKARLEN" sex="MALE">
                   <persName>Skriverkarlen</persName>
