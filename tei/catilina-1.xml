@@ -156,16 +156,20 @@
                   <pb n="10"/>LUCIUS CATILINA</role>, <roleDesc>romersk Adelsmand</roleDesc>
             </castItem>
             <castItem sameAs="AURELIA">
-               <role>AURELIA</role>, <roleDesc>hans Hustru</roleDesc>
+               <role>AURELIA</role>
+               <roleDesc>hans Hustru</roleDesc>
             </castItem>
             <castItem sameAs="FURIA">
-               <role>FURIA</role>, <roleDesc>en Vestalinde</roleDesc>
+               <role>FURIA</role>
+               <roleDesc>en Vestalinde</roleDesc>
             </castItem>
             <castItem sameAs="CURIUS">
-               <role>CURIUS</role>, <roleDesc>Catilinas Slægtning, en Yngling</roleDesc>
+               <role>CURIUS</role>
+               <roleDesc>Catilinas Slægtning, en Yngling</roleDesc>
             </castItem>
             <castItem sameAs="MANLIUS">
-               <role>MANLIUS</role>, <roleDesc>en gammel Kriger</roleDesc>
+               <role>MANLIUS</role>
+               <roleDesc>en gammel Kriger</roleDesc>
             </castItem>
             <castGroup>
                <castItem sameAs="LENTULUS">
