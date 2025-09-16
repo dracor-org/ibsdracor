@@ -1,0 +1,1251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000035">
+   <teiHeader xml:lang="nob">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Fjeldfuglen</title>
+            <author>
+               <persName>
+                  <forename>Henrik</forename>
+                  <surname>Ibsen</surname>
+               </persName>
+               <idno type="wikidata">Q36661</idno>
+            </author>
+            <editor role="editor-in-chief">Vigdis Ystad</editor>
+            <editor role="managing-editor">Christian Janss</editor>
+            <editor role="text-editors">Hilde Bøe</editor>
+            <editor role="text-editors">Stine Brenna Taugbøl</editor>
+            <respStmt>
+               <resp>Modified encoding for DraCor by</resp>
+               <name xml:id="NME">Nina Marie Evensen</name>
+               <name xml:id="ER">Emil Røsås</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.5">Beta release</edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>University of Oslo, Center for Ibsen Studies</authority>
+            <publisher>DraCor</publisher>
+            <date when="2025">2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
+               <name>Henrik Ibsens skrifter, digital utgave (HISe)</name>
+               <idno type="URL">https://www.ibsen.uio.no/DRVIT_Fj%7CFjht.xhtml</idno>
+               <idno>Fjht</idno>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+                     <ab>CC BY-NC 4.0</ab>
+                  </licence>
+               </availability>
+               <bibl type="originalSource">
+                  <author>Henrik Ibsen</author>
+                            :
+                            <title type="main">Fjeldfuglen</title>. <title type="sub">Hovedtekst, tekstgrunnlag: NBO Ms.4° 935</title>. In:
+                            <edition>Henrik Ibsens skrifter, bind 2</edition>. 
+                            <editor>Christian Janss, Hilde Bøe og Stine Brenna Taugbøl</editor>
+                  <pubPlace>Oslo</pubPlace>:
+                            <publisher>Aschehoug</publisher>
+                  <date when="2006">2006</date>
+                  <biblScope unit="page" from="575" to="607">575-607</biblScope>
+               </bibl>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="nob"/>
+            <language ident="dan-nob"/>
+         </langUsage>
+         <particDesc>
+            <listPerson>
+               <person xml:id="IVAR" sex="MALE">
+                  <persName>Ivar</persName>
+               </person>
+               <person xml:id="INGEBORG" sex="FEMALE">
+                  <persName>Ingeborg</persName>
+               </person>
+               <person xml:id="SVEND" sex="MALE">
+                  <persName>Svend</persName>
+               </person>
+               <person xml:id="KNUT" sex="MALE">
+                  <persName>Knut</persName>
+               </person>
+               <person xml:id="THORGEJR" sex="MALE">
+                  <persName>Thorgejr</persName>
+               </person>
+               <person xml:id="ALFHILD" sex="FEMALE">
+                  <persName>Alfhild</persName>
+               </person>
+               <personGrp xml:id="GJAESTER">
+                  <name>Chor af Bryllupsgjæster</name>
+               </personGrp>
+               <personGrp xml:id="HOUGFOLK">
+                  <name>Chor af Hougfolk</name>
+               </personGrp>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <standOff>
+      <listEvent>
+         <event type="print" when="">
+            <desc/>
+         </event>
+         <event type="premiere" when="2009">
+            <desc/>
+         </event>
+         <event type="written" notBefore="1859" notAfter="1861">
+            <desc/>
+         </event>
+      </listEvent>
+      <listRelation>
+         <relation name="wikidata"
+                   active="https://dracor.org/entity/ibs000035"
+                   passive="http://www.wikidata.org/entity/Q2595792"/>
+      </listRelation>
+   </standOff>
+   <text type="drama" xml:lang="dan-nob">
+      <front>
+         <titlePage type="main">
+            <docTitle>
+               <titlePart type="main">
+                  <pb n="577"/>
+                  <app type="alteration">
+                     <lem>«Fjeldfuglen»</lem>
+                     <rdg>
+                        <unclear/>
+                     </rdg>
+                  </app>
+               </titlePart>
+               <titlePart type="desc">romantisk Opera
+                   i
+                   tre Akter.</titlePart>
+            </docTitle>
+            <byline>af
+               <docAuthor>Henr: Ibsen</docAuthor>
+            </byline>
+            <docEdition>Christiania
+               <date>1859. –</date>
+            </docEdition>
+         </titlePage>
+         <pb n="578"/>
+         <titlePage type="main_part">
+            <titlePart type="main">
+               <pb n="579"/>
+               <unclear/>
+            </titlePart>
+         </titlePage>
+         <castList>
+            <head>
+               <pb n="580"/>
+               <hi>Personerne.</hi>
+            </head>
+            <castItem sameAs="IVAR">
+               <role>Ivar</role>, <roleDesc>en gammel rig Odelsbonde</roleDesc>.</castItem>
+            <castItem sameAs="INGEBORG">
+               <role>Ingeborg</role>, <roleDesc>hans Datter</roleDesc>.</castItem>
+            <castItem sameAs="SVEND">
+               <role>Svend</role>, <roleDesc>i hans Tjeneste</roleDesc>.</castItem>
+            <castItem sameAs="KNUT">
+               <role>Knut Skytte</role>, <roleDesc>en ung Bonde</roleDesc>.</castItem>
+            <castItem sameAs="THORGEJR">
+               <role>Thorgejr</role>, <roleDesc>en Spillemand</roleDesc>.</castItem>
+            <castItem sameAs="ALFHILD">
+               <role>Alfhild</role>.</castItem>
+            <castItem sameAs="GJAESTER">
+               <role>Chor af Bryllupsgjæster</role>.</castItem>
+            <castItem sameAs="HOUGFOLK">
+               <role>Chor af Hougfolk</role>.</castItem>
+         </castList>
+         <set>
+            <p>(<hi>Handlingen foregaar i en Fjeldegn
+                  endel Aar efter den sorte Død.</hi>)</p>
+         </set>
+      </front>
+      <body>
+         <div type="act" n="1" hand="HI-h1">
+            <head>
+               <pb n="581"/>
+               <hi>Første Akt.</hi>
+            </head>
+            <div type="scene" n="1">
+               <head>
+                  <hi>Første Scene.</hi>
+               </head>
+               <stage>(<hi>En vild Fjelddal lukket af bratte Bergsider;
+                     ned fra Snefonderne i Baggrunden styrter
+                     en strid Strøm og forsvinder i en Ur til
+                     Høire. Bjerkeskov dækker Berget til Venstre.
+                     Hele Landskabet straaler i stærk Aftenrøde;
+                     lidt efter lidt falder Tusmørket paa.</hi>)</stage>
+               <stage>
+                  <hi>Thorgejr sidder ved Fossen og spiller.</hi>
+               </stage>
+               <stage>
+                  <hi>Alfhild ligger tankefuld mellem Træ-
+                     erne tilvenstre.</hi>
+               </stage>
+               <sp who="#THORGEJR">
+                  <speaker>Thorgejr.</speaker>
+                  <lg type="strofisk-strofe-kortvers"
+                      met="bi+ ('5 '5)² ('5 '4)²"
+                      rhyme="(X A)² (X b)²">
+                     <l met="∪-∪-∪" rhyme="X">Det Kvad, som kvædes</l>
+                     <l met="∪-∪∪-∪" rhyme="A">I Fossen den stride, –</l>
+                     <l met="∪-∪-∪" rhyme="X">Den Slaat, som ljomer</l>
+                     <l met="∪-∪-∪" rhyme="A">Langs Bjørkelide, –</l>
+                     <l met="∪-∪-∪" rhyme="X">Den Laat, som lokker</l>
+                     <l met="∪-∪-" rhyme="b">I Lauv og Bar,</l>
+                     <l met="-∪∪-∪" rhyme="X">Tykkes mig kræve</l>
+                     <l met="∪-∪∪-" rhyme="b">Et Strengeleiksvar!</l>
+                  </lg>
+               </sp>
+               <stage>
+                  <pb n="582"/>
+                  <hi>Græsvolden aabner sig, Hougfolket kom-
+                     mer sagte frem og lytter.</hi>
+               </stage>
+               <sp who="#HOUGFOLK">
+                  <speaker>Chor af Hougfolk.</speaker>
+                  <lg type="strofisk-strofe-kortvers"
+                      met="bi 3 3 7 3 3 7"
+                      rhyme="a a a b b b">
+                     <l rhyme="a">Hys! hør paa!</l>
+                     <l rhyme="a">Hougfolk smaa</l>
+                     <l rhyme="a">Gjerne vil i Dansen gaa!</l>
+                     <l rhyme="b">Sommerkvæld</l>
+                     <l rhyme="b">Duger vel</l>
+                     <l rhyme="b">Til et Stævne over Fjeld!</l>
+                  </lg>
+               </sp>
+               <stage>
+                  <stage>
+                     <hi>paa engang.</hi>
+                  </stage>
+                  <sp who="#THORGEJR">
+                     <speaker>Thorgejr.</speaker>
+                     <lg type="strofisk-strofe-kortvers" part="Y" met="bi+ '5" rhyme="X">
+                        <l met="∪-∪-∪" rhyme="X">Det Kvad som kvædes</l>
+                        <l>o. s. v, – o. s. v.</l>
+                     </lg>
+                  </sp>
+                  <sp who="#ALFHILD">
+                     <speaker>Alfhild.</speaker>
+                     <stage>(<hi>drømmende</hi>)</stage>
+                     <lg type="strofisk-strofe-kortvers"
+                         met="bi+ ('5 '5)² ('5 '4)²"
+                         rhyme="(X A)² (X b)²">
+                        <l met="∪-∪-∪" rhyme="X">Det Kvad, som kvædes</l>
+                        <l met="∪-∪∪-∪" rhyme="A">I Fossen den stride, –</l>
+                        <l met="∪-∪∪-∪" rhyme="X">Det tykkes mig rumme</l>
+                        <l met="∪-∪-∪" rhyme="A">Saa tung en Kvide;</l>
+                        <l met="∪-∪-∪" rhyme="X">Den Laat, som ljomer</l>
+                        <l met="∪-∪-" rhyme="b">I Lauv og Bar,</l>
+                        <l met="-∪∪-∪" rhyme="X">Tykkes mig kræve</l>
+                        <l met="∪-∪-" rhyme="b">
+                           <pb n="583"/>Fra Bringen Svar!</l>
+                     </lg>
+                  </sp>
+                  <sp who="#HOUGFOLK">
+                     <speaker>Chor af Hougfolk</speaker>
+                     <stage>(<hi>idet de sagte nærme sig.</hi>)</stage>
+                     <lg type="strofisk-strofegruppe-kortvers"
+                         met="bi+ '5 '5 '5 '5"
+                         rhyme="X X X X | A B A B">
+                        <lg type="strofe" rhyme="X X X X">
+                           <l met="-∪∪-∪" rhyme="X">Alfhild, den Væne!</l>
+                           <l met="-∪-∪" rhyme="X">Stille, stille, –</l>
+                           <l met="-∪∪-∪" rhyme="X">Væk hende ikke,</l>
+                           <l met="-∪∪-∪" rhyme="X">Lad hende drømme!</l>
+                        </lg>
+                        <lg type="strofe" rhyme="A B A B">
+                           <l met="-∪∪-∪" rhyme="A">Hør Strengen graater,</l>
+                           <l met="-∪∪-∪" rhyme="B">Hør Fossen kvæder!</l>
+                           <l met="∪∪-∪∪-∪" rhyme="A">Over Lien det laater</l>
+                           <l met="∪-∪∪-∪" rhyme="B">Mens Dandsen vi træder!</l>
+                        </lg>
+                     </lg>
+                  </sp>
+               </stage>
+               <sp who="#HOUGFOLK">
+                  <stage>(<hi>Thorgejr spiller, Alfhild synes drømmende
+                        at lytte mens Hougfolket danser og gjen-
+                        tager:</hi>)</stage>
+                  <lg type="strofisk-strofe-kortvers" part="Y" met="bi+ '5" rhyme="X">
+                     <l met="-∪∪-∪" rhyme="A">Hør Strengen graater</l>
+                     <l>o. s. v, – o. s. v.</l>
+                  </lg>
+               </sp>
+               <sp who="#GJAESTER">
+                  <speaker>Chor af Bryllupsgjæster.</speaker>
+                  <stage>(<hi>udenfor Scenen tilhøire i det Fjerne.</hi>)</stage>
+                  <lg type="stikisk-folkevisevers"
+                      met="bi++ '4|'5|'6|'7|'8|'9"
+                      rhyme="r|R|x|X">
+                     <l met="∪-∪-∪-∪-" rhyme="x">Vaagn op, vaagn op, du kristne Mand!</l>
+                     <l met="∪-∪∪∪-∪∪-∪ &amp; ∪-∪-∪-∪∪-∪" rhyme="X">Hvi sover du saa tungt og saa længe!</l>
+                  </lg>
+               </sp>
+               <sp who="#HOUGFOLK" xml:id="HOUGFOLK_1">
+                  <speaker>
+                     <pb n="584"/>Chor af Hougfolk</speaker>
+                  <lg type="strofisk-strofe-kortvers"
+                      met="bi 3 3 7 3 3 7"
+                      rhyme="a a a b b b"
+                      part="I">
+                     <l rhyme="a">Huttetu!</l>
+                     <l rhyme="a">Skræk og Gru</l>
+                     <l rhyme="a">Fylder Hougafolkets Hug!</l>
+                  </lg>
+               </sp>
+               <stage>
+                  <stage>
+                     <hi>paa engang.</hi>
+                  </stage>
+                  <sp who="#HOUGFOLK" xml:id="HOUGFOLK_2">
+                     <lg type="strofisk-strofe-kortvers"
+                         met="bi 3 3 7 3 3 7"
+                         rhyme="a a a b b b"
+                         part="F">
+                        <l rhyme="b">Rap og snygg, –</l>
+                        <l rhyme="b">Hougens Ryg</l>
+                        <l rhyme="b">Dølge dig; der er du tryg!</l>
+                     </lg>
+                     <stage>(<hi>de forsvinde.</hi>)</stage>
+                  </sp>
+                  <sp who="#GJAESTER">
+                     <speaker>Chor af Bryllupsgjæster.</speaker>
+                     <stage>(<hi>fremdeles udenfor, men nærmere.</hi>)</stage>
+                     <lg type="stikisk-folkevisevers"
+                         met="bi++ '4|'5|'6|'7|'8|'9"
+                         rhyme="r|R|x|X"
+                         part="I">
+                        <l met="∪-∪-∪-∪-" rhyme="x">Vaagn op, vaagn op, du kristne Mand,</l>
+                        <l met="∪-∪∪∪-∪∪-∪ &amp; ∪-∪-∪-∪∪-∪" rhyme="X">Hvi sover du saa tungt og saa længe!</l>
+                     </lg>
+                  </sp>
+               </stage>
+               <sp who="#ALFHILD">
+                  <speaker>
+                  .</speaker>
+                  <stage>(<hi/>)</stage>
+                  <lg type="stikisk-folkevisevers"
+                      met="bi++ '4|'5|'6|'7|'8|'9"
+                      rhyme="r|R|x|X"
+                      part="I">
+                     <l met="-∪∪-∪∪-∪-∪" rhyme="X"/>
+                     <l met="-∪∪-∪-∪" rhyme="R"/>
+                     <l met="-∪-∪-∪∪-" rhyme="x"/>
+                     <l met="∪-∪∪-∪∪-∪" rhyme="R"/>
+                  </lg>
+                  <stage>(<hi>Hun flygter ind i Lien til Venstre.</hi>)</stage>
+               </sp>
+               <sp who="#GJAESTER">
+                  <speaker>Chor af Gjæsterne.</speaker>
+                  <lg part="M">
+                     <l met="-∪-∪-∪-" rhyme="a">See hvor Berget bart og brat</l>
+                     <l met="-∪-∪-∪" rhyme="B">Staar i Kveldens Skygge!</l>
+                     <l met="-∪-∪-∪∪-" rhyme="a">Mørket falder; snart er det Nat;</l>
+                     <l met="-∪-∪∪-∪-" rhyme="a">See deroppe; bag Koll og Knat</l>
+                     <l met="-∪-∪∪-∪" rhyme="B">Blaaner Jøklernes Rygge!</l>
+                  </lg>
+               </sp>
+               <sp who="#SVEND">
+                  <speaker>Svend.</speaker>
+                  <lg part="M">
+                     <l met="-∪-∪∪-∪∪-" rhyme="c">Husbond, vilde I lyde mit Ord, –</l>
+                     <l met="-∪∪-∪-∪-" rhyme="c">Nedigjen som en Vind i foer;</l>
+                     <l met="∪∪-∪∪-∪∪-∪" rhyme="D">Kom ihu, – det er utrygt herinde!</l>
+                  </lg>
+               </sp>
+               <sp who="#INGEBORG">
+                  <speaker>Ingeborg.</speaker>
+                  <lg part="M">
+                     <l met="∪-∪-∪∪-∪-" rhyme="e">Og Sagnet siger at Nøkkens Spil</l>
+                     <l met="-∪∪-∪∪-∪∪-" rhyme="e">Kværver hver den som herinde foer vild,</l>
+                     <l met="∪∪-∪∪-∪∪-∪" rhyme="D">Saa han aldrig kan ud igjen finde!</l>
+                  </lg>
+               </sp>
+               <sp who="#IVAR">
+                  <speaker>Ivar.</speaker>
+                  <lg part="M">
+                     <l part="I" met="-∪-">Vidløs Snak!</l>
+                  </lg>
+               </sp>
+               <sp who="#INGEBORG">
+                  <speaker>Ingeborg.</speaker>
+                  <lg part="M">
+                     <l part="M" met="∪-">Vend om!</l>
+                  </lg>
+               </sp>
+               <sp who="#GJAESTER">
+                  <speaker>
+                     <pb n="586"/>Gjæsterne.</speaker>
+                  <lg part="M">
+                     <l part="F" met="∪-" rhyme="f">Vend om!</l>
+                  </lg>
+               </sp>
+               <sp who="#SVEND">
+                  <speaker>Svend.</speaker>
+                  <lg part="M">
+                     <l part="I" met="∪-∪-∪">Ja ned til Bygden!</l>
+                  </lg>
+               </sp>
+               <sp who="#INGEBORG">
+                  <speaker>Ingeborg.</speaker>
+                  <lg part="M">
+                     <l part="M" met="∪-">Saa kom!</l>
+                  </lg>
+               </sp>
+               <sp who="#GJAESTER">
+                  <speaker>Gjæsterne.</speaker>
+                  <lg part="M">
+                     <l part="F" met="∪-" rhyme="f">Saa kom!</l>
+                  </lg>
+               </sp>
+               <sp who="#SVEND">
+                  <speaker>Svend</speaker>
+                  <lg part="M">
+                     <l met="-∪∪-∪∪-∪-" rhyme="g">Øde laa Dalen i lange Aar;</l>
+                     <l met="-∪∪-∪∪-∪-" rhyme="g">Den som I søger, I aldrig naaer, –</l>
+                     <l met="-∪-∪∪-∪" rhyme="H">Husbond, dersom I vidste –</l>
+                  </lg>
+               </sp>
+               <sp who="#IVAR">
+                  <speaker>Ivar.</speaker>
+                  <lg part="M">
+                     <l part="I" met="-∪-∪">Naa, hvad er det?</l>
+                  </lg>
+               </sp>
+               <sp who="#GJAESTER">
+                  <speaker>Gjæsterne.</speaker>
+                  <lg part="M">
+                     <l part="F" met="-∪∪-" rhyme="i">Sig du det frit!</l>
+                  </lg>
+               </sp>
+               <sp who="#SVEND">
+                  <speaker>Svend.</speaker>
+                  <lg part="M">
+                     <l met="-∪∪-∪-∪-" rhyme="i">Dersom I kjendte bare lidt</l>
+                     <l met="∪-∪∪-∪∪-∪" rhyme="H">Af det som jeg her maatte friste! –</l>
+                     <l met="∪-∪-∪-∪" rhyme="X">Jeg jog de vilde Rener</l>
+                     <l met="∪-∪-∪-∪" rhyme="J">Paa Vidden langt derinde;</l>
+                     <l met="∪-∪-∪-∪" rhyme="X">
+                        <pb n="587"/>Da ljomed lydt fra Juvet</l>
+                     <l met="∪-∪-∪-∪" rhyme="J">Et Kvad, som fra en Kvinde!</l>
+                  </lg>
+               </sp>
+               <sp who="#GJAESTER">
+                  <speaker>Gjæsterne.</speaker>
+                  <lg part="M">
+                     <l met="∪-∪∪-∪-∪∪-" rhyme="k">Forbandet er Dalen, alt fra den Stund</l>
+                     <l met="∪-∪-∪∪-∪∪-" rhyme="k">Da Pesten mærked paa Pande og Mund</l>
+                     <l met="∪-∪∪-∪" rhyme="J">Den Sidste herinde!</l>
+                  </lg>
+               </sp>
+               <sp who="#SVEND">
+                  <speaker>Svend.</speaker>
+                  <lg part="M">
+                     <l met="∪-∪-∪-∪" rhyme="X">Jeg glytted udfor Berget,</l>
+                     <l met="∪-∪∪-∪-∪" rhyme="L">Jeg saa i de stride Strømme;</l>
+                     <l part="I" met="∪-∪">Der sad hun – –</l>
+                  </lg>
+                  <stage>(<hi>han viser mod Baggrunden hvor Thorgejr
+                        sidder; Alle faar Øie paa ham og viger
+                        overraskede tilside.</hi>)</stage>
+               </sp>
+               <sp who="#GJAESTER">
+                  <speaker>Gjæsterne.</speaker>
+                  <lg part="M">
+                     <l part="F" met="-∪-∪" rhyme="X">Thorgejr, Thorgejr!</l>
+                  </lg>
+               </sp>
+               <sp who="#SVEND">
+                  <speaker>Svend.</speaker>
+                  <lg part="F">
+                     <l met="∪-∪-∪∪-∪" rhyme="L">Ja, Husbond, – nu kan I dømme!</l>
+                  </lg>
+               </sp>
+               <sp who="#GJAESTER">
+                  <speaker>Gjæsterne.</speaker>
+                  <stage>(<hi>hviskende mellem hverandre.</hi>)</stage>
+                  <lg type="strofisk-strofe-kortvers"
+                      met="bi 3 4 3 3 4 5"
+                      rhyme="a B c a B c"
+                      part="I">
+                     <l rhyme="a">Huldrelok,</l>
+                     <l rhyme="B">Kvad fra Fossen</l>
+                     <l rhyme="c">
+                        <pb n="588"/>Har han lært!</l>
+                  </lg>
+               </sp>
+               <sp who="#THORGEJR">
+                  <speaker>Thorgejr.</speaker>
+                  <stage>(<hi>reiser sig og kommer frem.</hi>)</stage>
+                  <lg part="F">
+                     <l rhyme="a">Rap i Flok</l>
+                     <l rhyme="B">Over Aasen,</l>
+                     <l rhyme="c">Har I Livet kjært!</l>
+                  </lg>
+               </sp>
+               <sp who="#INGEBORG #SVEND">
+                  <speaker>Svend <hi>og</hi> Ingeborg.</speaker>
+                  <lg type="stikisk-trokeer"
+                      met="bi 4|5|6|7|8|9"
+                      rhyme="r|R|x|X"
+                      part="I">
+                     <l met="4" rhyme="A">Hør han truer!</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Kvinderne.</speaker>
+                  <lg part="M">
+                     <l met="7" rhyme="b">Vee os dog at vi kom hid!</l>
+                  </lg>
+               </sp>
+               <sp who="#THORGEJR">
+                  <speaker>Thorgejr.</speaker>
+                  <lg part="M">
+                     <l met="8" rhyme="A">Hougafolkets Høitidsstuer</l>
+                     <l met="7" rhyme="b">Aabner sig ved Nattetid!</l>
+                     <l met="8" rhyme="C">Hvis I lyster der at danse,</l>
+                     <l met="4" rhyme="D">Jeg skal spille!</l>
+                  </lg>
+               </sp>
+               <sp who="#IVAR">
+                  <speaker>Ivar.</speaker>
+                  <lg part="M">
+                     <l met="4" rhyme="D">Stille, stille!</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Ingeborg <hi>og</hi> Kvinderne.</speaker>
+                  <lg part="M">
+                     <l met="8" rhyme="C">Hu! Af Skræk jeg knapt kan sandse!</l>
+                  </lg>
+               </sp>
+               <sp who="#GJAESTER">
+                  <speaker>Gjæsterne.</speaker>
+                  <lg part="F">
+                     <l met="7" rhyme="e">Ned til Bygden! Ned, ja ned!</l>
+                     <l met="7" rhyme="e">
+                        <pb n="589"/>Her er et forbandet Sted!</l>
+                  </lg>
+               </sp>
+               <sp who="#THORGEJR">
+                  <speaker>Thorgejr.</speaker>
+                  <lg type="stikisk-folkevisevers"
+                      met="bi++ '4|'5|'6|'7|'8|'9"
+                      rhyme="r|R|x|X"
+                      part="I">
+                     <l met="∪-∪-∪-∪-" rhyme="f">Forbandet; ja, I har det sagt!</l>
+                     <l met="-∪∪-∪-∪∪-∪" rhyme="G">Mennesket tør ei færdes herinde!</l>
+                     <l met="-∪-∪-∪-" rhyme="f">Her blev længst tilhvile lagt</l>
+                     <l met="∪-∪-∪-∪" rhyme="G">Den sidste Mand og Kvinde!</l>
+                     <l met="-∪-∪∪-∪-" rhyme="h">Landfarsotten fra Gaard til Gaard</l>
+                     <l met="-∪∪-∪∪-∪-∪" rhyme="I">Feied for Døren og Folket døde;</l>
+                     <l met="-∪-∪∪-∪∪-" rhyme="h">Siden randt baade Vinter og Vaar,</l>
+                     <l met="∪-∪∪∪-∪-∪ &amp; ∪-∪-∪-∪-∪" rhyme="I">Men endnu ligger Dalen øde!</l>
+                  </lg>
+               </sp>
+               <sp who="#GJAESTER">
+                  <speaker>Gjæsterne.</speaker>
+                  <lg type="stikisk-trokeer"
+                      met="bi 4|5|6|7|8|9"
+                      rhyme="r|R|x|X"
+                      part="I">
+                     <l part="Y" met="4">Ned til Bygden, o. s. v.</l>
+                  </lg>
+               </sp>
+               <sp who="#THORGEJR">
+                  <speaker>Thorgejr.</speaker>
+                  <stage>(<hi>til Ivar.</hi>)</stage>
+                  <lg type="stikisk-folkevisevers"
+                      met="bi++ '4|'5|'6|'7|'8|'9"
+                      rhyme="r|R|x|X"
+                      part="I">
+                     <l met="-∪∪-∪-∪∪-" rhyme="j">Datter din staar med Guldkrone paa!</l>
+                  </lg>
+               </sp>
+               <sp who="#IVAR">
+                  <speaker>Ivar.</speaker>
+                  <stage>(<hi>rasende.</hi>)</stage>
+                  <lg part="M">
+                     <l met="∪-∪∪-∪∪-∪∪-" rhyme="j">Imorgen hun skulde for Alteret gaa;</l>
+                     <l met="∪-∪∪-∪∪-∪" rhyme="K">Men Brudgommen er ei at finde!</l>
+                  </lg>
+               </sp>
+               <sp who="#THORGEJR">
+                  <speaker>Thorgejr.</speaker>
+                  <lg part="M">
+                     <l met="-∪-∪∪-∪-" rhyme="l">Huldrens Hal har en Port saa stærk;</l>
+                     <l met="∪-∪∪-∪-∪-" rhyme="l">
+                        <pb n="590"/>Der glemmes Alverdens Vee og Værk; –</l>
+                     <l met="∪∪-∪-∪∪-∪ &amp; -∪-∪-∪∪-∪" rhyme="K">Den som engang sidder derinde</l>
+                     <l met="-∪-∪" rhyme="M">Aldrig kommer</l>
+                     <l met="-∪-∪∪∪-∪-∪" rhyme="M">Ud i Dagen, i den lyse Sommer!</l>
+                  </lg>
+               </sp>
+               <sp who="#GJAESTER">
+                  <speaker>Gjæsterne.</speaker>
+                  <lg part="M">
+                     <l met="-∪∪-∪" rhyme="M">Aldrig han kommer</l>
+                     <l met="-∪-∪∪∪-∪-∪" rhyme="M">Ud i Dagen, i den lyse Sommer!</l>
+                  </lg>
+               </sp>
+               <sp who="#IVAR">
+                  <speaker>Ivar.</speaker>
+                  <lg part="M">
+                     <l met="-∪-∪-∪-∪" rhyme="N">Slaa ham ned, han spaar os ilde!</l>
+                  </lg>
+               </sp>
+               <sp who="#INGEBORG #SVEND">
+                  <speaker>Ingeborg <hi>og</hi> Svend.</speaker>
+                  <lg part="M">
+                     <l met="-∪-∪" rhyme="N">Stille, stille!</l>
+                  </lg>
+               </sp>
+               <sp who="#GJAESTER">
+                  <speaker>Gjæsterne.</speaker>
+                  <lg part="M">
+                     <l met="-∪-∪-∪-" rhyme="o">Længer, længer frem endnu,</l>
+                     <l met="-∪-∪-∪-" rhyme="o">Skjønt vi gaar m<unclear reason="writing">e</unclear>d Skræk ihug!</l>
+                     <l met="∪-∪∪-∪" rhyme="P">Knut Skytte, Knut Skytte!</l>
+                     <l met="-∪-∪-∪-∪" rhyme="P">Tyst paa Bergets Port du glytte!</l>
+                     <l met="∪-∪∪-∪-∪∪-∪" rhyme="Q">Vi raaber dit Navn i Kvælden den svale –</l>
+                     <l met="-∪∪-∪∪-∪-∪" rhyme="Q">Blund ikke længer i Huldrens Sale!</l>
+                  </lg>
+               </sp>
+               <sp who="#HOUGFOLK">
+                  <speaker>
+                     <pb n="591"/>Usynligt Chor af Hougfolk.</speaker>
+                  <lg part="F">
+                     <l met="-∪∪-∪" rhyme="M">Aldrig han kommer</l>
+                     <l met="-∪-∪∪∪-∪-∪" rhyme="M">Ud i Dagen, – i den lyse Sommer!</l>
+                  </lg>
+               </sp>
+               <stage>
+                  <hi>Alfhild og Knut kommer tilsyne oppe i
+                     Lien tilvenstre.</hi>
+               </stage>
+               <sp who="#ALFHILD">
+                  <speaker>Alfhild.</speaker>
+                  <lg type="stikisk-trokeer"
+                      met="bi 4|5|6|7|8|9"
+                      rhyme="r|R|x|X"
+                      part="I">
+                     <l met="8" rhyme="R">Hør derborte, langt derborte!</l>
+                  </lg>
+               </sp>
+               <sp who="#KNUT">
+                  <speaker>Knut</speaker>
+                  <lg part="F">
+                     <l met="8" rhyme="S">Ja, som Laat af Lur og Klokker!</l>
+                     <l met="8" rhyme="R">Mænd og Kvinder den Forgjorte</l>
+                     <l met="6" rhyme="S">Ud af Berget lokker.</l>
+                     <l met="8" rhyme="T">Lad dem kvæde, lad dem lokke;</l>
+                     <l met="8" rhyme="T">Lad de glemte Minder flokke</l>
+                     <l met="4" rhyme="U">Sig og klinge</l>
+                     <l met="4" rhyme="U">I min Bringe, –</l>
+                     <l met="8" rhyme="V">Lukt er Bygden nedenunder,</l>
+                     <l met="6" rhyme="V">Aldrig did jeg stunder!</l>
+                  </lg>
+               </sp>
+               <sp who="#ALFHILD">
+                  <speaker>Alfhild.</speaker>
+                  <lg type="stikisk-folkevisevers"
+                      met="bi++ '4|'5|'6|'7|'8|'9"
+                      rhyme="r|R|x|X"
+                      part="I">
+                     <l met="-∪∪-∪∪-∪-∪" rhyme="W">Vent som et Vaarkvad i Lærkemunde</l>
+                     <l met="-∪∪-∪-∪-∪" rhyme="Y">Mægter du dine Ord at knytte;</l>
+                     <l met="-∪-∪∪-∪-∪" rhyme="W">Fugl i Furru og Lauv i Lunde</l>
+                     <l met="-∪∪-∪-∪∪-∪" rhyme="Y">
+                        <pb n="592"/>Tykkes mig tystne, tykkes mig lytte!</l>
+                     <l met="-∪∪-∪-∪-∪" rhyme="Z">Vist har du hjemme langt derborte</l>
+                     <l met="∪-∪∪-∪" rhyme="Z">Bag Skogen den sorte!</l>
+                     <l met="-∪∪-∪-∪∪-" rhyme="a'">Vist er du Svenden fager og god,</l>
+                     <l met="∪-∪∪-∪-∪" rhyme="B'">Som prises i Sagn og Sange, –</l>
+                     <l met="-∪-∪∪∪-∪∪- &amp; ∪∪-∪-∪-∪∪-" rhyme="a'">Han som Hugen min har stundet imod</l>
+                     <l met="-∪-∪-" rhyme="B'">I Nætter lange!</l>
+                     <l met="∪-∪-∪∪-∪-" rhyme="c'">I Lien spratt baade Rogn og Hæg,</l>
+                     <l met="∪-∪-∪∪-" rhyme="d'">Der rødned Multer i Myr,</l>
+                     <l met="∪-∪∪-∪∪-∪-" rhyme="c'">Jeg hvilte saa lunt under Bergets Væg,</l>
+                     <l met="∪∪-∪∪-∪-" rhyme="d'">Jeg var Søster til Skogens Dyr;</l>
+                     <l met="∪-∪∪-∪∪-∪-" rhyme="e'">Og Gubben fra Fossen isøvn mig kvad</l>
+                     <l met="∪-∪∪-∪∪-∪" rhyme="F'">Alt med sine Viser saa vene, –</l>
+                     <l met="∪-∪∪-∪∪-∪-" rhyme="e'">Det voldte jeg gik baade varm og glad,</l>
+                     <l met="∪-∪∪-∪-∪" rhyme="F'">Og glemte jeg var alene!</l>
+                     <l met="∪-∪∪-∪-∪-" rhyme="g'">Han kvad om en Slægt, jeg aldrig saa, –</l>
+                     <l met="∪-∪∪-∪-" rhyme="h'">Om Kvinder og stærke Mænd,</l>
+                     <l met="∪-∪∪-∪-∪-" rhyme="g'">Om Noget jeg tidt maa tænke paa –</l>
+                     <l met="∪-∪∪-∪∪-" rhyme="h'">Om Elskog; sig, kjender du den?</l>
+                     <l met="∪-∪∪-∪-∪∪-" rhyme="i'">
+                        <pb n="593"/>Han kvad om en Dal, jeg aldrig har kjendt,</l>
+                     <l met="∪-∪∪-∪∪-∪" rhyme="J'">Han kaldte den Verden den vide, –</l>
+                     <l met="∪-∪∪-∪∪-∪∪-" rhyme="i'">Det voldte jeg gik baade tidligt og sent</l>
+                     <l met="∪-∪∪-∪-∪" rhyme="J'">Og bar paa en lønlig Kvide!</l>
+                  </lg>
+               </sp>
+               <sp who="#KNUT">
+                  <speaker>Knut.</speaker>
+                  <lg part="F">
+                     <l met="∪-∪-∪∪-∪-" rhyme="k'">Jeg aatte Gaard og jeg aatte Guld,</l>
+                     <l met="∪-∪∪-∪-" rhyme="l'">De gav mig en Fæstemø;</l>
+                     <l met="∪-∪∪-∪∪-∪-" rhyme="k'">Men endda var Hugen min tung og fuld, –</l>
+                     <l met="∪-∪∪-∪-" rhyme="l'">Jeg rømte fra Brud og Bø!</l>
+                     <l met="∪-∪∪-∪∪-∪-" rhyme="m'">I Vildske jeg vandred; da fandt jeg dig,</l>
+                     <l met="∪-∪∪-∪-∪" rhyme="N'">Min fagreste Sommerglæde!</l>
+                     <l met="∪-∪∪-∪-∪-" rhyme="m'">Ret aldrig saa gaar Knut Skyttes Vei</l>
+                     <l met="∪-∪-∪∪-∪" rhyme="N'">Til Kristenlandet dernede!</l>
+                  </lg>
+               </sp>
+               <sp who="#ALFHILD">
+                  <speaker>Alfhild</speaker>
+                  <stage>(<hi>jublende.</hi>)</stage>
+                  <lg type="strofe" rhyme="A B B X C X C A A">
+                     <l rhyme="A">Han er funden, han er funden,</l>
+                     <l rhyme="B">Han som længe</l>
+                     <l rhyme="B">Lokked bagved Gubbens Strenge;</l>
+                     <l rhyme="X">Han som tyktes</l>
+                     <l rhyme="C">Mig at tale</l>
+                     <l rhyme="X">Gjennem Trost og</l>
+                     <l rhyme="C">
+                        <pb n="594"/>Stær i Dale!</l>
+                     <l rhyme="A">Han er funden, han er funden!</l>
+                     <l rhyme="A">Nu er Alfhilds Vaar oprunden!</l>
+                  </lg>
+               </sp>
+               <sp who="#KNUT">
+                  <speaker>Knut</speaker>
+                  <lg type="strofe" rhyme="A B B X C X C A A">
+                     <l rhyme="A">Hun er funden, hun er funden!</l>
+                     <l rhyme="B">Fin og fager,</l>
+                     <l rhyme="B">Sommerlys, som Blom i Ager!</l>
+                     <l rhyme="X">Aldrig vil jeg</l>
+                     <l rhyme="C">Hjemmet savne,</l>
+                     <l rhyme="X">Kan jeg vaagen</l>
+                     <l rhyme="C">Hende favne!</l>
+                     <l rhyme="A">Hun er funden, hun er funden!</l>
+                     <l rhyme="A">Fagrest Vaar for mig er runden!</l>
+                  </lg>
+               </sp>
+               <stage>
+                  <stage>
+                     <hi>paa engang.</hi>
+                  </stage>
+                  <sp who="#ALFHILD">
+                     <speaker>Alfhild</speaker>
+                     <lg type="strofe" part="Y">
+                        <l rhyme="A">Han er funden, han er funden!</l>
+                        <l rhyme="B">Han som længe</l>
+                        <l rhyme="B">Lokked bagved Gubbens Strenge;</l>
+                        <l>o. s. v; o. s. v.</l>
+                     </lg>
+                  </sp>
+                  <sp who="#KNUT">
+                     <speaker>Knut.</speaker>
+                     <lg type="strofe" part="Y">
+                        <l rhyme="A">Hun er funden, hun er funden!</l>
+                        <l rhyme="B">Fin og fager,</l>
+                        <l rhyme="B">
+                           <pb n="595"/>Sommerlys, som Blom i Ager!</l>
+                        <l>o. s: v; o. s. v.</l>
+                     </lg>
+                  </sp>
+               </stage>
+               <stage>
+                  <hi>
+                     <rs type="person" ref="INGEBORG">Ingeborg</rs> og <rs type="person" ref="SVEND">Svend</rs> er under det Foregaaende
+                     kommet frem oppe i Lien tilvenstre.</hi>
+               </stage>
+               <stage>
+                  <stage>
+                     <hi>paa engang.</hi>
+                  </stage>
+                  <sp who="#INGEBORG #SVEND">
+                     <speaker>Ingeborg <hi>og</hi> Svend.</speaker>
+                     <lg type="strofe" rhyme="A B B X C X C A A">
+                        <l rhyme="A">Han er funden, han er funden!</l>
+                        <l rhyme="B">See, en Kvinde</l>
+                        <l rhyme="B">Monne her ham trolddomsbinde!</l>
+                        <l rhyme="X">Hun forvist har</l>
+                        <l rhyme="C">Fult ham fristet,</l>
+                        <l rhyme="X">Saa han Sind og</l>
+                        <l rhyme="C">Sands har mistet!</l>
+                        <l rhyme="A">Han er funden, han er funden!</l>
+                        <l rhyme="A">Tungest Dag for mig er runden!</l>
+                     </lg>
+                  </sp>
+                  <sp who="#ALFHILD">
+                     <speaker>Alfhild.</speaker>
+                     <lg type="strofe" part="Y">
+                        <l rhyme="A">Han er funden, han er funden!</l>
+                        <l rhyme="B">Han som længe</l>
+                        <l rhyme="B">Lokked bagved Gubbens Strenge!</l>
+                        <l>o. s. v; o. s. v.</l>
+                     </lg>
+                  </sp>
+                  <sp who="#KNUT">
+                     <speaker>Knut.</speaker>
+                     <lg type="strofe" part="Y">
+                        <l rhyme="A">Hun er funden, hun er funden!</l>
+                        <l rhyme="B">
+                           <pb n="596"/>Fin og fager,</l>
+                        <l rhyme="B">Sommerlys, som Blom i Ager!</l>
+                        <l>o. s. v; o. s. v.</l>
+                     </lg>
+                  </sp>
+               </stage>
+               <stage>(<hi>Ingeborg og Svend skynde sig usete ud igjen
+                     til Venstre.</hi>)</stage>
+               <sp who="#KNUT">
+                  <speaker>Knut.</speaker>
+                  <lg type="stikisk-folkevisevers"
+                      met="bi++ '4|'5|'6|'7|'8|'9"
+                      rhyme="r|R|x|X">
+                     <l met="-∪∪-∪∪∪-∪∪-∪" rhyme="X">Lunt under Bakken vil jeg bygge vor Stue,</l>
+                     <l met="-∪∪-∪∪-∪" rhyme="A">Her vil vi færdes tilsammen, –</l>
+                     <l met="-∪-∪-∪∪-∪" rhyme="X">Færdes frit som Rener paa Vidden</l>
+                     <l met="∪-∪-∪" rhyme="A">Bag Jøkulkammen!</l>
+                  </lg>
+               </sp>
+               <sp who="#ALFHILD">
+                  <speaker>Alfhild</speaker>
+                  <lg type="stikisk-folkevisevers"
+                      met="bi++ '4|'5|'6|'7|'8|'9"
+                      rhyme="r|R|x|X">
+                     <l met="-∪-∪-∪-" rhyme="b">Nei, bag Bergets Iskam blaa,</l>
+                     <l met="-∪-∪-∪-" rhyme="b">Langt i Livet ud jeg maa!</l>
+                     <l met="-∪-∪∪-∪-" rhyme="c">Alfhilds Dal er mig nu for trang,</l>
+                     <l met="∪-∪-∪∪-∪-" rhyme="c">I Verdens Dal, der er Leg og Sang!</l>
+                  </lg>
+                  <lg type="strofisk-strofe-kortvers-Buchnervers"
+                      met="tri 5 5 7 6 6 6 6 7"
+                      rhyme="A A b Cc Cc Dd Dd b">
+                     <l rhyme="A">Udad i Verden!</l>
+                     <l rhyme="A">Trofast paa Færden</l>
+                     <l rhyme="b">Kom og min Styrismand bliv!</l>
+                     <l rhyme="Cc">Høit over Heiene</l>
+                     <l rhyme="Cc">Bugter sig Veiene, –</l>
+                     <l rhyme="Dd">
+                        <pb n="597"/>Der vi lig svømmende</l>
+                     <l rhyme="Dd">Skyer og strømmende</l>
+                     <l rhyme="b">Bække vil stævne til Liv!</l>
+                  </lg>
+               </sp>
+               <sp who="#KNUT">
+                  <speaker>Knut.</speaker>
+                  <lg type="strofisk-strofe-kortvers-Buchnervers"
+                      met="tri 5 5 7 6 6 6 6 7"
+                      rhyme="A A b Cc Cc Dd Dd b">
+                     <l rhyme="A">Ja, jeg vil følge,</l>
+                     <l rhyme="A">Ingen fordølge</l>
+                     <l rhyme="b">Skatten, herinde jeg vandt!</l>
+                     <l rhyme="Cc">Hidop skal skyndte sig</l>
+                     <l rhyme="Cc">Kvinder at pynte dig;</l>
+                     <l rhyme="Dd">Svende skal følges <retrace place="inline">a</retrace>d,</l>
+                     <l rhyme="Dd">Prise med høie Kvad</l>
+                     <l rhyme="b">Alfhild, den Fagre, forsandt!</l>
+                  </lg>
+               </sp>
+               <sp who="#GJAESTER">
+                  <speaker>Chor af Gjæsterne.</speaker>
+                  <stage>(<hi>udenfor til Venstre.</hi>)</stage>
+                  <lg type="strofisk-strofe-trokeer"
+                      part="Y"
+                      met="bi 8 8"
+                      rhyme="A A">
+                     <l rhyme="A">Han er funden, han er funden!</l>
+                     <l rhyme="A">Nu er Hædersdagen runden!</l>
+                  </lg>
+               </sp>
+               <sp who="#KNUT">
+                  <speaker>Knut.</speaker>
+                  <stage>(<hi>der ligesom kommer til sig selv.</hi>)</stage>
+                  <lg type="strofisk-strofe-kortvers"
+                      met="bi+ '4 '4 '4 '4 '8 '5 '5 '5 '4"
+                      rhyme="a b a b c D D D c"
+                      part="I">
+                     <l met="-∪-" rhyme="a">Vee mig; vee!</l>
+                     <l met="∪-∪-" rhyme="b">Min Drøm er endt!</l>
+                  </lg>
+               </sp>
+               <sp who="#ALFHILD">
+                  <speaker>
+                     <pb n="598"/>Alfhild.</speaker>
+                  <stage>(<hi>i høieste Glæde.</hi>)</stage>
+                  <lg part="F">
+                     <l met="-∪-" rhyme="a">See dog, see!</l>
+                     <l met="∪-∪-" rhyme="b">O, hør hvor veent!</l>
+                     <l met="-∪-∪-∪-" rhyme="c">Mænd og Kvinder paa dit Bud</l>
+                     <l met="-∪∪-∪" rhyme="D">Kommer med Kvæder</l>
+                     <l met="∪-∪-∪" rhyme="D">I Høitidsklæder</l>
+                     <l met="-∪-∪" rhyme="D">Dig til Hæder</l>
+                     <l met="∪-∪∪-" rhyme="c">At hente din Brud!</l>
+                  </lg>
+               </sp>
+               <stage>
+                  <hi>
+                     <rs type="person" ref="IVAR">Ivar</rs>, <rs type="person" ref="INGEBORG">Ingeborg</rs>, <rs type="person" ref="SVEND">Svend</rs> og <rs type="person" ref="GJAESTER">Gjæsterne</rs> kom-
+                     mer ind fra Venstre. Alfhild staar noget
+                     afsides tilhøire uden at bemærkes og følger
+                     i høieste Spænding det følgende Optrin
+                     uden dog at høre hvad der handles
+                     om.</hi>
+               </stage>
+               <sp who="#GJAESTER">
+                  <speaker>Gjæsterne.</speaker>
+                  <lg type="stikisk-trokeer"
+                      met="bi 4|5|6|7|8|9"
+                      rhyme="r|R|x|X"
+                      part="I">
+                     <l met="8" rhyme="A">Nu er Fæstemanden funden</l>
+                     <l met="8" rhyme="A">Der han gik som trolddomsbunden!</l>
+                     <l met="4" rhyme="B">Endt er Sorgen;</l>
+                     <l met="8" rhyme="B">Spil og Dands fra tidligst Morgen</l>
+                     <l met="7" rhyme="c">
+                        <pb n="599"/>Lyde skal i Bryllupsgaard!</l>
+                  </lg>
+               </sp>
+               <sp who="#INGEBORG">
+                  <speaker>Ingeborg.</speaker>
+                  <stage>(<hi>til Svend.</hi>)</stage>
+                  <lg part="M">
+                     <l met="7" rhyme="c">See hvor hjerteklemt han staar!</l>
+                  </lg>
+               </sp>
+               <sp who="#IVAR">
+                  <speaker>Ivar.</speaker>
+                  <stage>(<hi>til Knut.</hi>)</stage>
+                  <lg part="M">
+                     <l part="I">Hvad er mødt?</l>
+                  </lg>
+               </sp>
+               <sp who="#KNUT">
+                  <speaker>Knut.</speaker>
+                  <stage>(<hi>afsides.</hi>)</stage>
+                  <lg part="M">
+                     <l part="F" met="8" rhyme="D">Hvad skal jeg svare!</l>
+                  </lg>
+               </sp>
+               <sp who="#GJAESTER">
+                  <speaker>Gjæsterne.</speaker>
+                  <lg part="F">
+                     <l met="8" rhyme="D">Siden kan I Tingen klare;</l>
+                     <stage>(<hi>til Knut.</hi>)</stage>
+                     <l met="8" rhyme="E">Hjemad nu, dit Ord at holde!</l>
+                  </lg>
+               </sp>
+               <sp who="#KNUT">
+                  <speaker>Knut.</speaker>
+                  <stage>(<hi>sagte og smærteligt med et Blik paa Alfhild.</hi>)</stage>
+                  <lg type="stikisk-folkevisevers"
+                      met="bi++ '4|'5|'6|'7|'8|'9"
+                      rhyme="r|R|x|X"
+                      part="I">
+                     <l met="∪-∪∪-∪-∪-∪" rhyme="E">Og hende jeg maa slig Kvide volde!</l>
+                  </lg>
+               </sp>
+               <sp who="#GJAESTER">
+                  <speaker>Gjæsterne.</speaker>
+                  <lg part="F">
+                     <l met="-∪-∪∪-∪∪-" rhyme="f">Præsten venter og Dugen er bredt</l>
+                     <l met="∪-∪-" rhyme="g">Paa Bryllupsbord;</l>
+                     <l met="-∪-∪∪-∪-" rhyme="f">Kirkestien er snar og let;</l>
+                     <l met="∪-∪∪-∪∪-∪-" rhyme="g">
+                        <pb n="600"/>Imorgen skal høres i høien Kor</l>
+                     <l met="∪-∪∪-∪-" rhyme="g">De hellige Vigselsord!</l>
+                     <l met="∪-∪∪-" rhyme="h">Kom, følg os, – afsted!</l>
+                  </lg>
+               </sp>
+               <sp who="#KNUT">
+                  <speaker>Knut.</speaker>
+                  <stage>(<hi>kjæmpende med sig selv.</hi>)</stage>
+                  <lg type="stikisk-trokeer"
+                      met="bi 4|5|6|7|8|9"
+                      rhyme="r|R|x|X"
+                      part="I">
+                     <l met="9" rhyme="h">Ja jeg følger; men – hun følger med!</l>
+                  </lg>
+                  <stage>(<hi>han peger paa Alfhild som træder nærmere;
+                        Alle vige sky tilbage.</hi>)</stage>
+               </sp>
+               <sp who="#GJAESTER">
+                  <speaker>Gjæsterne.</speaker>
+                  <lg part="M">
+                     <l met="8" rhyme="I">Ha, en Kvinde! Det er hende,</l>
+                     <l met="8" rhyme="I">Som har vidst hans Hug at vende</l>
+                     <l met="5" rhyme="j">Fra hans Hjertenskjær!</l>
+                  </lg>
+               </sp>
+               <sp who="#IVAR">
+                  <speaker>Ivar.</speaker>
+                  <lg part="M">
+                     <l met="7" rhyme="j">Ligemeget hvem hun er.</l>
+                     <l met="8" rhyme="K">Med til Bygden skal hun følge!</l>
+                     <stage>(<hi>afsides til Knut.</hi>)</stage>
+                     <l met="8" rhyme="K">Hvad dig hendte maa du dølge;</l>
+                     <l met="5" rhyme="j">Husk, din Brud er nær!</l>
+                  </lg>
+               </sp>
+               <sp who="#ALFHILD" xml:id="ALFHILD_1">
+                  <speaker>Alfhild.</speaker>
+                  <stage>(<hi>til Thorgejr som ubemærket
+                        har blandet sig i Flokken.</hi>)</stage>
+               </sp>
+               <stage>
+                  <stage>
+                     <hi>paa engang.</hi>
+                  </stage>
+                  <sp who="#ALFHILD" xml:id="ALFHILD_2">
+                     <l met="8" rhyme="L">
+                        <pb n="601"/>Han er funden, han er funden,</l>
+                     <l met="8" rhyme="L">Han som laa lig Guld paa Bunden</l>
+                     <l met="5" rhyme="m">Af min Tankestrøm!</l>
+                  </sp>
+                  <sp who="#GJAESTER">
+                     <speaker>Gjæsterne.</speaker>
+                     <l met="8" rhyme="I">Det er hende, det er hende,</l>
+                     <l part="Y" met="3">Som har vidst o. s. v.</l>
+                  </sp>
+               </stage>
+               <stage>
+                  <stage>
+                     <hi>paa engang.</hi>
+                  </stage>
+                  <sp who="#THORGEJR">
+                     <speaker>Thorgejr.</speaker>
+                     <l met="8" rhyme="N">Vee, da vil din Vaarblom visne;</l>
+                     <l met="8" rhyme="N">Da vil Verdens Vinter isne</l>
+                     <l met="5" rhyme="m">Over al din Drøm!</l>
+                  </sp>
+                  <sp who="#GJAESTER #IVAR">
+                     <speaker>Ivar <hi>og</hi> Gjæsterne.</speaker>
+                     <l met="8" rhyme="K">Med til Bygden maa hun følge!</l>
+                     <l met="8" rhyme="K">Ei i Kirken vil sig dølge</l>
+                     <l met="5" rhyme="j">Længe hvem hun er!</l>
+                  </sp>
+                  <sp who="#KNUT">
+                     <speaker>Knut.</speaker>
+                     <l met="8" rhyme="K">Vee mig; Alfhild med vil følge!</l>
+                     <l met="8" rhyme="K">Ei i Kirken kan sig dølge,</l>
+                     <l met="5" rhyme="j">Hvem som Bruden er!</l>
+                  </sp>
+                  <sp who="#INGEBORG">
+                     <speaker>Ingeborg.</speaker>
+                     <l met="8" rhyme="K">Ei jeg vil for Altret følge</l>
+                     <l met="8" rhyme="K">Ham, som monne her sig dølge</l>
+                     <l met="5" rhyme="j">
+                        <pb n="602"/>Hos sin Hjertenskjær!</l>
+                  </sp>
+                  <sp who="#SVEND">
+                     <speaker>Svend.</speaker>
+                     <l met="8" rhyme="K">Fagre Ingeborg skal følge</l>
+                     <l met="8" rhyme="K">Ham som Viv, og jeg maa dølge</l>
+                     <l met="5" rhyme="j">Al den Vee jeg bær!</l>
+                  </sp>
+               </stage>
+               <stage>(<hi>Tusmørket er nu paa det Høieste og
+                     begynder igjen saa smaat at aftage.
+                     Hougfolket viser sig oppe i Lierne
+                     i Baggrunden.</hi>)</stage>
+               <stage>
+                  <stage>
+                     <hi>paa en-</hi>
+                  </stage>
+                  <sp who="#ALFHILD">
+                     <speaker>Alfhild.</speaker>
+                     <lg type="strofe" rhyme="A B B X C X C A A">
+                        <l rhyme="A">Han er kommen, han er funden,</l>
+                        <l rhyme="B">Han, som længe</l>
+                        <l rhyme="B">Sang til mig fra dine Strenge!</l>
+                        <l rhyme="X">Verdens Lykke</l>
+                        <l rhyme="C">Vént m<retrace place="inline">i</retrace>g lokker</l>
+                        <l rhyme="X">Gjennem Laat af</l>
+                        <l rhyme="C">Lur og Klokker!</l>
+                        <l rhyme="A">Han er kommen, han er funden!</l>
+                        <l rhyme="A">Nu er Alfhilds Vaar oprunden!</l>
+                     </lg>
+                  </sp>
+                  <sp who="#KNUT">
+                     <speaker>Knut.</speaker>
+                     <lg type="strofe" rhyme="A B B X C X C A A">
+                        <l rhyme="A">Tankestjaalen, trolddomsbunden</l>
+                        <l rhyme="B">
+                           <pb n="603"/>Gik jeg længe,</l>
+                        <l rhyme="B">Gad mig ud fra Livet stænge;</l>
+                        <l rhyme="X">Lys og Fred var</l>
+                        <l rhyme="C">I min Bringe,</l>
+                        <l rhyme="X">Kvide nu mig</l>
+                        <l rhyme="C">Hart mon stinge;</l>
+                        <l rhyme="A">Endt er Skyttens Liv i Lunden;</l>
+                        <l rhyme="A">Tungest Dag for mig er runden!</l>
+                     </lg>
+                  </sp>
+                  <sp who="#INGEBORG #SVEND">
+                     <speaker>Ingeborg <hi>og</hi> Svend.</speaker>
+                     <lg type="strofe" rhyme="A B B C C X C A A">
+                        <l rhyme="A">Han er funden, han er funden!</l>
+                        <l rhyme="B">Her en Kvinde</l>
+                        <l rhyme="B">Monne fult ham trolddomsbinde!</l>
+                        <l rhyme="C">Fra imorgen,</l>
+                        <l rhyme="C">Fra imorgen</l>
+                        <l rhyme="X">Fast jeg lænkes</l>
+                        <l rhyme="C">Skal til Sorgen!</l>
+                        <l rhyme="A">Vee mig, vee, at han blev funden;</l>
+                        <l rhyme="A">Tungest Dag for mig er runden!</l>
+                     </lg>
+                  </sp>
+               </stage>
+               <stage>
+                  <stage>
+                     <hi>-gang.</hi>
+                  </stage>
+                  <sp who="#THORGEJR">
+                     <speaker>Thorgejr.</speaker>
+                     <lg type="strofe" rhyme="A B B X C X C A A">
+                        <l rhyme="A">Nu er Prøvens Dag oprunden!</l>
+                        <l rhyme="B">Her du længe</l>
+                        <l rhyme="B">
+                           <pb n="604"/>Leved af min Leik paa Strenge;</l>
+                        <l rhyme="X">Nu du færdes</l>
+                        <l rhyme="C">Skal saa vide,</l>
+                        <l rhyme="X">Friste Verdens</l>
+                        <l rhyme="C">Vee og Kvide;</l>
+                        <l rhyme="A">Men er Slottet brændt til Grunden,</l>
+                        <l rhyme="A">Mig du ser i Trængselsstunden!</l>
+                     </lg>
+                  </sp>
+                  <sp who="#GJAESTER #IVAR">
+                     <speaker>Ivar <hi>og</hi> Gjæsterne.</speaker>
+                     <lg type="strofe" rhyme="A B B C C X C A A">
+                        <l rhyme="A">Nu er Fæstemanden funden!</l>
+                        <l rhyme="B">Her han længe</l>
+                        <l rhyme="B">Lyttet har til Trolddomsstrenge;</l>
+                        <l rhyme="C">Men imorgen,</l>
+                        <l rhyme="C">Ja, imorgen</l>
+                        <l rhyme="X">Skal vi glemme</l>
+                        <l rhyme="C">Frygt og Sorgen!</l>
+                        <l rhyme="A">Ned til Bygden gjennem Lunden</l>
+                        <l rhyme="A">Gaar vor Færd i Midnatsstunden!</l>
+                     </lg>
+                  </sp>
+                  <sp who="#HOUGFOLK">
+                     <speaker>Chor af Hougfolk.</speaker>
+                     <lg type="strofe" rhyme="A B B X C X C A A">
+                        <l rhyme="A">Hil og sæl i Afskedsstunden!</l>
+                        <l rhyme="B">Did, du stævner,</l>
+                        <l rhyme="B">Ei at følge dig vi evner!</l>
+                        <l rhyme="X">
+                           <pb n="605"/>Efter Lykken</l>
+                        <l rhyme="C">Vil du jage;</l>
+                        <l rhyme="X">Ak, du fanger</l>
+                        <l rhyme="C">Vee og Klage!</l>
+                        <l rhyme="A">Snart din fagre Drøm er svunden;</l>
+                        <l rhyme="A">Gjæst da os i Trængselsstunden!</l>
+                     </lg>
+                  </sp>
+               </stage>
+               <stage>(<hi>Hougfolket vinker med Blomster og Grene
+                     idet Alfhild med høi Glæde følger de
+                     Bortdragende, som alle gaar ud til
+                     Høire, undtagen Thorgejr, der bliver
+                     tankefuld tilbage ved Elven.</hi>)</stage>
+            </div>
+            <div type="scene" n="2">
+               <stage>(.)</stage>
+            </div>
+         </div>
+         <div type="act" n="2" hand="HI-h2">
+            <head>
+               <hi>2<hi>den</hi> Akt</hi>.</head>
+            <div type="scene" n="1">
+               <stage>Tunet ved Ivars Gaard. Stuebygningen sees i Mellem-
+                  grunden tilhøjre; Staburet og andre Huse tilven-
+                  stre. I Baggrunden en tyk Li med Fjeldrygge
+                  ovenover. Det er mod Aften. –</stage>
+               <stage>Otte Brudepiger kommer fra Staburet med Ingeborg i Brudedragt.</stage>
+               <sp>
+                  <speaker>
+                     <pb n="606"/>Pigerne.</speaker>
+                  <lg type="stikisk-folkevisevers"
+                      met="bi++ '4|'5|'6|'7|'8|'9"
+                      rhyme="r|R|x|X"
+                      part="I">
+                     <l met="-∪∪-∪∪-∪∪-∪" rhyme="A">Nu er hun pyntet med Søljer og Krone,</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Svendene</speaker>
+                  <lg part="M">
+                     <l met="-∪∪-∪∪-∪∪-∪" rhyme="A">Nu er han færdig at hente sin Kone.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Fælles Kor.</speaker>
+                  <lg part="M">
+                     <l met="∪-∪∪-∪∪-∪-" rhyme="b">Idag er der Gammen i Gildegaard;</l>
+                     <l met="-∪∪-∪∪-∪∪-" rhyme="b">Glemt er hver Sorg som os gnaged igaar.</l>
+                  </lg>
+               </sp>
+               <sp who="#INGEBORG">
+                  <speaker>Ingeborg</speaker>
+                  <lg part="M">
+                     <l met="-∪-∪∪-∪∪-" rhyme="c">Værre Sorger mig gnager idag.</l>
+                  </lg>
+               </sp>
+               <sp who="#KNUT">
+                  <speaker>Knut.</speaker>
+                  <lg part="M">
+                     <l met="-∪∪-∪∪-∪-" rhyme="c">Sad jeg deroppe bag Skavlens Flak –</l>
+                     <l met="-∪∪-∪" rhyme="D">Langt langt deroppe</l>
+                     <l met="∪-∪∪-∪" rhyme="D">Bag Granskogens Toppe –</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <lg part="M">
+                     <l part="Y" met="∪-∪∪-∪">Idag er d<unclear reason="writing">er</unclear> Gammen o. s. v –</l>
+                  </lg>
+               </sp>
+               <sp who="#IVAR">
+                  <speaker>Ivar.</speaker>
+                  <lg part="M">
+                     <l part="I" met="∪-∪∪-">Er Borddugen bredt –</l>
+                  </lg>
+               </sp>
+               <sp who="#SVEND">
+                  <speaker>Svend</speaker>
+                  <lg part="M">
+                     <l part="F" met="∪-∪-" rhyme="e">Ja, Husbond, ja!</l>
+                  </lg>
+               </sp>
+               <sp who="#IVAR">
+                  <speaker>
+                     <pb n="607"/>Ivar.</speaker>
+                  <lg part="M">
+                     <l met="∪-∪-∪∪-∪-" rhyme="x">Og Øllet, skummer det stærkt og fedt</l>
+                  </lg>
+               </sp>
+               <sp who="#SVEND">
+                  <speaker>Svend.</speaker>
+                  <lg part="M">
+                     <l met="∪-∪-" rhyme="e">Ja, Husbond, ja!</l>
+                  </lg>
+               </sp>
+               <sp who="#IVAR">
+                  <speaker>Ivar.</speaker>
+                  <lg part="F">
+                     <l met="-∪-∪∪-∪-∪" rhyme="F">Kirkevejen er lang at ride, –</l>
+                     <l met="∪-∪-∪∪-∪-∪" rhyme="F">Afgaarde maa vi ved Nattetide; –</l>
+                     <l met="-∪∪-∪∪-∪-" rhyme="g">Færden skal fare med Tyriblus</l>
+                     <l met="∪-∪-∪∪-∪∪-" rhyme="g">Fra Bryllupsgaard til det hellige Hus.</l>
+                  </lg>
+               </sp>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
