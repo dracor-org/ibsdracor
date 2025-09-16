@@ -1,0 +1,4147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000037">
+   <teiHeader xml:lang="nob">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Rypen i Justedal</title>
+            <author>
+               <persName>
+                  <forename>Henrik</forename>
+                  <surname>Ibsen</surname>
+               </persName>
+               <idno type="wikidata">Q36661</idno>
+            </author>
+            <editor role="editor-in-chief">Vigdis Ystad</editor>
+            <editor role="managing-editor">Christian Janss</editor>
+            <editor role="text-editors">Hilde Bøe</editor>
+            <editor role="text-editors">Stine Brenna Taugbøl</editor>
+            <respStmt>
+               <resp>Modified encoding for DraCor by</resp>
+               <name xml:id="NME">Nina Marie Evensen</name>
+               <name xml:id="ER">Emil Røsås</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.5">Beta release</edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>University of Oslo, Center for Ibsen Studies</authority>
+            <publisher>DraCor</publisher>
+            <date when="2025">2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
+               <name>Henrik Ibsens skrifter, digital utgave (HISe)</name>
+               <idno type="URL">https://www.ibsen.uio.no/DRVIT_RJ%7CRJht.xhtml</idno>
+               <idno>RJht</idno>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+                     <ab>CC BY-NC 4.0</ab>
+                  </licence>
+               </availability>
+               <bibl type="originalSource">
+                  <author>Henrik Ibsen</author>
+                            :
+                            <title type="main">Rypen i Justedal</title>. <title type="sub">Hovedtekst, tekstgrunnlag: NBO Ms.4° 932</title>. In:
+                            <edition>Henrik Ibsens skrifter, bind 2</edition>. 
+                            <editor>Christian Janss, Hilde Bøe og Stine Brenna Taugbøl</editor>
+                  <pubPlace>Oslo</pubPlace>:
+                            <publisher>Aschehoug</publisher>
+                  <date when="2006">2006</date>
+                  <biblScope unit="page" from="189" to="259">189-259</biblScope>
+               </bibl>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="nob"/>
+            <language ident="dan-nob"/>
+         </langUsage>
+         <particDesc>
+            <listPerson>
+               <person xml:id="BENGT" sex="MALE">
+                  <persName>Bengt</persName>
+               </person>
+               <person xml:id="BJORN" sex="MALE">
+                  <persName>Bjørn</persName>
+               </person>
+               <person xml:id="MERETA" sex="FEMALE">
+                  <persName>Mereta</persName>
+               </person>
+               <person xml:id="EINAR" sex="MALE">
+                  <persName>Einar</persName>
+               </person>
+               <person xml:id="ALFHILD" sex="FEMALE">
+                  <persName>Alfhild</persName>
+               </person>
+               <person xml:id="MOGENS" sex="MALE">
+                  <persName>Mogens</persName>
+               </person>
+               <person xml:id="KNUD" sex="MALE">
+                  <persName>Knud</persName>
+               </person>
+               <person xml:id="PAAL" sex="MALE">
+                  <persName>Paal</persName>
+               </person>
+               <person xml:id="INGEBORG" sex="FEMALE">
+                  <persName>Ingeborg</persName>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <standOff>
+      <listEvent>
+         <event type="print" when="">
+            <desc/>
+         </event>
+         <event type="premiere" when="">
+            <desc/>
+         </event>
+         <event type="written" notBefore="1850" notAfter="1850">
+            <desc/>
+         </event>
+      </listEvent>
+      <listRelation>
+         <relation name="wikidata"
+                   active="https://dracor.org/entity/ibs000037"
+                   passive="http://www.wikidata.org/entity/Q10381004"/>
+      </listRelation>
+   </standOff>
+   <text type="drama" xml:lang="dan-nob">
+      <front>
+         <titlePage type="main">
+            <docTitle>
+               <lb/>
+               <titlePart type="main">
+                  <pb n="191"/>Rypen i Justedal,</titlePart>
+               <lb/>
+               <titlePart type="desc">nationalt Skuespil
+<lb/>i
+<lb/>fire Acter,</titlePart>
+            </docTitle>
+            <lb/>
+            <byline>af
+<lb/>
+               <docAuthor>Brynjolf Bjarme</docAuthor>.</byline>
+            <lb/>
+            <lb/>
+            <docDate>1850.</docDate>
+         </titlePage>
+         <castList>
+            <lb/>
+            <castItem sameAs="BENGT">
+               <pb n="192"/>Bengt af Bjerkehoug, en rig Odelsbonde.</castItem>
+            <lb/>
+            <castItem sameAs="BJORN">Bjørn, hans Søn.</castItem>
+            <lb/>
+            <castItem sameAs="MERETA">Mereta hans Pleiedatter og Myndling.</castItem>
+            <lb/>
+            <castItem sameAs="EINAR">Einar en ung Odelsbonde.</castItem>
+            <lb/>
+            <castItem sameAs="ALFHILD">Alfhild, en ung Pige.</castItem>
+            <lb/>
+            <castItem sameAs="MOGENS">Mogens, Præst –</castItem>
+            <lb/>
+            <castItem sameAs="KNUD">Knud, en gammel Spillemand.</castItem>
+            <lb/>
+            <castItem sameAs="PAAL">Paal, en gammel Jæger.</castItem>
+            <lb/>
+            <castGroup>
+               <castItem sameAs="INGEBORG">Ingeborg og </castItem>
+               <castItem>flere Tjenestefolk paa Bjerkehoug.</castItem>
+            </castGroup>
+         </castList>
+      </front>
+      <body>
+         <div type="act" n="1">
+            <lb/>
+            <head>
+               <pb n="193"/>
+               <hi>Første Act.</hi>
+            </head>
+            <lb/>
+            <stage>Vild Fjeldegn; til Venstre en gammel
+<lb/>Sæterhytte, i Baggrunden høie Fjelde der
+<lb/>hæve sig over hinanden. Bjørn og Paal
+<lb/>komme ned fra Lien med Buer og an-
+<lb/>dre Jagtredskaber paa Ryggen; det er Aften. –</stage>
+            <lb/>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg type="stikisk-femfotsjambe-blankvers"
+                   met="bi '10|'11"
+                   rhyme="x|X"
+                   part="I">
+                  <l rhyme="x">Vi faa nok skynde os ifald vi skal</l>
+                  <lb/>
+                  <l rhyme="x">naa frem til Bjerkehoug ilyse, Bjørn!</l>
+                  <lb/>
+                  <l part="I">snart er det mørkt –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Det haster ikke, <del>
+                        <unclear>Paal,</unclear>
+                     </del>kom</l>
+                  <lb/>
+                  <l rhyme="X">og sæt dig her paa Hellen, lad os hvile.</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Ei, er du træt?</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Det <del>
+                        <gap/>
+                     </del>er ei derfor, Paal!</l>
+                  <lb/>
+                  <l rhyme="X">men her er jo saa kjøligt og saa vakkert</l>
+                  <lb/>
+                  <l rhyme="x">see her hvor Fjeldet skinner rødt som Guld</l>
+                  <lb/>
+                  <l rhyme="X">
+                     <pb n="194"/>man skulde tro at det var Haugafolket</l>
+                  <lb/>
+                  <l rhyme="x">som viste os sin hele rige Skat.</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">See nu er du igjen paa disse Tanker</l>
+                  <lb/>
+                  <l rhyme="x">om Haugafolk og Huldre og Gud veed</l>
+                  <lb/>
+                  <l part="I">hvad Alt det heder –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Troer du da ei</l>
+                  <lb/>
+                  <l part="I">at saadant findes meer?</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Jo at det findes,</l>
+                  <lb/>
+                  <l rhyme="x">det veed jeg sagtens vel saa godt som du</l>
+                  <lb/>
+                  <l rhyme="X">men netop derfor skulde du ei snakke</l>
+                  <lb/>
+                  <l rhyme="x">om saadant nu ved Solenedgang, Bjørn.</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Du mener at det kunde være muligt</l>
+                  <lb/>
+                  <l part="I">det viste sig?</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Ja hvorfor ikke det</l>
+                  <lb/>
+                  <l part="I">sligt har jeg seet før –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>
+                  <pb n="195"/>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="M">Har du?</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Ja vist</l>
+                  <lb/>
+                  <l part="I">og det for ikke længe siden –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Hvor?</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Her lige Nord i Sæteren, der var jeg</l>
+                  <lb/>
+                  <l part="I">en Lørdagskvæl i Sommer</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Du v<del>
+                        <gap/>l</del>ar vel</l>
+                  <lb/>
+                  <l part="I">paa Frieri –</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Saa var det nok omtrent,</l>
+                  <lb/>
+                  <l rhyme="X">hun Gunborg som engang saanær var bleven</l>
+                  <lb/>
+                  <l rhyme="x">min Fæstemø, – det blev nu intet af, –</l>
+                  <lb/>
+                  <l part="I">hun ligger der tilsæters –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>
+                  <del>
+                     <gap/>
+                  </del>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Hun, den Gamle</l>
+                  <lb/>
+                  <l part="I">vi mødte der imorges –</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>
+                  <pb n="196"/>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Nu, ja vist</l>
+                  <lb/>
+                  <l rhyme="X">hun er da ei saa gammel, og desuden</l>
+                  <lb/>
+                  <l rhyme="x">saa koger hun slig prægtig Rømmegrød</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Ja, det kan være, – men hvad saa du da?</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Nu skal du høre, – vent nu bare lidt;</l>
+                  <lb/>
+                  <l rhyme="x">det var i Kvældingen omtrent som nu,</l>
+                  <lb/>
+                  <l rhyme="X">jeg trasked opad saa i egne Tanker –</l>
+                  <lb/>
+                  <l rhyme="x">men aller bedst jeg gik saa fløi der op</l>
+                  <lb/>
+                  <l rhyme="X">en Rype tæt ved mig i Graneholtet</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Og saa?</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Jeg spændte Buen i en Fart</l>
+                  <lb/>
+                  <l part="I">– men væk var Fuglen –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Ja det troer jeg gjerne</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>
+                  <pb n="197"/>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Ja hør nu bare <stage>(med la<del>
+                           <unclear>d</unclear>
+                        </del>v Stemme)</stage> da jeg saa mig om</l>
+                  <lb/>
+                  <l rhyme="x">stod Huldra høit i Lien netop der</l>
+                  <lb/>
+                  <l rhyme="X">paa samme Sted hvor Rypen just blev borte.</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Aa, det har sagtens været Gunborg –</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Saa,</l>
+                  <lb/>
+                  <l rhyme="X">troer du da ei at jeg kan skjelne Huldra</l>
+                  <lb/>
+                  <l rhyme="x">ifra et christent Menneske, – nei nei, –</l>
+                  <lb/>
+                  <l rhyme="x">jeg ved nok hvem det var, – og Rypen da? –</l>
+                  <lb/>
+                  <l rhyme="X">ja jeg tør bande paa det var en Troldfugl.</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Men hvordan saa hun ud, hun var vel vakker?</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Ja hun var vel nok skabt, det maa jeg sige –</l>
+                  <lb/>
+                  <l rhyme="X">men det saa jeg nu ikke vidre efter –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Du løb din Vei?</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Ja det er nok det bedste</l>
+                  <lb/>
+                  <l rhyme="x">
+                     <pb n="198"/>i slige Tilfælde; Folk sige jo,</l>
+                  <lb/>
+                  <l rhyme="x">at Huldra passer paa; naar det kan skee</l>
+                  <lb/>
+                  <l rhyme="X">saa lokker hun de <del>
+                        <gap/>
+                     </del>raske Karle til sig –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">
+                     <del>
+                        <gap/>
+                     </del>Det er nok helst de unge!</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Nu, ja vel,</l>
+                  <lb/>
+                  <l rhyme="X">jeg er da ingen Gamling endnu heller,</l>
+                  <lb/>
+                  <l rhyme="x">for tredive Aar tilbage var jeg kun</l>
+                  <lb/>
+                  <l part="I">en Unggut endnu, –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Ja det kan nok være.</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Ja tredive Aar er sagtens ingen Alder.</l>
+                  <lb/>
+                  <l rhyme="x">Jo, jo, det var nok bedst jeg gik min Vei,</l>
+                  <lb/>
+                  <l rhyme="x">du mindes hvordan det gik Eivind Bolt</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Ja Huldren lokked ham jo ind i Fjeldet,</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Og lod ham blive der i mange Aar,</l>
+                  <lb/>
+                  <l rhyme="x">og da han endelig kom ud igjen</l>
+                  <lb/>
+                  <l rhyme="X">
+                     <pb n="199"/>saa kjendte Ingen ham i Bygden mere.</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Nu ja, hvad Skade var der vel i det?</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Du havde maaskee Lyst at følge med</l>
+                  <lb/>
+                  <l part="I">hvis Huldra lokked dig –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Ja hvorfor ikke!</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Jeg tænkte det; – jeg har nok længe mærket</l>
+                  <lb/>
+                  <l rhyme="x">at i den sidste Tid stod al din Hu</l>
+                  <lb/>
+                  <l rhyme="X">til Sagn og Eventyr og derfor flakker</l>
+                  <lb/>
+                  <l rhyme="x">du her omkring fra Morgen og til Kvæl;</l>
+                  <lb/>
+                  <l rhyme="X">igaar da jeg traf paa dig, – hør, hvor havde</l>
+                  <lb/>
+                  <l part="I">du været da?</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Nu, kan du gjætte det?</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Vel høit tilfjelds som ellers!</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>
+                  <pb n="200"/>Bjørn.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Endnu længer, –</l>
+                  <lb/>
+                  <l part="I">i Justedalen! –</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Gud forlade dig! –</l>
+                  <lb/>
+                  <l rhyme="X">I Justedalen, der hvor ingen Skytte</l>
+                  <lb/>
+                  <l rhyme="x">har sat sin Fod i mange Herrens Aar;</l>
+                  <lb/>
+                  <l rhyme="X">den ligger øde siden Svartedauen.</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Jeg ved det nok –</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Og Folk fortæller jo</l>
+                  <lb/>
+                  <l rhyme="X">at det skal spøge der og at de Døde</l>
+                  <lb/>
+                  <l rhyme="x">som ligge ubegravne, gaa igjen.</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Det kan nok være!</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Har du intet seet?</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Nei intet seet, – men hørt –</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>
+                  <pb n="201"/>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Hvad, – har du hørt, –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Nu, Suus fra Granetop og Fuglekvidder</l>
+                  <lb/>
+                  <l rhyme="x">og sligt som altid høres her tilfjelds –</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Og ikke andet?</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Lad os ikke snakke</l>
+                  <lb/>
+                  <l rhyme="x">om <del>sligt</del>saadant nu saa seent paa Kvælden, Paal!</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Folk siger Huldren eier hele Dalen.</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Gjør Huldren?</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Ja, og at hun gjæter der</l>
+                  <lb/>
+                  <l part="I">sin hele Buskap, –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Det kan gjerne være</l>
+                  <lb/>
+                  <l part="I">jeg saa ei <del>n</del>Noge<del>t</del>n, –</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>
+                  <pb n="202"/>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Ja da har jeg dog</l>
+                  <lb/>
+                  <l rhyme="X">hørt Sæterjenterne herom fortælle</l>
+                  <lb/>
+                  <l rhyme="x">at de om Sommerkvællen tit har hørt</l>
+                  <lb/>
+                  <l rhyme="X">at Huldren blæste paa sin Luur deroppe.</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <stage>springer op.</stage>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Det høre de?</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Nu ja, – hvad fattes dig?</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Aa det var ingen Ting; men sige de</l>
+                  <lb/>
+                  <l rhyme="X">at de kan høre Huldrelok fra Lien.</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Det er ei længer siden end igaar</l>
+                  <lb/>
+                  <l rhyme="X">jeg hørte det <del>
+                        <unclear>af</unclear>
+                     </del>paa Sæteren hernede;</l>
+                  <lb/>
+                  <l rhyme="x">seer du det gamle Sél som staar forladt</l>
+                  <lb/>
+                  <l rhyme="X">det er fordi at ingen Jente vover</l>
+                  <lb/>
+                  <l part="I">at ligge her tilfjelds –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Forunderligt!</l>
+                  <lb/>
+                  <l rhyme="X">
+                     <pb n="203"/>Men lad os tage os et Drag af Hornet</l>
+                  <lb/>
+                  <l rhyme="x">det haster ei vi kan jo hvile <del>
+                        <gap/>
+                     </del>her</l>
+                  <lb/>
+                  <l part="I">saagodt som andetsteds</l>
+               </lg>
+               <lb/>
+               <stage>(han drikker og rækker
+<lb/>Paal Hornet.)</stage>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Nu, som du tykkes!</l>
+                  <lb/>
+                  <stage>(han drikker)</stage>
+                  <lb/>
+                  <l rhyme="x">Du er da bleven rent som folkesky</l>
+                  <lb/>
+                  <l rhyme="X">og trives ingensteds som her i Skogen;</l>
+                  <lb/>
+                  <l rhyme="x">nu, hver sin Lyst, ifald det huer dig</l>
+                  <lb/>
+                  <l rhyme="X">at blive her inat, saa vil jeg søge</l>
+                  <lb/>
+                  <l rhyme="x">en Bænk at hvile paa i Sælet der.</l>
+               </lg>
+               <lb/>
+               <stage>(han reiser sig.)</stage>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="A">Ja gaa du kun, – jeg sidder her paa Hellen</l>
+                  <lb/>
+                  <l part="I">og pudser Rusten af min Bue, –</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Vel!</l>
+                  <lb/>
+                  <l rhyme="A">men skynd dig kun, det er alt seent paa Kvælden.</l>
+               </lg>
+               <lb/>
+               <stage>
+                  <pb n="204"/>(han gaar ind i
+<lb/>Selet.)</stage>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <stage>efter
+<lb/>en Pause.</stage>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Nei alt hvad jeg end strider derimo<del>m</del>d,</l>
+                  <lb/>
+                  <l rhyme="X">jeg kan ei blive fri for disse Tanker!</l>
+                  <lb/>
+                  <l rhyme="x">Har jeg da ikke hørt saa tydeligt</l>
+                  <lb/>
+                  <l rhyme="X">hvordan hun lokked med sin Luur fra Lien;</l>
+                  <lb/>
+                  <l rhyme="x">og fra den første Gang jeg hørte det</l>
+                  <lb/>
+                  <l rhyme="X">da forekom det mig som jeg blev dreven</l>
+                  <lb/>
+                  <l rhyme="x">af en usynlig Magt derop; – hver Dag</l>
+                  <lb/>
+                  <l rhyme="X">jeg maatte vandre did, selv mod min Villie.</l>
+                  <lb/>
+                  <l rhyme="x">– Hør, lød det ei, <stage>(lytter) –</stage> nei, det var kun en Gjøg</l>
+                  <lb/>
+                  <l rhyme="X">som sang deroppe, høit i Furutoppen,</l>
+                  <lb/>
+                  <l rhyme="x">det skal betyde Lykke siger man,</l>
+                  <lb/>
+                  <l rhyme="x">nu, gid det var saavel, – tys, hvad er det?</l>
+                  <lb/>
+                  <l rhyme="X">jeg hører Fodtrin, – det er vist en Skytte!</l>
+               </lg>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>Harald</speaker>
+               <stage>(kommer fra Lien med sin
+<lb/>Gig i Haanden.)</stage>
+               <lb/>
+               <lg part="M">
+                  <l part="I">
+                     <pb n="205"/>Godkvæl!</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Godkvæl igjen, – hvor skal du hen</l>
+                  <lb/>
+                  <l part="I">saa seent paa Kvælden –</l>
+               </lg>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>Harald</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Nedad imod Bygden!</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Du boer vel over paa den anden Kant</l>
+                  <lb/>
+                  <l part="I">af Fjeldet?</l>
+               </lg>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>Harald</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Ja, det kan du gjerne sige,</l>
+                  <lb/>
+                  <l rhyme="x">dog ikke mere der end andetsteds,</l>
+                  <lb/>
+                  <l rhyme="X">mit Hjem er hvorsomhelst det kan sig træffe.</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Hvorledes mener du?</l>
+               </lg>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>Harald</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Jeg vanker om</l>
+                  <lb/>
+                  <l rhyme="X">og bier ingensteds ret meget længe,</l>
+                  <lb/>
+                  <l rhyme="x">jeg er en Spillemand, som du nok seer</l>
+                  <lb/>
+                  <l rhyme="X">og synger hvorsomhelst man gider høre.</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>
+                  <pb n="206"/>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Og du har intet Hjem?</l>
+               </lg>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>Harald</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Er der ei Ly</l>
+                  <lb/>
+                  <l rhyme="X">da, under hvert et Træ i Granelien?</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Ja, du har Ret, naar man er ung saa gaar</l>
+                  <lb/>
+                  <l part="I">det sagtens an; – men –</l>
+               </lg>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>Harald</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Snak dog ei om Alder!</l>
+                  <lb/>
+                  <l rhyme="X">vid, man kan gjerne leve hundred’ Vintre</l>
+                  <lb/>
+                  <l rhyme="x">og endda være lige ung, min Gut!</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Du taler underligt!</l>
+               </lg>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>Harald</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Det kan nok være, –</l>
+                  <lb/>
+                  <l rhyme="x">det er fordi du ikke skjønner mig; –</l>
+                  <lb/>
+                  <l rhyme="X">men jeg maa nok begive mig paa Veien. –</l>
+                  <lb/>
+                  <l rhyme="x">– Gaaer ikke denne Sti til Bjerkehoug?</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Til Bjerkehoug? Ja, skal du did iaften?</l>
+               </lg>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>
+                  <pb n="207"/>Harald</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Saa var min Agt, jeg har ei været der</l>
+                  <lb/>
+                  <l rhyme="X">paa mange Aar og derfor vil jeg gjerne</l>
+                  <lb/>
+                  <l rhyme="x">erfare om der endnu ei som før</l>
+                  <lb/>
+                  <l rhyme="X">er <del>
+                        <gap/>
+                     </del>Plads ved Aaren for den trætte Vandrer!</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Det kan du lide paa –</l>
+               </lg>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>Harald</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Det troer jeg og!</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Nu saa farvel, – og lad ei Veien falde</l>
+                  <lb/>
+                  <l part="I">dig altfor lang –</l>
+               </lg>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>Harald</speaker>
+               <stage>idet han vil gaa</stage>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">For lang, hvor kan den det?</l>
+                  <lb/>
+                  <l rhyme="x">gaar du i Skogen med det rette Sind</l>
+                  <lb/>
+                  <l rhyme="x">saa savner du ei Selskab, mener jeg,</l>
+                  <lb/>
+                  <l rhyme="X">hvad eller tykkes dig at det er énsomt</l>
+                  <lb/>
+                  <l rhyme="x">her hvor dog Li og Fjeld er fuldt af Liv?</l>
+                  <lb/>
+                  <l rhyme="X">Du troer det ei? – det er dog som jeg siger</l>
+                  <lb/>
+                  <l rhyme="x">og hvis du ikke hører eller seer</l>
+                  <lb/>
+                  <l rhyme="X">saa er det kun fordi du ikke eier</l>
+                  <lb/>
+                  <l rhyme="x">
+                     <pb n="208"/>det rette Syn og Hørelse! – Godkvæl.</l>
+               </lg>
+               <lb/>
+               <stage>(han gaar)</stage>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn.</speaker>
+               <stage>seer efter ham</stage>
+               <lb/>
+               <lg part="F">
+                  <l rhyme="x">Det var dog sælsomt hvad han sagde der,</l>
+                  <lb/>
+                  <l rhyme="x">hvad mente han, – jeg kan ei fatte det.</l>
+                  <lb/>
+                  <stage>(Luurtoner høres fra Baggrunden.)</stage>
+                  <lb/>
+                  <l rhyme="X">Hør, hør, der lyder det igjen fra Fjeldet.</l>
+                  <lb/>
+                  <stage>(lytter.)</stage>
+                  <lb/>
+                  <l rhyme="X">Jeg kjender Tonerne, – ja, det er hende.</l>
+               </lg>
+            </sp>
+            <lb/>
+            <stage>(Han lytter i taus <del>f</del>Forventning, Luur-
+<lb/>tonerne høres atter og Alfhild viser
+<lb/>sig i Baggrunden paa en Fjeldtop.)</stage>
+            <lb/>
+            <sp who="#ALFHILD">
+               <speaker>Alfhild</speaker>
+               <stage>(synger
+<lb/>uden at bemærke Bjørn)</stage>
+               <lb/>
+               <lg type="strofisk-strofegruppe-folkevisevers"
+                   met="bi+ ('8 '7)²"
+                   rhyme="(a B)²">
+                  <lg type="strofe">
+                     <l met="∪-∪-∪∪-∪-" rhyme="a">«Det er saa tyst udi Skog og Fjeld,</l>
+                     <lb/>
+                     <l met="∪-∪-∪∪-∪" rhyme="B">Kun Bækken risler bag Stene,</l>
+                     <lb/>
+                     <l met="∪-∪-∪∪-∪-" rhyme="a">Og Trosten kviddrer saa stur i Kvæl</l>
+                     <lb/>
+                     <l met="∪-∪-∪-∪" rhyme="B">En Sang fra Bjerkens Grene.</l>
+                  </lg>
+                  <lb/>
+                  <lg type="strofe">
+                     <l met="∪-∪-∪-∪-" rhyme="a">Dernede bag det grønne Blad</l>
+                     <lb/>
+                     <l met="∪-∪-∪-∪" rhyme="B">Dens Mage sidder hjemme</l>
+                     <lb/>
+                     <l met="∪-∪-∪-∪-" rhyme="a">
+                        <pb n="209"/>Og lytter fro og lytter glad</l>
+                     <lb/>
+                     <l met="∪-∪-∪-∪" rhyme="B">Alt til den kjære Stemme.»</l>
+                  </lg>
+               </lg>
+            </sp>
+            <lb/>
+            <stage>(Hun gjør et Par <del>S</del>skridt fremad og
+<lb/>bemærker Bjørn; overrasket bliver hun et Øieblik
+<lb/>staaende og forsvinder derpaa bag Træerne.)</stage>
+            <lb/>
+            <sp who="#BJORN">
+               <speaker>Bjørn.</speaker>
+               <lb/>
+               <lg type="stikisk-femfotsjambe-blankvers"
+                   met="bi '10|'11"
+                   rhyme="x|X"
+                   part="I">
+                  <l rhyme="X">Der stod hun fager høit i Bjerkelien, –</l>
+                  <lb/>
+                  <l rhyme="X">med Luur i Haanden kvæded hun sin Vise,</l>
+                  <lb/>
+                  <l rhyme="x">ja hun var vakker, – og hvor veent hun sang!</l>
+                  <lb/>
+                  <l rhyme="X">hun ligned ikke Jenterne i Dalen.</l>
+                  <lb/>
+                  <l rhyme="X">D<del>
+                        <gap/>
+                     </del>et var da Sandhed hvad den Gamle sagde</l>
+                  <lb/>
+                  <l rhyme="x">at Li og Fjeld er fuld af Liv; jeg vil</l>
+                  <lb/>
+                  <l rhyme="x">dog tale med ham end engang ikvel</l>
+                  <lb/>
+                  <stage>(raaber ind i Selet.)</stage>
+                  <lb/>
+                  <l rhyme="X">staa op og lad os give os paa Veien!</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <stage>kommer</stage>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Hvad er paa færde, – er her Vildt i Lien!</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Ja vist, men kom og lader os gaa hjem.</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>
+                  <pb n="210"/>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Saa har du sagtens atter sigtet feil</l>
+                  <lb/>
+                  <l rhyme="x">det er ei skjeldent i den sidste Tid!</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>
+                  <del>
+                     <unclear>Paal</unclear>
+                  </del>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Jeg har ei skudt engang.</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Nu endnu bedre.</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Det var en Fjeldfugl kun. –</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">En Rype kanske.</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Ja netop ligedan som den du saa,</l>
+                  <lb/>
+                  <l rhyme="X">med et forsvandt den oppe der i Lien!</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Ja vil du bare see, – jeg havde Ret; –</l>
+                  <lb/>
+                  <l rhyme="X">det er da vel at jeg har Staal ved Haanden</l>
+                  <lb/>
+                  <l rhyme="x">saa kan ei Haugafolket røre os!</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Nei vist, men kom nu, – skynd dig, lad os gaa!</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Sæt Hornet der paa Bordet, Ingeborg!</l>
+                  <lb/>
+                  <l rhyme="x">vor Gjæst behøver sagtens Tidsfordriv</l>
+                  <lb/>
+                  <l rhyme="X">for ei at kjede sig her altformeget.</l>
+               </lg>
+            </sp>
+            <sp who="#INGEBORG">
+               <speaker>Ingeborg.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">O, derfor kan du være ganske rolig;</l>
+                  <lb/>
+                  <l rhyme="X">hvis ei jeg feiler blev ung Einar gjerne</l>
+                  <lb/>
+                  <l rhyme="x">paa Bjerkehaug sin hele Levetid –</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Hvorledes mener du?</l>
+               </lg>
+            </sp>
+            <sp who="#INGEBORG">
+               <speaker>Ingeborg.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Aa, du har nok</l>
+                  <lb/>
+                  <l rhyme="X">forlængesiden mærket hvad jeg mener.</l>
+               </lg>
+               <lb/>
+               <stage>(hun gaar idet Einar
+<lb/>træder ind.)</stage>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>
+                  <pb n="212"/>Einar</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Nu løb du atter bort fra mig derude</l>
+                  <lb/>
+                  <l part="I">og lod mig staa allene –</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">O, det var</l>
+                  <lb/>
+                  <l rhyme="x">kun for at skaffe dig en Lædskedrik</l>
+                  <lb/>
+                  <l rhyme="X">du snakked jo saameget for mig, Einar</l>
+                  <lb/>
+                  <l rhyme="X">at du maa sikkert være tør i Halsen.</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Vil du nu <del>atter</del> gaa, du har da aldrig Tid,</l>
+                  <lb/>
+                  <l rhyme="x">at høre hvad jeg har at sige dig!,</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Nei, det er sagtens og det klogeste!</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Du leer kun ad mig, troer ei hvad jeg siger.</l>
+                  <lb/>
+                  <l part="I">du tvivler paa min Ærlighed –</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">O til</l>
+                  <lb/>
+                  <l rhyme="X">med Ærlighed, den læres ei i Staden.</l>
+                  <lb/>
+                  <l rhyme="x">og der var du jo fra din Barndom alt</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>
+                  <pb n="213"/>Einar</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Og, troer du da jeg nogensinde glemte</l>
+                  <lb/>
+                  <l part="I">den fagre Blommelil i Dalen</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Nu,</l>
+                  <lb/>
+                  <l rhyme="X">du har da lært at føie snildt din Tale,</l>
+                  <lb/>
+                  <l part="I">sligt skjønne vi ei her –</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Jeg vented ei</l>
+                  <lb/>
+                  <l rhyme="x">at komme hid til Bjerkehoug den Dag</l>
+                  <lb/>
+                  <l rhyme="X">da du ei skjønned hvad der ærligt menes.</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta</speaker>
+               <stage>muntert</stage>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Nu, lad os ikke trætte me<del>r</del>er derom</l>
+                  <lb/>
+                  <l rhyme="X">men kom og lad os være gode Venner!</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <stage>vil tage hendes Ha<unclear reason="writing">and</unclear>.</stage>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Mereta!</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Nei, vær rolig nu, ung Einar!</l>
+                  <lb/>
+                  <l rhyme="X">Ja, du maa tro, vi har ei glemt dig heller,</l>
+                  <lb/>
+                  <l rhyme="x">du skulde see det lille Æbletræ,</l>
+                  <lb/>
+                  <l rhyme="X">du planted her for syv A<del>
+                        <unclear>rs</unclear>
+                     </del>ars Tid i <del>
+                        <gap/>
+                     </del>Haven</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>
+                  <pb n="214"/>Einar</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Det mindes du endnu?</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Jeg seer til det</l>
+                  <lb/>
+                  <l rhyme="x">hver Dag, – det heder Einars Træ, Godkvæl!</l>
+               </lg>
+               <lb/>
+               <stage>(hun ga<unclear reason="writing">ar</unclear>)</stage>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <lb/>
+               <lg part="F">
+                  <l rhyme="X">Jeg kan ei rigtig blive klog paa hende,</l>
+                  <lb/>
+                  <l rhyme="x">snart støder hun mig bort med Spot og Skjemt</l>
+                  <lb/>
+                  <l rhyme="x">snart lokker hun mig atter til sig ret</l>
+                  <lb/>
+                  <l rhyme="x">som om jeg hued. hende ganske vel.</l>
+               </lg>
+            </sp>
+            <lb/>
+            <stage>(Mogens træder ind.)</stage>
+            <lb/>
+            <sp who="#MOGENS">
+               <speaker>Mogens</speaker>
+               <lb/>
+               <p>Guds Fred! min Søn, er du her saa allene,
+<lb/>jeg har et Budskab til Herr Bengt; du
+<lb/>veed vel ikke hvor jeg kunde træffe ham.</p>
+            </sp>
+            <lb/>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <lb/>
+               <p>Han kommer sikkert snart</p>
+            </sp>
+            <lb/>
+            <sp who="#MOGENS">
+               <speaker>Mogens</speaker>
+               <lb/>
+               <p>Vel, saa vil jeg vente, <stage>(sætter sig)</stage> ja, nu
+<lb/>er du jo atter bleven vor Nabo, – du har
+<lb/>
+                  <pb n="215"/>jo selv overtaget din Faders Gaard igjen, –</p>
+            </sp>
+            <lb/>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <lb/>
+               <p>Ja, ærværdige Fader! jeg er kjed af Hird-
+<lb/>mandslivet, nu vil jeg slaa mig til Ro
+<lb/>en Stund – –</p>
+            </sp>
+            <lb/>
+            <sp who="#MOGENS">
+               <speaker>Mogens</speaker>
+               <lb/>
+               <p>Du gjør Ret, beati sunt agricolæ, – men
+<lb/>
+                  <retrace place="inline">h</retrace>vad <del>
+                     <gap/>
+                  </del>har du i Hornet d<del>it</del>er, – naa, Mjød,
+<lb/>– jeg troer en liden Taar vil gjøre godt <add place="offline">
+                     <stage>(drikker)</stage>
+                  </add> – –
+<lb/>– jo jo, Bengt af Bjerkehoug har gode Sager
+<lb/>i Kjelderen, men de komme nu skjel-
+<lb/>den fordagen, – her gaar ikke saa lystigt
+<lb/>til som i gamle salig Thormods Dage,
+<lb/>Einar! –</p>
+            </sp>
+            <lb/>
+            <sp who="#EINAR">
+               <speaker>Einar.</speaker>
+               <lb/>
+               <p>Nei, det tykkes mig ogsaa! det lader som
+<lb/>Bengt er mørk og tungsindig <add place="offline">alt</add> imellem.</p>
+            </sp>
+            <lb/>
+            <sp who="#MOGENS">
+               <speaker>Mogens</speaker>
+               <lb/>
+               <p>Ja det maa du sige, Gud lad det bare ikke
+<lb/>blive værre, – det er Ungdommens Synder og
+<lb/>Forfængelighed som tynger paa Alderdommen,
+<lb/>
+                  <pb n="216"/>– han er nu et Verdens Barn, en af dem, der
+<lb/>foretrække rumores ante salutem, som
+<lb/>det heder, –</p>
+            </sp>
+            <lb/>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <lb/>
+               <p>Det er nok fra den Tid hans Broder Alf blev borte? –</p>
+            </sp>
+            <lb/>
+            <sp who="#MOGENS">
+               <speaker>Mogens</speaker>
+               <lb/>
+               <p>Ja, saa er det nok –</p>
+            </sp>
+            <lb/>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <lb/>
+               <p>Men hvorledes gik det da til – –</p>
+            </sp>
+            <lb/>
+            <sp who="#MOGENS">
+               <speaker>Mogens</speaker>
+               <lb/>
+               <p>Ja, det kan jeg gjerne sige, – her er vel Ingen
+<lb/>inde, – for du er en brav <del>g</del>Gut og din Fader var al-
+<lb/>tid rundhaandet <app type="alteration">
+                     <lem>
+                        <add place="offline">med al<unclear reason="writing">lhaande</unclear> Gaver og god Skjænk til</add>
+                     </lem>
+                     <rdg>
+                        <del>mod</del>
+                     </rdg>
+                  </app> Klostret; <stage>(drikker)</stage> seer
+<lb/>du, Alf var den ældste Søn, han var en stille
+<lb/>from Sjæl, medens Bengt var vild og hidsig, ret
+<lb/>ligesom Bjørn; Alf skulde nu have Gaarden
+<lb/>efter Faderens Død og det kunde <del>Bjørn</del> Bengt da
+<lb/>ikke finde sig i, for han var nu et Verdens
+<lb/>
+                  <del>
+                     <gap/>
+                  </del>Barn, og saa satte han altid Ondt i Faderen
+<lb/>imod Alf – –</p>
+            </sp>
+            <lb/>
+            <sp who="#EINAR">
+               <speaker>
+                  <pb n="217"/>Einar</speaker>
+               <lb/>
+               <p>Men det var nok især da Alf giftede sig –</p>
+            </sp>
+            <lb/>
+            <sp who="#MOGENS">
+               <speaker>Mogens</speaker>
+               <lb/>
+               <p>Ja, netop da, – Faderen var imod Giftermaalet
+<lb/>men Alf vilde have sin Villie dengang, og da
+<lb/>han efter Byllupet traadte ind til Faderen
+<lb/>saa lyste han sin Forbandelse over ham og
+<lb/>svor at han aldrig vilde see ham mere, –
+<lb/>det kan da ikke nægtes at det var Beng<unclear reason="writing">ts</unclear> –
+<lb/>Skyld, – Gud forlade ham –</p>
+            </sp>
+            <lb/>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <lb/>
+               <p>Men hvor blev der af Alf –</p>
+            </sp>
+            <lb/>
+            <sp who="#MOGENS">
+               <speaker>Mogens.</speaker>
+               <lb/>
+               <p>Det veed ingen, <del>æ</del>Ægtefolkene var og blev borte,
+<lb/>Folk i Bygden fortælle at Haugafolket tog dem
+<lb/>men det er nok rimeligt at han tog op
+<lb/>til en Plads han havde oppe i Fjeldmarken, men
+<lb/>saa kom Svartedøden og bortrev alle Menne-
+<lb/>sker deroppe, og ingen tør sætte sin Fod <retrace place="inline">der</retrace>
+                  <lb/>siden. –</p>
+            </sp>
+            <lb/>
+            <sp who="#EINAR">
+               <speaker>
+                  <pb n="218"/>Einar</speaker>
+               <lb/>
+               <p>Ja, det har jeg hørt, –</p>
+            </sp>
+            <lb/>
+            <sp who="#MOGENS">
+               <speaker>Mogens.</speaker>
+               <lb/>
+               <p>Men siden den Tid har det ikke været godt paa Bjer-
+<lb/>kehoug, – den Gamle døde nu snart efter, og Bengt
+<lb/>vil ikke lade sig mærke med noget, – men Erindrin-
+<lb/>gen om Alf den nager ham, det skjønner jeg
+<lb/>nok; en mægtig Mand er han da, – og endnu mægtigere
+<lb/>vil nu Bjørn blive, dersom det bliver noget af mellem
+<lb/>ham og Mereta.</p>
+            </sp>
+            <lb/>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <lb/>
+               <p>Mereta, – tænker Bjørn paa – –</p>
+            </sp>
+            <lb/>
+            <sp who="#MOGENS">
+               <speaker>Mogens</speaker>
+               <lb/>
+               <p>Na, det ved jeg ikke, men hans Fader tænker paa det –</p>
+            </sp>
+            <lb/>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <stage>halvt afsides</stage>
+               <lb/>
+               <p>Ha, saa forstaar jeg hvorfor han gav mig Afslag –</p>
+            </sp>
+            <lb/>
+            <sp who="#MOGENS">
+               <speaker>Mogens</speaker>
+               <lb/>
+               <p>Hvad siger I? – Tys, der kommer han nok! <stage>(reiser sig.)</stage>
+               </p>
+            </sp>
+            <lb/>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <lb/>
+               <p>Saa vil jeg gaa. – <stage>(gaar ud til Venstre idet <del>Bjørn</del> Bengt træ-
+<lb/>
+                     <pb n="219"/>der ind fra Baggrunden)</stage>
+               </p>
+            </sp>
+            <lb/>
+            <sp who="#BENGT">
+               <speaker>Bengt.</speaker>
+               <lb/>
+               <p>Nu, Herr Mogens! er I der; – I bringer vel Papirerne
+<lb/>med.</p>
+            </sp>
+            <lb/>
+            <sp who="#MOGENS">
+               <speaker>Mogens</speaker>
+               <lb/>
+               <p>Her er de allesammen.</p>
+            </sp>
+            <lb/>
+            <sp who="#BENGT">
+               <speaker>Bengt</speaker>
+               <lb/>
+               <p>Og der er ingen anden Arving end Mereta?</p>
+            </sp>
+            <lb/>
+            <sp who="#MOGENS">
+               <speaker>Mogens.</speaker>
+               <lb/>
+               <p>Ingen; det er en Lykke for hende, for hendes salig
+<lb/>Faders Ei<del>
+                     <gap/>
+                  </del>endom var da ikke stor –</p>
+            </sp>
+            <lb/>
+            <sp who="#BENGT">
+               <speaker>Bengt</speaker>
+               <lb/>
+               <p>Nei, I har Ret!</p>
+            </sp>
+            <lb/>
+            <sp who="#MOGENS">
+               <speaker>Mogens</speaker>
+               <lb/>
+               <p>Og nu er d<del>a</del>er da ingenting iveien for Bryllupet kan
+<lb/>jeg tænke –</p>
+            </sp>
+            <lb/>
+            <sp who="#BENGT">
+               <speaker>Bengt</speaker>
+               <stage>opfarende</stage>
+               <lb/>
+               <p>Hvad, Præst! mener I at det er derfor jeg har holdt det
+<lb/>hemmeligt, troer I at Mosterens Arv – –</p>
+            </sp>
+            <lb/>
+            <sp who="#MOGENS">
+               <speaker>Mogens.</speaker>
+               <lb/>
+               <p>Det være langtfra, – men Folk i Bygden –</p>
+            </sp>
+            <lb/>
+            <sp who="#BENGT">
+               <speaker>
+                  <pb n="220"/>Bengt.</speaker>
+               <lb/>
+               <p>Det bryder jeg mig ikke om, «lige fremad», det er
+<lb/>mit Valgsprog; – Bjørn skal ægte hende, – jeg har holdt
+<lb/>det hemmeligt fordi det var min Villie, nu skal det
+<lb/>blive bekjendt fordi det er min Villie – –</p>
+            </sp>
+            <lb/>
+            <sp who="#MOGENS">
+               <speaker>Mogens</speaker>
+               <lb/>
+               <p>Men hverken Bjørn eller Mereta ved noget om det –</p>
+            </sp>
+            <lb/>
+            <sp who="#BENGT">
+               <speaker>Bengt</speaker>
+               <lb/>
+               <p>Hvad behøves det! Er ikke Bjørn min Søn, har jeg
+<lb/>ikke været <del>
+                     <gap/>
+                  </del>hendes Formynder, – skulde han ligesom
+<lb/>Alf, – <stage>(med pludselig forandret Stemme.)</stage> Gud være med ham,
+<lb/>jeg har betalt Sjælemesser for ham, – jeg har givet <del>
+                     <gap/>
+                  </del>Alter-
+<lb/>lys og anden Skjænk til Klostret – –</p>
+            </sp>
+            <lb/>
+            <sp who="#MOGENS">
+               <speaker>Mogens</speaker>
+               <lb/>
+               <p>Det har I gjort som en god Christen – –</p>
+            </sp>
+            <lb/>
+            <sp who="#BENGT">
+               <speaker>Bengt</speaker>
+               <lb/>
+               <p>Og alligevel, – men lad os ikke tale mere herom, –</p>
+               <lb/>
+               <stage>(gaar hen til Arnen.)</stage>
+               <lb/>
+               <p>Naa, hvad er I saa lystige over. –</p>
+            </sp>
+            <lb/>
+            <sp who="#EINAR">
+               <speaker>
+                  <app type="alteration">
+                     <lem>
+                        <add place="offline">
+                           <hi>Einar</hi>
+                        </add>
+                     </lem>
+                     <rdg>
+                        <del>
+                           <hi>Mereta</hi>
+                        </del>
+                     </rdg>
+                  </app>
+               </speaker>
+               <lb/>
+               <lg type="stikisk-femfotsjambe-blankvers"
+                   met="bi '10|'11"
+                   rhyme="x|X"
+                   part="I">
+                  <l rhyme="x">Aa vi fortælle Sagn og Eventyr.</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>
+                  <pb n="221"/>Mereta</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Kom, sæt dig Fader, skal du høre –</l>
+               </lg>
+            </sp>
+            <sp who="#BENGT">
+               <speaker>Bengt</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Nei,</l>
+                  <lb/>
+                  <l rhyme="x">jeg kan ei lide denne gamle Skik</l>
+                  <lb/>
+                  <l real="12" rhyme="x">man sover saa uroligt, drømmer slemt deraf</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Men Bedstefa’r fortalte jo saa tit</l>
+                  <lb/>
+                  <l part="I">og han sov altid roligt</l>
+               </lg>
+            </sp>
+            <sp who="#BENGT">
+               <speaker>Bengt</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Gjorde han? –</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">O, kan du mindes, Einar! dengang vi</l>
+                  <lb/>
+                  <l rhyme="X">var Børn, saa sad vi her om Vinterkvællen</l>
+                  <lb/>
+                  <l rhyme="x">jeg sad paa gamle Bedstefaders Knæ –</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Og saa fortalte han om Sangerknud</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">O ja, om Sangerknud, hvor det var morsomt</l>
+               </lg>
+            </sp>
+            <sp who="#MOGENS">
+               <speaker>Mogens</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Hvem er da sangerknud?</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>
+                  <pb n="222"/>Mereta</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">En Spellimand</l>
+                  <lb/>
+                  <l rhyme="X">som vandrer om fra Bygd til Bygd og synger!</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Her kom han aldrig –</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Ikke det jeg veed,</l>
+                  <lb/>
+                  <l part="I">jeg saa ham aldrig –</l>
+               </lg>
+            </sp>
+            <sp who="#BENGT">
+               <speaker>Bengt</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Nei det troer jeg gjerne</l>
+                  <lb/>
+                  <l rhyme="x">det Hele er jo kun et Eventyr –</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Nei vist, han lever endnu, – spørg kun Paal –</l>
+               </lg>
+            </sp>
+            <sp who="#BENGT">
+               <speaker>Bengt</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Ja, Paal, – han har jo seet Huldren ogsaa –</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Men du har selv fortalt om Sangerknud –</l>
+               </lg>
+            </sp>
+            <sp who="#BENGT">
+               <speaker>Bengt</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Ja dengang – –</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>
+                  <pb n="223"/>Mereta</speaker>
+               <lb/>
+               <lg part="F">
+                  <l part="F" rhyme="x">Kan du ikke huske det</l>
+                  <lb/>
+                  <l rhyme="X">naar jeg og Bjørn og Einar sad omkring dig –</l>
+                  <lb/>
+                  <l rhyme="X">og naar du saa fortalte, blev du munter,</l>
+                  <lb/>
+                  <l part="I">aa, Fa’er fortæl –</l>
+               </lg>
+            </sp>
+            <lb/>
+            <sp who="#BENGT">
+               <speaker>Bengt</speaker>
+               <stage>klapper hende paa Kinden</stage>
+               <lb/>
+               <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X">
+                  <l part="F" rhyme="X">Na, ja, det kan jeg gjerne.</l>
+               </lg>
+               <lb/>
+               <stage>(de sætte sig.)</stage>
+               <lb/>
+               <lg type="strofisk-strofegruppe-folkevisevers"
+                   met="bi+ ('8 '7)² ('8 '7)²"
+                   rhyme="(a B)² (c D)²">
+                  <lg type="strofe">
+                     <l met="∪-∪∪-∪∪-∪-" rhyme="a">Der vandred en Spillemand viden om,</l>
+                     <lb/>
+                     <l met="∪∪-∪∪-∪-∪" rhyme="B">gjennem Skog og i dybe Dale,</l>
+                     <lb/>
+                     <l met="∪-∪-∪∪-∪- &amp; ∪-∪∪-∪-∪-" rhyme="a">men hvorsomhelst han tilhuse kom,</l>
+                     <lb/>
+                     <l met="∪-∪∪-∪∪-∪" rhyme="B">man lyttede taus til hans Tale; –</l>
+                     <lb/>
+                     <l met="∪-∪∪-∪∪-∪-" rhyme="c">der fór fra hans Strenge en deilig Lyd,</l>
+                     <lb/>
+                     <l met="∪-∪-∪∪-∪ &amp; ∪-∪∪-∪-∪" rhyme="D">som Huldreslot det mon klinge,</l>
+                     <lb/>
+                     <l met="∪-∪-∪∪-∪-" rhyme="c">og Fuglen kviddred derved af Fryd</l>
+                     <lb/>
+                     <l met="∪-∪∪-∪∪-∪" rhyme="D">og svang sig i lystige Ringe.</l>
+                  </lg>
+                  <lb/>
+                  <lg type="strofe">
+                     <l met="∪-∪-∪-∪∪- &amp; ∪-∪-∪∪-∪-" rhyme="a">Naar Brudehuset gjenlød af Støi</l>
+                     <lb/>
+                     <l met="∪-∪∪-∪-∪" rhyme="B">taug ofte <del>g</del>den glade Klynge,</l>
+                     <lb/>
+                     <l met="∪-∪∪-∪∪-∪-" rhyme="a">thi En stod imellem dem rank og høi</l>
+                     <lb/>
+                     <l met="∪-∪∪-∪-∪" rhyme="B">og redte sig til at synge;</l>
+                     <lb/>
+                     <l met="∪-∪∪-∪-∪∪-" rhyme="c">
+                        <pb n="224"/>– men tit sad han og<del>saa</del> ved A<del>
+                           <gap/>
+                        </del>rnen og sang</l>
+                     <lb/>
+                     <l met="∪-∪∪-∪∪-∪" rhyme="D">og stilled den tungeste Kvide</l>
+                     <lb/>
+                     <l met="∪-∪∪-∪∪-∪∪-" rhyme="c">ei Fjeld eller Fjord kunde standse hans Gang,</l>
+                     <lb/>
+                     <l met="∪-∪∪-∪∪-∪" rhyme="D">han vanked om Lande saa vide!</l>
+                  </lg>
+               </lg>
+            </sp>
+            <lb/>
+            <sp who="#KNUD">
+               <speaker>Knud</speaker>
+               <stage>træder langsomt ind</stage>
+               <lb/>
+               <lg type="stikisk-knittel" met="bi++ '9 '9" rhyme="A A">
+                  <l met="∪-∪∪∪-∪∪∪-∪-∪" rhyme="A">Guds Fred med eder alle, baade Mand og Kvinde.</l>
+                  <lb/>
+                  <l met="∪-∪∪-∪∪-∪∪∪-∪" rhyme="A">Guds Fred med enhver som i Stuen er at finde!</l>
+               </lg>
+            </sp>
+            <lb/>
+            <sp who="#BENGT">
+               <speaker>Bengt</speaker>
+               <lb/>
+               <lg type="strofe" part="I">
+                  <l met="∪-∪∪-∪-∪∪∪-" rhyme="x">Guds Fred, hvo er du der kommer hid saa seent</l>
+                  <lb/>
+                  <l met="∪-∪-∪∪-∪" rhyme="A">du er vel langveis <app type="alteration">
+                        <lem>
+                           <add place="offline">at fare</add>
+                        </lem>
+                        <rdg>
+                           <del>fra, kom sæt dig ned</del>
+                        </rdg>
+                     </app>!</l>
+               </lg>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>Knud</speaker>
+               <lb/>
+               <lg type="strofe" part="F">
+                  <l met="∪-∪-∪∪-∪-" rhyme="x">Mit Navn er Knud og jeg har mit Tag</l>
+                  <lb/>
+                  <l met="∪∪-∪∪-∪∪-∪" rhyme="A">under Busken som flygtige Hare.</l>
+               </lg>
+               <lb/>
+               <lg type="strofe">
+                  <l met="∪-∪∪-∪∪-∪-" rhyme="x">Min Hal er den kjølige Furuskog</l>
+                  <lb/>
+                  <l met="∪-∪∪-∪-∪" rhyme="A">der føler jeg mig som hjemme</l>
+                  <lb/>
+                  <l met="∪-∪∪-∪-∪∪-" rhyme="x">der synger jeg glad og spiller dertil</l>
+                  <lb/>
+                  <l met="∪-∪-∪∪-∪" rhyme="A">og Fuglen kjender min Slemme.</l>
+               </lg>
+               <lb/>
+               <lg type="strofe">
+                  <l met="∪-∪∪-∪∪-∪-" rhyme="x">Men ofte saa driver en lønlig Magt</l>
+                  <lb/>
+                  <l met="∪-∪∪-∪-∪" rhyme="A">mig bort fra de <del>
+                        <unclear>eg</unclear>
+                     </del>fagre Lunde,</l>
+                  <lb/>
+                  <l met="∪-∪∪-∪∪-∪-" rhyme="x">jeg hviler da stundom ved lave Strand,</l>
+                  <lb/>
+                  <l met="∪-∪∪-∪∪-∪" rhyme="A">
+                     <pb n="225"/>jeg stundom i Dalen mon blunde.</l>
+               </lg>
+               <lb/>
+               <lg type="strofe">
+                  <l met="∪-∪∪-∪-∪-" rhyme="x">Jeg standser min Gang ved Bondens Gaard</l>
+                  <lb/>
+                  <l met="∪-∪-∪∪-∪" rhyme="A">og rører ved mine Strenge,</l>
+                  <lb/>
+                  <l met="∪-∪∪-∪∪-∪∪-" rhyme="x">jeg synger min Vise, og siger Farvel</l>
+                  <lb/>
+                  <l met="∪-∪∪-∪∪-∪" rhyme="A">og ingensteds dvæler jeg længe!</l>
+               </lg>
+            </sp>
+            <lb/>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <lb/>
+               <lg type="strofe" part="I">
+                  <l met="∪-∪∪∪-∪-∪-" rhyme="a">Saa vandrer du da om i Frost og Kuld</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta</speaker>
+               <lb/>
+               <lg part="M">
+                  <l met="∪-∪∪∪-∪∪∪-∪" rhyme="B">Den stakkels Gamle der maa saadant trænge!</l>
+               </lg>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>Knud</speaker>
+               <lb/>
+               <lg part="F">
+                  <l met="∪-∪∪∪-∪-∪-" rhyme="a">Jeg trænger ikke Sølv, ei hel<retrace place="inline">l</retrace>er Guld</l>
+                  <lb/>
+                  <l met="∪-∪∪∪-∪∪∪-∪" rhyme="B">end aldrig sang jeg nogentid for Penge</l>
+               </lg>
+            </sp>
+            <lb/>
+            <sp who="#BENGT">
+               <speaker>Bengt</speaker>
+               <lb/>
+               <lg type="stikisk-femfotsjambe-blankvers"
+                   met="bi '10|'11"
+                   rhyme="x|X"
+                   part="I">
+                  <l rhyme="X">Saa sæt dig dog og hvil dig der ved Aaren –</l>
+               </lg>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>Knud</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Jeg takker eder –</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Jeg vil bringe dig</l>
+                  <lb/>
+                  <l rhyme="X">
+                     <del>
+                        <gap/>
+                     </del>en kraftig Lædskedrik, det skjænker Kræfter.</l>
+               </lg>
+               <lb/>
+               <stage>(bringer ham Mjødhornet.)</stage>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>
+                  <pb n="226"/>Knud</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Tak, Tak, mit vene Barn –</l>
+               </lg>
+               <stage>(drikker)</stage>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Og saa maa du</l>
+                  <lb/>
+                  <l rhyme="X">dog synge os en lystig Vise, Gamle!</l>
+               </lg>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>Knud</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">
+                     <del>d</del>Det er jeg rede til naar det forlanges –</l>
+               </lg>
+            </sp>
+            <sp who="#BENGT">
+               <speaker>Bengt</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Men ikke disse gamle Eventyr</l>
+                  <lb/>
+                  <l part="I">om Haugafolk og sligt –</l>
+               </lg>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>Knud</speaker>
+               <stage>reiser sig</stage>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Du troer da ei</l>
+                  <lb/>
+                  <l part="I">paa vore Sagn –</l>
+               </lg>
+            </sp>
+            <sp who="#BENGT">
+               <speaker>Bengt</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Sligt er jo kun for Børn</l>
+                  <lb/>
+                  <l part="I">og Kvinder –</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">O nei vist, fortæl og syng!</l>
+               </lg>
+            </sp>
+            <sp who="#BENGT">
+               <speaker>Bengt</speaker>
+               <stage>stolt</stage>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Ja vil du synge, kom da med en Vise</l>
+                  <lb/>
+                  <l rhyme="x">om mine gjæve Fædre, der er nok</l>
+                  <lb/>
+                  <l part="I">
+                     <pb n="227"/>af Kvad om dem –</l>
+               </lg>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>Knud.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Ja, jeg kan ogsaa Een</l>
+                  <lb/>
+                  <l rhyme="x">om eders andre Slægtninge, – maaskee</l>
+                  <lb/>
+                  <l rhyme="X">at I <del>
+                        <gap/>
+                     </del>vil høre den, – om Alf og Ingierd!</l>
+               </lg>
+            </sp>
+            <sp who="#BENGT">
+               <speaker>Bengt</speaker>
+               <stage>farer tilbage</stage>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Fordømte, Ti! ha, vil du haane mig!</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">O, Fader bliv ei v<del>
+                        <unclear>er</unclear>
+                     </del>red –</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Hvad fattes eder?</l>
+               </lg>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>Knud</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Det er jer ærligt ment –</l>
+               </lg>
+            </sp>
+            <sp who="#MOGENS">
+               <speaker>Mogens</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Holdt inde, Gamle!</l>
+               </lg>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>Knud</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Det baader eder vel at høre den! –</l>
+               </lg>
+            </sp>
+            <sp who="#BENGT">
+               <speaker>Bengt</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Hvis du ei havde drukket af mit Horn</l>
+                  <lb/>
+                  <l rhyme="X">og hvilet ved mit Arnested saa skulde</l>
+                  <lb/>
+                  <l rhyme="x">jeg jaget dig fra Gaarden som en Hund!</l>
+               </lg>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>
+                  <pb n="228"/>Knud</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Nu, saa er her ei mere Sted for mig,</l>
+                  <lb/>
+                  <l rhyme="x">men hør mig roligt, Bengt af Bjerkehoug!</l>
+                  <lb/>
+                  <l rhyme="x">lad mig kun synge, det vil bringe Held</l>
+                  <lb/>
+                  <l rhyme="x">for eder og for eders hele Slægt</l>
+               </lg>
+            </sp>
+            <sp who="#MOGENS">
+               <speaker>Mogens</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Jeg troer han er ifra <del>f</del>Forstanden –</l>
+               </lg>
+            </sp>
+            <sp who="#BENGT">
+               <speaker>Bengt</speaker>
+               <stage>til Knud</stage>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Ti,</l>
+                  <lb/>
+                  <l rhyme="X">jeg gider ikke høre dine Viser –</l>
+                  <lb/>
+                  <l rhyme="x">hvis du har Noget at berette mig</l>
+                  <lb/>
+                  <l part="I">saa siig det frem i Korthed.</l>
+               </lg>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>Knud</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Nei, min Magt</l>
+                  <lb/>
+                  <l rhyme="x">er lagt i mine Strænge; kun i Sang</l>
+                  <lb/>
+                  <l rhyme="x">og Eventyr jeg virker, – ellers ei –</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Der kommer Bjørn tilbage!</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Der er <del>
+                        <gap/>
+                     </del>jo</l>
+                  <lb/>
+                  <l part="I">
+                     <pb n="229"/>den gamle Spillemand!</l>
+               </lg>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>Knud</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="Y">
+                     <del>
+                        <gap/>
+                     </del>
+                  </l>
+                  <l part="F" rhyme="x">Ha, er det dig,</l>
+                  <lb/>
+                  <l rhyme="x">du hører hjemme her paa denne Gaard, –</l>
+                  <lb/>
+                  <l part="I">her er ei godt at være –</l>
+               </lg>
+            </sp>
+            <sp who="#BENGT">
+               <speaker>Bengt</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Kjender du</l>
+                  <lb/>
+                  <l part="I">den Gamle, –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">
+                     <del>
+                        <gap/>
+                     </del>Ja, jeg mødte ham paa Fjeldet.</l>
+               </lg>
+            </sp>
+            <sp who="#BENGT">
+               <speaker>Bengt</speaker>
+               <stage>(mistroisk)</stage>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Har du da maaskee skikket ham herned?</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Han sagde selv han vilde gjæste dig.</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Vær ikke vred –</l>
+               </lg>
+            </sp>
+            <sp who="#BENGT">
+               <speaker>Bengt</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Ti, Pige – lad mig raade, –</l>
+               </lg>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>
+                  <pb n="230"/>Knud</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Jeg gaar, thi her er ikke godt at være</l>
+                  <lb/>
+                  <l rhyme="X">vee, vee det Huus hvor Sangen ei maa høres,</l>
+                  <lb/>
+                  <l rhyme="x">der har ei Lykken hjemme, – nu Godkvæl!</l>
+                  <lb/>
+                  <l rhyme="X">I skal nok endnu engang høre fra mig! –</l>
+               </lg>
+               <lb/>
+               <stage>(gaa<unclear reason="writing">er</unclear>)</stage>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <stage>forskrækket</stage>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">For Herrens Skyld! I jaged ham vel ei</l>
+                  <lb/>
+                  <l part="I">afgaarde Husbond? –</l>
+               </lg>
+            </sp>
+            <sp who="#BENGT">
+               <speaker>Bengt</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">
+                     <del>Jo</del>
+                     <del>, h</del>Hvorfor ikke det?</l>
+                  <lb/>
+                  <l part="I">jeg gad ei høre ham. –</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Nu ved St: Olaf!</l>
+                  <lb/>
+                  <l rhyme="X">der har I gjordt et herligt Stykke Arbeid –</l>
+               </lg>
+            </sp>
+            <sp who="#BENGT">
+               <speaker>Bengt</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Hvad mener du?</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="M">Hvem var han?</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Saa I ei</l>
+                  <lb/>
+                  <l part="I">
+                     <pb n="231"/>de gyldne Strenge paa hans Gige?</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Jo!</l>
+                  <lb/>
+                  <l part="I">saa tykkes mig!</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Ja, – det var Sangerknud!</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Han! – Sangerknud!</l>
+               </lg>
+            </sp>
+            <sp who="#BENGT">
+               <speaker>Bengt</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Hvad staar du der og snakker!</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Jo, som jeg siger!</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Veed du det da vist?</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Ja vist, min gamle Fa’er <del>
+                        <gap/>
+                     </del>har tit fortalt</l>
+                  <lb/>
+                  <l rhyme="X">om ham; – han bringer Lykke hvor han kommer</l>
+                  <lb/>
+                  <l rhyme="x">og hvor man lytter til hans Eventyr;</l>
+                  <lb/>
+                  <l rhyme="x">men er <del>
+                        <gap/>
+                     </del>man streng, og viser man ham bort</l>
+                  <lb/>
+                  <l rhyme="X">saa bringer det kun Uheld over Gaarden! –</l>
+               </lg>
+            </sp>
+            <sp who="#BENGT">
+               <speaker>
+                  <pb n="232"/>Bengt</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Nu det har vi jo sagtens nok af <del>
+                        <gap/>
+                     </del>før, –</l>
+                  <lb/>
+                  <l rhyme="x">men det er seent, det er paa Tid I gaa</l>
+                  <lb/>
+                  <stage>(Mereta og Pigerne gaa)</stage>
+                  <lb/>
+                  <l rhyme="X">til Hvile; vil I følge mig Herr Mogens!</l>
+                  <lb/>
+                  <l rhyme="x">jeg har dog lidt at tale med jer om. –</l>
+               </lg>
+            </sp>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Saa vil jeg ogsaa lægge mig til Hvile, –</l>
+                  <lb/>
+                  <l rhyme="x">men Sangerknud! – Gud hved <del>
+                        <gap/>
+                     </del>hvad der vil skee! –
+<lb/>
+                     <stage>(gaa<unclear reason="writing">r</unclear>)</stage>
+                  </l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <stage>(stiller sig foran ham)</stage>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Nu Bjørn! hvad fattes dig?</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Jeg veed ei selv!</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Har noget Uheld truffet dig idag?</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Jeg veed ei enten Uheld eller Held; –</l>
+                  <lb/>
+                  <stage>
+                     <pb n="233"/>(reiser sig.)</stage>
+                  <lb/>
+                  <l rhyme="x">men Noget er det, – hør jeg vil betro</l>
+                  <lb/>
+                  <l rhyme="x">det til dig – høit imellem Fjeldene</l>
+                  <lb/>
+                  <l rhyme="x">hen imod Justedalen traf jeg paa</l>
+                  <lb/>
+                  <l part="I">en ung og fager Kvinde –</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <stage>leende</stage>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Ikke andet,</l>
+                  <lb/>
+                  <l rhyme="x">det var da sagtens intet Uheld, Bjørn!</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Nei hør mig kun, det var i Ødemarken</l>
+                  <lb/>
+                  <l rhyme="x">hvor ingen Sæterjente vover sig –</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Saa har hun sagtens faret vild deroppe –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Nei, nei, – hun ligned ikke andre Piger –</l>
+                  <lb/>
+                  <l rhyme="x">hun stod imellem Træerne og sang,</l>
+                  <lb/>
+                  <l part="I">og saa forsvandt hun pludselig –</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar.</speaker>
+               <stage>mumlend<unclear reason="writing">e</unclear>
+               </stage>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Det var</l>
+                  <lb/>
+                  <l part="I">vel aldrig Huldren, –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>
+                  <pb n="234"/>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Flere Gange har</l>
+                  <lb/>
+                  <l rhyme="X">jeg hørt hvordan hun blæste der paa Luren, –</l>
+                  <lb/>
+                  <l rhyme="X">men nu, da jeg har seet hende; – Einar,</l>
+                  <lb/>
+                  <l part="I">jeg maa derop igjen –</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Jeg raader dig</l>
+                  <lb/>
+                  <l rhyme="x">at være lidt forsigtig, vogt dig vel,</l>
+                  <lb/>
+                  <l rhyme="x">forsee dig ei paa Sæterjenterne –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn –</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Jeg siger jo –</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Nu nu, paa Huldren da!</l>
+                  <lb/>
+                  <l rhyme="x">Men hør mig Bjørn! det er alvorligt meent, –</l>
+                  <lb/>
+                  <l rhyme="x">din Fader har nok andre Hensigter,</l>
+                  <lb/>
+                  <l rhyme="x">han saae nok gjerne at der blev et Par</l>
+                  <lb/>
+                  <l part="I">af dig og af Mereta –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>B<del>engt</del>jørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">O, umuligt,</l>
+                  <lb/>
+                  <l rhyme="x">det har han aldrig talt om; – hun og jeg</l>
+                  <lb/>
+                  <l rhyme="X">betragte jo hinanden blot som Søskend.</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>
+                  <pb n="235"/>Einar</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Men hør mig Bjørn!</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Nei, nei, det nytter ei,</l>
+                  <lb/>
+                  <l rhyme="X">det gaar ei an, jeg tænker kun paa hende</l>
+                  <lb/>
+                  <l part="I">jeg saa idag –</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Det er jo Galskab, Bjørn!</l>
+                  <lb/>
+                  <l real="12" rhyme="x">jeg skulde næsten tro at det er Kogleri</l>
+                  <lb/>
+                  <l rhyme="x">og Trolddomskunster som har hildet dig!</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn.</speaker>
+               <lb/>
+               <lg part="F">
+                  <l rhyme="x">Ja lad det være som det vil, – jeg kan</l>
+                  <lb/>
+                  <l rhyme="X">ei stride længer mod, jeg har jo kjæmpet,</l>
+                  <lb/>
+                  <l rhyme="X">det nytter ei, ifra den første Gange</l>
+                  <lb/>
+                  <l rhyme="X">jeg hørte Luren tænker jeg paa hende</l>
+                  <lb/>
+                  <l rhyme="X">jeg har jo bedet Gud og hellig Olaf</l>
+                  <lb/>
+                  <l rhyme="x">at styrke mig, men nei det hjælper ei</l>
+                  <lb/>
+                  <l rhyme="X">jeg maa afsted derop at finde hende! –</l>
+               </lg>
+            </sp>
+            <lb/>
+         </div>
+         <div type="act" n="2">
+            <lb/>
+            <head>
+               <pb n="236"/>
+               <hi>Anden Act</hi>
+            </head>
+            <lb/>
+            <stage>En vild <del>
+                  <gap/>
+               </del>men skjøn Egn i Justedalen; Træer
+<lb/>
+               <del>
+                  <gap/>
+               </del>og Fjeld<del>
+                  <gap/>
+               </del>e i Baggr: og paa Siderne, til Venstre en lille
+<lb/>Bjerghule der sk<add place="inline">j</add>ules af Grene og Blade. –</stage>
+            <lb/>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <stage>kommer</stage>
+               <lb/>
+               <lg type="stikisk-femfotsjambe-blankvers"
+                   met="bi '10|'11"
+                   rhyme="x|X"
+                   part="I">
+                  <l rhyme="x">Snart er det Aften, – jeg har vanket om</l>
+                  <lb/>
+                  <l rhyme="X">den hele Dag igjennem Skog og Lier</l>
+                  <lb/>
+                  <l rhyme="x">jeg fulgte Renens Spor i vildsom Ur</l>
+                  <lb/>
+                  <l rhyme="X">indunder Granens mørke Tag paa Fjeldet.</l>
+                  <lb/>
+                  <l rhyme="x">Her er da Dalen; denne fagre Dal,</l>
+                  <lb/>
+                  <l rhyme="X">der ligger lukt af steile Klipperygge.</l>
+                  <lb/>
+                  <l rhyme="x">Naar Skytten nærmer sig en skjelden Gang</l>
+                  <lb/>
+                  <l rhyme="X">den anden Side af de vilde Fjelde</l>
+                  <lb/>
+                  <l rhyme="x">da tror han mindst at finde mellem dem</l>
+                  <lb/>
+                  <l rhyme="X">en fager Dal med Blomster og med <del>
+                        <unclear>l</unclear>
+                     </del>Lunde.</l>
+                  <lb/>
+                  <l rhyme="x">Deroppe stod jeg høit paa Aasens Top</l>
+                  <lb/>
+                  <l rhyme="X">dengang jeg hørte først de klare Toner;</l>
+                  <lb/>
+                  <l rhyme="x">hvad skal jeg tro, man siger jo at naar</l>
+                  <lb/>
+                  <l rhyme="X">en Ungersvend først hører Huldreslotten,</l>
+                  <lb/>
+                  <l rhyme="x">da standser han og lytter taus dertil</l>
+                  <lb/>
+                  <l rhyme="X">
+                     <pb n="237"/>og siden kan han aldrig Spillet glemme.</l>
+                  <lb/>
+                  <stage>(Luurtoner høres.)</stage>
+                  <lb/>
+                  <l rhyme="x">Hvad er det! Ha, ja det er hendes Luur, –</l>
+                  <lb/>
+                  <l rhyme="X">der seer jeg hende komme gjennem Skoven!</l>
+               </lg>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>Alfhild.</speaker>
+               <stage>kommer.</stage>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Idag er Alfhild ikke glad som før,</l>
+                  <lb/>
+                  <l rhyme="X">han var der ei, han kommer ikke mere, –</l>
+                  <lb/>
+                  <stage>(bliver ham vaer)</stage>
+                  <lb/>
+                  <l rhyme="x">O, jo, der er han, – <stage>(iler imod ham)</stage> nu maa du ei meer</l>
+                  <lb/>
+                  <l part="I">saasnart forlade Alfhild, –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <stage>overrasket</stage>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">
+                     <del>
+                        <gap/>
+                     </del>Fagre Pige!</l>
+                  <lb/>
+                  <l part="I">hvo er du? –</l>
+               </lg>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>Alfhild</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Spørger du hvem Alfhild er, –</l>
+                  <lb/>
+                  <l rhyme="X">det veed du jo, – men her, her maa du blive,</l>
+                  <lb/>
+                  <l rhyme="x">du maa ei gaa saa hastigt som i Nat!</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <stage>forundret</stage>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Inat! hvad mener du? <seg type="transposition" part="I">
+                        <del hand="h2">
+                           <seg subtype="no">2</seg>
+                        </del>
+                        <seg subtype="txt">har</seg>
+                     </seg>
+                     <seg type="transposition" part="F">
+                        <del hand="h2">
+                           <seg subtype="no">1</seg>
+                        </del>
+                        <seg subtype="txt">jeg</seg>
+                     </seg>
+                     <del>
+                        <unclear>da</unclear>
+                     </del>ei været</l>
+                  <lb/>
+                  <l part="I">i Nat paa Fjeldet –</l>
+               </lg>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>
+                  <pb n="238"/>Alfhild.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">O, du gik saa s<del>
+                        <unclear>a</unclear>
+                     </del>nart, –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Hvad mener du?</l>
+               </lg>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>Alfhild.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Hør nu skal jeg fortælle;</l>
+                  <lb/>
+                  <l rhyme="x">men kom og sid i Græsset her hos mig.</l>
+                  <lb/>
+                  <stage>(de sætte sig under
+<lb/>et Træ i Forgrunden)</stage>
+                  <lb/>
+                  <l rhyme="X">Det var saa underligt; men hør du kjender</l>
+                  <lb/>
+                  <l part="I">vel Alferne?</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="M">
+                     <del>H</del>Nei, nei –</l>
+               </lg>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>Alfhild</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">
+                     <del>Hvad <gap/>
+                     </del> Du kjender ei</l>
+                  <lb/>
+                  <l rhyme="X">de smaa, de gode Alfer, de som lege</l>
+                  <lb/>
+                  <l rhyme="x">imellem Blomsterne i Skoven naar</l>
+                  <lb/>
+                  <l rhyme="X">det store Øie lukker sig bag Aasen.</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Nu ja, det veed jeg, men fortæl, fortæl!</l>
+               </lg>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>
+                  <pb n="239"/>Alfhild –</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Naar det er mørkt og Alfhild lukker Øiet</l>
+                  <lb/>
+                  <l rhyme="X">da komme de og lege <del>
+                        <gap/>
+                     </del>rundt om hende</l>
+                  <lb/>
+                  <l rhyme="x">de bringe Blomster med, – da er hun glad, –</l>
+                  <lb/>
+                  <l rhyme="X">de eie alle Blomsterne i Skoven –</l>
+                  <lb/>
+                  <l rhyme="x">men nu i Nat kom Alferne ei hid –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Og hvorfor ei?</l>
+               </lg>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>Alfhild</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Det veed <del>
+                        <unclear>j</unclear>
+                     </del>ei Alfhild heller,</l>
+                  <lb/>
+                  <l rhyme="x">hun tror de frygtede for dig, som hun</l>
+                  <lb/>
+                  <l rhyme="X">dengang hun saa dig første Gang i Lien. –</l>
+                  <lb/>
+                  <l rhyme="x">O, Alfhild tænkte siden kun paa dig,</l>
+                  <lb/>
+                  <l rhyme="X">da kom du hid igjen; vi vandred sammen</l>
+                  <lb/>
+                  <l rhyme="x">igjennem Skoven, – da var Alfhild glad! –</l>
+                  <lb/>
+                  <l rhyme="X">O, men idag var du her ikke mere! –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Du har kun drømt!</l>
+               </lg>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>Alfhild</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Hvad mener du med det!</l>
+                  <lb/>
+                  <l rhyme="X">Men nu maa du ei gaa igjen iaften, –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>
+                  <pb n="240"/>Bjørn.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Jeg maa ei gaa?</l>
+               </lg>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>Alfhild.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Nei, nei du maa ei gaa!</l>
+                  <lb/>
+                  <l rhyme="X">du kjender vel den lille Blomst paa Fjeldet</l>
+                  <lb/>
+                  <l rhyme="x">den <del>lille</del> blaa som <app type="alteration">
+                        <lem>
+                           <add place="offline">voxer <del>
+                                 <gap/>
+                              </del>
+                              <unclear>n</unclear>ær</add>
+                        </lem>
+                        <rdg>
+                           <del>staar</del>
+                        </rdg>
+                     </app> ved Granens Fod, –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Ja vist jeg kjender den –</l>
+               </lg>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>Alfhild</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Om Aftnen kommer</l>
+                  <lb/>
+                  <l rhyme="X">det store Lys fra Aasen der og skinner</l>
+                  <lb/>
+                  <l rhyme="x">ned paa dens Blade, og de blanke Lys</l>
+                  <lb/>
+                  <l rhyme="X">de smaa deroppe allesammen skinne –</l>
+                  <lb/>
+                  <l rhyme="x">– da blier den lille Blomst saa glad, saa glad!</l>
+                  <lb/>
+                  <del>
+                     <l part="Y">men ak, saa gaa de alle bort</l>
+                  </del>
+                  <lb/>
+                  <l rhyme="X">men ak, saa gaa de alle bort med Natten,</l>
+                  <lb/>
+                  <l rhyme="x">og da er Blomsten ikke mere glad,</l>
+                  <lb/>
+                  <l rhyme="X">da lukker den sit lille Blad og græder; –</l>
+                  <lb/>
+                  <stage>(hæftigt idet hun griber hans Haad.)</stage>
+                  <lb/>
+                  <l rhyme="x">
+                     <del>Du</del>O, du maa blive her; thi Alfhild er</l>
+                  <lb/>
+                  <l rhyme="X">
+                     <pb n="241"/>ret som den blaa, den lille Blomst paa Fjeldet! –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Ja ja, jeg bliver, men fortæl mig dog</l>
+                  <lb/>
+                  <l rhyme="X">hvorledes kom du hid, er der da Ingen</l>
+                  <lb/>
+                  <l part="I">som lever her hos dig –</l>
+               </lg>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>Alfhild.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Hvad mener du?</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Har du da ingen Fader eller Moder?</l>
+               </lg>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>Alfhild</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">O jo, men de er ikke meer hos Alfhild!</l>
+                  <lb/>
+                  <l rhyme="x">nu sove de; – de komme ei igjen.</l>
+                  <lb/>
+                  <l rhyme="X">Dengang da Alfhild var en liden Pige</l>
+                  <lb/>
+                  <l rhyme="X">da var hun hos sin Fader og sin Moder</l>
+                  <lb/>
+                  <l rhyme="X">men det er længe, meget længe siden.</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <stage>afsides</stage>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Saa er de sikkert døde, stakkels Barn! –</l>
+               </lg>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>Alfhild.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">
+                     <del>M</del>
+                     <del>in</del>O Moder var saa god, – <del>min</del>
+                     <add place="inline">og</add> Fader ogsaa,</l>
+                  <lb/>
+                  <l part="I">han ligned dig –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>
+                  <pb n="242"/>Bjørn.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Og siden leved du</l>
+                  <lb/>
+                  <l part="I">allene her –</l>
+               </lg>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>Alfhild</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Nei, Alfhild er ei ene</l>
+                  <lb/>
+                  <l rhyme="x">see her er Blomster jo, og Fugle smaa</l>
+                  <lb/>
+                  <l rhyme="X">og Alfhild kjender godt dem allesammen,</l>
+                  <lb/>
+                  <l rhyme="x">og saa har Alfhild sine hvide Lam</l>
+                  <lb/>
+                  <l rhyme="X">og si<del>
+                        <unclear>tt</unclear>
+                     </del>ne Gjeder, – nu er de paa Fjeldet;</l>
+                  <lb/>
+                  <l rhyme="x">og Alferne, de bo i Skoven her,</l>
+                  <lb/>
+                  <del>
+                     <l part="Y">
+                        <unclear>en</unclear> Alf</l>
+                  </del>
+                  <lb/>
+                  <l rhyme="X">naar hun er glad saa lege de med hende,</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Og her er ingen anden –</l>
+               </lg>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>Alfhild</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Stundom, jo, –</l>
+                  <lb/>
+                  <l rhyme="X">saa kommer ogsaa Alfhilds gamle Fader, –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn –</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Din gamle Fader! – Du fortalte jo</l>
+                  <lb/>
+                  <l part="I">han var ei mere her –</l>
+               </lg>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>
+                  <pb n="243"/>Alfhild</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Det er den Anden,</l>
+                  <lb/>
+                  <l rhyme="x">o, kjender du da ei den gamle Mand</l>
+                  <lb/>
+                  <l rhyme="X">som har saameget vakkert at fortælle;</l>
+                  <lb/>
+                  <l rhyme="x">da sidder Alfhild her og lytter til</l>
+                  <lb/>
+                  <l rhyme="X">og spørger ham om det hun ikke fatter,</l>
+                  <lb/>
+                  <l rhyme="x">men nu da du er kommen hid saa vil</l>
+                  <lb/>
+                  <l rhyme="X">hun heller høre paa hvad du fortæller.</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Men hvorfor tager han dig ikke med,</l>
+                  <lb/>
+                  <l rhyme="X">hvi lader han dig blive her i Dalen!</l>
+               </lg>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>Alfhild</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">O, det har Alfhild aldrig spurgt ham om; –</l>
+                  <lb/>
+                  <stage>(betænker sig og siger pludselig)</stage>
+                  <lb/>
+                  <l rhyme="x">– men hør, – nu falder der mig Noget Ind,</l>
+                  <lb/>
+                  <l rhyme="x">– kan Alfhild være Andetsteds end her? –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Det kan du, – Alfhild! hvis du vilde følge</l>
+                  <lb/>
+                  <l part="I">mig til mit Hjem –</l>
+               </lg>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>
+                  <pb n="244"/>Alfhild</speaker>
+               <stage>glad.</stage>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">O, har du og et Hjem</l>
+                  <lb/>
+                  <l rhyme="X">en Dal som her med Blomster og med Skove?</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Det har jeg, Alfhild! vil du følge med –</l>
+               </lg>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>Alfhild</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Ja gjerne, gjerne følger Alfhild dig! –</l>
+               </lg>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>Knud</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Godkvæl min Alfhild!</l>
+               </lg>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>Alfhild</speaker>
+               <stage>iler ham imøde.</stage>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Fader! kommer du</l>
+                  <lb/>
+                  <l part="I">saa seent,</l>
+               </lg>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>Knud –</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Jeg maatte see til dig iaften!</l>
+                  <lb/>
+                  <stage>(bemærker Bjørn)</stage>
+                  <lb/>
+                  <l rhyme="x">ha, er det dig, – hvorledes kom du hid?</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <stage>overrasket</stage>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Jeg var paa Jagt – –</l>
+               </lg>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>
+                  <pb n="245"/>Alfhild.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">O, Fader! han har lovet</l>
+                  <lb/>
+                  <l rhyme="x">at han ei vil forlade Alfhild meer!</l>
+               </lg>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>Knud</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Det har du lovet?</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Ja, det har jeg, Gamle!</l>
+               </lg>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>Alfhild</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Han siger at han har et Hjem, en Dal</l>
+                  <lb/>
+                  <l rhyme="X">som denne, – didhen vil han føre Alfhild!</l>
+                  <lb/>
+                  <l rhyme="x">– o, Alfhild vil saa gjerne følge ham</l>
+                  <lb/>
+                  <l rhyme="X">hun kan ei blive her naar han er borte! –</l>
+               </lg>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>Knud –</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Du fører hende til din Faders Gaard?</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn –</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Det er min Agt –</l>
+               </lg>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>Alfhild</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Da maa du komme, Fader</l>
+                  <lb/>
+                  <l rhyme="X">og synge for ham alt hvad du har sunget</l>
+                  <lb/>
+                  <l part="I">for Alfhild før, –</l>
+               </lg>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>
+                  <pb n="246"/>Knud</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Det skal jeg gjøre, Barn!</l>
+                  <lb/>
+                  <l part="I">jeg skal nok voge over dig –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Men siig,</l>
+                  <lb/>
+                  <l rhyme="X">hvi lod du hende blive her i Dalen</l>
+                  <lb/>
+                  <l part="I">saa ene, saa forladt –</l>
+               </lg>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>Knud</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Jeg raader ei</l>
+                  <lb/>
+                  <l rhyme="X">for hendes Skjæbne; kun i mine Strænge</l>
+                  <lb/>
+                  <l rhyme="x">og i min Sang er lagt hvad jeg formaaer!</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn –</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Hvo er du da, forunderlige Gamle?</l>
+               </lg>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>Knud</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Det kan jeg ikke sige dig, min Søn,</l>
+                  <lb/>
+                  <l rhyme="X">men jeg skal vaage over dig og hende!</l>
+               </lg>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>Alfhild</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Og vil du ikke følge med os Fader?</l>
+               </lg>
+            </sp>
+            <sp who="#KNUD">
+               <speaker>Knud.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Det kan jeg ikke, Alfhild! jeg maa gaa</l>
+                  <lb/>
+                  <l rhyme="X">
+                     <pb n="247"/>fra Gaard til Gaard; – der er saamang <del>
+                        <gap/>
+                     </del>et Hjerte,</l>
+                  <lb/>
+                  <l rhyme="x">som trænger til at lindres, mang et Bryst</l>
+                  <lb/>
+                  <l rhyme="X">som gjærer, svangert med sin egen Fylde,</l>
+                  <lb/>
+                  <l rhyme="x">og hvad der rører sig i Folkets Barm</l>
+                  <lb/>
+                  <l rhyme="X">det maa jeg tolke gjennem mine Strenge!</l>
+               </lg>
+               <lb/>
+               <stage>(han gaar)</stage>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Du vil da følge mig? –</l>
+               </lg>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>Alfhild</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Ja, ja, jeg vil! –</l>
+                  <lb/>
+                  <l rhyme="X">o, du vil sikkert være god mod Alfhild,</l>
+                  <lb/>
+                  <l rhyme="x">naar hun forlader denne fagre Dal</l>
+                  <lb/>
+                  <l rhyme="x">da har hun Intet, Intet uden dig.</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <stage>griber hendes H<unclear reason="writing">aand</unclear>
+               </stage>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Ja, Alfhild, jeg vil være god mod dig, –</l>
+                  <lb/>
+                  <l rhyme="x">o, jeg vil elske dig mit hele Liv –</l>
+               </lg>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>Alfhild</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Hvad vil du? – elske mig? hvad mener du?</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">At jeg vil være god mod dig og tænke</l>
+                  <lb/>
+                  <l rhyme="X">
+                     <pb n="248"/>paa dig allene alle mine Dage –</l>
+               </lg>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>Alfhild</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">O, nu er Alfhild glad, nu troer hun at</l>
+                  <lb/>
+                  <l rhyme="X">hun har forstaaet dig men hør, saa maa du</l>
+                  <lb/>
+                  <l part="I">bestandig elske mig –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Bestandig Alfhild –</l>
+               </lg>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>Alfhild</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Thi ellers maatte Alfhild sikkert dø;</l>
+                  <lb/>
+                  <l rhyme="X">Hør kun, to Duer byggede sin Rede</l>
+                  <lb/>
+                  <l rhyme="x">i Furutoppen under Aasen der,</l>
+                  <lb/>
+                  <l rhyme="x">saa kom en fremmed Due did, da fløi</l>
+                  <lb/>
+                  <l rhyme="x">den ene bort med den, – den anden sad</l>
+                  <lb/>
+                  <l rhyme="x">og vented efter den ved Nat, ved Dag,</l>
+                  <lb/>
+                  <l rhyme="X">men ak, den vendte aldrig meer tilbage,</l>
+                  <lb/>
+                  <l part="I">– da maatte Duen dø; –</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Nei, Alfhild, nei!</l>
+                  <lb/>
+                  <l rhyme="x">forlad dig roligt kun paa mig men hvad</l>
+                  <lb/>
+                  <l part="I">er det du lytter efter –</l>
+               </lg>
+               <stage>(en sagte Musik høres)</stage>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>
+                  <pb n="249"/>Alfhild</speaker>
+               <stage>sagte</stage>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Hører du –</l>
+                  <lb/>
+                  <del>
+                     <l part="Y">hvor Alfeflokken</l>
+                  </del>
+                  <lb/>
+                  <l rhyme="X">de lette Alfer synge rundt omkring os!</l>
+               </lg>
+            </sp>
+            <sp who="#BJORN">
+               <speaker>Bjørn –</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Det er kun Aftenvinden –</l>
+               </lg>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>Alfhild</speaker>
+               <lb/>
+               <lg part="F">
+                  <l part="F" rhyme="x">Hører du</l>
+                  <lb/>
+                  <l rhyme="x">de hviske mellem Blomsterne, – o hør! –</l>
+               </lg>
+            </sp>
+            <lb/>
+            <stage>(Under det Følgende staar Alfhild taus
+<lb/>og lytter idet hun yttrer sine Fø-
+<lb/>lelser efter Sangens Indhold, – Bjørn
+<lb/>betragter hende med ængstelig Forundring.)</stage>
+            <lb/>
+            <sp>
+               <speaker>Chor af Alfer.</speaker>
+               <lb/>
+               <lg type="strofisk-strofegruppe"
+                   met="1: (tri- 7 7 11 11) | (tri- 7 7 8 8), 2: bi 4 4 10"
+                   rhyme="1: a a B B, 2: C C B">
+                  <lg type="strofe">
+                     <lg met="tri- 7 7 11 11" rhyme="a a B B">
+                        <l met="-∪∪-∪∪-" rhyme="a">Alferne hviske ved Kvæl</l>
+                        <lb/>
+                        <l met="-∪∪-∪∪-" rhyme="a">Kjærligt det sidste Farvel</l>
+                        <lb/>
+                        <l met="-∪∪-∪-∪∪-∪" rhyme="B">Snart skal vi ei i Maaneskin glade</l>
+                        <lb/>
+                        <l met="-∪-∪-∪∪-∪" rhyme="B">Dandse under <app type="alteration">
+                              <lem>
+                                 <add place="offline">duggede</add>
+                              </lem>
+                              <rdg>
+                                 <unclear>
+                                    <del>Blomsternes</del>
+                                 </unclear>
+                              </rdg>
+                           </app> Blade,</l>
+                     </lg>
+                     <lb/>
+                     <lg met="bi 4 4 10" rhyme="C C B">
+                        <l met="-∪-∪" rhyme="C">O, da ville</l>
+                        <lb/>
+                        <l met="-∪-∪" rhyme="C">vi i stille</l>
+                        <lb/>
+                        <l met="-∪-∪-∪-∪-∪" rhyme="B">Aften Blomsterne med Taarer bade.</l>
+                     </lg>
+                  </lg>
+                  <lb/>
+                  <lg type="strofe">
+                     <lg met="tri- 7 7 8 8" rhyme="a a B B">
+                        <l met="-∪∪-∪∪-" rhyme="a">
+                           <pb n="250"/>Kan vi ei følge din Vei;</l>
+                        <lb/>
+                        <l met="-∪∪-∪∪-" rhyme="a">ømt vil vi tænke paa dig</l>
+                        <lb/>
+                        <l met="-∪∪-∪∪-∪" rhyme="B">op til vort fredede Rige</l>
+                        <lb/>
+                        <l met="-∪∪-∪∪-∪" rhyme="B">vil du endnu engang stige</l>
+                     </lg>
+                     <lb/>
+                     <lg met="bi 4 4 10" rhyme="C C B">
+                        <l met="-∪-∪" rhyme="C">O da ville</l>
+                        <lb/>
+                        <l met="-∪-∪" rhyme="C">vi i stille</l>
+                        <lb/>
+                        <l met="-∪-∪-∪-∪-∪" rhyme="B">Aften atter hilse Dalens Pige! –</l>
+                     </lg>
+                  </lg>
+               </lg>
+            </sp>
+            <lb/>
+            <stage>(<del>m</del>Musikken hendøer
+<lb/>efterhaanden.)</stage>
+            <lb/>
+            <sp who="#BJORN">
+               <speaker>Bjørn.</speaker>
+               <stage>halv sagte</stage>
+               <lb/>
+               <lg type="stikisk-femfotsjambe-blankvers"
+                   met="bi '10|'11"
+                   rhyme="x|X"
+                   part="I">
+                  <l rhyme="x">Du hvisker Alfhild, kom, hvad fattes dig,</l>
+                  <lb/>
+                  <l rhyme="a">jeg bli’er saa sært tilmode, – lad os gaa –</l>
+               </lg>
+            </sp>
+            <sp who="#ALFHILD">
+               <speaker>Alfhild</speaker>
+               <stage>griber hans Haand</stage>
+               <lb/>
+               <lg part="F">
+                  <l rhyme="X">Nu følger Alfhild dig, nu har hun hvisket</l>
+                  <lb/>
+                  <l rhyme="a">Farvel til Blomster og til Alfer smaae –</l>
+               </lg>
+               <lb/>
+               <stage>(de gaae)</stage>
+            </sp>
+            <lb/>
+            <lb/>
+            <stage>Thunet paa Bjerkehoug; Træer i Baggrun-
+<lb/>den, til Venstre sees <del>v</del>Væggen af Huset <gap reason="writing"/> –</stage>
+            <lb/>
+            <lb/>
+            <sp who="#PAAL">
+               <speaker>
+                  <pb n="251"/>Paal</speaker>
+               <stage>
+                  <del>
+                     <gap/>
+                  </del>kommer og møder <rs type="person" ref="MERETA">Mereta</rs>.</stage>
+               <lb/>
+               <p>Nei nei, der er ingen Lykke paa Bjerkehoug, –
+<lb/>Herre Gud! er dette Lystighed paa en Jonsokskvæl,
+<lb/>nu havde jeg faaet muntret dem lidt op der-
+<lb/>borte paa Hougen – –</p>
+            </sp>
+            <lb/>
+            <sp who="#MERETA">
+               <speaker>Mereta.</speaker>
+               <lb/>
+               <p>Og saa? –</p>
+            </sp>
+            <lb/>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <p>Saa kom Bengt Alfsen og saa blev det stille som i
+<lb/>en Kirke –</p>
+            </sp>
+            <lb/>
+            <sp who="#MERETA">
+               <speaker>Mereta.</speaker>
+               <lb/>
+               <p>Ja, Paal, jeg har mærket det, alle Folk er bange for
+<lb/>ham –</p>
+            </sp>
+            <lb/>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <p>Gud veed hvad der er iveien, alle skyer ham, selv
+<lb/>Bjørn hans egen Søn –</p>
+            </sp>
+            <lb/>
+            <sp who="#MERETA">
+               <speaker>Mereta</speaker>
+               <lb/>
+               <p>Gud, troer du det?</p>
+            </sp>
+            <lb/>
+            <sp who="#PAAL">
+               <speaker>Paal.</speaker>
+               <lb/>
+               <p>Det har jeg længe mærket –</p>
+            </sp>
+            <lb/>
+            <sp who="#MERETA">
+               <speaker>
+                  <pb n="252"/>
+                  <del>Paal</del>Mereta</speaker>
+               <lb/>
+               <p>Og derfor er det han flakker om paa Jagt i Fjeldene,
+<lb/>og aldrig har Ro hjemme –</p>
+            </sp>
+            <lb/>
+            <sp who="#PAAL">
+               <speaker>Paal.</speaker>
+               <lb/>
+               <p>Ja det var den første Grund, men siden –</p>
+            </sp>
+            <lb/>
+            <sp who="#MERETA">
+               <speaker>Mereta –</speaker>
+               <lb/>
+               <p>Men siden? hvad da –</p>
+            </sp>
+            <lb/>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <p>Aa det var ikke Noget, – Spørg mig ikke mere,
+<lb/>der kommer Bengt Alfsen! –</p>
+            </sp>
+            <lb/>
+            <sp who="#MERETA">
+               <speaker>Mereta</speaker>
+               <lb/>
+               <p>Saa vil jeg gaa –</p>
+               <stage>(hun gaar)</stage>
+            </sp>
+            <lb/>
+            <sp who="#BENGT">
+               <speaker>Bengt Alfsen</speaker>
+               <stage>kommer</stage>
+               <lb/>
+               <p>Hvem var det du talte med her –</p>
+            </sp>
+            <lb/>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <p>Det var jers Pleiedatter!</p>
+            </sp>
+            <lb/>
+            <sp who="#BENGT">
+               <speaker>Bengt.</speaker>
+               <lb/>
+               <p>Og hvorfor gik hun bort da hun saa mig kom-
+<lb/>me!</p>
+            </sp>
+            <lb/>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <p>Hun havde noget at tage Vare paa i Huset,
+<lb/>
+                  <pb n="253"/>sagde hun.</p>
+            </sp>
+            <lb/>
+            <sp who="#BENGT">
+               <speaker>Bengt</speaker>
+               <lb/>
+               <p>Saa, – det hender altid naar jeg kommer; –
+<lb/>saadan er det med dem allesammen, sidder Piger-
+<lb/>ne ved Arnen og spinder, saa gjøre de sig strax
+<lb/>Ærind i Kjøkken og Kjelder naar jeg kom-
+<lb/>mer ind – –</p>
+            </sp>
+            <lb/>
+            <sp who="#PAAL">
+               <speaker>Paal.</speaker>
+               <lb/>
+               <p>Bengt Alfsen det er eders egen Skyld –</p>
+            </sp>
+            <lb/>
+            <sp who="#BENGT">
+               <speaker>Bengt –</speaker>
+               <lb/>
+               <p>Ti stille, jeg vil ikke høre mere derom.</p>
+            </sp>
+            <lb/>
+            <sp who="#PAAL">
+               <speaker>Paal –</speaker>
+               <lb/>
+               <p>Naa, jeg kan sagtens tie; det var ellers til je<del>
+                     <gap/>
+                  </del>rs eget
+<lb/>Vel jeg sagde det –</p>
+            </sp>
+            <lb/>
+            <sp who="#BENGT">
+               <speaker>Bengt –</speaker>
+               <lb/>
+               <p>Godt, godt; – har du ikke seet Herr Mogens iaften –</p>
+            </sp>
+            <lb/>
+            <sp who="#PAAL">
+               <speaker>Paal</speaker>
+               <lb/>
+               <p>Han var i Borgestuen saa i Mørkningen –</p>
+            </sp>
+            <lb/>
+            <sp who="#BENGT">
+               <speaker>Bengt</speaker>
+               <lb/>
+               <p>Saa søg ham op, – siig ham at jeg venter paa ham.</p>
+            </sp>
+            <lb/>
+            <sp who="#PAAL">
+               <speaker>
+                  <pb n="254"/>Paal</speaker>
+               <lb/>
+               <p>Det skal jeg!</p>
+               <lb/>
+               <stage>(gaaer)</stage>
+            </sp>
+            <lb/>
+            <sp who="#BENGT">
+               <speaker>Bengt</speaker>
+               <stage>efter en Pause.</stage>
+               <lb/>
+               <lg type="stikisk-femfotsjambe-blankvers"
+                   met="bi '10|'11"
+                   rhyme="x|X"
+                   part="I">
+                  <l rhyme="x">Jeg er ei mere frisk og rask som før,</l>
+                  <lb/>
+                  <l rhyme="X">der ligger noget Tungt paa mine Skuldre,</l>
+                  <lb/>
+                  <l rhyme="x">Folk mærke vist det er ei rigtigt fat</l>
+                  <lb/>
+                  <l rhyme="X">med mig, – de gaa saasnart de see mig komme;</l>
+                  <lb/>
+                  <l rhyme="x">men denne Præst! – fordømt, hvor blier han af,</l>
+                  <lb/>
+                  <l rhyme="X">det letter stundom mig at tale med ham; –</l>
+                  <lb/>
+                  <l rhyme="x">– du ta’er dig dyrt betalt, min Broder Alf! –</l>
+                  <lb/>
+                  <stage>(seer sig om)</stage>
+                  <lb/>
+                  <l rhyme="X">det rører sig blandt Træerne, – Sanct Olaf!</l>
+               </lg>
+               <lb/>
+               <stage>(korser sig og gaaer ind i Huset.)</stage>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Og hvorfor vil du ikke dandse med mig?</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Fordi jeg ikke vil, – see det er Grunden.</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="X">Du handler ikke ret mod mig, Mereta!</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>
+                  <pb n="255"/>Mereta</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Jasaa! hvad har du da at fordre?</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Nu; –</l>
+                  <lb/>
+                  <l rhyme="x">Vist ingen Ting, men du veed meget <app type="alteration">
+                        <lem>
+                           <add place="offline">vel</add>
+                        </lem>
+                        <rdg>
+                           <del>godt</del>
+                        </rdg>
+                     </app>
+                  </l>
+                  <lb/>
+                  <l part="I">jeg er dig god –</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Og derfor blier du vred</l>
+                  <lb/>
+                  <l rhyme="X">naar bare lidt jeg snakker med en anden</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Ja snakker! – leer, hvisker –</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta.</speaker>
+               <stage>muntert –</stage>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Ha, ha, ha!</l>
+                  <lb/>
+                  <l rhyme="x">jo meer du muler, – desto mere blier</l>
+                  <lb/>
+                  <l part="I">jeg munter –</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Ja, jeg seer det nok, Mereta!</l>
+                  <lb/>
+                  <l rhyme="x">Saa var jeg ogsaa dengang jeg kom hid,</l>
+                  <lb/>
+                  <l rhyme="x">men det Par Dage har forandret mig, –</l>
+                  <lb/>
+                  <l part="I">Mereta, hør mig –</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>
+                  <pb n="256"/>Mereta</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Kom nu ei igjen</l>
+                  <lb/>
+                  <l part="I">med denn<unclear>e</unclear>
+                     <del>g</del> gamle Snak –</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <stage>fornærmet –</stage>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Nu vel, du skal</l>
+                  <lb/>
+                  <l part="I">ei høre meer fra mig –</l>
+               </lg>
+               <stage>(vil gaa)</stage>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Nu, gaaer du Einar!</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar –</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Farvel, Mereta! –</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta.</speaker>
+               <stage>skjelmsk.</stage>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Lykke da paa Reisen –</l>
+                  <lb/>
+                  <stage>(idet han er ved Udgangen)</stage>
+                  <lb/>
+                  <l rhyme="x">Nei ve<del>
+                        <unclear>l</unclear>
+                     </del>nt dog lad mig snakke med dig Lidt</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar.</speaker>
+               <stage>vender sig –</stage>
+               <lb/>
+               <lg part="M">
+                  <l part="I" real="9">Hvad vil du da –</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Kom hid, – hør Einar</l>
+                  <lb/>
+                  <l rhyme="x">du lover mig at tie stille med</l>
+                  <lb/>
+                  <l part="I">det Snak om Kjærlighed –</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>
+                  <pb n="257"/>Einar</speaker>
+               <stage>mørk</stage>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Ja vist, det gjør jeg –</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">Og naar jeg leer lidt ad dig saa maa</l>
+                  <lb/>
+                  <l part="I">du ei see suurt –</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">Aa nei, gjør som du vil –</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta</speaker>
+               <lb/>
+               <lg part="M">
+                  <l rhyme="x">See det er Ret; Tak, Tak, nu kan du gaa –</l>
+                  <lb/>
+                  <l rhyme="X">nu vil jeg bare gi’e dig med paa Reisen</l>
+                  <lb/>
+                  <l part="I">en liden Skjænk –</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="M">Og hvad er det –</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>Mereta</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="x">See der!</l>
+                  <lb/>
+                  <stage>(rækker ham Haanden)</stage>
+                  <lb/>
+                  <l part="I">der har du den, – min Haand og Tro!</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar</speaker>
+               <stage>omfavner hende.</stage>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Mereta!</l>
+                  <lb/>
+                  <l part="I">Er det dit Alvor? –</l>
+               </lg>
+            </sp>
+            <sp who="#MERETA">
+               <speaker>
+                  <pb n="258"/>Mereta.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Ja, det er det Einar!</l>
+                  <lb/>
+                  <stage>(idet Bengt <add place="offline">og Mogens</add> træder ind)</stage>
+                  <lb/>
+                  <l part="I">Gud! der er Fader!</l>
+               </lg>
+            </sp>
+            <sp who="#BENGT">
+               <speaker>Bengt</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Nu hvad er paafærde?</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>Einar.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="I">Bengt Alfsen! hør! – –</l>
+               </lg>
+            </sp>
+            <sp who="#BENGT">
+               <speaker>Bengt.</speaker>
+               <lb/>
+               <lg part="M">
+                  <l part="F" rhyme="X">Ti, – det behøves ikke,</l>
+                  <lb/>
+                  <l rhyme="X">jeg saa nok hvad her foregik, – Mereta!</l>
+                  <lb/>
+                  <l rhyme="x">det bedre sømmed sig om du forslog</l>
+                  <lb/>
+                  <l rhyme="X">dig Tid blandt Ternerne, end med ung Einar.</l>
+                  <lb/>
+                  <stage>(Mereta gaa<unclear reason="writing">er</unclear>)</stage>
+                  <lb/>
+                  <stage>(<hi>til Einar</hi>)</stage>
+                  <lb/>
+                  <l rhyme="x">Og dig, min Ven! kan jeg berette kort</l>
+                  <lb/>
+                  <l rhyme="x">at hvis du beiler til Meretas Gunst</l>
+                  <lb/>
+                  <l rhyme="x">
+                     <app type="alteration">
+                        <lem>
+                           <add place="offline">da</add>
+                        </lem>
+                        <rdg>
+                           <del>
+                              <add place="inline">da</add>
+                              <emph>det</emph>
+                           </del>
+                        </rdg>
+                     </app> nytter <add place="offline">det dig</add> ei, thi alt jeg har</l>
+                  <lb/>
+                  <l rhyme="X">bestemt det anderledes, – kom Herr Mogens!</l>
+               </lg>
+            </sp>
+            <sp who="#EINAR">
+               <speaker>
+                  <pb n="259"/>Einar.</speaker>
+               <lb/>
+               <lg part="F">
+                  <l rhyme="x">Det var da sandt hvad Præsten sagde mig</l>
+                  <lb/>
+                  <l rhyme="x">Nu, lad det gaa! Mereta har mig kjær,</l>
+                  <lb/>
+                  <l rhyme="x">Hun sætter nok igjennem hvad hun vil</l>
+                  <lb/>
+                  <l rhyme="x">Forresten stoler jeg paa Lykkens Hjælp –</l>
+               </lg>
+            </sp>
+            <lb/>
+            <stage>(<rs type="person" ref="PAAL">Paal</rs>, <rs type="person">flere Spillemænd</rs>, <rs type="person">Bønder</rs> og <rs type="person">Bondepiger</rs>
+               <lb/>komme under Musik.)</stage>
+            <lb/>
+         </div>
+      </body>
+   </text>
+</TEI>
