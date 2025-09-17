@@ -1,14 +1,5 @@
 # IbsDraCor
 
-Starter repository for new DraCor corpora
+Git repository for the Ibsen DraCor corpus.
 
-This is a template repository you can use to start a new DraCor corpus. After
-creating a new repository you need to:
-
-
-- adjust [corpus.xml](corpus.xml)
-  - replace all instances of "new" with the short name of the new corpus
-  - edit the `<title>` element
-  - edit the `<projectDesc>`
-  - edit the `<revisionDesc>` to reflect the current date and status
-- edit this README and replace this text with information about your corpus
+This corpus consists of all published and unpublished dramas written by Henrik Ibsen. The dramas are written in the time period 1848 to 1899. It includes notable works, such as A Doll's House, Hedda Gabler and Ghosts, to name a few. There is a total number of 38 pieces of drama in this corpus, whether printed works or working manuscripts. The corpus is maintained by the Centre for Ibsen Studies at the University of Oslo.
