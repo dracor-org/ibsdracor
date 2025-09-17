@@ -135,27 +135,11 @@
    </standOff>
    <text type="drama" xml:lang="dan-nob">
       <front>
-         <titlePage type="main_flyleaf">
-            <docTitle>
-               <titlePart type="main">
-                  <pb n="9"/>SAMFUNDETS STØTTER</titlePart>
-            </docTitle>
-         </titlePage>
          <titlePage type="main">
             <docTitle>
                <titlePart type="main">SAMFUNDETS STØTTER</titlePart>
                <titlePart type="sub">SKUESPIL I FIRE AKTER</titlePart>
             </docTitle>
-            <byline>AF <docAuthor>HENRIK IBSEN</docAuthor>
-            </byline>
-            <docImprint>
-               <pubPlace>KØBENHAVN</pubPlace>
-               <publisher>GYLDENDALSKE BOGHANDELS FORLAG (F. HEGEL &amp; SØN)</publisher>
-               <publisher>
-                  <orgName type="printer">TRYKT HOS J. JØRGENSEN &amp; CO</orgName>
-               </publisher>
-               <date>1877</date>
-            </docImprint>
          </titlePage>
          <castList>
             <head>
