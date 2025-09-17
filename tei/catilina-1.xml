@@ -134,21 +134,6 @@
                   <pb n="9"/>CATILINA</titlePart>
                <titlePart type="desc">DRAMA I TRE ACTER</titlePart>
             </docTitle>
-            <byline>AF <docAuthor>BRYNJOLF BJARME</docAuthor>
-            </byline>
-            <docImprint>
-               <pubPlace>CHRISTIANIA</pubPlace>
-               <publisher>I KOMMISSION HOS P. F. STEENSBALLE</publisher>
-               <publisher>
-                  <orgName type="printer">F. STEENS BOGTRYKKERI</orgName>
-               </publisher>
-               <date>1850</date>
-            </docImprint>
-         </titlePage>
-         <titlePage type="main_part">
-            <docTitle>
-               <titlePart>CATILINA</titlePart>
-            </docTitle>
          </titlePage>
          <castList>
             <castItem sameAs="CATILINA">
