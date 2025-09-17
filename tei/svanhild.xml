@@ -145,7 +145,9 @@
                <roleDesc>hendes Døttre.</roleDesc>
             </castGroup>
             <castItem sameAs="JOHAN">
-               <role>Johan</role>, <roleDesc>hendes Søn, Student</roleDesc>.</castItem>
+               <role>Johan</role>
+               <roleDesc>hendes Søn, Student</roleDesc>
+            </castItem>
             <castItem sameAs="FALK">
                <role>Falk</role>, <roleDesc>en ung Forfatter</roleDesc>.</castItem>
             <castItem sameAs="GULDSTAD">
