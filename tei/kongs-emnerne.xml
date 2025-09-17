@@ -145,25 +145,6 @@
                   <pb n="219"/>KONGS-EMNERNE</titlePart>
                <titlePart type="desc">HISTORISK SKUESPIL I FEM AKTER</titlePart>
             </docTitle>
-            <byline>AF <docAuthor>HENR. IBSEN</docAuthor>
-            </byline>
-            <docImprint>
-               <pubPlace>CHRISTIANIA</pubPlace>
-               <publisher>JOHAN DAHLS FORLAG</publisher>
-               <date>1864</date>
-            </docImprint>
-         </titlePage>
-         <titlePage type="colophon">
-            <docImprint>
-               <publisher>
-                  <orgName type="printer">J. CHR. GUNDERSENS BOGTRYKKKERI</orgName>
-               </publisher>
-            </docImprint>
-         </titlePage>
-         <titlePage type="part">
-            <docTitle>
-               <titlePart type="main">KONGS-EMNERNE</titlePart>
-            </docTitle>
          </titlePage>
          <castList>
             <head>
