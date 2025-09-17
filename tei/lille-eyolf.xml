@@ -96,27 +96,11 @@
    </standOff>
    <text type="drama" xml:lang="dan-nob">
       <front>
-         <titlePage type="flyleaf">
-            <docTitle>
-               <titlePart type="main">
-                  <pb n="393"/>LILLE EYOLF</titlePart>
-            </docTitle>
-         </titlePage>
          <titlePage type="main">
             <docTitle>
                <titlePart type="main">LILLE EYOLF</titlePart>
                <titlePart type="desc">SKUESPIL I TRE AKTER</titlePart>
             </docTitle>
-            <byline>AF <docAuthor>HENRIK IBSEN</docAuthor>
-            </byline>
-            <docImprint>
-               <pubPlace>KØBENHAVN</pubPlace>
-               <publisher>GYLDENDALSKE BOGHANDELS FORLAG (F. HEGEL &amp; SØN)</publisher>
-               <publisher>
-                  <orgName type="printer">GRÆBES BOGTRYKKERI</orgName>
-               </publisher>
-               <date>1894</date>
-            </docImprint>
          </titlePage>
          <castList>
             <head>
