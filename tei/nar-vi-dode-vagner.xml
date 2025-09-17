@@ -97,29 +97,11 @@
    </standOff>
    <text type="drama" xml:lang="dan-nob">
       <front>
-         <titlePage type="main_flyleaf">
-            <docTitle>
-               <titlePart type="main">
-                  <pb n="169"/>NÅR VI DØDE VÅGNER</titlePart>
-            </docTitle>
-         </titlePage>
          <titlePage type="main">
             <docTitle>
                <titlePart type="main">NÅR VI DØDE VÅGNER</titlePart>
                <titlePart type="sub">EN DRAMATISK EPILOG I TRE AKTER</titlePart>
             </docTitle>
-            <byline>AF <docAuthor>HENRIK IBSEN</docAuthor>
-            </byline>
-            <docImprint>
-               <pubPlace>KØBENHAVN</pubPlace>
-               <publisher>GYLDENDALSKE BOGHANDELS FORLAG (F. HEGEL &amp; SØN)</publisher>
-               <pubPlace>BERLIN</pubPlace>
-               <publisher>S. FISCHER</publisher>
-               <date>1899</date>
-               <publisher>
-                  <orgName type="printer">GRÆBES BOGTRYKKERI</orgName>
-               </publisher>
-            </docImprint>
          </titlePage>
          <castList>
             <head>
