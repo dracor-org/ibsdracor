@@ -106,20 +106,6 @@
    </standOff>
    <text type="drama" xml:lang="da-nob">
       <front>
-         <titlePage type="main">
-            <docTitle>
-               <titlePart type="main">
-                  <pb n="351"/>HÆRMÆNDENE PAA HELGELAND</titlePart>
-               <titlePart type="desc">SKUESPIL I FIRE AKTER</titlePart>
-            </docTitle>
-            <byline>AF <docAuthor>HENR. IBSEN</docAuthor>
-            </byline>
-            <docImprint>
-               <pubPlace>CHRISTIANIA</pubPlace>
-               <publisher>TRYKT OG FORLAGT AF H. J. JENSEN</publisher>
-               <date>1858</date>
-            </docImprint>
-         </titlePage>
          <titlePage type="main_part">
             <docTitle>
                <titlePart type="main">HÆRMÆNDENE PAA HELGELAND</titlePart>
