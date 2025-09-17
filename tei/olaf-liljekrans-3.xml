@@ -1,0 +1,351 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000032">
+   <teiHeader xml:lang="nob">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Olaf Liljekrans, 3. versjon</title>
+            <author>
+               <persName>
+                  <forename>Henrik</forename>
+                  <surname>Ibsen</surname>
+               </persName>
+               <idno type="wikidata">Q36661</idno>
+            </author>
+            <editor role="editor-in-chief">Vigdis Ystad</editor>
+            <editor role="managing-editor">Christian Janss</editor>
+            <editor role="text-editors">Hilde Bøe</editor>
+            <editor role="text-editors">Stine Brenna Taugbøl</editor>
+            <respStmt>
+               <resp>Modified encoding for DraCor by</resp>
+               <name xml:id="NME">Nina Marie Evensen</name>
+               <name xml:id="ER">Emil Røsås</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.5">Beta release</edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>University of Oslo, Center for Ibsen Studies</authority>
+            <publisher>DraCor</publisher>
+            <date when="2025">2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
+               <name>Henrik Ibsens skrifter, digital utgave (HISe)</name>
+               <idno type="URL">https://www.ibsen.uio.no/DRVIT_O3%7CO3ht.xhtml</idno>
+               <idno>O3ht</idno>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+                     <ab>CC BY-NC 4.0</ab>
+                  </licence>
+               </availability>
+               <bibl type="originalSource">
+                  <author>Henrik Ibsen</author>: <title type="main">Olaf Liljekrans, 3.
+                     versjon</title>. <title type="sub">Hovedtekst, tekstgrunnlag: NBO Ms.8°
+                     1945</title>. In: <edition>Henrik Ibsens skrifter, bind 2</edition>. 
+                  <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
+                  <date when="2006">2006</date>
+                  <biblScope unit="page" from="423" to="573">423-573</biblScope>
+               </bibl>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="nob"/>
+            <language ident="dan-nob"/>
+         </langUsage>
+         <particDesc>
+            <listPerson>
+               <person xml:id="ESPEN" sex="MALE">
+                  <persName>Espen</persName>
+               </person>
+               <person xml:id="GERTRUD" sex="MALE">
+                  <persName>Gertrud</persName>
+               </person>
+               <person xml:id="GUNHILD" sex="FEMALE">
+                  <persName>Gunhild</persName>
+               </person>
+               <person xml:id="PEJK" sex="MALE">
+                  <persName>Pejk</persName>
+               </person>
+               <person xml:id="TORGEJR" sex="MALE">
+                  <persName>Torgejr</persName>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <standOff>
+      <listEvent>
+         <event type="print" when="1932">
+            <desc/>
+         </event>
+         <event type="written" notBefore="1876" notAfter="1878">
+            <desc/>
+         </event>
+      </listEvent>
+      <listRelation>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000032"
+            passive="http://www.wikidata.org/entity/"/>
+      </listRelation>
+   </standOff>
+   <text type="drama" xml:lang="dan-nob">
+      <body>
+         <div type="act" n="1">
+            <head>
+               <pb n="425"/>Første handling.</head>
+            <stage>(En vild højfjeldsdal, trang og med bratte bergvægge til begge sider. Nedover
+               bergsiden til venstre falder en fos. I baggrunden vid udsigt nedover til lavere
+               liggende bygder. Sommer- kveld mod solnedgang.)</stage>
+            <stage>(Torgejr står ved fossestupet, lytter og speider udover ned imod dybet.)</stage>
+            <sp who="#TORGEJR">
+               <speaker>TORGEJR.</speaker>
+               <lg type="strofisk-rapsodisk-strofe-folkevisevers" met="bi+ '8 '8 '8 '4 '4 '7"
+                  rhyme="a x a b b X">
+                  <l met="∪-∪∪-∪∪-∪-" rhyme="a">Hvem er det, som <app type="alteration">
+                        <lem>stiger i furuli</lem>
+                        <rdg>e</rdg>
+                     </app>?</l>
+                  <l met="-∪∪-∪-∪-" rhyme="x">Kvinder og mænd i hobetal!</l>
+                  <l met="-∪∪-∪-∪∪-" rhyme="a">Hold jer dernede! Bygden er vid!</l>
+                  <l met="-∪∪-" rhyme="b">Kom ikke hid!</l>
+                  <l met="∪∪-∪-" rhyme="b">Det er solfaldstid, –</l>
+                  <l met="∪-∪∪-∪-∪" rhyme="X">og dalen er min og nøkkens.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>FRU GURIDS FOLK</speaker>
+               <stage>(fjernt og dybt nede til venstre i baggrunden.)</stage>
+               <lg type="strofisk-rapsodisk-strofe-folkevisevers" met="bi+ '9 '5 '5 '4 '5 '4"
+                  rhyme="A A B c B c" part="I">
+                  <l met="∪-∪∪-∪∪-∪∪-∪" rhyme="A">Ung Olaf, ung Olaf! Med sang og med klokker</l>
+                  <l met="∪-∪∪-∪" rhyme="A">vi maner og lokker.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="455"/>ARNES FØLGE</speaker>
+               <stage>(højt oppe til højre.)</stage>
+               <lg part="F">
+                  <l met="∪∪-∪∪-∪" rhyme="B">Gennem skardet går <app type="alteration">
+                        <lem>vejen</lem>
+                        <rdg>d.</rdg>
+                     </app>
+                  </l>
+                  <l met="∪-∪-" rhyme="c">til bryllupsgård;</l>
+                  <l met="∪∪-∪∪-∪" rhyme="B">over højeste hejen</l>
+                  <l met="∪-∪-" rhyme="c">går vejen vor.</l>
+               </lg>
+            </sp>
+            <sp who="#TORGEJR">
+               <speaker>TORGEJR</speaker>
+               <stage>(ser opad.)</stage>
+               <lg type="strofisk-rapsodisk-strofe-folkevisevers" met="bi+ '9 '4 '5 '5 '5 '4"
+                  rhyme="A b A Cc Cc b">
+                  <l met="∪∪-∪∪-∪∪-∪∪-∪" rhyme="A">Også der, også der; under <app type="alteration">
+                        <lem>topper og tinder</lem>
+                        <rdg/>
+                     </app>. –</l>
+                  <l met="∪-∪∪-" rhyme="b">der myldrer de hid</l>
+                  <l met="∪∪-∪-∪" rhyme="A">både mænd og kvinder!</l>
+                  <l met="∪-∪∪-∪∪" rhyme="Cc">Gid bergraset knuse jer.</l>
+                  <l met="∪-∪-∪∪" rhyme="Cc">og skredet se huse jer.</l>
+                  <l met="∪-∪∪-" rhyme="b">til dommedags tid!</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>FRU GUNHILDS FØLGE.</speaker>
+               <stage>(nærmere.)</stage>
+               <lg type="strofisk-rapsodisk-strofe-folkevisevers" met="bi+ '5 '4 '4 '5 '8 '5"
+                  rhyme="X a a B a B">
+                  <l met="∪-∪∪-∪" rhyme="X">Ung Olaf, ung Olaf,</l>
+                  <l met="∪-∪∪-∪" rhyme="B">hvor sidder du tagen?</l>
+                  <l met="∪-∪∪-" rhyme="a">Å vågn dog og se.</l>
+                  <l met="∪-∪∪-" rhyme="a">Vi vanker i vé.</l>
+                  <l met="∪-∪∪-∪∪-∪∪-" rhyme="a">
+                     <pb n="484"/>Hvor sidder du tagen de nætterne tre</l>
+                  <l met="∪∪-∪-∪" rhyme="B">og på fjerde dagen?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>ARNES FØLGE</speaker>
+               <stage>(nærmere.samtidigt)</stage>
+               <lg type="strofisk-rapsodisk-strofe-folkevisevers" met="bi++ '4 '4 '5 '4 '4 '7"
+                  rhyme="a a B c c B">
+                  <l met="-∪-" rhyme="a">Lystigt nok</l>
+                  <l met="∪∪-∪-" rhyme="a">lyder lék og lok</l>
+                  <l met="∪∪-∪∪-∪" rhyme="B">mellem tinder og topper.</l>
+                  <l met="∪∪-∪-" rhyme="c">Under bræens krans</l>
+                  <l met="∪-∪∪∪-" rhyme="c">går færden som en dans.</l>
+                  <l met="∪-∪∪-∪∪-∪" rhyme="B">Hej, hå! Over elven vi hopper!</l>
+               </lg>
+            </sp>
+            <sp who="#TORGEJR">
+               <speaker>TORGEJR</speaker>
+               <stage>(samtidigt opad og nedad)</stage>
+               <lg type="strofisk-rapsodisk-strofe-folkevisevers" met="bi+ '5 '5 '5 '8 '5 '6"
+                  rhyme="Aa Aa B c B c">
+                  <l met="-∪-∪∪" rhyme="Aa">Bræen knuge jer;</l>
+                  <l met="-∪-∪∪" rhyme="Aa">elven sluge jer.</l>
+                  <l met="-∪∪-∪" rhyme="B">Bergtrold og vætter</l>
+                  <l met="-∪∪-∪-∪∪-" rhyme="c">skræmme jer væk med skrig og med hvin</l>
+                  <l met="∪∪-∪-∪" rhyme="B">hvor I foden sætter!</l>
+                  <l met="-∪∪-∪∪-" rhyme="c">Dalen er nøkkens og min.</l>
+               </lg>
+               <stage>(Han trækker sig ind mellem kløf<unclear reason="writing">t</unclear>erne ved
+                  fossen.)</stage>
+            </sp>
+            <stage>(Peik t kommer med sit følge ned over fjeldsiden til højre.)</stage>
+            <sp who="#PEJK">
+               <speaker>
+                  <pb n="514"/>PEJK</speaker>
+               <lg type="stikisk-folkevisevers" met="bi+++ '8|'9" rhyme="x|X|r|R" part="I">
+                  <l met="∪-∪-∪∪-∪∪-∪" rhyme="A">Ja I har godt for at springe og hoppe;</l>
+                  <l met="∪∪-∪∪∪∪∪∪-∪∪∪-∪∪-" rhyme="b">men jeg <restore type="del"/> mer; jeg <app
+                        type="alteration">
+                        <lem>er</lem>
+                        <rdg/>
+                     </app> stø<retrace place="inline">l</retrace>,.jeg er støl i både lægger og
+                     knær</l>
+               </lg>
+            </sp>
+            <sp who="#ESPEN">
+               <speaker>ESPEN.</speaker>
+               <lg part="M">
+                  <l part="I" met="-∪∪-∪">Her bær’ det udfor.</l>
+               </lg>
+            </sp>
+            <sp who="#PEJK">
+               <speaker>PEJK.</speaker>
+               <lg part="M">
+                  <l part="F" met="-∪∪-∪" rhyme="A">Lidt får vi stoppe.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>FLERE.</speaker>
+               <stage>(dæmpet.)</stage>
+               <lg part="M">
+                  <l met="∪∪-∪∪-∪∪-∪∪-" rhyme="b">Lad os gå; her er utrygt og <app type="alteration">
+                        <lem>natten</lem>
+                        <rdg/>
+                     </app> er .nær.</l>
+               </lg>
+            </sp>
+            <sp who="#GERTRUD">
+               <speaker>GERTRUD.</speaker>
+               <stage>(ser nedover.)</stage>
+               <lg part="M">
+                  <l part="I" met="∪-∪-∪">Se, se, der kommer –!</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>FLERE</speaker>
+               <lg part="M">
+                  <l part="F" met="∪-∪∪-∪" rhyme="X">Hvem kommer, hvem kommer?</l>
+               </lg>
+            </sp>
+            <sp who="#GERTRUD">
+               <speaker>GERTRUD.</speaker>
+               <lg part="M">
+                  <l met="∪-∪∪-∪∪∪-∪∪-∪" rhyme="X">Fru Gunhild med alle sine frænder og venner.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>
+                  <unclear reason="writing">P</unclear>ejk og FØLGET(.)</speaker>
+               <lg part="M">
+                  <l part="I" met="∪-∪">Fru Gunhild!</l>
+               </lg>
+            </sp>
+            <sp who="#GUNHILD">
+               <speaker>GUNHILD.</speaker>
+               <lg part="M">
+                  <l part="F" met="∪∪-∪-∪-" rhyme="b">Pejk i Botten er I her!</l>
+               </lg>
+            </sp>
+            <sp who="#PEJK">
+               <speaker>
+                  <pb n="543"/>PEJK.</speaker>
+               <lg part="M">
+                  <l met="∪∪-∪∪-∪-∪-" rhyme="x">Som I ser! Jeg står altid ved mit ord.</l>
+                  <l met="∪-∪∪∪-∪∪-∪∪-" rhyme="x">Tre dage fra i kveld skal jo bryl<unclear
+                        reason="writing">l</unclear>upet stå.</l>
+                  <l met="∪∪∪-∪-∪∪-∪∪-" rhyme="x">Men der er ingen fremkomst fra Botten til
+                     Borg.</l>
+                  <l met="∪-∪-∪∪-∪-∪" rhyme="C">Et jordskred kom og tog med sig vejen.</l>
+                  <l met="∪∪-∪∪∪-∪∪∪-∪∪-" rhyme="d">Ikke både var der heller for så mange som
+                     vi.</l>
+                  <l met="∪∪-∪∪∪-∪∪-∪-" rhyme="d">Men jeg måtte og jeg vilde mit løfte fri.</l>
+               </lg>
+            </sp>
+            <sp who="#GUNHILD">
+               <speaker>GUNHILD</speaker>
+               <lg part="M">
+                  <l part="I" met="∪∪-∪∪∪-∪∪">Og så tog I over Troldfjeldet?</l>
+               </lg>
+            </sp>
+            <sp who="#PEJK">
+               <speaker>PEJK.</speaker>
+               <lg part="M">
+                  <l part="F" met="-∪∪-∪" rhyme="C">Bent over hejen.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>GUNHILDS KVINDER</speaker>
+               <lg part="M">
+                  <l met="-∪∪-∪∪-∪-∪" rhyme="X">Der, hvor det spøger på lyse dagen;</l>
+                  <l met="-∪∪-∪∪-∪∪-" rhyme="x">der hvor det kogler om natten. Hu-hu!</l>
+               </lg>
+            </sp>
+            <sp who="#PEJK">
+               <speaker>PEJK.</speaker>
+               <lg part="M">
+                  <l met="∪∪-∪-∪∪∪-∪∪-" rhyme="x">Men visst ikke tænkte jeg at møde jer her.</l>
+               </lg>
+            </sp>
+            <sp who="#GUNHILD">
+               <speaker>GUNHILD.</speaker>
+               <lg part="M">
+                  <l part="I" met="∪∪-∪∪-∪">I må høre og vide –</l>
+               </lg>
+            </sp>
+            <sp who="#PEJK">
+               <speaker>PEJK.</speaker>
+               <lg part="M">
+                  <l part="F" met="∪-∪-∪" rhyme="X">Så stor en hæder!</l>
+                  <l met="-∪∪∪-∪∪-∪∪-" rhyme="x">
+                     <pb n="573"/>Komme mig til møde med kvinder og mænd.</l>
+                  <l met="∪-∪∪-∪∪-∪-∪" rhyme="X">Jeg tænkte I stræved i brylupshuset;</l>
+                  <l met="-∪∪-∪-∪∪-∪" rhyme="X">tænkte, I bagte, brygged og stegte –</l>
+                  <l met="∪∪-∪∪-∪∪∪-∪-∪" rhyme="E">havde hænderne fulde, ikke tid at miste –</l>
+               </lg>
+            </sp>
+            <sp who="#GUNHILD">
+               <speaker>GUNHILD</speaker>
+               <lg part="M">
+                  <l met="-∪∪-∪∪∪-∪∪∪-∪" rhyme="E">Å hvis I vidste, g hvilken jammerjeg må
+                     friste</l>
+               </lg>
+            </sp>
+            <sp who="#PEJK">
+               <speaker>PEJK.</speaker>
+               <lg part="M">
+                  <l part="I" met="∪∪-">Hvilken sorg?</l>
+               </lg>
+            </sp>
+            <sp who="#GERTRUD">
+               <speaker>GERTRUD.</speaker>
+               <lg part="M">
+                  <l part="M" met="∪∪-∪">Hvor er Olaf?</l>
+               </lg>
+            </sp>
+            <sp who="#PEJK">
+               <speaker>PEJK.</speaker>
+               <lg part="F">
+                  <l part="F" met="∪-∪∪∪-∪" rhyme="X">Ja, Olaf ser jeg ikke.</l>
+               </lg>
+            </sp>
+         </div>
+      </body>
+   </text>
+</TEI>
