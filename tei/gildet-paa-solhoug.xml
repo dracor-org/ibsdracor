@@ -89,7 +89,7 @@
          <event type="print" when="1856">
             <desc/>
          </event>
-         <event type="premiere" when="1856">
+         <event type="premiere" when="1856-01-02">
             <desc/>
          </event>
          <event type="written" notBefore="1855" notAfter="1855">
