@@ -220,21 +220,6 @@
                   <pb n="477"/>PEER GYNT</titlePart>
                <titlePart type="sub">ET DRAMATISK DIGT</titlePart>
             </docTitle>
-            <byline>AF <docAuthor>HENRIK IBSEN</docAuthor>
-            </byline>
-            <docImprint>
-               <pubPlace>KJØBENHAVN</pubPlace>
-               <publisher>FORLAGT AF DEN GYLDENDALSKE BOGHANDEL (F. HEGEL)</publisher>
-               <publisher>
-                  <orgName type="printer">TRYKT HOS J. H. SCHULTZ</orgName>
-               </publisher>
-               <date>1867</date>
-            </docImprint>
-         </titlePage>
-         <titlePage type="part">
-            <docTitle>
-               <titlePart type="main">PEER GYNT</titlePart>
-            </docTitle>
          </titlePage>
          <castList>
             <head type="castList">
