@@ -93,27 +93,11 @@
    </standOff>
    <text type="drama" xml:lang="dan-nob">
       <front>
-         <titlePage type="flyleaf">
-            <docTitle>
-               <titlePart type="main">
-                  <pb n="383"/>GENGANGERE</titlePart>
-            </docTitle>
-         </titlePage>
          <titlePage type="main">
             <docTitle>
                <titlePart type="main">GENGANGERE</titlePart>
                <titlePart type="sub">ET FAMILJEDRAMA I TRE AKTER</titlePart>
             </docTitle>
-            <byline>AF <docAuthor>HENRIK IBSEN</docAuthor>
-            </byline>
-            <docImprint>
-               <pubPlace>KØBENHAVN</pubPlace>
-               <publisher>GYLDENDALSKE BOGHANDELS FORLAG (F. HEGEL &amp; SØN)</publisher>
-               <publisher>
-                  <orgName type="printer">GRÆBES BOGTRYKKERI</orgName>
-               </publisher>
-               <date>1881</date>
-            </docImprint>
          </titlePage>
          <castList>
             <head type="castList">
