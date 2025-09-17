@@ -42,7 +42,9 @@
                <bibl type="originalSource">
                   <author>Henrik Ibsen</author>: <title type="main">Sancthansnatten</title>. <title
                      type="sub">Hovedtekst, tekstgrunnlag: Tark UiB NT872 (+ 1. utg 1853 av
-                     prolog)</title>. In: <edition>Henrik Ibsens skrifter, bind 1</edition>. 
+                     prolog)</title>. In: <edition>Henrik Ibsens skrifter, bind 1</edition>.
+                     <editor>Christian Janss, Hilde Bøe, Ståle Dingstad og Stine Brenna
+                     Taugbøl</editor>
                   <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
                   <date when="2005">2005</date>
                   <biblScope unit="page" from="363" to="484">363-484</biblScope>
@@ -115,62 +117,7 @@
                <titlePart type="desc">EVENTYRCOMEDIE I TRE ACTER</titlePart>
             </docTitle>
          </titlePage>
-         <castList>
-            <head>
-               <pb n="374"/>Personerne</head>
-            <castItem sameAs="FRUEN">
-               <role>FRU BERG</role>
-               <actor>Jfr: Wiese</actor>
-            </castItem>
-            <castGroup>
-               <castItem sameAs="JORGEN">
-                  <role>JØRGEN KVIST</role>, <roleDesc>Student</roleDesc>
-                  <actor>Prom</actor>
-               </castItem>
-               <castItem sameAs="JULIANE">
-                  <role>JULIANE</role>, <roleDesc>hans Søster</roleDesc>
-                  <actor>Md<hi>m</hi> Hundevadt</actor>
-               </castItem>
-               <roleDesc>Fru Bergs Børn af første Ægteskab –</roleDesc>
-            </castGroup>
-            <castItem sameAs="ANNA">
-               <role>ANNA</role>, <roleDesc>hendes Steddatter</roleDesc>
-               <actor>" Bruun</actor>
-            </castItem>
-            <castItem sameAs="BERG">
-               <role>BERG</role>, <roleDesc>forhenværende Gaardeier, hendes afdøde Mands
-                  Fader</roleDesc>
-               <actor>P. N</actor>
-            </castItem>
-            <castGroup>
-               <castItem sameAs="BIRK">
-                  <role>JOHANNES BIRK</role>
-                  <actor>Isachsen</actor>
-               </castItem>
-               <castItem sameAs="PAULSEN">
-                  <role>JULIAN PAULSEN</role>
-                  <actor>Bruun</actor>
-               </castItem>
-               <roleDesc>Studenter</roleDesc>
-            </castGroup>
-            <castItem sameAs="NISSEN">
-               <role>EN NISSE</role>
-               <actor>Jfr Johan<unclear reason="writing">&lt;nesen&gt;</unclear>
-               </actor>
-            </castItem>
-            <castGroup>
-               <castItem sameAs="ALFER">
-                  <role>ALFER</role>, </castItem>
-               <castItem>
-                  <role>HOUGFOLK</role> o: s: v.</castItem>
-            </castGroup>
-         </castList>
-         <set>
-            <p>Handlingen foregaaer paa Fru Bergs Gaard i Thellemarken. –</p>
-         </set>
-      </front>
-      <body>
-         <div type="prologue">
+         <div type="act" n="0">
             <head type="act">
                <pb n="369"/>PROLOG</head>
             <lg type="strofisk-strofegruppe-trokeisk-firtakter"
@@ -292,6 +239,62 @@
                </lg>
             </lg>
          </div>
+         <castList>
+            <head>
+               <pb n="374"/>Personerne</head>
+            <castItem sameAs="FRUEN">
+               <role>FRU BERG</role>
+               <actor>Jfr: Wiese</actor>
+            </castItem>
+            <castGroup>
+               <castItem sameAs="JORGEN">
+                  <role>JØRGEN KVIST</role>, <roleDesc>Student</roleDesc>
+                  <actor>Prom</actor>
+               </castItem>
+               <castItem sameAs="JULIANE">
+                  <role>JULIANE</role>, <roleDesc>hans Søster</roleDesc>
+                  <actor>Md<hi>m</hi> Hundevadt</actor>
+               </castItem>
+               <roleDesc>Fru Bergs Børn af første Ægteskab –</roleDesc>
+            </castGroup>
+            <castItem sameAs="ANNA">
+               <role>ANNA</role>, <roleDesc>hendes Steddatter</roleDesc>
+               <actor>" Bruun</actor>
+            </castItem>
+            <castItem sameAs="BERG">
+               <role>BERG</role>, <roleDesc>forhenværende Gaardeier, hendes afdøde Mands
+                  Fader</roleDesc>
+               <actor>P. N</actor>
+            </castItem>
+            <castGroup>
+               <castItem sameAs="BIRK">
+                  <role>JOHANNES BIRK</role>
+                  <actor>Isachsen</actor>
+               </castItem>
+               <castItem sameAs="PAULSEN">
+                  <role>JULIAN PAULSEN</role>
+                  <actor>Bruun</actor>
+               </castItem>
+               <roleDesc>Studenter</roleDesc>
+            </castGroup>
+            <castItem sameAs="NISSEN">
+               <role>EN NISSE</role>
+               <actor>Jfr Johan<unclear reason="writing">&lt;nesen&gt;</unclear>
+               </actor>
+            </castItem>
+            <castGroup>
+               <castItem sameAs="ALFER">
+                  <role>ALFER</role>, </castItem>
+               <castItem>
+                  <role>HOUGFOLK</role> o: s: v.</castItem>
+            </castGroup>
+         </castList>
+         <set>
+            <p>Handlingen foregaaer paa Fru Bergs Gaard i Thellemarken. –</p>
+         </set>
+      </front>
+      <body>
+
          <div type="act" n="1">
             <head type="act">
                <pb n="375"/>FØRSTE ACT</head>
