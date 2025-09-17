@@ -106,28 +106,11 @@
    </standOff>
    <text type="drama" xml:lang="dan-nob">
       <front>
-         <titlePage type="flyleaf">
-            <docTitle>
-               <titlePart>
-                  <pb n="181"/>FRU INGER TIL ØSTRÅT</titlePart>
-            </docTitle>
-         </titlePage>
          <titlePage type="main">
             <docTitle>
                <titlePart type="main">FRU INGER TIL ØSTRÅT</titlePart>
                <titlePart type="desc">SKUESPIL I FEM HANDLINGER</titlePart>
             </docTitle>
-            <byline>AF <docAuthor>HENRIK IBSEN</docAuthor>
-            </byline>
-            <docEdition>ANDEN GENNEMSÉTE OG RETTEDE UDGAVE</docEdition>
-            <docImprint>
-               <pubPlace>KØBENHAVN</pubPlace>
-               <publisher>FORLAGT AF DEN GYLDENDALSKE BOGHANDEL (F. HEGEL)</publisher>
-               <publisher>
-                  <orgName type="printer">TRYKT HOS J. JØRGENSEN &amp; CO</orgName>
-               </publisher>
-               <date>1874</date>
-            </docImprint>
          </titlePage>
          <castList>
             <head>
