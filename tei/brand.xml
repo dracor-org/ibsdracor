@@ -133,21 +133,6 @@
                   <pb n="193"/>BRAND</titlePart>
                <titlePart type="sub">ET DRAMATISK DIGT</titlePart>
             </docTitle>
-            <byline>AF <docAuthor>HENRIK IBSEN</docAuthor>
-            </byline>
-            <docImprint>
-               <pubPlace>KJØBENHAVN</pubPlace>
-               <publisher>FORLAGT AF DEN GYLDENDALSKE BOGHANDEL (F. HEGEL)</publisher>
-               <publisher>
-                  <orgName type="printer">THIELES BOGTRYKKERI</orgName>
-               </publisher>
-               <date>1866</date>
-            </docImprint>
-         </titlePage>
-         <titlePage type="part">
-            <docTitle>
-               <titlePart type="main">BRAND</titlePart>
-            </docTitle>
          </titlePage>
          <castList>
             <head type="castList">
