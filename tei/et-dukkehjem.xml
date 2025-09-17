@@ -105,27 +105,11 @@
    </standOff>
    <text type="drama" xml:lang="da-nob">
       <front>
-         <titlePage type="flyleaf">
-            <docTitle>
-               <titlePart type="main">
-                  <pb n="211"/>ET DUKKEHJEM</titlePart>
-            </docTitle>
-         </titlePage>
          <titlePage type="main">
             <docTitle>
                <titlePart type="main">ET DUKKEHJEM</titlePart>
                <titlePart type="sub">SKUESPIL I TRE AKTER</titlePart>
             </docTitle>
-            <byline>AF <docAuthor>HENRIK IBSEN</docAuthor>
-            </byline>
-            <docImprint>
-               <pubPlace>KØBENHAVN</pubPlace>
-               <publisher>GYLDENDALSKE BOGHANDELS FORLAG (F. HEGEL &amp; SØN)</publisher>
-               <publisher>
-                  <orgName type="printer">GRÆBES BOGTRYKKERI</orgName>
-               </publisher>
-               <date>1879</date>
-            </docImprint>
          </titlePage>
          <castList>
             <head type="castList">
