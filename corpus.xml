@@ -19,23 +19,28 @@
     <encodingDesc>
       <projectDesc>
         <p>
-          This corpus is developed from HISe's scholarly sdition of the Henrik Ibsen's Writings,
-          which comprises all of Ibsen's published (and many unpublished) works. The project was 
-          started in 1999 and completed in 2010. It is maintained by the Centre for Ibsen Studies
-          at the University of Oslo.
-          The works included in this DraCor corpus are all of Ibsen's published dramsas, as well
-          as his unpublished drama manuscripts. Also included are various versions of a selection
-          of plays. The reason for this inclusion is that the versions often carry significant 
-          differences. Some may have been updated with a modernised language, and others in other
-          formats. However, the versions typically carry with them semantic differences, which may
-          be of interest for some areas of research.
+          This corpus is developed from HISe's scholarly edition of the Henrik
+          Ibsen's Writings, which comprises all of Ibsen's published (and many
+          unpublished) works. The project was started in 1999 and completed in
+          2010. It is maintained by the Centre for Ibsen Studies at the
+          University of Oslo.
+        </p>
+        <p>
+          The works included in this DraCor corpus are all of Ibsen's published
+          dramas, as well as his unpublished drama manuscripts. Also included
+          are various versions of a selection of plays. The reason for this
+          inclusion is that the versions often carry significant differences.
+          Some may have been updated with a modernised language, and others in
+          other formats. However, the versions typically carry with them
+          semantic differences, which may be of interest for some areas of
+          research.
         </p>
       </projectDesc>
     </encodingDesc>
     <revisionDesc>
       <change when="2025-08-29" status="draft"/>
-      change when="2025-09-17" status="draft">Updated the corpus with the remaining published dramas.</change
+      <change when="2025-09-17" status="draft">Updated the corpus with the remaining published dramas.</change>
+      <change when="2025-09-20" status="published"/>
     </revisionDesc>
   </teiHeader>
 </teiCorpus>
-
