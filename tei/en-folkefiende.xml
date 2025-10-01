@@ -51,7 +51,7 @@
       <profileDesc>
          <langUsage>
             <language ident="nob"/>
-            <language ident="dan-nob">Dano-Norwegian</language>
+            <language ident="da-no">Dano-Norwegian</language>
          </langUsage>
          <particDesc>
             <listPerson>
@@ -109,7 +109,7 @@
             passive="http://www.wikidata.org/entity/Q1305319"/>
       </listRelation>
    </standOff>
-   <text type="drama" xml:lang="dan-nob">
+   <text type="drama" xml:lang="da-no">
       <front>
          <titlePage type="main">
             <docTitle>
