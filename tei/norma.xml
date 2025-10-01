@@ -53,7 +53,7 @@
       <profileDesc>
          <langUsage>
             <language ident="nob"/>
-            <language ident="dan-nob"/>
+            <language ident="da-no"/>
             <language ident="lat"/>
          </langUsage>
          <particDesc>
@@ -97,7 +97,7 @@
             passive="http://www.wikidata.org/entity/Q3285327"/>
       </listRelation>
    </standOff>
-   <text type="drama" xml:lang="dan-nob">
+   <text type="drama" xml:lang="da-no">
       <front>
          <titlePage type="serial" n="1">
             <docTitle>
