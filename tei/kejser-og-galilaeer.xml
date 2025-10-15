@@ -647,7 +647,7 @@
       <body>
          <div xml:id="KG1">
             <head>
-               <title type="part">
+               <title type="main">
                   <pb n="261"/>CÆSARS FRAFALD</title>
                <title type="sub">SKUESPIL I FEM HANDLINGER</title>
             </head>
@@ -9617,7 +9617,7 @@
          </div>
          <div xml:id="KG2">
             <head>
-               <title type="part">
+               <title type="main">
                   <pb n="485"/>KEJSER JULIAN</title>
                <title type="sub">SKUESPIL I FEM HANDLINGER</title>
             </head>
