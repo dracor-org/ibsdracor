@@ -39,12 +39,12 @@
                   </licence>
                </availability>
                <bibl type="originalSource">
-                  <author>Henrik Ibsen</author> : <title type="main">Kejser og Galilæer</title>.
+                  <author>Henrik Ibsen</author>: <title type="main">Kejser og Galilæer</title>.
                      <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1873</title>. In:
                      <edition>Henrik Ibsens skrifter, bind 6</edition>. <pubPlace>Oslo</pubPlace>:
                      <publisher>Aschehoug</publisher>
-                  <date when="2008">2008</date>
-                  <biblScope unit="page" from="255" to="744">255-744</biblScope>
+                  <date when="2008">2008</date> S. <biblScope unit="page" from="255" to="744"
+                     >255-744</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -176,9 +176,6 @@
                <personGrp xml:id="DANSERNE">
                   <name>Dansere</name>
                </personGrp>
-               <personGrp xml:id="KVINDERNE" sex="FEMALE">
-                  <name>Kvinder</name>
-               </personGrp>
                <person xml:id="MEDON" sex="MALE">
                   <persName>Medon</persName>
                </person>
@@ -195,7 +192,7 @@
                   <persName>Maris</persName>
                </person>
                <personGrp xml:id="APOLLONTOGET">
-                  <name>Deltagere i apollon-toget</name>
+                  <name>Deltagere i Apollon-toget</name>
                </personGrp>
                <personGrp xml:id="FANGETOGET">
                   <name>De kristne fangers tog</name>
@@ -245,9 +242,6 @@
                <person xml:id="PERSEREN" sex="MALE">
                   <persName>En persisk overløber</persName>
                </person>
-               <personGrp xml:id="LOVSANG">
-                  <name>Lovsang</name>
-               </personGrp>
                <personGrp xml:id="MANGEISKAREN">
                   <name>Mange i skaren</name>
                </personGrp>
@@ -278,20 +272,14 @@
                <person xml:id="STEMMENILYSET">
                   <persName>En stemme i lyset</persName>
                </person>
-               <person xml:id="ENSTEMME">
-                  <persName>En stemme</persName>
-               </person>
                <person xml:id="STEMMEN">
-                  <persName>Stemmen</persName>
+                  <persName>En stemme</persName>
                </person>
                <personGrp xml:id="QUAESTORENSFOELGE">
                   <name>Quæstorens følge</name>
                </personGrp>
                <personGrp xml:id="STEMMERBLANDTQUAESTORENSFOELGE">
                   <name>Stemmer blandt Quæstorens følge</name>
-               </personGrp>
-               <personGrp xml:id="FLEREHOFMAEND" sex="MALE">
-                  <name>Flere hofmænd</name>
                </personGrp>
                <personGrp xml:id="ANDREHERRER" sex="MALE">
                   <name>Andre herrer</name>
@@ -326,9 +314,6 @@
                <personGrp xml:id="ANDRE">
                   <name>Andre</name>
                </personGrp>
-               <personGrp xml:id="SOLDATERNE" sex="MALE">
-                  <name>Soldaterne</name>
-               </personGrp>
                <personGrp xml:id="MANGESOLDATER" sex="MALE">
                   <name>Mange soldater</name>
                </personGrp>
@@ -359,9 +344,6 @@
                <personGrp xml:id="BATAVER">
                   <name>Bataver</name>
                </personGrp>
-               <personGrp xml:id="KORSANGOPPEIKIRKEN">
-                  <name>Korsang oppe i kirken</name>
-               </personGrp>
                <personGrp xml:id="KORET">
                   <name>Koret</name>
                </personGrp>
@@ -369,19 +351,19 @@
                   <persName>En kvinde</persName>
                </person>
                <person xml:id="KVINDE2" sex="FEMALE">
-                  <persName>En 2den kvinde</persName>
+                  <persName>En kvinde</persName>
                </person>
                <person xml:id="KVINDE3" sex="FEMALE">
-                  <persName>En 3die kvinde</persName>
+                  <persName>En kvinde</persName>
                </person>
                <person xml:id="KVINDE4" sex="FEMALE">
-                  <persName>En fjerde kvinde</persName>
+                  <persName>En kvinde</persName>
                </person>
                <person xml:id="KVINDE5" sex="FEMALE">
-                  <persName>En femte kvinde</persName>
+                  <persName>En kvinde</persName>
                </person>
                <person xml:id="KVINDE6" sex="FEMALE">
-                  <persName>En sjette kvinde</persName>
+                  <persName>En kvinde</persName>
                </person>
                <person xml:id="KVINDE7" sex="FEMALE">
                   <persName>En kvinde</persName>
@@ -402,19 +384,19 @@
                   <persName>En mand</persName>
                </person>
                <person xml:id="MAND2" sex="MALE">
-                  <persName>En anden mand</persName>
+                  <persName>En mand</persName>
                </person>
                <person xml:id="MAND3" sex="MALE">
-                  <persName>En tredje mand</persName>
+                  <persName>En mand</persName>
                </person>
                <person xml:id="MAND4" sex="MALE">
-                  <persName>En fjerde mand</persName>
+                  <persName>En mand</persName>
                </person>
                <person xml:id="MAND5" sex="MALE">
-                  <persName>En femte mand</persName>
+                  <persName>En mand</persName>
                </person>
                <person xml:id="MAND6" sex="MALE">
-                  <persName>En sjette mand</persName>
+                  <persName>En mand</persName>
                </person>
                <person xml:id="ENPREST" sex="MALE">
                   <persName>En prest</persName>
@@ -539,8 +521,8 @@
                <personGrp xml:id="VISDOMSVENNERNE">
                   <name>Visdomsvennerne</name>
                </personGrp>
-               <personGrp xml:id="HOFMAENDENE" sex="MALE">
-                  <name>Hofmændene</name>
+               <personGrp xml:id="HOFMAEND" sex="MALE">
+                  <name>Hofmænd</name>
                </personGrp>
                <person xml:id="ENAFMAENDENE" sex="MALE">
                   <persName>En af mændene</persName>
@@ -591,22 +573,22 @@
                   <persName>En soldat</persName>
                </person>
                <person xml:id="SOLDAT2" sex="MALE">
-                  <persName>En anden soldat</persName>
+                  <persName>En soldat</persName>
                </person>
                <person xml:id="SOLDAT3" sex="MALE">
-                  <persName>En tredje soldat</persName>
+                  <persName>En soldat</persName>
                </person>
                <person xml:id="SOLDAT4" sex="MALE">
-                  <persName>En fjerde soldat</persName>
+                  <persName>En soldat</persName>
                </person>
                <person xml:id="SOLDAT5" sex="MALE">
-                  <persName>En femte soldat</persName>
+                  <persName>En soldat</persName>
                </person>
                <person xml:id="SOLDAT6" sex="MALE">
-                  <persName>En sjette soldat</persName>
+                  <persName>En soldat</persName>
                </person>
                <person xml:id="SOLDAT7" sex="MALE">
-                  <persName>En syvende soldat</persName>
+                  <persName>En soldat</persName>
                </person>
                <person xml:id="ENROEST">
                   <persName>En røst</persName>
@@ -795,7 +777,7 @@
                <stage>Gudstjeneste. Kejserlige hustropper på kirketrappen. Store skarer af andægtige
                   strømmer ind. Betlere, krøblinge og blinde ved indgangen. Hedenske tilskuere,
                   frugthandlere og vandsælgere, opfylder pladsen.</stage>
-               <sp who="#LOVSANG">
+               <sp who="#KORET">
                   <speaker>LOVSANG</speaker>
                   <stage>inde i kirken</stage>
                   <lg type="rapsodisk-kortvers" met="bi+ '5 '7 '7 '4 '5 '4" rhyme="A A B c B c">
@@ -988,7 +970,7 @@
                </sp>
                <stage>De stridende skilles ad og strømmer med de øvrige andægtige ind i
                   kirken.</stage>
-               <sp who="#LOVSANG">
+               <sp who="#KORET">
                   <speaker>
                      <pb n="268"/>LOVSANG</speaker>
                   <stage>fra højaltret</stage>
@@ -5242,7 +5224,7 @@
                   <stage>(nølende)</stage>
                   <p>Kan du, så tal til mig!</p>
                </sp>
-               <sp who="#ENSTEMME">
+               <sp who="#STEMMEN">
                   <speaker>EN STEMME</speaker>
                   <p>Hvad vil du vide?</p>
                </sp>
@@ -5442,7 +5424,7 @@
                   <speaker>FYRST JULIAN</speaker>
                   <p>Hvad var du i livet?</p>
                </sp>
-               <sp who="#ENSTEMME">
+               <sp who="#STEMMEN">
                   <speaker>EN STEMME</speaker>
                   <stage>lige ved ham</stage>
                   <p>Verdens-vognens tolvte hjul.</p>
@@ -7140,7 +7122,7 @@
                   <p>Hvad vending det alemanske overfald uden Cæsars tapperhed og klogskab kunde
                      have taget, det vover jeg knapt at tænke på.</p>
                </sp>
-               <sp who="#FLEREHOFMAEND">
+               <sp who="#HOFMAEND">
                   <speaker>FLERE HOFMÆND</speaker>
                   <stage>trænger sig frem</stage>
                   <p>Ja, herre, Cæsar er stor!</p>
@@ -8144,7 +8126,7 @@
                      andel af krigsbyttet. Fem guldstykker og et pund sølv havde jeg tænkt at skænke
                      hver soldat, men –</p>
                </sp>
-               <sp who="#SOLDATERNE">
+               <sp who="#SOLDATER">
                   <speaker>SOLDATERNE</speaker>
                   <p>Hvad siger han?</p>
                </sp>
@@ -8198,7 +8180,7 @@
                      som skal føres bort til de fjerneste lande for at gå en uviss skæbne
                      imøde –</p>
                </sp>
-               <sp who="#SOLDATERNE">
+               <sp who="#SOLDATER">
                   <speaker>SOLDATERNE</speaker>
                   <p>Vi går ikke!</p>
                </sp>
@@ -8220,7 +8202,7 @@
                      Hvo skal skærme disse medynksværdige, disse vordende enker og faderløse, der
                      snart vil være udsatte for Alemanernes hævngærrige overfald?</p>
                </sp>
-               <sp who="#KVINDERNE">
+               <sp who="#KVINDER">
                   <speaker>KVINDERNE</speaker>
                   <stage>grædende</stage>
                   <p>Cæsar, Cæsar, tag dig af os!</p>
@@ -8407,7 +8389,7 @@
                   <p>Guddommelige visdom, lys op i hans formørkede sjæl og led ham til det bedste!
                      Vær med mig, du lykke, som aldrig har svigtet mig før!</p>
                </sp>
-               <sp who="#MYRRHA #KVINDERNE">
+               <sp who="#MYRRHA #KVINDER">
                   <speaker>MYRRHA og KVINDERNE</speaker>
                   <stage>veklagende udenfor til højre</stage>
                   <p>Død, død, død!</p>
@@ -9499,7 +9481,7 @@
                   <speaker>RIDDEREN SALLUST</speaker>
                   <p>Vær sindige; jeg besværger jer –!</p>
                </sp>
-               <sp who="#SOLDATERNE">
+               <sp who="#SOLDATER">
                   <speaker>SOLDATERNE</speaker>
                   <p>Cæsar har forrådt os! Cæsar skal dø!</p>
                </sp>
@@ -9511,7 +9493,7 @@
                   <speaker>FANEBÆREREN MAUROS</speaker>
                   <p>Hvad så? Med Cæsars hoved køber vi tilgivelse –</p>
                </sp>
-               <sp who="#SOLDATERNE">
+               <sp who="#SOLDATER">
                   <speaker>SOLDATERNE</speaker>
                   <p>Frem, frem, Cæsar!</p>
                </sp>
@@ -9528,7 +9510,7 @@
                   <speaker>MYSTIKEREN MAXIMOS</speaker>
                   <p>Frigjort!</p>
                </sp>
-               <sp who="#KORSANGOPPEIKIRKEN">
+               <sp who="#KORET">
                   <speaker>KORSANG OPPE I KIRKEN</speaker>
                   <p>Fader vor, du som er i himlen!</p>
                </sp>
@@ -9548,7 +9530,7 @@
                      hænderne</stage>
                   <p>Fuldbyrdet!</p>
                </sp>
-               <sp who="#SOLDATERNE">
+               <sp who="#SOLDATER">
                   <speaker>SOLDATERNE</speaker>
                   <p>Cæsar!</p>
                </sp>
@@ -9583,7 +9565,7 @@
                      <pb n="483"/>CÆSAR JULIAN</speaker>
                   <p>Ah, mine trofaste! Op i dagen; til Rom og Grækenland!</p>
                </sp>
-               <sp who="#SOLDATERNE">
+               <sp who="#SOLDATER">
                   <speaker>SOLDATERNE</speaker>
                   <p>Leve kejser Julian!</p>
                </sp>
@@ -10987,7 +10969,7 @@
                      <l met="-∪∪-∪∪-∪∪-" rhyme="b">hylder dig, vingud, i svimlende lag!</l>
                   </lg>
                </sp>
-               <sp who="#KVINDERNE">
+               <sp who="#KVINDER">
                   <speaker>KVINDERNE</speaker>
                   <stage>synger</stage>
                   <lg part="F">
@@ -11067,7 +11049,7 @@
                      <l met="-∪∪-∪∪" rhyme="Ee">sidder den herlige!</l>
                   </lg>
                </sp>
-               <sp who="#KVINDERNE">
+               <sp who="#KVINDER">
                   <speaker>KVINDERNE</speaker>
                   <lg part="F">
                      <l met="-∪∪-∪-∪∪-∪∪" rhyme="Ee">Kend, vi er hede; føl, vi er kærlige; –</l>
@@ -14007,7 +13989,7 @@
                   <p>Ve, ve over den nye Pilatus! Han nøjes ikke, som hin, med at døde frelserens
                      legeme. Han myrder ordet og læren!</p>
                </sp>
-               <sp who="#KVINDERNE">
+               <sp who="#KVINDER">
                   <speaker>KVINDERNE</speaker>
                   <stage>afriver sit hår og sønderflænger sine klæder</stage>
                   <p>Ve, ve, ve!</p>
@@ -14076,7 +14058,7 @@
                      vore hellige søstres hus, krænkede kvinderne, myrdede dem under pinsler, som
                      ikke kan udsiges –</p>
                </sp>
-               <sp who="#KVINDERNE">
+               <sp who="#KVINDER">
                   <speaker>KVINDERNE</speaker>
                   <p>Ve, ve!</p>
                </sp>
@@ -14085,7 +14067,7 @@
                   <p>– ja, der var nogle af de elendige, som åbnede et af blodvidnernes legemer, rev
                      indvoldene ud og åd leveren rå!</p>
                </sp>
-               <sp who="#KVINDERNE">
+               <sp who="#KVINDER">
                   <speaker>KVINDERNE</speaker>
                   <p>Ve, ve, ve!</p>
                </sp>
@@ -14102,7 +14084,7 @@
                      videre, end sket er til denne dag, – hvad gør så det til sagen? Imod alt dette
                      er der en lægedom og en vej til sejr!</p>
                </sp>
-               <sp who="#KVINDERNE">
+               <sp who="#KVINDER">
                   <speaker>KVINDERNE</speaker>
                   <p>Kristus, Kristus!</p>
                </sp>
@@ -14225,7 +14207,7 @@
                      at I om føje tid skal komme til at agte dem ringere, såsom det vil vise sig at
                      hin Jesus af Nazareth har været en løgner og bedrager.</p>
                </sp>
-               <sp who="#KVINDERNE">
+               <sp who="#KVINDER">
                   <speaker>KVINDERNE</speaker>
                   <p>Ve os; ve os!</p>
                </sp>
@@ -14316,7 +14298,7 @@
                   <p>Jeg salige, som får lide til Herrens ære!</p>
                </sp>
                <stage>Soldaterne griber ham og slæber ham ud.</stage>
-               <sp who="#KVINDERNE">
+               <sp who="#KVINDER">
                   <speaker>KVINDERNE</speaker>
                   <stage>i gråd og klage</stage>
                   <p>Ve os! Ve, ve over fornægteren!</p>
@@ -14344,7 +14326,7 @@
                   <speaker>KEJSER JULIAN</speaker>
                   <p>O, evige guder, – Hekebolios –!</p>
                </sp>
-               <sp who="#HOFMAENDENE">
+               <sp who="#HOFMAEND">
                   <speaker>HOFMÆNDENE</speaker>
                   <p>Ah, i sandhed, – Hekebolios!</p>
                </sp>
@@ -17887,7 +17869,7 @@
                <stage>Sumpig skogegn. Et mørkt stillestående vand mellem træerne. Vagtblus langt
                   borte. Måneskinsnat med drivende skyer.</stage>
                <stage>Nogle soldater står på vagt i forgrunden.</stage>
-               <sp who="#MAKRINA #KVINDERNE">
+               <sp who="#MAKRINA #KVINDER">
                   <speaker>MAKRINA og KVINDERNE</speaker>
                   <stage>synger udenfor til venstre</stage>
                   <lg type="rapsodisk-kortvers" met="bi+ '4 '4 '4 '4" rhyme="a b b a">
@@ -18038,7 +18020,7 @@
                      <pb n="715"/>LIVLÆGEN ORIBASES</speaker>
                   <p>Godt, godt! Men ingen andre? Ingen af de høje herrer? Ingen af hærførerne?</p>
                </sp>
-               <sp who="#SOLDATERNE">
+               <sp who="#SOLDATER">
                   <speaker>SOLDATERNE</speaker>
                   <p>Nej, ingen.</p>
                </sp>
@@ -18058,7 +18040,7 @@
                      mellem træerne; og finder I nogen af de fornemme herrer, så meld det ved
                      vagtilden der borte.</p>
                </sp>
-               <sp who="#SOLDATERNE">
+               <sp who="#SOLDATER">
                   <speaker>SOLDATERNE</speaker>
                   <p>Skal ske, herre!</p>
                </sp>
