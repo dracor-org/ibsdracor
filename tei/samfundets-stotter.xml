@@ -40,10 +40,10 @@
                <bibl type="originalSource">
                   <author>Henrik Ibsen</author>: <title type="main">Samfundets støtter</title>.
                      <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1877</title>. In:
-                     <edition>Henrik Ibsens skrifter, bind 7</edition>. 
-                  <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
-                  <date when="2008">2008</date>
-                  <biblScope unit="page" from="7" to="208">7-208</biblScope>
+                     <edition>Henrik Ibsens skrifter, bind 7</edition>. <pubPlace>Oslo</pubPlace>:
+                     <publisher>Aschehoug</publisher>
+                  <date when="2008">2008</date> s. <biblScope unit="page" from="7" to="208"
+                     >7-208</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -112,6 +112,27 @@
                <person xml:id="FRKHOLT" sex="FEMALE">
                   <persName>Frøken Holt</persName>
                </person>
+               <personGrp xml:id="STEMMERBLANDTMAENGDEN">
+                  <name>Stemmer blandt mængden</name>
+               </personGrp>
+               <personGrp xml:id="STEMMER">
+                  <name>Stemmer</name>
+               </personGrp>
+               <personGrp xml:id="MANGESTEMMER">
+                  <name>Mange stemmer</name>
+               </personGrp>
+               <personGrp xml:id="FORSKELLIGESTEMMER">
+                  <name>Forskellige stemmer</name>
+               </personGrp>
+               <personGrp xml:id="HELESKAREN">
+                  <name>Hele skaren</name>
+               </personGrp>
+               <personGrp xml:id="DAEMPEDESTEMMER">
+                  <name>Dæmpede stemmer</name>
+               </personGrp>
+               <personGrp xml:id="MAENGDEN">
+                  <name>Mængden</name>
+               </personGrp>
             </listPerson>
          </particDesc>
       </profileDesc>
@@ -683,7 +704,7 @@
                   i. Her må dog ialfald være <emph>nogen</emph>, som holder ideens fane højt. Uf, nu
                   skriger han igen!</p>
             </sp>
-            <sp>
+            <sp who="#FRURUMMEL #FRUHOLT #FRUBERNICK #FRULYNGE">
                <speaker>FRUERNE</speaker>
                <p>Hvem skriger?</p>
             </sp>
@@ -1864,7 +1885,7 @@
                   jeg så tør sige. – Hvad for noget!</p>
             </sp>
             <stage>Den fremmede dame træder raskt ind gennem døren tilhøjre.</stage>
-            <sp>
+            <sp who="#FRURUMMEL #FRUHOLT #FRUBERNICK #FRULYNGE">
                <speaker>FRUERNE</speaker>
                <stage>forskrækket men dæmpet</stage>
                <p>Beridersken! Direktør-madamen!</p>
@@ -1975,7 +1996,7 @@
                <speaker>FRØKEN HESSEL</speaker>
                <p>Jeg og barnet, naturligvis.</p>
             </sp>
-            <sp>
+            <sp who="#FRURUMMEL #FRUHOLT #FRUBERNICK #FRULYNGE">
                <speaker>FRUERNE</speaker>
                <stage>med et udråb</stage>
                <p>Barnet!</p>
@@ -7101,7 +7122,7 @@
                <speaker>KONSUL BERNICK</speaker>
                <p>Du har ham!</p>
             </sp>
-            <sp>
+            <sp who="#GROSSRUMMEL #VIGELAND #SANDSTAD #KRAP #OLAF #JOHAN #RORLUND #AUNE #HILMAR">
                <speaker>HERRERNE</speaker>
                <p>Ah!</p>
             </sp>
@@ -7281,7 +7302,7 @@
                   grebet initiativet til et foretagende, som efter alle kyndiges mening vil give et
                   mægtigt fremstød til dette samfunds timelige trivsel og velvære.</p>
             </sp>
-            <sp>
+            <sp who="#STEMMERBLANDTMAENGDEN">
                <speaker>STEMMER BLANDT MÆNGDEN</speaker>
                <p>Bravo, bravo!</p>
             </sp>
@@ -7297,7 +7318,7 @@
                   hundreder af familjers velfærd. Med andre ord – De er dette samfunds grundpille i
                   eminent betydning.</p>
             </sp>
-            <sp>
+            <sp who="#STEMMER">
                <speaker>STEMMER</speaker>
                <p>Hør, hør, bravo!</p>
             </sp>
@@ -7308,7 +7329,7 @@
                   med at skaffe os en – ja, jeg tager ikke i betænkning at nævne ordet prosaisk og
                   ligefrem – en jernbane.</p>
             </sp>
-            <sp>
+            <sp who="#MANGESTEMMER">
                <speaker>MANGE STEMMER</speaker>
                <p>Bravo! Bravo!</p>
             </sp>
@@ -7317,7 +7338,7 @@
                <p>Men dette foretagende lader til at skulle støde på vanskeligheder, væsentlig
                   dikterede af snevre selviske hensyn.</p>
             </sp>
-            <sp>
+            <sp who="#STEMMER">
                <speaker>STEMMER</speaker>
                <p>Hør; hør!</p>
             </sp>
@@ -7328,7 +7349,7 @@
                   i besiddelse af visse <pb n="195"/>fordele, som retteligen burde være kommen vor
                   egen by tilgode.</p>
             </sp>
-            <sp>
+            <sp who="#STEMMER">
                <speaker>STEMMER</speaker>
                <p>Ja, ja! Hør!</p>
             </sp>
@@ -7338,7 +7359,7 @@
                   konsul. Men ikke desto mindre forfølger De urokkelig Deres forehavende, vel
                   vidende at en statsborger ikke blot bør have sin egen kommune for øje.</p>
             </sp>
-            <sp>
+            <sp who="#FORSKELLIGESTEMMER">
                <speaker>FORSKELLIGE STEMMER</speaker>
                <p>Hm! Nej; nej! Jo; jo!</p>
             </sp>
@@ -7353,7 +7374,7 @@
                   rygtet siger, heldigen og hurtigere end forventet, er bleven visse sådanne
                   elementer kvit –</p>
             </sp>
-            <sp>
+            <sp who="#STEMMER">
                <speaker>STEMMER</speaker>
                <p>Hys! Hys!</p>
             </sp>
@@ -7363,7 +7384,7 @@
                   />berører dette punkt <emph>her</emph>, viser at vi befinder os i et hus, hvor den
                   ethiske fordring stilles højere end familjebåndet.</p>
             </sp>
-            <sp>
+            <sp who="#STEMMER">
                <speaker>STEMMER</speaker>
                <p>Hør! Bravo!</p>
             </sp>
@@ -7381,7 +7402,7 @@
                   betydningsfulde stund, da vi, efter praktiske mænds forsikring, står foran
                   begyndelsen til en ny tid.</p>
             </sp>
-            <sp>
+            <sp who="#MANGESTEMMER">
                <speaker>MANGE STEMMER</speaker>
                <p>Bravo! Hør! Hør!</p>
             </sp>
@@ -7408,7 +7429,7 @@
                      mængden)</stage> Og hermed, mine venner, et leve for konsul Bernick og hans
                   medkæmpere! Et hurra for vort samfunds støtter!</p>
             </sp>
-            <sp>
+            <sp who="#HELESKAREN">
                <speaker>HELE SKAREN</speaker>
                <p>Leve konsul Bernick! Leve samfundets støtter! Hurra, hurra, hurra!</p>
             </sp>
@@ -7446,7 +7467,7 @@
                <p>Lige over for mine medborgere gør jeg mig ingen bebrejdelse herfor; thi jeg tror
                   endnu, at jeg tør stille mig i første række blandt de dygtige her hos os.</p>
             </sp>
-            <sp>
+            <sp who="#MANGESTEMMER">
                <speaker>MANGE STEMMER</speaker>
                <p>Ja, ja, ja!</p>
             </sp>
@@ -7467,7 +7488,7 @@
                <p>Her går rygter om store ejendomskøb opover i landet. Disse ejendomme har jeg købt,
                   allesammen, jeg alene.</p>
             </sp>
-            <sp>
+            <sp who="#DAEMPEDESTEMMER">
                <speaker>
                   <pb n="199"/>DÆMPEDE STEMMER</speaker>
                <p>Hvad siger han? Konsulen? Konsul Bernick?</p>
@@ -7496,7 +7517,7 @@
                   iaften er bleven enig med mig selv om at disse ejendomme skal udbydes til
                   almindelig aktietegning; enhver, som vil, kan få del i dem.</p>
             </sp>
-            <sp>
+            <sp who="#MANGESTEMMER">
                <speaker>MANGE STEMMER</speaker>
                <p>Hurra! Leve konsul Bernick!</p>
             </sp>
@@ -7515,7 +7536,7 @@
                   <pb n="200"/>KØBMAND VIGELAND</speaker>
                <p>Nå, så dævelen rive –! Å kors, hvad er det jeg siger?</p>
             </sp>
-            <sp>
+            <sp who="#MAENGDEN">
                <speaker>MÆNGDEN</speaker>
                <stage>udenfor</stage>
                <p>Hurra, hurra, hurra!</p>
@@ -7528,7 +7549,7 @@
                   om de forbliver samlet på <emph>en</emph> hånd. Men man kan vælge. Ønsker man det,
                   så er jeg villig til at forvalte dem efter bedste skøn.</p>
             </sp>
-            <sp>
+            <sp who="#STEMMER">
                <speaker>STEMMER</speaker>
                <p>Ja! Ja! Ja!</p>
             </sp>
