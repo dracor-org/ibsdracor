@@ -40,8 +40,7 @@
                   </licence>
                </availability>
                <bibl type="originalSource">
-                  <author>Henrik Ibsen</author>: <title type="main">Sancthansnatten</title>. <title
-                     type="sub">Hovedtekst, tekstgrunnlag: Tark UiB NT872 (+ 1. utg 1853 av
+                  <author>Henrik Ibsen</author>: <title type="main">Sancthansnatten</title>. <title type="sub">Hovedtekst, tekstgrunnlag: Tark UiB NT872 (+ 1. utg 1853 av
                      prolog)</title>. In: <edition>Henrik Ibsens skrifter, bind 1</edition>.
                      <editor>Christian Janss, Hilde Bøe, Ståle Dingstad og Stine Brenna
                      Taugbøl</editor>
@@ -87,6 +86,12 @@
                <personGrp xml:id="ALFER" sex="UNKNOWN">
                   <name>Alfer</name>
                </personGrp>
+               <personGrp xml:id="CHOR">
+                  <name>Chor</name>
+               </personGrp>
+               <personGrp xml:id="STEMMERFRABAGGRUNDEN">
+                  <name>Stemmer fra baggrunden</name>
+               </personGrp>
             </listPerson>
          </particDesc>
       </profileDesc>
@@ -104,8 +109,9 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000027"
-            passive="http://www.wikidata.org/entity/Q3285337"/>
+         <relation name="wikidata"
+                   active="https://dracor.org/entity/ibs000027"
+                   passive="http://www.wikidata.org/entity/Q3285337"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">
@@ -121,8 +127,8 @@
             <head type="act">
                <pb n="369"/>PROLOG</head>
             <lg type="strofisk-strofegruppe-trokeisk-firtakter"
-               met="bi ((7 8)² (7 8)²) | ((7 8)² 7 8 8 7)"
-               rhyme="((a B)² (c D)²) | ((a B)² c D D c)">
+                met="bi ((7 8)² (7 8)²) | ((7 8)² 7 8 8 7)"
+                rhyme="((a B)² (c D)²) | ((a B)² c D D c)">
                <lg type="strofe" met="(7 8)2 7 8 8 7" rhyme="(a B)2 c D D c">
                   <l rhyme="a">Hvor vi gaa paa Livets Vei</l>
                   <l rhyme="B">Følger os et Ord, som binder</l>
@@ -294,7 +300,6 @@
          </set>
       </front>
       <body>
-
          <div type="act" n="1">
             <head type="act">
                <pb n="375"/>FØRSTE ACT</head>
@@ -308,8 +313,10 @@
                <sp who="#ANNA">
                   <speaker>ANNA</speaker>
                   <stage>nynnende idet hun vedbliver med sit Arbeide</stage>
-                  <lg type="strofisk-strofegruppe-folkevisevers" part="I" met="bi++ ('8|'9 '7)²"
-                     rhyme="(x|X A)²">
+                  <lg type="strofisk-strofegruppe-folkevisevers"
+                      part="I"
+                      met="bi++ ('8|'9 '7)²"
+                      rhyme="(x|X A)²">
                      <lg type="strofe" part="I" met="'8 '7 '9 '7" rhyme="x A X A">
                         <l met="∪-∪∪-∪-∪-" rhyme="x">«Og hør, liden Fugl paa Furrukvist!</l>
                         <l met="∪-∪∪-∪∪-∪" rhyme="A">Du monne saa klageligt kvæde;» –</l>
@@ -985,7 +992,9 @@
                <sp who="#ANNA">
                   <speaker>ANNA</speaker>
                   <stage>nynnende uden at bemærke ham</stage>
-                  <lg type="strofisk-strofe-folkevisevers" met="bi++ ('8 '7)²" rhyme="(a B)²">
+                  <lg type="strofisk-strofe-folkevisevers"
+                      met="bi++ ('8 '7)²"
+                      rhyme="(a B)²">
                      <l met="∪-∪∪-∪∪-∪-" rhyme="a">«I Lien er hundrede Fugle smaa,</l>
                      <l met="∪-∪∪-∪∪-∪" rhyme="B">Men ingen af dem er min Mage,</l>
                      <l met="∪-∪∪∪-∪∪-∪-" rhyme="a">Og derfor maa jeg sidde i Lyngen graa</l>
@@ -1064,8 +1073,7 @@
                <stage>Det begynder at skumre.</stage>
                <sp who="#PAULSEN">
                   <speaker>PAULSEN</speaker>
-                  <p>Saa, nu er jeg da endelig ved mine Ønskers Maal; – her i den stolte <supplied
-                        reason="damage">&lt;vi&gt;</supplied>lde Natur –</p>
+                  <p>Saa, nu er jeg da endelig ved mine Ønskers Maal; – her i den stolte <supplied reason="damage">&lt;vi&gt;</supplied>lde Natur –</p>
                </sp>
                <sp who="#BIRK">
                   <speaker>BIRK</speaker>
@@ -1488,8 +1496,7 @@
                      <l met="∪-∪∪-∪∪-∪∪-∪" rhyme="F">Han færdes paa Loft og han færdes i
                         Kjelder,</l>
                      <l met="∪-∪-∪∪-∪-∪" rhyme="F">I Stalden er han fra Dagen hælder, –</l>
-                     <l met="∪-∪-∪∪-∪-" rhyme="e">Han maa jo vogte den gamle Gaard<unclear
-                           reason="writing">&lt;;&gt;</unclear> –</l>
+                     <l met="∪-∪-∪∪-∪-" rhyme="e">Han maa jo vogte den gamle Gaard<unclear reason="writing">&lt;;&gt;</unclear> –</l>
                      <l met="∪-∪∪-∪∪-∪-" rhyme="g">Men Midsommerkveld er hans Fest, som sagt,</l>
                      <l met="∪-∪∪-∪∪-∪-" rhyme="g">Da klæder han sig i sin Høitidsdragt,</l>
                      <l met="∪-∪∪-∪∪-∪-∪" rhyme="H">Saa gjæster han Venner og Slægt og Frænder</l>
@@ -1591,7 +1598,7 @@
                   <speaker>PAULSEN</speaker>
                   <p>Hurra!</p>
                </sp>
-               <sp>
+               <sp who="#STEMMERFRABAGGRUNDEN">
                   <stage>Stemmer fra Baggrunden hvoriblandt Nissen der stikker Hovedet frem og
                      svinger med Huen</stage>
                   <p>Hurra!</p>
@@ -1895,11 +1902,11 @@
                   <stage>(læner Hovedet mod et Træ og falder i Søvn. – Bønder og Piger med en
                      Spillemand i Spidsen gaae syngende over Scenen i Baggrunden)</stage>
                </sp>
-               <sp>
+               <sp who="#CHOR">
                   <speaker>CHOR</speaker>
                   <lg type="strofisk-strofe-å-kjøre-vatten-strofe"
-                     met="1: bi++ reg ('8 '7)² '8 '8 '4 '4 '7 ∪-∪-∪∪-∪-/∪-∪-∪∪∪-∪/∪-∪-∪∪-∪-/∪-∪-∪∪∪-∪/∪-∪-∪∪∪-∪-/∪-∪-∪∪∪-∪-/-∪∪-/-∪∪-/∪-∪-∪∪∪-∪ &amp; 2: bi+ reg ('8 '9)² '10 '10 '4 '4 '9 ∪-∪-∪∪-∪-/∪-∪-∪-∪-∪/∪-∪-∪∪-∪-/∪-∪-∪-∪-∪/∪-∪-∪-∪-∪-/∪-∪-∪-∪-∪-/-∪∪-/-∪∪-/∪-∪-∪-∪-∪"
-                     rhyme="(a B)² c c d d X">
+                      met="1: bi++ reg ('8 '7)² '8 '8 '4 '4 '7 ∪-∪-∪∪-∪-/∪-∪-∪∪∪-∪/∪-∪-∪∪-∪-/∪-∪-∪∪∪-∪/∪-∪-∪∪∪-∪-/∪-∪-∪∪∪-∪-/-∪∪-/-∪∪-/∪-∪-∪∪∪-∪ &amp; 2: bi+ reg ('8 '9)² '10 '10 '4 '4 '9 ∪-∪-∪∪-∪-/∪-∪-∪-∪-∪/∪-∪-∪∪-∪-/∪-∪-∪-∪-∪/∪-∪-∪-∪-∪-/∪-∪-∪-∪-∪-/-∪∪-/-∪∪-/∪-∪-∪-∪-∪"
+                      rhyme="(a B)² c c d d X">
                      <l real="1: ∪-∪-∪∪∪-∪- &amp; 2: ∪-∪-∪-∪-∪-" rhyme="a">Mens Felen klinger
                         gjennem Mark og Li,</l>
                      <l real="∪-∪-∪∪-∪" rhyme="B">Til Sancthanshaugen vi drage,</l>
@@ -1989,8 +1996,7 @@
                </sp>
                <sp who="#PAULSEN">
                   <speaker>PAULSEN</speaker>
-                  <p>Kan De see, – kan De bare see, jeg havde Ret, – ogsaa De gyser <pb n="418"
-                     />tilbage for mig, og det er jo saa naturligt – De kjender ikke min Sjæls
+                  <p>Kan De see, – kan De bare see, jeg havde Ret, – ogsaa De gyser <pb n="418"/>tilbage for mig, og det er jo saa naturligt – De kjender ikke min Sjæls
                      Levnetsløb, og derfor dømmer De efter det ydre Skin – Der gaaer en Aand – –
                      –</p>
                </sp>
@@ -2187,8 +2193,7 @@
                      Jeg gjorde Alt for at vække mit nationale Jeg tillive, jeg gik med Tollekniv og
                      begyndte at skrive orthofonisk, – Verden lod sig blænde deraf – men jeg selv
                      skjønnede nok at det var galt fat. Nu veed De hvad der rører sig indeni mig –
-                     det er omtrent hvad Tydskerne kalde <foreign xml:lang="ger"
-                        >«Weltschmerz»</foreign>.</p>
+                     det er omtrent hvad Tydskerne kalde <foreign xml:lang="ger">«Weltschmerz»</foreign>.</p>
                </sp>
                <stage>Han skyller et Glas Punsch ned.</stage>
                <sp who="#JULIANE">
@@ -2348,8 +2353,9 @@
                <stage>Han forsvinder bag Træerne.</stage>
                <sp who="#ALFER">
                   <speaker>USYNLIGE ALFER</speaker>
-                  <lg type="strofisk-strofegruppe-trokeisk-firtakter" met="bi (8 7)² (8 7)²"
-                     rhyme="(A b)² (C d)²">
+                  <lg type="strofisk-strofegruppe-trokeisk-firtakter"
+                      met="bi (8 7)² (8 7)²"
+                      rhyme="(A b)² (C d)²">
                      <lg type="strofe">
                         <head>1</head>
                         <l rhyme="A">Stille, stille; Natten kommer,</l>
@@ -2675,8 +2681,10 @@
                <sp who="#ANNA">
                   <speaker>ANNA</speaker>
                   <p>Ja, ja, – det er jo liden Karin; mindes Du ikke Visen:</p>
-                  <lg type="strofisk-strofegruppe-folkevisevers" part="I" met="bi++ '8 '7 '8 '9 '9"
-                     rhyme="a B a B B">
+                  <lg type="strofisk-strofegruppe-folkevisevers"
+                      part="I"
+                      met="bi++ '8 '7 '8 '9 '9"
+                      rhyme="a B a B B">
                      <lg type="strofe" part="I" rhyme="a B a B B">
                         <l met="∪∪-∪-∪∪-∪∪-" rhyme="a">«<pb n="439"/>Liden Karin trined i Bjerget
                            saa prud;</l>
@@ -2832,8 +2840,10 @@
                <sp who="#BIRK">
                   <speaker>BIRK</speaker>
                   <p>O, den mindes jeg godt!</p>
-                  <lg type="strofisk-strofegruppe-folkevisevers" part="I" met="bi+ '8 '6 '8 '8 '6"
-                     rhyme="a b a a b">
+                  <lg type="strofisk-strofegruppe-folkevisevers"
+                      part="I"
+                      met="bi+ '8 '6 '8 '8 '6"
+                      rhyme="a b a a b">
                      <lg type="strofe" rhyme="a b a a b">
                         <l met="∪-∪-∪∪-∪-" rhyme="a">«Ung Erik skulde i Ledingfærd:</l>
                         <l met="∪-∪∪-∪∪-" rhyme="b">«Og hør mig Svanhvide, min Mø!</l>
@@ -2966,8 +2976,10 @@
                   <speaker>PAULSEN</speaker>
                   <p>Ja, ja! – <stage>(begeistret)</stage>
                   </p>
-                  <lg type="strofisk-strofegruppe-femfotsjambe" part="I"
-                     met="bi ('11 '10)² ('11 '10)²" rhyme="(A b)² (C d)²">
+                  <lg type="strofisk-strofegruppe-femfotsjambe"
+                      part="I"
+                      met="bi ('11 '10)² ('11 '10)²"
+                      rhyme="(A b)² (C d)²">
                      <lg type="strofe" part="I">
                         <l rhyme="A">Jeg var en Yngling da med lyse Lokker;</l>
                         <l rhyme="b">Dem har jeg endnu som De jo kan see!</l>
@@ -3766,7 +3778,9 @@
                   <speaker>ANNA</speaker>
                   <stage>ængsteligt</stage>
                   <p>Naar Du seer hende, er det Dig da som der staaer i den gamle Vise:</p>
-                  <lg type="strofisk-strofe-folkevisevers" met="bi++ '8 '8 '9 '9" rhyme="a a B B">
+                  <lg type="strofisk-strofe-folkevisevers"
+                      met="bi++ '8 '8 '9 '9"
+                      rhyme="a a B B">
                      <l met="∪-∪-∪∪-∪-" rhyme="a">«Og hvor Du træder med spæden Fod,</l>
                      <l met="∪-∪∪-∪-∪∪-" rhyme="a">Der, tykkes mig, fæster Smaablomsten Rod, –</l>
                      <l met="∪-∪-∪∪-∪-∪" rhyme="B">Og hvor Du triner paa Toft og Tilje,</l>
@@ -3980,8 +3994,7 @@
                   <speaker>BERG</speaker>
                   <stage>med hævet Stemme</stage>
                   <p>Det er Anna, som underretter den gamle Mand om hvad der foregaaer i hans Søns
-                     Huus. – I mener vel at dette her ikke kommer ham ved <unclear reason="binding"
-                        >&lt;–&gt;</unclear>
+                     Huus. – I mener vel at dette her ikke kommer ham ved <unclear reason="binding">&lt;–&gt;</unclear>
                   </p>
                </sp>
                <sp who="#FRUEN">
@@ -4214,8 +4227,7 @@
                <sp who="#FRUEN">
                   <speaker>FRUEN</speaker>
                   <stage>hurtigt</stage>
-                  <p>Det er nok, det er nok, naar det endelig maa saa være<unclear reason="writing"
-                        >&lt;;&gt;</unclear> men Taushed venter jeg af Dem, Taushed i alle
+                  <p>Det er nok, det er nok, naar det endelig maa saa være<unclear reason="writing">&lt;;&gt;</unclear> men Taushed venter jeg af Dem, Taushed i alle
                      Henseender. –</p>
                </sp>
                <sp who="#BIRK">
@@ -4437,7 +4449,7 @@
                   <p>Nu vel da, – her – her staaer hun.</p>
                   <stage>(peger paa Anna)</stage>
                </sp>
-               <sp>
+               <sp who="#BIRK #FRUEN #JULIANE #JORGEN #BERG #PAULSEN">
                   <speaker>ALLE</speaker>
                   <p>Anna!</p>
                </sp>
