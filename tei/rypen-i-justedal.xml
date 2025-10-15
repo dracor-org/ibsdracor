@@ -39,12 +39,12 @@
                   </licence>
                </availability>
                <bibl type="originalSource">
-                  <author>Henrik Ibsen</author>: <title type="main">Rypen i Justedal</title>.
-                     <title type="sub">Hovedtekst, tekstgrunnlag: NBO Ms.4° 932</title>. In:
-                     <edition>Henrik Ibsens skrifter, bind 2</edition>. 
-                  <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
-                  <date when="2006">2006</date>
-                  <biblScope unit="page" from="189" to="259">189-259</biblScope>
+                  <author>Henrik Ibsen</author>: <title type="main">Rypen i Justedal</title>. <title
+                     type="sub">Hovedtekst, tekstgrunnlag: NBO Ms.4° 932</title>. In:
+                     <edition>Henrik Ibsens skrifter, bind 2</edition>. <pubPlace>Oslo</pubPlace>:
+                     <publisher>Aschehoug</publisher>
+                  <date when="2006">2006</date> s. <biblScope unit="page" from="189" to="259"
+                     >189-259</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -83,6 +83,9 @@
                <person xml:id="INGEBORG" sex="FEMALE">
                   <persName>Ingeborg</persName>
                </person>
+               <personGrp xml:id="CHORAFALFER">
+                  <name>Chor af Alfer</name>
+               </personGrp>
             </listPerson>
          </particDesc>
       </profileDesc>
@@ -133,7 +136,7 @@
                <hi>Første Act.</hi>
             </head>
             <stage>Vild Fjeldegn; til Venstre en gammel Sæterhytte, i Baggrunden høie Fjelde der
-               hæve sig over hinanden. Bjørn og Paal komme ned fra Lien med Buer og an- dre
+               hæve sig over hinanden. Bjørn og Paal komme ned fra Lien med Buer og andre
                Jagtredskaber paa Ryggen; det er Aften. –</stage>
             <sp who="#PAAL">
                <speaker>Paal</speaker>
@@ -800,7 +803,7 @@
                   <l rhyme="X">Jeg kjender Tonerne, – ja, det er hende.</l>
                </lg>
             </sp>
-            <stage>(Han lytter i taus Forventning, Luur- tonerne høres atter og Alfhild viser sig i
+            <stage>(Han lytter i taus Forventning, Luurtonerne høres atter og Alfhild viser sig i
                Baggrunden paa en Fjeldtop.)</stage>
             <sp who="#ALFHILD">
                <speaker>Alfhild</speaker>
@@ -1067,16 +1070,16 @@
             </sp>
             <sp who="#EINAR">
                <speaker>Einar</speaker>
-               <p>Ja, ærværdige Fader! jeg er kjed af Hird- mandslivet, nu vil jeg slaa mig til Ro
-                  en Stund – –</p>
+               <p>Ja, ærværdige Fader! jeg er kjed af Hirdmandslivet, nu vil jeg slaa mig til Ro en
+                  Stund – –</p>
             </sp>
             <sp who="#MOGENS">
                <speaker>Mogens</speaker>
                <p>Du gjør Ret, beati sunt agricolæ, – men <retrace place="inline">h</retrace>vad har
                   du i Hornet der, – naa, Mjød, – jeg troer en liden Taar vil gjøre godt
                      <stage>(drikker)</stage> – – – jo jo, Bengt af Bjerkehoug har gode Sager i
-                  Kjelderen, men de komme nu skjel- den fordagen, – her gaar ikke saa lystigt til
-                  som i gamle salig Thormods Dage, Einar! –</p>
+                  Kjelderen, men de komme nu skjelden fordagen, – her gaar ikke saa lystigt til som
+                  i gamle salig Thormods Dage, Einar! –</p>
             </sp>
             <sp who="#EINAR">
                <speaker>Einar.</speaker>
@@ -1104,7 +1107,7 @@
             <sp who="#MOGENS">
                <speaker>Mogens</speaker>
                <p>Ja, det kan jeg gjerne sige, – her er vel Ingen inde, – for du er en brav Gut og
-                  din Fader var al- tid rundhaandet <app type="alteration">
+                  din Fader var altid rundhaandet <app type="alteration">
                      <lem>med al<unclear reason="writing">lhaande</unclear> Gaver og god Skjænk
                         til</lem>
                      <rdg/>
@@ -1135,8 +1138,8 @@
                <speaker>Mogens.</speaker>
                <p>Det veed ingen, Ægtefolkene var og blev borte, Folk i Bygden fortælle at
                   Haugafolket tog dem men det er nok rimeligt at han tog op til en Plads han havde
-                  oppe i Fjeldmarken, men saa kom Svartedøden og bortrev alle Menne- sker deroppe,
-                  og ingen tør sætte sin Fod <retrace place="inline">der</retrace>siden. –</p>
+                  oppe i Fjeldmarken, men saa kom Svartedøden og bortrev alle Mennesker deroppe, og
+                  ingen tør sætte sin Fod <retrace place="inline">der</retrace>siden. –</p>
             </sp>
             <sp who="#EINAR">
                <speaker>
@@ -1145,9 +1148,9 @@
             </sp>
             <sp who="#MOGENS">
                <speaker>Mogens.</speaker>
-               <p>Men siden den Tid har det ikke været godt paa Bjer- kehoug, – den Gamle døde nu
-                  snart efter, og Bengt vil ikke lade sig mærke med noget, – men Erindrin- gen om
-                  Alf den nager ham, det skjønner jeg nok; en mægtig Mand er han da, – og endnu
+               <p>Men siden den Tid har det ikke været godt paa Bjerkehoug, – den Gamle døde nu
+                  snart efter, og Bengt vil ikke lade sig mærke med noget, – men Erindringen om Alf
+                  den nager ham, det skjønner jeg nok; en mægtig Mand er han da, – og endnu
                   mægtigere vil nu Bjørn blive, dersom det bliver noget af mellem ham og Mereta.</p>
             </sp>
             <sp who="#EINAR">
@@ -1170,8 +1173,8 @@
             </sp>
             <sp who="#EINAR">
                <speaker>Einar</speaker>
-               <p>Saa vil jeg gaa. – <stage>(gaar ud til Venstre idet Bengt træ- <pb n="219"/>der
-                     ind fra Baggrunden)</stage>
+               <p>Saa vil jeg gaa. – <stage>(gaar ud til Venstre idet Bengt træ<pb n="219"/>der ind
+                     fra Baggrunden)</stage>
                </p>
             </sp>
             <sp who="#BENGT">
@@ -1224,7 +1227,7 @@
                <speaker>Bengt</speaker>
                <p>Hvad behøves det! Er ikke Bjørn min Søn, har jeg ikke været hendes Formynder, –
                   skulde han ligesom Alf, – <stage>(med pludselig forandret Stemme.)</stage> Gud
-                  være med ham, jeg har betalt Sjælemesser for ham, – jeg har givet Alter- lys og
+                  være med ham, jeg har betalt Sjælemesser for ham, – jeg har givet Alterlys og
                   anden Skjænk til Klostret – –</p>
             </sp>
             <sp who="#MOGENS">
@@ -2527,9 +2530,9 @@
                   <l rhyme="x">de hviske mellem Blomsterne, – o hør! –</l>
                </lg>
             </sp>
-            <stage>(Under det Følgende staar Alfhild taus og lytter idet hun yttrer sine Fø- lelser
+            <stage>(Under det Følgende staar Alfhild taus og lytter idet hun yttrer sine Følelser
                efter Sangens Indhold, – Bjørn betragter hende med ængstelig Forundring.)</stage>
-            <sp>
+            <sp who="#CHORAFALFER">
                <speaker>Chor af Alfer.</speaker>
                <lg type="strofisk-strofegruppe"
                   met="1: (tri- 7 7 11 11) | (tri- 7 7 8 8), 2: bi 4 4 10"
@@ -2586,14 +2589,14 @@
                </lg>
                <stage>(de gaae)</stage>
             </sp>
-            <stage>Thunet paa Bjerkehoug; Træer i Baggrun- den, til Venstre sees Væggen af Huset
-                  <gap reason="writing"/> –</stage>
+            <stage>Thunet paa Bjerkehoug; Træer i Baggrunden, til Venstre sees Væggen af Huset <gap
+                  reason="writing"/> –</stage>
             <sp who="#PAAL">
                <speaker>
                   <pb n="251"/>Paal</speaker>
                <stage>kommer og møder <rs type="person" ref="MERETA">Mereta</rs>.</stage>
                <p>Nei nei, der er ingen Lykke paa Bjerkehoug, – Herre Gud! er dette Lystighed paa en
-                  Jonsokskvæl, nu havde jeg faaet muntret dem lidt op der- borte paa Hougen – –</p>
+                  Jonsokskvæl, nu havde jeg faaet muntret dem lidt op derborte paa Hougen – –</p>
             </sp>
             <sp who="#MERETA">
                <speaker>Mereta.</speaker>
@@ -2652,7 +2655,7 @@
             </sp>
             <sp who="#BENGT">
                <speaker>Bengt.</speaker>
-               <p>Og hvorfor gik hun bort da hun saa mig kom- me!</p>
+               <p>Og hvorfor gik hun bort da hun saa mig komme!</p>
             </sp>
             <sp who="#PAAL">
                <speaker>Paal</speaker>
@@ -2661,8 +2664,8 @@
             <sp who="#BENGT">
                <speaker>Bengt</speaker>
                <p>Saa, – det hender altid naar jeg kommer; – saadan er det med dem allesammen,
-                  sidder Piger- ne ved Arnen og spinder, saa gjøre de sig strax Ærind i Kjøkken og
-                  Kjelder naar jeg kom- mer ind – –</p>
+                  sidder Pigerne ved Arnen og spinder, saa gjøre de sig strax Ærind i Kjøkken og
+                  Kjelder naar jeg kommer ind – –</p>
             </sp>
             <sp who="#PAAL">
                <speaker>Paal.</speaker>
