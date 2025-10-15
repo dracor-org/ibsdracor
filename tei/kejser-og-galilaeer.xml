@@ -365,9 +365,6 @@
                <personGrp xml:id="KORET">
                   <name>Koret</name>
                </personGrp>
-               <person xml:id="ENANDENBORGER">
-                  <persName>En anden borger</persName>
-               </person>
                <person xml:id="KVINDE1" sex="FEMALE">
                   <persName>En kvinde</persName>
                </person>
@@ -401,35 +398,42 @@
                <person xml:id="KVINDE11" sex="FEMALE">
                   <persName>En kvinde</persName>
                </person>
+               <person xml:id="MAND1" sex="MALE">
+                  <persName>En mand</persName>
+               </person>
+               <person xml:id="MAND2" sex="MALE">
+                  <persName>En anden mand</persName>
+               </person>
+               <person xml:id="MAND3" sex="MALE">
+                  <persName>En tredje mand</persName>
+               </person>
+               <person xml:id="MAND4" sex="MALE">
+                  <persName>En fjerde mand</persName>
+               </person>
+               <person xml:id="MAND5" sex="MALE">
+                  <persName>En femte mand</persName>
+               </person>
+               <person xml:id="MAND6" sex="MALE">
+                  <persName>En sjette mand</persName>
+               </person>
                <person xml:id="ENPREST" sex="MALE">
                   <persName>En prest</persName>
                </person>
-               <person xml:id="PRESTEN" sex="MALE">
-                  <persName>Presten</persName>
+               <person xml:id="TILSKUER1">
+                  <persName>En tilskuer</persName>
                </person>
-               <listPerson xml:id="TILSKUERE">
-                  <person xml:id="TILSKUER1">
-                     <persName>En tilskuer</persName>
-                  </person>
-                  <person xml:id="TILSKUER2">
-                     <persName>En anden i hoben</persName>
-                  </person>
-                  <person xml:id="TILSKUER3">
-                     <persName>En tredje tilskuer</persName>
-                  </person>
-               </listPerson>
+               <person xml:id="TILSKUER2">
+                  <persName>En anden i hoben</persName>
+               </person>
+               <person xml:id="TILSKUER3">
+                  <persName>En tredje tilskuer</persName>
+               </person>
                <personGrp xml:id="HEDENSKEBORGERE">
                   <name>Hedenske borgere</name>
                </personGrp>
                <personGrp xml:id="STEMMERIMAENGDEN">
                   <name>Stemmer i mængden</name>
                </personGrp>
-               <person xml:id="ENBORGER">
-                  <persName>En borger</persName>
-               </person>
-               <person xml:id="DENFOERSTEBORGER">
-                  <persName>Den første borger</persName>
-               </person>
                <person xml:id="ENSKOMAGER" sex="MALE">
                   <persName>En skomager</persName>
                </person>
@@ -438,9 +442,6 @@
                </person>
                <person xml:id="ENFRUGTSAELGER" sex="MALE">
                   <persName>En frugtsælger</persName>
-               </person>
-               <person xml:id="ENMAND" sex="MALE">
-                  <persName>En mand</persName>
                </person>
                <person xml:id="MANDENPAATAGET" sex="MALE">
                   <persName>Manden på taget</persName>
@@ -511,11 +512,8 @@
                <person xml:id="DELINGSFOEREREN">
                   <persName>Delings-føreren</persName>
                </person>
-               <person xml:id="ENUNDERFOERER">
+               <person xml:id="UNDERFOERER1">
                   <persName>En underfører</persName>
-               </person>
-               <person xml:id="ENSOLDAT" sex="MALE">
-                  <persName>En soldat</persName>
                </person>
                <personGrp xml:id="MAENGDENPAATORVET">
                   <name>Mængden på torvet</name>
@@ -526,9 +524,6 @@
                <person xml:id="ENFLYGTENDEMAND" sex="MALE">
                   <persName>En flygtende mand</persName>
                </person>
-               <person xml:id="ENANDENMAND" sex="MALE">
-                  <persName>En anden mand</persName>
-               </person>
                <personGrp xml:id="NOGLE">
                   <name>Nogle</name>
                </personGrp>
@@ -538,15 +533,6 @@
                <personGrp xml:id="HOFMAENDOGLAERERE">
                   <name>Hofmænd og lærere</name>
                </personGrp>
-               <person xml:id="ENANDENKVINDE" sex="FEMALE">
-                  <persName>En anden kvinde</persName>
-               </person>
-               <person xml:id="ENTREDJEKVINDE" sex="FEMALE">
-                  <persName>En tredje kvinde</persName>
-               </person>
-               <person xml:id="ENFJERDEKVINDE" sex="FEMALE">
-                  <persName>En fjerde kvinde</persName>
-               </person>
                <personGrp xml:id="STEMMERIHOBEN">
                   <name>Stemmer i hoben</name>
                </personGrp>
@@ -556,12 +542,6 @@
                <personGrp xml:id="HOFMAENDENE" sex="MALE">
                   <name>Hofmændene</name>
                </personGrp>
-               <person xml:id="MANDEN" sex="MALE">
-                  <persName>Manden</persName>
-               </person>
-               <person xml:id="DENFOERSTEKVINDE" sex="FEMALE">
-                  <persName>Den første kvinde</persName>
-               </person>
                <person xml:id="ENAFMAENDENE" sex="MALE">
                   <persName>En af mændene</persName>
                </person>
@@ -574,12 +554,6 @@
                <personGrp xml:id="DAEMPEDESTEMMER">
                   <name>Dæmpede stemmer</name>
                </personGrp>
-               <person xml:id="ENMANDIFLOKKEN" sex="MALE">
-                  <persName>En mand i flokken</persName>
-               </person>
-               <person xml:id="ENTREDJEMAND" sex="MALE">
-                  <persName>En tredje mand</persName>
-               </person>
                <personGrp xml:id="FLERESTEMMER">
                   <name>Flere stemmer</name>
                </personGrp>
@@ -601,11 +575,8 @@
                <personGrp xml:id="DEANDREVISDOMSLAERERE">
                   <name>De andre visdomslærere</name>
                </personGrp>
-               <person xml:id="UNDERFOEREREN" sex="MALE">
-                  <persName>Underføreren</persName>
-               </person>
-               <person xml:id="ENANDENSOLDAT" sex="MALE">
-                  <persName>En anden soldat</persName>
+               <person xml:id="UNDERFOERER2" sex="MALE">
+                  <persName>En anden underfører</persName>
                </person>
                <personGrp xml:id="FOEREREOGSOLDATER" sex="MALE">
                   <name>Førere og soldater</name>
@@ -616,20 +587,26 @@
                <personGrp xml:id="KRISTNESOLDATER" sex="MALE">
                   <name>Kristne soldater</name>
                </personGrp>
-               <person xml:id="ENAFSOLDATERNE" sex="MALE">
-                  <persName>En af soldaterne</persName>
+               <person xml:id="SOLDAT1" sex="MALE">
+                  <persName>En soldat</persName>
                </person>
-               <person xml:id="ENTREDJESOLDAT" sex="MALE">
+               <person xml:id="SOLDAT2" sex="MALE">
+                  <persName>En anden soldat</persName>
+               </person>
+               <person xml:id="SOLDAT3" sex="MALE">
                   <persName>En tredje soldat</persName>
                </person>
-               <person xml:id="DENFOERSTESOLDAT" sex="MALE">
-                  <persName>Den første soldat</persName>
+               <person xml:id="SOLDAT4" sex="MALE">
+                  <persName>En fjerde soldat</persName>
                </person>
-               <person xml:id="DENTREDJESOLDAT" sex="MALE">
-                  <persName>Den tredje soldat</persName>
+               <person xml:id="SOLDAT5" sex="MALE">
+                  <persName>En femte soldat</persName>
                </person>
-               <person xml:id="DENANDENSOLDAT" sex="MALE">
-                  <persName>Den anden soldat</persName>
+               <person xml:id="SOLDAT6" sex="MALE">
+                  <persName>En sjette soldat</persName>
+               </person>
+               <person xml:id="SOLDAT7" sex="MALE">
+                  <persName>En syvende soldat</persName>
                </person>
                <person xml:id="ENROEST">
                   <persName>En røst</persName>
@@ -9906,7 +9883,7 @@
                   <speaker>GULDSMEDEN POTAMON</speaker>
                   <p>Rygtet siger at han i Gallien har givet sig under en anden slags varetægt.</p>
                </sp>
-               <sp who="#PRESTEN">
+               <sp who="#ENPREST">
                   <speaker>PRESTEN</speaker>
                   <p>Løgn, løgn; det kan I lide på.</p>
                </sp>
@@ -10939,7 +10916,7 @@
                   <stage>i trængselen</stage>
                   <p>Der kommer de!</p>
                </sp>
-               <sp who="#ENMAND">
+               <sp who="#MANDENPAATAGET">
                   <speaker>EN MAND</speaker>
                   <stage>på et hustag</stage>
                   <p>Jeg kan se ham!</p>
@@ -12602,7 +12579,7 @@
                      ikke; jeg har aldrig set dig.</p>
                </sp>
                <stage>Han skynder sig ind i trængselen.</stage>
-               <sp who="#ENUNDERFOERER">
+               <sp who="#UNDERFOERER1">
                   <speaker>EN UNDERFØRER</speaker>
                   <stage>med soldater fra højre</stage>
                   <p>Gør ryddigt her!</p>
@@ -12615,7 +12592,7 @@
                   <stage>i klyngen bag vagtposterne til højre</stage>
                   <p>Ja, ved solens gud, kommer han ikke der, den velsignede herre!</p>
                </sp>
-               <sp who="#ENSOLDAT">
+               <sp who="#SOLDAT1">
                   <speaker>EN SOLDAT</speaker>
                   <p>Træng ikke så på der bag!</p>
                </sp>
@@ -13040,7 +13017,7 @@
                   <speaker>EN FLYGTENDE MAND</speaker>
                   <p>Hvilken rædsel! Tordenslag under fødderne –</p>
                </sp>
-               <sp who="#ENANDENMAND">
+               <sp who="#MAND1">
                   <speaker>EN ANDEN MAND</speaker>
                   <p>Var det virkelig så? Var det jorden, som skalv?</p>
                </sp>
@@ -14353,7 +14330,7 @@
                <stage>Vagten driver den jamrende mængde ind i sidegaderne. Kun kejseren og hans
                   følge bliver tilbage. Da bemærker man, liggende foran kirkedøren, og hidtil
                   skjult, en mand i sønderrevne klæder og med aske strød på sit hoved.</stage>
-               <sp who="#ENSOLDAT">
+               <sp who="#SOLDAT2">
                   <speaker>EN SOLDAT</speaker>
                   <stage>støder til ham med lanseskaftet</stage>
                   <p>Op, op; pak dig!</p>
@@ -14469,7 +14446,7 @@
                   <stage>til en af mændene ved vandkummen</stage>
                   <p>Hvad betyder dette?</p>
                </sp>
-               <sp who="#MANDEN">
+               <sp who="#MAND2">
                   <speaker>MANDEN</speaker>
                   <p>Stenbilledet skal fores igen.</p>
                </sp>
@@ -14477,7 +14454,7 @@
                   <speaker>FARVEREN FOKION</speaker>
                   <p>Vil kejseren ofre her iaften?</p>
                </sp>
-               <sp who="#ENANDENMAND">
+               <sp who="#MAND3">
                   <speaker>
                      <pb n="619"/>EN ANDEN MAND</speaker>
                   <p>Ofrer han ikke både morgen og aften, – snart hist, snart her?</p>
@@ -14593,7 +14570,7 @@
                   <speaker>KEJSER JULIAN</speaker>
                   <p>O, Antiokia, – du sætter min tålmodighed på en hård prøve!</p>
                </sp>
-               <sp who="#ENMANDIFLOKKEN">
+               <sp who="#MAND4">
                   <speaker>
                      <pb n="622"/>EN MAND I FLOKKEN</speaker>
                   <p>Først brød, siden offergaver!</p>
@@ -14603,11 +14580,11 @@
                   <stage>puffer ham i siden</stage>
                   <p>Godt sagt; godt sagt!</p>
                </sp>
-               <sp who="#ENANDENMAND">
+               <sp who="#MAND5">
                   <speaker>EN ANDEN MAND</speaker>
                   <p>Giv borgerne at spise; guderne får hjælpe sig som de kan.</p>
                </sp>
-               <sp who="#ENTREDJEMAND">
+               <sp who="#MAND6">
                   <speaker>EN TREDJE MAND</speaker>
                   <p>Vi havde det bedre her under Chi og Kappa!</p>
                </sp>
@@ -15952,7 +15929,7 @@
                </sp>
                <stage>En afdeling soldater kommer forbi; en ung mand i rækken falder af udmattelse
                   om på vejen.</stage>
-               <sp who="#ENUNDERFOERER">
+               <sp who="#UNDERFOERER2">
                   <speaker>EN UNDERFØRER</speaker>
                   <stage>slår ham med sin kæp</stage>
                   <p>Op med dig, du lade hund!</p>
@@ -15971,7 +15948,7 @@
                   <stage>kommer</stage>
                   <p>Atter ophold! – Nå, det er ham. Kan han virkelig ikke mere?</p>
                </sp>
-               <sp who="#UNDERFOEREREN">
+               <sp who="#UNDERFOERER2">
                   <speaker>UNDERFØREREN</speaker>
                   <p>Jeg ved ikke hvad jeg skal sige, herre; han falder hvert øjeblik.</p>
                </sp>
@@ -16006,7 +15983,7 @@
                   <stage>til underføreren</stage>
                   <p>Fremad; her er ikke tid at spilde.</p>
                </sp>
-               <sp who="#UNDERFOEREREN">
+               <sp who="#UNDERFOERER2">
                   <speaker>UNDERFØREREN</speaker>
                   <stage>til soldaterne</stage>
                   <p>Fremad; fremad!</p>
@@ -17147,11 +17124,11 @@
                </sp>
                <stage>Kristne soldater løber frem på sletten. Nogle slår sig for brystet; andre
                   sønderriver sine klæder, alt under gråd og råb.</stage>
-               <sp who="#ENSOLDAT">
+               <sp who="#SOLDAT3">
                   <speaker>EN SOLDAT</speaker>
                   <p>Kristus døde for mig, og jeg sveg ham!</p>
                </sp>
-               <sp who="#ENANDENSOLDAT">
+               <sp who="#SOLDAT4">
                   <speaker>EN ANDEN SOLDAT</speaker>
                   <p>O, du straffende Herre i himlen, slå mig; jeg har dyrket falske guder!</p>
                </sp>
@@ -17920,72 +17897,72 @@
                      <l met="∪∪-∪-" rhyme="a">Vi skal døden se!</l>
                   </lg>
                </sp>
-               <sp who="#ENAFSOLDATERNE">
+               <sp who="#SOLDAT5">
                   <speaker>EN AF SOLDATERNE</speaker>
                   <stage>lyttende</stage>
                   <p>Hyss! Hører I? Der borte synger de galilæiske kvinder.</p>
                </sp>
-               <sp who="#ENANDENSOLDAT">
+               <sp who="#SOLDAT6">
                   <speaker>EN ANDEN SOLDAT</speaker>
                   <p>De synger som ugler og natteravne.</p>
                </sp>
-               <sp who="#ENTREDJESOLDAT">
+               <sp who="#SOLDAT7">
                   <speaker>EN TREDJE SOLDAT</speaker>
                   <p>Da vilde jeg dog gerne være hos dem. Det er tryggere hos Galilæerne end hos os.
                      Galilæernes gud er stærkere end vore.</p>
                </sp>
-               <sp who="#DENFOERSTESOLDAT">
+               <sp who="#SOLDAT5">
                   <speaker>
                      <pb n="712"/>DEN FØRSTE SOLDAT</speaker>
                   <p>Kejseren har fortørnet guderne, det er sagen. Hvor kunde han falde på at sætte
                      sig i gudernes sted?</p>
                </sp>
-               <sp who="#DENTREDJESOLDAT">
+               <sp who="#SOLDAT7">
                   <speaker>DEN TREDJE SOLDAT</speaker>
                   <p>Det er værre at han har fortørnet Galilæernes gud. Ved I ikke, det siges for
                      ganske sikkert at han og hans heksemester en af de sidste nætter har skåret
                      bugen op på en svanger kvinde for at tage varsler af hendes indvolde?</p>
                </sp>
-               <sp who="#DENFOERSTESOLDAT">
+               <sp who="#SOLDAT5">
                   <speaker>DEN FØRSTE SOLDAT</speaker>
                   <p>Ja, men jeg tror ikke på det. I alt fald har det ikke været nogen græsk kvinde;
                      det må have været en barbarkvinde.</p>
                </sp>
-               <sp who="#DENTREDJESOLDAT">
+               <sp who="#SOLDAT7">
                   <speaker>DEN TREDJE SOLDAT</speaker>
                   <p>Det siges at Galilæernes gud tager sig af barbarerne også; og hvis så er, så
                      kommer det til at gå ud over os.</p>
                </sp>
-               <sp who="#DENANDENSOLDAT">
+               <sp who="#SOLDAT6">
                   <speaker>DEN ANDEN SOLDAT</speaker>
                   <p>Å hvad, – kejseren er en stor kriger.</p>
                </sp>
-               <sp who="#DENFOERSTESOLDAT">
+               <sp who="#SOLDAT5">
                   <speaker>DEN FØRSTE SOLDAT</speaker>
                   <p>Kong Sapores skal også være en stor kriger.</p>
                </sp>
-               <sp who="#DENANDENSOLDAT">
+               <sp who="#SOLDAT6">
                   <speaker>DEN ANDEN SOLDAT</speaker>
                   <p>Tror du det er <emph>hele</emph> Perser-hæren, vi har for os?</p>
                </sp>
-               <sp who="#DENFOERSTESOLDAT">
+               <sp who="#SOLDAT5">
                   <speaker>DEN FØRSTE SOLDAT</speaker>
                   <p>Nogle siger, det skal bare være fortroppen; ingen ved det så nøje.</p>
                </sp>
-               <sp who="#DENTREDJESOLDAT">
+               <sp who="#SOLDAT7">
                   <speaker>DEN TREDJE SOLDAT</speaker>
                   <p>Jeg skulde ønske jeg var over hos Galilæerne.</p>
                </sp>
-               <sp who="#DENFOERSTESOLDAT">
+               <sp who="#SOLDAT5">
                   <speaker>
                      <pb n="713"/>DEN FØRSTE SOLDAT</speaker>
                   <p>Vil <emph>du</emph> også falde fra?</p>
                </sp>
-               <sp who="#DENTREDJESOLDAT">
+               <sp who="#SOLDAT7">
                   <speaker>DEN TREDJE SOLDAT</speaker>
                   <p>Der falder jo så mange fra. I de sidste dage har –</p>
                </sp>
-               <sp who="#DENFOERSTESOLDAT">
+               <sp who="#SOLDAT5">
                   <speaker>DEN FØRSTE SOLDAT</speaker>
                   <stage>råber ud i mørket</stage>
                   <p>Stå – stå! Hvem kommer der?</p>
@@ -17996,7 +17973,7 @@
                </sp>
                <stage>Nogle soldater kommer frem mellem træerne med Kappadokieren Agathon imellem
                   sig.</stage>
-               <sp who="#DENANDENSOLDAT">
+               <sp who="#SOLDAT6">
                   <speaker>DEN ANDEN SOLDAT</speaker>
                   <p>Ho-ho; en, som har villet løbe bort.</p>
                </sp>
@@ -18020,7 +17997,7 @@
                      får jeg min sjæl igen. Kristus har selv lovet mig det. Han var hos mig
                      inat.</p>
                </sp>
-               <sp who="#DENFOERSTESOLDAT">
+               <sp who="#SOLDAT5">
                   <speaker>
                      <pb n="714"/>DEN FØRSTE SOLDAT</speaker>
                   <p>Det er hunger og træthed, som har gjort ham forstyrret.</p>
@@ -18034,11 +18011,11 @@
                   <p>Slip mig! O, I skulde vide, hvad dette er for et spyd!</p>
                </sp>
                <stage>Soldaterne fører ham bort i forgrunden til højre.</stage>
-               <sp who="#DENTREDJESOLDAT">
+               <sp who="#SOLDAT7">
                   <speaker>DEN TREDJE SOLDAT</speaker>
                   <p>Hvad kunde han mene med det dyr?</p>
                </sp>
-               <sp who="#DENFOERSTESOLDAT">
+               <sp who="#SOLDAT5">
                   <speaker>DEN FØRSTE SOLDAT</speaker>
                   <p>Det er galilæiske hemmeligheder. De har så meget sådant imellem sig.</p>
                </sp>
@@ -18052,7 +18029,7 @@
                   <speaker>LIVLÆGEN ORIBASES</speaker>
                   <p>Nej. – Ah, soldater! – Sig mig, gode venner, gik nogen her forbi?</p>
                </sp>
-               <sp who="#DENFOERSTESOLDAT">
+               <sp who="#SOLDAT5">
                   <speaker>DEN FØRSTE SOLDAT</speaker>
                   <p>Ja, en deling spydkastere.</p>
                </sp>
