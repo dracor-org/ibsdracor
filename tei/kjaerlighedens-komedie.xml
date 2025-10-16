@@ -39,12 +39,12 @@
                   </licence>
                </availability>
                <bibl type="originalSource">
-                  <author>Henrik Ibsen</author> : <title type="main">Kjærlighedens Komedie</title>.
+                  <author>Henrik Ibsen</author>: <title type="main">Kjærlighedens Komedie</title>.
                      <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1862</title>. In:
-                     <edition>Henrik Ibsens skrifter, bind 4</edition>. 
-                  <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
-                  <date when="2008">2008</date>
-                  <biblScope unit="page" from="45" to="216">45-216</biblScope>
+                     <edition>Henrik Ibsens skrifter, bind 4</edition>. <pubPlace>Oslo</pubPlace>:
+                     <publisher>Aschehoug</publisher>
+                  <date when="2008">2008</date> s. <biblScope unit="page" from="45" to="216"
+                     >45-216</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -93,6 +93,108 @@
                <person xml:id="OPPASSER" sex="MALE">
                   <persName>Oppasseren</persName>
                </person>
+               <personGrp xml:id="HERRERNE" sex="MALE">
+                  <name>Herrerne</name>
+               </personGrp>
+               <personGrp xml:id="KOR">
+                  <name>Kor</name>
+               </personGrp>
+               <person xml:id="DAME1" sex="FEMALE">
+                  <persName>En dame</persName>
+               </person>
+               <person xml:id="DAME2" sex="FEMALE">
+                  <persName>En dame</persName>
+               </person>
+               <person xml:id="DAME3" sex="FEMALE">
+                  <persName>En dame</persName>
+               </person>
+               <person xml:id="DAME4" sex="FEMALE">
+                  <persName>En dame</persName>
+               </person>
+               <person xml:id="TANTE1" sex="FEMALE">
+                  <persName>En tante</persName>
+               </person>
+               <person xml:id="TANTE2" sex="FEMALE">
+                  <persName>En tante</persName>
+               </person>
+               <person xml:id="TANTE3" sex="FEMALE">
+                  <persName>En tante</persName>
+               </person>
+               <person xml:id="TANTE4" sex="FEMALE">
+                  <persName>En tante</persName>
+               </person>
+               <personGrp xml:id="FLEREDAMER" sex="FEMALE">
+                  <name>Flere damer</name>
+               </personGrp>
+               <person xml:id="ENALDRENDEDAME" sex="FEMALE">
+                  <persName>En aldrende dame</persName>
+               </person>
+               <personGrp xml:id="FLEREIKOR">
+                  <name>Flere i kor</name>
+               </personGrp>
+               <person xml:id="HERRE1" sex="MALE">
+                  <persName>En herre</persName>
+               </person>
+               <person xml:id="HERRE2" sex="MALE">
+                  <persName>En herre</persName>
+               </person>
+               <person xml:id="HERRE3" sex="MALE">
+                  <persName>En herre</persName>
+               </person>
+               <personGrp xml:id="NOGLEAFDAMERNE" sex="FEMALE">
+                  <name>Nogle af damerne</name>
+               </personGrp>
+               <personGrp xml:id="ANDRE">
+                  <name>Andre</name>
+               </personGrp>
+               <personGrp xml:id="NOGLEDAMER" sex="FEMALE">
+                  <name>Nogle damer</name>
+               </personGrp>
+               <personGrp xml:id="DAMERNEPAAALTANEN" sex="FEMALE">
+                  <name>Damerne paa altanen</name>
+               </personGrp>
+               <personGrp xml:id="DAMERNE" sex="FEMALE">
+                  <name>Damerne</name>
+               </personGrp>
+               <personGrp xml:id="TANTERNE" sex="FEMALE">
+                  <name>Tanterne</name>
+               </personGrp>
+               <person xml:id="UNGDAME1" sex="FEMALE">
+                  <persName>En ung dame</persName>
+               </person>
+               <person xml:id="UNGDAME2" sex="FEMALE">
+                  <persName>En ung dame</persName>
+               </person>
+               <person xml:id="UNGDAME3" sex="FEMALE">
+                  <persName>En ung dame</persName>
+               </person>
+               <person xml:id="ENANDEN">
+                  <persName>En anden</persName>
+               </person>
+               <personGrp xml:id="BOERNENE">
+                  <name>Børnene</name>
+               </personGrp>
+               <personGrp xml:id="UNGEPIGER" sex="FEMALE">
+                  <name>De unge piger</name>
+               </personGrp>
+               <person xml:id="ENENKELT">
+                  <persName>En enkelt</persName>
+               </person>
+               <personGrp xml:id="NOGLE">
+                  <name>Nogle</name>
+               </personGrp>
+               <personGrp xml:id="GJAESTERNE">
+                  <name>Gjæsterne</name>
+               </personGrp>
+               <person xml:id="ENSTUDENT">
+                  <persName>En student</persName>
+               </person>
+               <personGrp xml:id="STUDENTERNE">
+                  <name>Studenterne</name>
+               </personGrp>
+               <personGrp xml:id="DEFLESTEPAASCENEN">
+                  <name>De fleste paa scenen</name>
+               </personGrp>
             </listPerson>
          </particDesc>
       </profileDesc>
@@ -258,7 +360,7 @@
                   <l rhyme="d">Hvem der tar den døde Rest!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#HERRERNE">
                <speaker>HERRERNE</speaker>
                <lg type="strofe" part="I">
                   <l rhyme="C">
@@ -3613,7 +3715,7 @@
             </sp>
             <stage>Hun gaar ind i Huset; Falk blir ubevægelig staaende og ser efter hende; langt ude
                paa Vandet skimtes en Baad, derfra høres fjernt og dæmpet følgende:</stage>
-            <sp>
+            <sp who="#KOR">
                <speaker>KOR</speaker>
                <lg type="strofe-krønikestrofe" met="bi+ '8 '8 '7 '8 '8 '7" rhyme="a a B c c B"
                   part="I">
@@ -3712,7 +3814,7 @@
                </lg>
                <stage>(gaar raskt ud til Højre; fra Vandet lyder atter)</stage>
             </sp>
-            <sp>
+            <sp who="#KOR">
                <speaker>KORET</speaker>
                <lg type="strofe-krønikestrofe-(ufullstendig)" part="I" met="bi+ '8 '7" rhyme="c B">
                   <l met="∪-∪∪-∪∪-∪∪-" rhyme="c">Kanhænde Du sejler din Skude paa Grund</l>
@@ -3728,7 +3830,7 @@
             <stage>Søndags Eftermiddag. Pyntede Damer og Herrer drikker Kaffe paa Altanen. Gjennem
                de aabne Glasdøre sees flere af Gjæsterne inde i Havestuen; derfra høres
                følgende:</stage>
-            <sp>
+            <sp who="#KOR">
                <speaker>KOR</speaker>
                <lg type="strofegruppe" met="bi+ '8 '9 '8 '8 '7" rhyme="a B a a B" part="I">
                   <l met="∪-∪∪-∪∪-∪∪-" rhyme="a">Velkommen i vort, de Forlovedes, Lag!</l>
@@ -3751,21 +3853,21 @@
                   <l part="I">Jeg skulde brydd Dem!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#DAME1">
                <speaker>EN DAME</speaker>
                <stage>sammesteds</stage>
                <lg part="M">
                   <l part="F" rhyme="Bb">Uf, ja det var græmmeligt!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#DAME2">
                <speaker>EN ANDEN DAME</speaker>
                <stage>i Døren</stage>
                <lg part="M">
                   <l part="I">Han skrev vel, Anna?</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#TANTE1">
                <speaker>EN TANTE</speaker>
                <lg part="M">
                   <l part="M">Nej!</l>
@@ -3778,7 +3880,7 @@
                      <emph>Det</emph> gjorde Min.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#DAME3">
                <speaker>
                   <pb n="114"/>EN DAME</speaker>
                <stage>paa Altanen</stage>
@@ -3793,7 +3895,7 @@
                   <l rhyme="c">Imorgen maa Du ud og kjøbe Ring.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#FLEREDAMER">
                <speaker>FLERE DAMER</speaker>
                <stage>ivrigt</stage>
                <lg part="M">
@@ -3821,7 +3923,7 @@
                   <l part="I">En halv Kopp Kaffe til?</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#DAME4">
                <speaker>EN DAME</speaker>
                <lg part="M">
                   <l part="F" rhyme="D">Ja Takk, en Draabe.</l>
@@ -3834,20 +3936,20 @@
                   <l rhyme="c">Til næste Uge, naar I skal omkring.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#ENALDRENDEDAME">
                <speaker>EN ALDRENDE DAME</speaker>
                <stage>i Stuen ved Vinduet</stage>
                <lg part="M">
                   <l rhyme="E">Naar skal Du saa til Ollendorff og Balchen?</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#FLEREIKOR">
                <speaker>FLERE I KOR</speaker>
                <lg part="M">
                   <l rhyme="E">Nej bare se, hvor rød hun blir, den Skalken!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#HERRE1">
                <speaker>
                   <pb n="115"/>EN HERRE</speaker>
                <stage>til nogle Damer paa Altanen</stage>
@@ -3855,14 +3957,14 @@
                   <l rhyme="F">Lægg Mærke til Herr Lind med Annas Handske.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#NOGLEAFDAMERNE">
                <speaker>NOGLE AF DAMERNE</speaker>
                <stage>med højrøstet Glæde</stage>
                <lg part="M">
                   <l part="I">Ved Gud, han kyssed den!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#ANDRE">
                <speaker>ANDRE</speaker>
                <stage>ligesaa idet de springer op</stage>
                <lg part="M">
@@ -3898,7 +4000,7 @@
                   <l rhyme="h">Komm, Anna; still Dig foran dette Spejl!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#NOGLEDAMER">
                <speaker>NOGLE DAMER</speaker>
                <stage>raabende</stage>
                <lg part="M">
@@ -3911,7 +4013,7 @@
                   <l part="F" rhyme="Ii">Rygg imod Rygg! Lidt nøjere!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#DAMERNEPAAALTANEN">
                <speaker>DAMERNE PAA ALTANEN</speaker>
                <lg part="M">
                   <l rhyme="Ii">Komm, lad os se, hvor meget han er højere.</l>
@@ -4034,13 +4136,13 @@
                   <l part="F" rhyme="A">Ja det var Vildtet.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#NOGLEDAMER">
                <speaker>NOGLE DAMER</speaker>
                <lg part="M">
                   <l part="I">At løbe fra os!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#ANDRE">
                <speaker>ANDRE</speaker>
                <lg part="M">
                   <l part="F" rhyme="b">Fy, det er da Skamm!</l>
@@ -4091,7 +4193,7 @@
                   <l part="I">En engelsk –?</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#DAMERNE">
                <speaker>
                   <pb n="119"/>DAMERNE</speaker>
                <lg part="M">
@@ -4117,14 +4219,14 @@
                   <l rhyme="i">Hent Anna og Fru Straamand og Fru Halm!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#NOGLEDAMER">
                <speaker>NOGLE DAMER</speaker>
                <stage>i Bevægelse</stage>
                <lg part="M">
                   <l part="I">Ja Sligt maa hindres!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#ANDRE">
                <speaker>ANDRE</speaker>
                <lg part="M">
                   <l part="F" rhyme="i">Vi maa gjøre Kvalm!</l>
@@ -4168,7 +4270,7 @@
                   <l part="I">Saa har han snakket for Dig!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#DAMERNE">
                <speaker>DAMERNE</speaker>
                <stage>slaar Hænderne sammen</stage>
                <lg part="M">
@@ -4836,7 +4938,7 @@
                   <l part="I">Forsoning da!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#TANTERNE">
                <speaker>TANTERNE</speaker>
                <stage>rørte</stage>
                <lg part="M">
@@ -4939,7 +5041,7 @@
                   <l part="I">Ja, hvad er <emph>det</emph>?</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#DAMERNE">
                <speaker>DAMERNE</speaker>
                <lg part="M">
                   <l part="M">Hvad nu!</l>
@@ -4980,7 +5082,7 @@
                </lg>
                <stage>(gaar op mod Baggrunden)</stage>
             </sp>
-            <sp>
+            <sp who="#TANTERNE">
                <speaker>TANTERNE</speaker>
                <stage>i Munden paa hverandre</stage>
                <lg part="M">
@@ -5048,7 +5150,7 @@
                   <l rhyme="I'">Hal Rejsen ud, og rør Dem ej af Pletten.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#TANTERNE">
                <speaker>
                   <pb n="136"/>TANTERNE</speaker>
                <stage>glade</stage>
@@ -5158,7 +5260,7 @@
                   <l rhyme="l">Den laaner Livet jo et Rosenskjær.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#UNGDAME3">
                <speaker>
                   <pb n="138"/>EN UNG DAME</speaker>
                <lg part="M">
@@ -5166,7 +5268,7 @@
                   <l rhyme="M">Først naar den springer ud faar Verden se’en.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#TANTE2">
                <speaker>EN TANTE</speaker>
                <lg part="M">
                   <l rhyme="n">Den er en <emph>Løvetand</emph>, som trives bedst,</l>
@@ -5199,7 +5301,7 @@
                   </l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#HERRE2">
                <speaker>EN HERRE</speaker>
                <lg part="M">
                   <l rhyme="Ss">Den er en <emph>vild Kastanje</emph>, – meget priselig</l>
@@ -5258,7 +5360,7 @@
                   <l rhyme="F'">Dens Odelshjem er Solens Fætters Have –</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#DAMERNE">
                <speaker>DAMERNE</speaker>
                <lg part="M">
                   <l part="I">Aa, det er <emph>Theen</emph>!</l>
@@ -5368,13 +5470,13 @@
                   <l rhyme="u'">Den Slags er kun for Solens Døttres Tørst.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#UNGDAME1">
                <speaker>EN UNG DAME</speaker>
                <lg part="M">
                   <l rhyme="T'">Man skildrer den berusende som Æther –</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#UNGDAME2">
                <speaker>EN ANDEN</speaker>
                <lg part="M">
                   <l rhyme="Vv'">Som Lotos duftende, og sød som Mandelen.</l>
@@ -5424,7 +5526,7 @@
                      <emph>Den</emph> fylder Markedet.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#HERRE3">
                <speaker>EN HERRE</speaker>
                <lg part="M">
                   <l rhyme="e''">Saa taler Holberg om en The de Beuf –</l>
@@ -5509,7 +5611,7 @@
                   <l rhyme="A'''">Det var en meget sælsom Brug af Ordet!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#DAMERNE">
                <speaker>DAMERNE</speaker>
                <lg part="M">
                   <l rhyme="b'''">At Kjærligheden skulde være død –!</l>
@@ -5669,13 +5771,13 @@
                   <l rhyme="D''''">Frygt ej for Deres Ven og for hans Lykke –</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#NOGLEDAMER">
                <speaker>NOGLE DAMER</speaker>
                <lg part="M">
                   <l part="I">Nej, den er vis!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#ANDRE">
                <speaker>ANDRE</speaker>
                <lg part="M">
                   <l part="F" rhyme="e''''">Ja det vi sikkert ved.</l>
@@ -5694,7 +5796,7 @@
                   <l rhyme="F''''">Til Brylluppet hun selv broderer Kjolen.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#TANTE3">
                <speaker>EN TANTE</speaker>
                <stage>klapper Anna paa Hovedet</stage>
                <lg part="M">
@@ -7170,7 +7272,7 @@
                   <l part="I">De Unge græder –</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#BOERNENE">
                <speaker>BØRNENE</speaker>
                <stage>i Døren</stage>
                <lg part="M">
@@ -8621,31 +8723,31 @@
                   <l rhyme="f''">Guds fagre Kjærlighed paa Jord, Hurra!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#UNGEPIGER">
                <speaker>DE UNGE PIGER</speaker>
                <lg part="M">
                   <l part="I">Til Dans i Haven!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#ENENKELT">
                <speaker>EN ENKELT</speaker>
                <lg part="M">
                   <l part="F" rhyme="A">Livet er at danse!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#ENANDEN">
                <speaker>EN ANDEN</speaker>
                <lg part="M">
                   <l rhyme="A">En Vaardags Blomsterdans med friske Kranse!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#NOGLE">
                <speaker>NOGLE</speaker>
                <lg part="M">
                   <l part="I">Ja, danse, danse!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#FALK #LIND #SVANHILD #FRUHALM #GULDSTAD #STRAAMAND #STYVER #ANNA #UNGEPIGER #GJAESTERNE">
                <speaker>ALLE</speaker>
                <lg part="M">
                   <l part="F" rhyme="A">Ja, og aldrig standse!</l>
@@ -8728,7 +8830,7 @@
                   <l part="I">En Kurv!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#TANTERNE">
                <speaker>TANTERNE</speaker>
                <lg part="M">
                   <l part="M">En Kurv!</l>
@@ -8761,7 +8863,7 @@
                   <l part="F" rhyme="e">Ja!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#DAMERNE">
                <speaker>DAMERNE</speaker>
                <stage>fra Mund til Mund</stage>
                <lg part="M">
@@ -8905,7 +9007,7 @@
                   <l part="I">Og Kjærligheden sejrer.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#GJAESTERNE">
                <speaker>GJÆSTERNE</speaker>
                <lg part="M">
                   <l part="F" rhyme="B">Ja, den sejrer!</l>
@@ -8931,7 +9033,7 @@
                   <l part="I">At sende Afbud –</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#ENSTUDENT">
                <speaker>EN STUDENT</speaker>
                <stage>til Lind</stage>
                <lg part="M">
@@ -8951,20 +9053,20 @@
                   <l part="I">Han er forlovet nu –</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#TANTE4">
                <speaker>EN TANTE</speaker>
                <lg part="M">
                   <l part="F" rhyme="E">Saa De kan skjønne,</l>
                   <l rhyme="E">Han Intet har at gjøre i det Grønne.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#ENSTUDENT">
                <speaker>STUDENTEN</speaker>
                <lg part="M">
                   <l part="I">Forlovet!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#STUDENTERNE">
                <speaker>ALLE STUDENTERNE</speaker>
                <lg part="M">
                   <l part="M">Gratulerer!</l>
@@ -8977,7 +9079,7 @@
                   <l part="F" rhyme="f">Mange Takk.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#ENSTUDENT">
                <speaker>STUDENTEN</speaker>
                <stage>til Kammeraterne</stage>
                <lg part="M">
@@ -8992,7 +9094,7 @@
                   <l rhyme="g">Den synger jeg i Norges Ungdoms Kor!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#STUDENTERNE">
                <speaker>STUDENTERNE</speaker>
                <lg part="M">
                   <l part="I">Du, Falk! Hurra!</l>
@@ -9115,14 +9217,14 @@
                Munterheden blandt de Dansende længere inde i Haven.</stage>
             <stage>Men langt oppe fra Landet, og klingende igjennem Dansemusikken, lyder kraftigt og
                kjækt:</stage>
-            <sp>
+            <sp who="#FALK #STUDENTERNE">
                <speaker>KOR AF FALK OG STUDENTERNE</speaker>
                <lg type="strofe-krønikestrofe-(ufullstendig)" part="I" met="bi+ '8 '7" rhyme="c B">
                   <l met="∪-∪∪-∪∪-∪∪-" rhyme="c">Og har jeg end sejlet min Skude paa Grund,</l>
                   <l met="∪∪-∪∪-∪∪-∪" rhyme="B">O, saa <emph>var</emph> det dog dejligt at fare!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#DEFLESTEPAASCENEN">
                <speaker>DE FLESTE PAA SCENEN</speaker>
                <p>Hurra!</p>
             </sp>
