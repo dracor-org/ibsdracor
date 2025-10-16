@@ -40,11 +40,11 @@
                </availability>
                <bibl type="originalSource">
                   <author>Henrik Ibsen</author>: <title type="main">Hærmændene paa
-                     Helgeland</title>. <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg.
-                     1858</title>. In: <edition>Henrik Ibsens skrifter, bind 3</edition>. 
-                  <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
-                  <date when="2006">2006</date>
-                  <biblScope unit="page" from="349" to="475">349-475</biblScope>
+                  Helgeland</title>. <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg.
+                     1858</title>. In: <edition>Henrik Ibsens skrifter, bind 3</edition>.
+                     <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
+                  <date when="2006">2006</date> s. <biblScope unit="page" from="349" to="475"
+                     >349-475</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -83,6 +83,36 @@
                <personGrp xml:id="SONNER6" sex="MALE">
                   <name>Sønner</name>
                </personGrp>
+               <personGrp xml:id="SIGURDSMAEND" sex="MALE">
+                  <name>Sigurds mænd</name>
+               </personGrp>
+               <person xml:id="ENGAMMELMAND" sex="MALE">
+                  <persName>En gammel mand</persName>
+               </person>
+               <person xml:id="ENSTEMMEBLANDTMAENGDEN">
+                  <persName>En stemme blandt mængden</persName>
+               </person>
+               <person xml:id="ENHUSKARL" sex="MALE">
+                  <persName>En huskarl</persName>
+               </person>
+               <personGrp xml:id="FLEREMAEND" sex="MALE">
+                  <name>Flere mænd</name>
+               </personGrp>
+               <personGrp xml:id="ALLE">
+                  <name>Alle</name>
+               </personGrp>
+               <person xml:id="MANDEN" sex="MALE">
+                  <persName>Manden</persName>
+               </person>
+               <personGrp xml:id="MAENGDEN">
+                  <name>Mængden</name>
+               </personGrp>
+               <person xml:id="KARLEN" sex="MALE">
+                  <persName>Karlen</persName>
+               </person>
+               <person xml:id="ENAFMAENDENE" sex="MALE">
+                  <persName>En af mændene</persName>
+               </person>
             </listPerson>
          </particDesc>
       </profileDesc>
@@ -272,7 +302,7 @@
                         Hætten tilbage)</stage>
                   </p>
                </sp>
-               <sp>
+               <sp who="#SIGURD #SIGURDSMAEND">
                   <speaker>SIGURD og HANS MÆND</speaker>
                   <p>Ørnulf fra Fjordene!</p>
                </sp>
@@ -2163,7 +2193,7 @@
                   <stage>med hævet Stemme</stage>
                   <p>Sig frem, det kræves medrette!</p>
                </sp>
-               <sp>
+               <sp who="#ENGAMMELMAND">
                   <speaker>EN GAMMEL MAND</speaker>
                   <stage>blandt Gjæsterne</stage>
                   <p>Skal Sandhed siges, saa er Gunnars Daad ypperligere end Alt, hvad Mænd har
@@ -2468,7 +2498,7 @@
                   <speaker>SIGURD og DAGNY</speaker>
                   <p>Hvad <emph>er</emph> det?</p>
                </sp>
-               <sp>
+               <sp who="#ENSTEMMEBLANDTMAENGDEN">
                   <speaker>EN STEMME BLANDT MÆNGDEN</speaker>
                   <p>Thorolf faldt!</p>
                </sp>
@@ -2533,7 +2563,7 @@
                   <p>Det havde du! Ringe er min Hævn at regne mod Ørnulfs Udaad. Han mistede
                      Thorolf, men har dog sex Sønner igjen, og jeg ingen – ingen!</p>
                </sp>
-               <sp>
+               <sp who="#ENHUSKARL">
                   <speaker>EN HUSKARL</speaker>
                   <stage>ilsomt fra Baggrunden</stage>
                   <p>Ørnulf fra Fjordene kommer!</p>
@@ -2542,7 +2572,7 @@
                   <speaker>GUNNAR</speaker>
                   <p>Ørnulf!</p>
                </sp>
-               <sp>
+               <sp who="#HJORDIS #FLEREMAEND">
                   <speaker>HJØRDIS og FLERE MÆND</speaker>
                   <p>Til Vaaben! Til Vaaben!</p>
                </sp>
@@ -2575,7 +2605,7 @@
                   <speaker>ØRNULF</speaker>
                   <p>Her har I liden Egil igjen!</p>
                </sp>
-               <sp>
+               <sp who="#ALLE">
                   <speaker>ALLE</speaker>
                   <stage>mellem hverandre</stage>
                   <p>Egil! Egil lever!</p>
@@ -2790,7 +2820,7 @@
                   <p>Godt har du nu sørget for at hans Ord kan sandes. <stage>(tier lidt og vender
                         sig til en af Mændene)</stage> Hvor fik han Banehugget?</p>
                </sp>
-               <sp>
+               <sp who="#MANDEN">
                   <speaker>MANDEN</speaker>
                   <p>Tvers over Panden.</p>
                </sp>
@@ -2800,7 +2830,7 @@
                   <p>Hm, det er hæderligt Sted; saa har han ikke vendt Ryggen til. Men faldt han mod
                      Siden, eller ind mod Gunnars Fødder?</p>
                </sp>
-               <sp>
+               <sp who="#MANDEN">
                   <speaker>MANDEN</speaker>
                   <p>Halvveis mod Siden og halvveis mod Gunnar.</p>
                </sp>
@@ -2895,7 +2925,7 @@
                   <stage>vildt</stage>
                   <p>Sigurd!</p>
                </sp>
-               <sp>
+               <sp who="#MAENGDEN">
                   <speaker>MÆNGDEN</speaker>
                   <p>Sigurd! Sigurd øvede Daaden!</p>
                </sp>
@@ -3472,7 +3502,7 @@
             <div type="scene" n="4">
                <head>Fjerde Scene</head>
                <stage>De Forrige. En Huskarl fra Baggrunden.</stage>
-               <sp>
+               <sp who="#KARLEN">
                   <speaker>KARLEN</speaker>
                   <p>Sigurd Viking kommer til Gaarden!</p>
                </sp>
@@ -3480,7 +3510,7 @@
                   <speaker>HJØRDIS</speaker>
                   <p>Sigurd! Saa lad Gunnar kalde hid.</p>
                </sp>
-               <sp>
+               <sp who="#KARLEN">
                   <speaker>KARLEN</speaker>
                   <p>Gunnar red ud for at samle sine Grander; thi Kaare Bonde vil –</p>
                </sp>
@@ -4128,7 +4158,7 @@
                   <stage>mildt bebreidende</stage>
                   <p>Ubilligt er dit Had til hende. Sigurd, Sigurd, det ligner dig lidet!</p>
                </sp>
-               <sp>
+               <sp who="#ENAFMAENDENE">
                   <speaker>
                      <pb n="457"/>EN AF MÆNDENE</speaker>
                   <stage>nærmer sig</stage>
