@@ -41,10 +41,10 @@
                <bibl type="originalSource">
                   <author>Henrik Ibsen</author>: <title type="main">Hærmændene på Helgeland</title>.
                      <title type="sub">Hovedtekst, tekstgrunnlag: NBO Ms.8° 1935</title>. In:
-                     <edition>Henrik Ibsens skrifter, bind 3</edition>. 
-                  <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
-                  <date when="2006">2006</date>
-                  <biblScope unit="page" from="477" to="485">477-485</biblScope>
+                     <edition>Henrik Ibsens skrifter, bind 3</edition>. <pubPlace>Oslo</pubPlace>:
+                     <publisher>Aschehoug</publisher>
+                  <date when="2006">2006</date> s. <biblScope unit="page" from="477" to="485"
+                     >477-485</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -67,6 +67,12 @@
                </person>
                <personGrp xml:id="SONNER" sex="MALE">
                   <persName>Sønnerne</persName>
+               </personGrp>
+               <person xml:id="HORNBLAESER" sex="MALE">
+                  <persName>Hornblæser</persName>
+               </person>
+               <personGrp xml:id="SIGURDSMAEND" sex="MALE">
+                  <name>Sigurds mænd</name>
                </personGrp>
             </listPerson>
          </particDesc>
@@ -172,7 +178,7 @@
                   <l rhyme="X">Op alle Sigurds mænd! Min husbond stride</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#HORNBLAESER">
                <speaker>Hornblæser.</speaker>
                <lb/>
                <lg part="F">
@@ -261,7 +267,7 @@
                <p>Selve Sigurd er det!</p>
             </sp>
             <lb/>
-            <sp>
+            <sp who="#SIGURDSMAEND">
                <speaker>Mændene.</speaker>
                <lb/>
                <p>Ja, Sigurd viking! Selve Sigurd er det.</p>
@@ -273,7 +279,7 @@
                <p>Viking! Hvassere ramte du mig <lb/>da du raned Dagny, min datter.</p>
             </sp>
             <lb/>
-            <sp>
+            <sp who="#SIGURD #SIGURDSMAEND">
                <speaker>S. og hans mænd.</speaker>
                <lb/>
                <p>Ørnulf fra fjordene <del>–<unclear>!</unclear>
