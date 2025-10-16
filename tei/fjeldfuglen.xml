@@ -44,8 +44,8 @@
                      <edition>Henrik Ibsens skrifter, bind 2</edition>. <editor>Christian Janss,
                      Hilde Bøe og Stine Brenna Taugbøl</editor>
                   <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
-                  <date when="2006">2006</date>
-                  <biblScope unit="page" from="575" to="607">575-607</biblScope>
+                  <date when="2006">2006</date> s. <biblScope unit="page" from="575" to="607"
+                     >575-607</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -76,10 +76,22 @@
                   <persName>Alfhild</persName>
                </person>
                <personGrp xml:id="GJAESTER">
-                  <name>Chor af Bryllupsgjæster</name>
+                  <name>Bryllupsgjæster</name>
                </personGrp>
                <personGrp xml:id="HOUGFOLK">
                   <name>Chor af Hougfolk</name>
+               </personGrp>
+               <personGrp xml:id="KVINDERNE" sex="FEMALE">
+                  <name>Kvinderne</name>
+               </personGrp>
+               <personGrp xml:id="PIGERNE" sex="FEMALE">
+                  <name>Pigerne</name>
+               </personGrp>
+               <personGrp xml:id="SVENDENE" sex="MALE">
+                  <name>Svendene</name>
+               </personGrp>
+               <personGrp xml:id="KOR">
+                  <name>Kor</name>
                </personGrp>
             </listPerson>
          </particDesc>
@@ -169,7 +181,7 @@
                   <hi>Thorgejr sidder ved Fossen og spiller.</hi>
                </stage>
                <stage>
-                  <hi>Alfhild ligger tankefuld mellem Træ- erne tilvenstre.</hi>
+                  <hi>Alfhild ligger tankefuld mellem Træerne tilvenstre.</hi>
                </stage>
                <sp who="#THORGEJR">
                   <speaker>Thorgejr.</speaker>
@@ -187,7 +199,7 @@
                </sp>
                <stage>
                   <pb n="582"/>
-                  <hi>Græsvolden aabner sig, Hougfolket kom- mer sagte frem og lytter.</hi>
+                  <hi>Græsvolden aabner sig, Hougfolket kommer sagte frem og lytter.</hi>
                </stage>
                <sp who="#HOUGFOLK">
                   <speaker>Chor af Hougfolk.</speaker>
@@ -249,7 +261,7 @@
                </stage>
                <sp who="#HOUGFOLK">
                   <stage>(<hi>Thorgejr spiller, Alfhild synes drømmende at lytte mens Hougfolket
-                        danser og gjen- tager:</hi>)</stage>
+                        danser og gjentager:</hi>)</stage>
                   <lg type="strofisk-strofe-kortvers" part="Y" met="bi+ '5" rhyme="X">
                      <l met="-∪∪-∪" rhyme="A">Hør Strengen graater</l>
                      <l>o. s. v, – o. s. v.</l>
@@ -461,7 +473,7 @@
                      <l met="4" rhyme="A">Hør han truer!</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#KVINDERNE">
                   <speaker>Kvinderne.</speaker>
                   <lg part="M">
                      <l met="7" rhyme="b">Vee os dog at vi kom hid!</l>
@@ -482,7 +494,7 @@
                      <l met="4" rhyme="D">Stille, stille!</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#INGEBORG #KVINDERNE">
                   <speaker>Ingeborg <hi>og</hi> Kvinderne.</speaker>
                   <lg part="M">
                      <l met="8" rhyme="C">Hu! Af Skræk jeg knapt kan sandse!</l>
@@ -831,9 +843,9 @@
                   <hi>
                      <rs type="person" ref="IVAR">Ivar</rs>, <rs type="person" ref="INGEBORG"
                         >Ingeborg</rs>, <rs type="person" ref="SVEND">Svend</rs> og <rs
-                        type="person" ref="GJAESTER">Gjæsterne</rs> kom- mer ind fra Venstre.
-                     Alfhild staar noget afsides tilhøire uden at bemærkes og følger i høieste
-                     Spænding det følgende Optrin uden dog at høre hvad der handles om.</hi>
+                        type="person" ref="GJAESTER">Gjæsterne</rs> kommer ind fra Venstre. Alfhild
+                     staar noget afsides tilhøire uden at bemærkes og følger i høieste Spænding det
+                     følgende Optrin uden dog at høre hvad der handles om.</hi>
                </stage>
                <sp who="#GJAESTER">
                   <speaker>Gjæsterne.</speaker>
@@ -1081,19 +1093,16 @@
                      de Bortdragende, som alle gaar ud til Høire, undtagen Thorgejr, der bliver
                      tankefuld tilbage ved Elven.</hi>)</stage>
             </div>
-            <div type="scene" n="2">
-               <stage>(.)</stage>
-            </div>
          </div>
          <div type="act" n="2" hand="HI-h2">
             <head>
                <hi>2<hi>den</hi> Akt</hi>.</head>
             <div type="scene" n="1">
-               <stage>Tunet ved Ivars Gaard. Stuebygningen sees i Mellem- grunden tilhøjre; Staburet
-                  og andre Huse tilven- stre. I Baggrunden en tyk Li med Fjeldrygge ovenover. Det er
+               <stage>Tunet ved Ivars Gaard. Stuebygningen sees i Mellemgrunden tilhøjre; Staburet
+                  og andre Huse tilvenstre. I Baggrunden en tyk Li med Fjeldrygge ovenover. Det er
                   mod Aften. –</stage>
                <stage>Otte Brudepiger kommer fra Staburet med Ingeborg i Brudedragt.</stage>
-               <sp>
+               <sp who="#PIGERNE">
                   <speaker>
                      <pb n="606"/>Pigerne.</speaker>
                   <lg type="stikisk-folkevisevers" met="bi++ '4|'5|'6|'7|'8|'9" rhyme="r|R|x|X"
@@ -1101,13 +1110,13 @@
                      <l met="-∪∪-∪∪-∪∪-∪" rhyme="A">Nu er hun pyntet med Søljer og Krone,</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#SVENDENE">
                   <speaker>Svendene</speaker>
                   <lg part="M">
                      <l met="-∪∪-∪∪-∪∪-∪" rhyme="A">Nu er han færdig at hente sin Kone.</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#KOR">
                   <speaker>Fælles Kor.</speaker>
                   <lg part="M">
                      <l met="∪-∪∪-∪∪-∪-" rhyme="b">Idag er der Gammen i Gildegaard;</l>
@@ -1128,7 +1137,7 @@
                      <l met="∪-∪∪-∪" rhyme="D">Bag Granskogens Toppe –</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#KOR">
                   <speaker>Kor.</speaker>
                   <lg part="M">
                      <l part="Y" met="∪-∪∪-∪">Idag er d<unclear reason="writing">er</unclear> Gammen
