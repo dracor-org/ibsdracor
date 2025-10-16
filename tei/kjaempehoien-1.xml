@@ -40,12 +40,12 @@
                   </licence>
                </availability>
                <bibl type="originalSource">
-                  <author>Henrik Ibsen</author>: <title type="main">Kjæmpehøien, 1.
-                  versjon</title>. <title type="sub">Hovedtekst, tekstgrunnlag: NBO Ms 8°
-                     2586</title>. In: <edition>Henrik Ibsens skrifter, bind 1</edition>. 
-                  <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
-                  <date when="2005">2005</date>
-                  <biblScope unit="page" from="255" to="291">255-291</biblScope>
+                  <author>Henrik Ibsen</author>: <title type="main">Kjæmpehøien, 1. versjon</title>.
+                     <title type="sub">Hovedtekst, tekstgrunnlag: NBO Ms 8° 2586</title>. In:
+                     <edition>Henrik Ibsens skrifter, bind 1</edition>. <pubPlace>Oslo</pubPlace>:
+                     <publisher>Aschehoug</publisher>
+                  <date when="2005">2005</date> s. <biblScope unit="page" from="255" to="291"
+                     >255-291</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -78,6 +78,9 @@
                <person xml:id="HROLLOUG" sex="MALE">
                   <persName>Hrolloug</persName>
                </person>
+               <personGrp xml:id="KJAEMPERNE" sex="MALE">
+                  <name>Kjæmperne</name>
+               </personGrp>
             </listPerson>
          </particDesc>
       </profileDesc>
@@ -391,7 +394,7 @@
                   <l part="F" rhyme="x">Sende vi til Hel!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#KJAEMPERNE">
                <speaker>
                   <pb n="265"/>KJÆMPERNE</speaker>
                <lg part="M">
@@ -992,7 +995,7 @@
                   <l part="I">Hist slumrer han i Høien.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#KJAEMPERNE">
                <speaker>KJÆMPERNE</speaker>
                <lg part="M">
                   <l part="F" rhyme="x">Auduns Høi!</l>
@@ -1030,7 +1033,7 @@
                   <l part="I">At tage blodig Hævn!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#KJAEMPERNE">
                <speaker>KJÆMPERNE</speaker>
                <lg part="M">
                   <l part="F" rhyme="x">Ja, blodig Hævn!</l>
@@ -1088,7 +1091,7 @@
                   <l part="I">Ha, Loke!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#KJAEMPERNE">
                <speaker>KJÆMPERNE</speaker>
                <lg part="M">
                   <l part="F" rhyme="x">Ned med ham, til Hela ned!</l>
@@ -1113,7 +1116,7 @@
                   <l part="I">Frem, frem I Mænd!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#KJAEMPERNE">
                <speaker>KJÆMPERNE</speaker>
                <stage>med dragne Sværde</stage>
                <lg part="M">
@@ -1229,7 +1232,7 @@
                   <l rhyme="X">Imod min Faders Aand i Valhals Sale!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#KJAEMPERNE">
                <speaker>KJÆMPERNE</speaker>
                <lg part="M">
                   <l part="I">Ha, Gandalf!</l>
@@ -1395,7 +1398,7 @@
                   <l part="F" rhyme="X">Fader! o, min Fader!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#KJAEMPERNE">
                <speaker>KJÆMPERNE</speaker>
                <stage>slaae paa deres Skjolde</stage>
                <lg part="M">
@@ -1708,7 +1711,7 @@
                   </l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#KJAEMPERNE">
                <speaker>KJÆMPERNE</speaker>
                <stage>under Skjoldebrag</stage>
                <lg part="M">
