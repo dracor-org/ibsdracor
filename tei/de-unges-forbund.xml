@@ -38,12 +38,12 @@
                   </licence>
                </availability>
                <bibl type="originalSource">
-                  <author>Henrik Ibsen</author>: <title type="main">De unges Forbund</title>.
-                     <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1869</title>. In:
-                     <edition>Henrik Ibsens skrifter, bind 6</edition>. 
-                  <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
-                  <date when="2008">2008</date>
-                  <biblScope unit="page" from="7" to="253">7-253</biblScope>
+                  <author>Henrik Ibsen</author>: <title type="main">De unges Forbund</title>. <title
+                     type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1869</title>. In: <edition>Henrik
+                     Ibsens skrifter, bind 6</edition>. <pubPlace>Oslo</pubPlace>:
+                     <publisher>Aschehoug</publisher>
+                  <date when="2008">2008</date> s. <biblScope unit="page" from="7" to="253"
+                     >7-253</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -109,6 +109,42 @@
                <person xml:id="MADAM-R-PIGE" sex="FEMALE">
                   <persName>Tjenestepigen</persName>
                </person>
+               <personGrp xml:id="TILLHOERERNE">
+                  <name>Tillhørerne</name>
+               </personGrp>
+               <personGrp xml:id="ENKELTESTEMMER">
+                  <name>Enkelte stemmer</name>
+               </personGrp>
+               <personGrp xml:id="MANGESTEMMER">
+                  <name>Mange stemmer</name>
+               </personGrp>
+               <personGrp xml:id="MAENGDEN">
+                  <name>Mængden</name>
+               </personGrp>
+               <personGrp xml:id="DEUNGE">
+                  <name>De unge</name>
+               </personGrp>
+               <personGrp xml:id="STEMMER">
+                  <name>Stemmer</name>
+               </personGrp>
+               <personGrp xml:id="DEUNGEDAMER" sex="FEMALE">
+                  <name>De unge damer</name>
+               </personGrp>
+               <personGrp xml:id="GJAESTER">
+                  <name>Gjæsterne</name>
+               </personGrp>
+               <personGrp xml:id="FLERE">
+                  <name>Flere</name>
+               </personGrp>
+               <personGrp xml:id="DEOMSTAAENDE">
+                  <name>De omstaaende</name>
+               </personGrp>
+               <personGrp xml:id="DEFLESTE">
+                  <name>De fleste</name>
+               </personGrp>
+               <personGrp xml:id="SOGNEMAENDENE" sex="MALE">
+                  <name>Sognemændene</name>
+               </personGrp>
             </listPerson>
          </particDesc>
       </profileDesc>
@@ -226,7 +262,7 @@
                   taget den i Arv fra vore Fædre, saaledes vil vi bevare den for os selv og for vore
                   Sønner! Hurra for Dagen! Hurra for 17de Maj!</p>
             </sp>
-            <sp>
+            <sp who="#TILLHOERERNE">
                <speaker>TILLHØRERNE</speaker>
                <p>Hurra, Hurra, Hurra!</p>
             </sp>
@@ -235,11 +271,11 @@
                <stage>idet Lundestad stiger ned</stage>
                <p>Og nu et Hurra for gamle Lundestad!</p>
             </sp>
-            <sp>
+            <sp who="#ENKELTESTEMMER">
                <speaker>ENKELTE STEMMER</speaker>
                <p>Hyss! Hyss!</p>
             </sp>
-            <sp>
+            <sp who="#MANGESTEMMER">
                <speaker>
                   <pb n="12"/>MANGE STEMMER</speaker>
                <stage>overdøvende</stage>
@@ -1018,7 +1054,7 @@
                   han –; vor ærede Hædersgjæst ynder ikke lange Taler, og derfor, en Skaal og et
                   Hurra for Kammerherre Brattsberg og hans Familje! De leve! Hurra!</p>
             </sp>
-            <sp>
+            <sp who="#MAENGDEN">
                <speaker>
                   <pb n="32"/>MÆNGDEN</speaker>
                <p>Hurra! Hurra! Hurra!</p>
@@ -1038,7 +1074,7 @@
                <stage>springer opp paa Bordet</stage>
                <p>Jeg bygger min egen Talerstol!</p>
             </sp>
-            <sp>
+            <sp who="#DEUNGE">
                <speaker>DE UNGE</speaker>
                <stage>stimler om ham</stage>
                <p>Hurra!</p>
@@ -1086,7 +1122,7 @@
                <speaker>STENSGAARD</speaker>
                <p>De endnu mindre! Jeg afsætter Festkomiteen! Frihed paa Frihedsdagen, Gutter!</p>
             </sp>
-            <sp>
+            <sp who="#DEUNGE">
                <speaker>DE UNGE</speaker>
                <p>Hurra for Friheden!</p>
             </sp>
@@ -1096,7 +1132,7 @@
                   med sligt Voldsherredømme! Jeg vil ikke staa her og holde Tale for en maalbunden
                   Klynge. Snakke vil jeg. Og I skal snakke med. Vi vil snakke fra Leveren!</p>
             </sp>
-            <sp>
+            <sp who="#MAENGDEN">
                <speaker>MÆNGDEN</speaker>
                <stage>under stigende Jubel</stage>
                <p>Hurra!</p>
@@ -1139,7 +1175,7 @@
                   fra raadne Dage, som lægger Tyngsel og Mørke udover der, hvor der skulde være Lys
                   og Flugt. I Jorden igjen med dette Spøgelse!</p>
             </sp>
-            <sp>
+            <sp who="#MAENGDEN">
                <speaker>
                   <pb n="35"/>MÆNGDEN</speaker>
                <p>Hurra! Hurra for 17de Maj!</p>
@@ -1171,7 +1207,7 @@
                <speaker>STENSGAARD</speaker>
                <p>Vil ingen anden knuse Dragen, saa vil jeg! Men vi maa holde sammen, Gutter!</p>
             </sp>
-            <sp>
+            <sp who="#MANGESTEMMER">
                <speaker>MANGE STEMMER</speaker>
                <p>Ja! Ja!</p>
             </sp>
@@ -1193,7 +1229,7 @@
                   det klingende Sølv, som skal gjælde Mand og Mand imellem. Krig og Nederlag for
                   hver den, som vil hindre, at vi udmynter os!</p>
             </sp>
-            <sp>
+            <sp who="#MAENGDEN">
                <speaker>MÆNGDEN</speaker>
                <p>Hurra!</p>
             </sp>
@@ -1212,12 +1248,12 @@
                   tillidsfulde Gjerning. Ind till Restauratøren altsaa; – i denne Time vil vi stifte
                   vort Forbund!</p>
             </sp>
-            <sp>
+            <sp who="#MAENGDEN">
                <speaker>MÆNGDEN</speaker>
                <p>Hurra! Bær ham! Bær ham!</p>
             </sp>
             <stage>Han løftes paa Guldstol.</stage>
-            <sp>
+            <sp who="#STEMMER">
                <speaker>STEMMER</speaker>
                <p>Tal! Mere! Mere!</p>
             </sp>
@@ -1429,7 +1465,7 @@
                      Baggrunden tillhøjre)</stage>
                </p>
             </sp>
-            <sp>
+            <sp who="#MAENGDEN">
                <speaker>MÆNGDEN</speaker>
                <stage>i Teltet</stage>
                <p>Sagfører Stensgaard leve! Han leve! Hurra! Hurra for de unges Forbund! Vin!
@@ -1849,7 +1885,7 @@
                <speaker>PROPRIETÆR MONSEN</speaker>
                <p>Herr Formand! Hvor er Herr Stensgaard?</p>
             </sp>
-            <sp>
+            <sp who="#MAENGDEN">
                <speaker>MÆNGDEN</speaker>
                <p>Der staar han! Hurra!</p>
             </sp>
@@ -1885,7 +1921,7 @@
                   derefter. Naa, Godnatt, mine Herrer; hjertelig Takk for idag, og Hurra for
                   Fremtiden!</p>
             </sp>
-            <sp>
+            <sp who="#MAENGDEN">
                <speaker>
                   <pb n="54"/>MÆNGDEN</speaker>
                <p>Hurra! Vi følger ham hjem!</p>
@@ -1919,7 +1955,7 @@
                <speaker>BASTIAN</speaker>
                <p>Sangere! Stem i! Noget rigtig fædrelandsk!</p>
             </sp>
-            <sp>
+            <sp who="#MAENGDEN">
                <speaker>MÆNGDEN</speaker>
                <p>Sang; Sang! Musik!</p>
             </sp>
@@ -3988,7 +4024,7 @@
                <speaker>STENSGAARD</speaker>
                <p>Ja, jeg skal holde en Tale!</p>
             </sp>
-            <sp>
+            <sp who="#DEUNGEDAMER">
                <speaker>DE UNGE DAMER</speaker>
                <p>Bravo! Bravo!</p>
             </sp>
@@ -4087,7 +4123,7 @@
                <stage>famler efter Bordet</stage>
                <p>Takk, Herr Overrettssagfører!</p>
             </sp>
-            <sp>
+            <sp who="#GJAESTER">
                <speaker>GJÆSTERNE</speaker>
                <stage>de fleste i pinlig Forlegenhed</stage>
                <p>Herr Kammerherre! Herr Kammerherre Brattsberg!</p>
@@ -7764,7 +7800,7 @@
                <stage>fra Baggrunden</stage>
                <p>Champagne paa Bordet!</p>
             </sp>
-            <sp>
+            <sp who="#ASLAKSEN #FLERE">
                <speaker>ASLAKSEN og FLERE</speaker>
                <p>Monsen!</p>
             </sp>
@@ -9205,7 +9241,7 @@
                <speaker>PIGEN</speaker>
                <p>Madam Rundholmen –</p>
             </sp>
-            <sp>
+            <sp who="#DEOMSTAAENDE">
                <speaker>DE OMSTAAENDE</speaker>
                <p>Madam Rundholmen?</p>
             </sp>
@@ -9217,7 +9253,7 @@
                <speaker>PIGEN</speaker>
                <p>Madam Rundholmen staar udenfor med sin Kjæreste –</p>
             </sp>
-            <sp>
+            <sp who="#DEFLESTE">
                <speaker>DE FLESTE</speaker>
                <stage>i Munden paa hverandre</stage>
                <p>Kjæreste? Madam Rundholmen? Men hvorledes –?</p>
@@ -9481,7 +9517,7 @@
                      <emph>jeg</emph> staar hos. <stage>(højt)</stage> Ja, ved De nyt, mine Herrer?
                   Jeg er gaaet ind i Firmaet med min Søn.</p>
             </sp>
-            <sp>
+            <sp who="#GJAESTER">
                <speaker>FLERE AF GJÆSTERNE</speaker>
                <p>Hvad? De, Herr Kammerherre?</p>
             </sp>
@@ -9513,7 +9549,7 @@
                   at rejse, bør han, og jeg skal se at hjælpe till. Og derfor, mine Sognemænd, har I
                   Brug for mig, saa tag mig.</p>
             </sp>
-            <sp>
+            <sp who="#SOGNEMAENDENE">
                <speaker>SOGNEMÆNDENE</speaker>
                <stage>under Haandtrykk og Bevægelse</stage>
                <p>Takk, Lundestad! De er dog den gamle! De svigter ikke!</p>
