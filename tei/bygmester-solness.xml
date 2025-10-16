@@ -40,10 +40,10 @@
                <bibl type="originalSource">
                   <author>Henrik Ibsen</author>: <title type="main">Bygmester Solness</title>.
                      <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1892</title>. In:
-                     <edition>Henrik Ibsens skrifter, bind 9</edition>. 
-                  <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
-                  <date when="2009">2009</date>
-                  <biblScope unit="page" from="205" to="390">205-390</biblScope>
+                     <edition>Henrik Ibsens skrifter, bind 9</edition>. <pubPlace>Oslo</pubPlace>:
+                     <publisher>Aschehoug</publisher>
+                  <date when="2009">2009</date> s. <biblScope unit="page" from="205" to="390"
+                     >205-390</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -76,6 +76,21 @@
                <person xml:id="HILDE" sex="FEMALE">
                   <persName>Hilde</persName>
                </person>
+               <personGrp xml:id="DAMERNE" sex="FEMALE">
+                  <name>Damerne</name>
+               </personGrp>
+               <person xml:id="ENAFDAMERNE" sex="FEMALE">
+                  <persName>En af damerne</persName>
+               </person>
+               <person xml:id="ENANDENDAME" sex="FEMALE">
+                  <persName>En anden dame</persName>
+               </person>
+               <person xml:id="ENSTEMME">
+                  <persName>En stemme</persName>
+               </person>
+               <personGrp xml:id="ANDRESTEMMER">
+                  <name>Andre stemmer</name>
+               </personGrp>
             </listPerson>
          </particDesc>
       </profileDesc>
@@ -7957,7 +7972,7 @@
                nede på gaden. Da forstummer det pludselig og folkemængden slår over i et
                forfærdelsens skrig. Et menneskelegeme sammen med planker og træstumper skimtes
                utydeligt at styrte ned inde mellem træerne.</stage>
-            <sp>
+            <sp who="#FRUSOLNESS #DAMERNE">
                <speaker>FRU SOLNESS og DAMERNE</speaker>
                <stage>samtidigt</stage>
                <p>Han falder! Han falder!</p>
@@ -7977,7 +7992,7 @@
                <stage>støtter sig skælvende til rækværket</stage>
                <p>Han må være knust. Dræbt på stedet.</p>
             </sp>
-            <sp>
+            <sp who="#ENAFDAMERNE">
                <speaker>EN AF DAMERNE</speaker>
                <stage>medens fru Solness bæres ind i huset</stage>
                <p>Løb ned til doktoren –</p>
@@ -7986,7 +8001,7 @@
                <speaker>RAGNAR</speaker>
                <p>Kan ikke flytte en fod –</p>
             </sp>
-            <sp>
+            <sp who="#ENANDENDAME">
                <speaker>EN ANDEN DAME</speaker>
                <p>Så råb ned til nogen da!</p>
             </sp>
@@ -7995,13 +8010,13 @@
                <stage>forsøger at råbe</stage>
                <p>Hvorledes er det? Er han ilive?</p>
             </sp>
-            <sp>
+            <sp who="#ENSTEMME">
                <speaker>
                   <pb n="390"/>EN STEMME</speaker>
                <stage>nede i haven</stage>
                <p>Bygmester Solness er død!</p>
             </sp>
-            <sp>
+            <sp who="#ANDRESTEMMER">
                <speaker>ANDRE STEMMER</speaker>
                <stage>nærmere</stage>
                <p>Hele hodet er knust. – Han faldt lige i stenbruddet.</p>
