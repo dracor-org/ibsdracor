@@ -39,12 +39,12 @@
                   </licence>
                </availability>
                <bibl type="originalSource">
-                  <author>Henrik Ibsen</author> : <title type="main">Gildet på Solhaug</title>.
+                  <author>Henrik Ibsen</author>: <title type="main">Gildet på Solhaug</title>.
                      <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1883</title>. In:
-                     <edition>Henrik Ibsens skrifter, bind 2</edition>. 
-                  <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
-                  <date when="2006">2006</date>
-                  <biblScope unit="page" from="93" to="188">93-188</biblScope>
+                     <edition>Henrik Ibsens skrifter, bind 2</edition>. <pubPlace>Oslo</pubPlace>:
+                     <publisher>Aschehoug</publisher>
+                  <date when="2006">2006</date> s. <biblScope unit="page" from="93" to="188"
+                     >93-188</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -80,6 +80,42 @@
                <person xml:id="GAMMELMAND" sex="MALE">
                   <persName>En gammel mand</persName>
                </person>
+               <personGrp xml:id="UNGEPIGER" sex="FEMALE">
+                  <name>Unge piger</name>
+               </personGrp>
+               <personGrp xml:id="SVENDE" sex="MALE">
+                 <name>Svende</name>
+               </personGrp>
+               <person xml:id="ENAFGAESTERNE">
+                  <persName>En af gæsterne</persName>
+               </person>
+               <personGrp xml:id="MANGE">
+                  <name>Mange</name>
+               </personGrp>
+               <person xml:id="ENANDENGAEST">
+                  <persName>En anden gæst</persName>
+               </person>
+               <personGrp xml:id="GAESTER">
+                  <name>Flere af gæsterne</name>
+               </personGrp>
+               <person xml:id="PIGEN" sex="FEMALE">
+                  <persName>Pigen</persName>
+               </person>
+               <person xml:id="HUSKARL1" sex="MALE">
+                  <persName>En huskarl</persName>
+               </person>
+               <person xml:id="HUSKARL2" sex="MALE">
+                  <persName>En anden huskarl</persName>
+               </person>
+               <person xml:id="HUSKARL3" sex="MALE">
+                  <persName>En tredje huskarl</persName>
+               </person>
+               <person xml:id="HUSKARL4" sex="MALE">
+                  <persName>En fjerde huskarl</persName>
+               </person>
+               <personGrp xml:id="KOR">
+                  <name>Kor af mænd og kvinder</name>
+               </personGrp>
             </listPerson>
          </particDesc>
       </profileDesc>
@@ -1884,7 +1920,7 @@
                <p>Å, det var intet. Kom; vi må gå vore gæster i møde.</p>
             </sp>
             <stage>Bengt kommer med mange gæster, mænd og kvinder, ind gennem svalegangen.</stage>
-            <sp>
+            <sp who="#GAESTER">
                <speaker>
                   <pb n="148"/>GÆSTERNE</speaker>
                <stage>synger</stage>
@@ -1908,7 +1944,7 @@
                fodsti fører op i lien i baggrunden. Til højre for stien fosser en elv nedover og
                taber sig mellem fjeldstykker og stene. Det er lys sommernat. Døren til huset står
                åben; vinduerne er oplyste. Musik høres derinde.</stage>
-            <sp>
+            <sp who="#GAESTER">
                <speaker>GÆSTERNE</speaker>
                <stage>synger i gildestuen</stage>
                <lg type="strofisk-strofe-krønikestrofe" met="bi+ '8 '8 '7 '8 '8 '7"
@@ -2803,7 +2839,7 @@
                   været fri, så ved jeg nok hvem han havde kåret. – Ja, fri!</p>
             </sp>
             <stage>Bengt og gæsterne, mænd og kvinder, kommer ud fra huset.</stage>
-            <sp>
+            <sp who="#UNGEPIGER #SVENDE">
                <speaker>UNGE PIGER og SVENDE</speaker>
                <stage>synger</stage>
                <lg type="strofisk-strofegruppe-folkevisevers" met="bi++ '8 '7 '8 '5" rhyme="a B a B">
@@ -2822,22 +2858,22 @@
                <p>Se, sådan skal det være! Det må jeg lide! Jeg er lystig, og min hustru ligervis;
                   og derfor skal I være lystige alle sammen.</p>
             </sp>
-            <sp>
+            <sp who="#ENAFGAESTERNE">
                <speaker>EN AF GÆSTERNE</speaker>
                <p>Ja, lad os nu få en stevkamp!</p>
             </sp>
-            <sp>
+            <sp who="#MANGE">
                <speaker>MANGE</speaker>
                <stage>råber</stage>
                <p>Ja, ja, en stevkamp!</p>
             </sp>
-            <sp>
+            <sp who="#ENANDENGAEST">
                <speaker>EN ANDEN GÆST</speaker>
                <p>Nej, lad være med det; det vækker bare ufred i laget. <stage>(med dæmpet
                      stemme)</stage> I drages vel til minde, at Knut Gæsling er på gården
                   ikveld.</p>
             </sp>
-            <sp>
+            <sp who="#GAESTER">
                <speaker>
                   <pb n="167"/>FLERE</speaker>
                <stage>hviskende mellem hverandre</stage>
@@ -2889,7 +2925,7 @@
                   tilsinds. <stage>(vender sig til de fremmede)</stage> Jeg kender et lidet kvæde.
                   Hvis det lyster eder at høre, så –</p>
             </sp>
-            <sp>
+            <sp who="#GAESTER">
                <speaker>FLERE AF GÆSTERNE</speaker>
                <p>Tak, tak, Gudmund Alfsøn!</p>
             </sp>
@@ -2944,7 +2980,7 @@
                <speaker>BENGT</speaker>
                <p>Ret så, min hustru! Kom med det.</p>
             </sp>
-            <sp>
+            <sp who="#UNGEPIGER">
                <speaker>UNGE PIGER</speaker>
                <stage>bedende</stage>
                <p>Ja, fortæl, fortæl, fru Margit!</p>
@@ -3041,7 +3077,7 @@
                   ledet; jeg må drikke jer til endnu en gang.</p>
             </sp>
             <stage>Han går ud.</stage>
-            <sp>
+            <sp who="#GAESTER">
                <speaker>GÆSTERNE</speaker>
                <stage>synger i frastand</stage>
                <lg type="strofisk-strofe-folkevisevers" met="bi+ ('8 '7)² '4 '8 '4"
@@ -3057,7 +3093,7 @@
             </sp>
             <stage>Sangen taber sig mere og mere i det fjerne.</stage>
             <stage>Margit kommer ind i stuen gennem døren til venstre.</stage>
-            <sp>
+            <sp who="#PIGEN">
                <speaker>
                   <pb n="174"/>PIGEN</speaker>
                <p>Krist fri mig, min frue, er I ståt op?</p>
@@ -3067,7 +3103,7 @@
                <p>Jeg er frisk og vel; du kan gå ned og sove. Vent; sig mig, er alle gæsterne
                   borte?</p>
             </sp>
-            <sp>
+            <sp who="#PIGEN">
                <speaker>PIGEN</speaker>
                <p>Nej, ikke alle; en del bliver til udover dagen; de sover visst allerede.</p>
             </sp>
@@ -3075,7 +3111,7 @@
                <speaker>MARGIT</speaker>
                <p>Og Gudmund Alfsøn –?</p>
             </sp>
-            <sp>
+            <sp who="#PIGEN">
                <speaker>PIGEN</speaker>
                <p>Han sover nok også. <stage>(peger mod højre)</stage> For lidt siden gik han ind i
                   sit kammer, der, lige over gangen.</p>
@@ -3340,7 +3376,7 @@
             <stage>
                <pb n="180"/>Han går til bordet ved vinduet og tager bægeret.</stage>
             <stage>En huskarl kommer ilsomt og forskrækket ind fra baggrunden.</stage>
-            <sp>
+            <sp who="#HUSKARL1">
                <speaker>HUSKARLEN</speaker>
                <stage>råber</stage>
                <p>Herr Bengt, herr Bengt, I skynde jer ud det rappeste I kan! Knut Gæsling stævner
@@ -3351,7 +3387,7 @@
                <stage>sætter bægeret ned</stage>
                <p>Knut Gæsling? Hvem siger det?</p>
             </sp>
-            <sp>
+            <sp who="#HUSKARL1">
                <speaker>HUSKARLEN</speaker>
                <p>Nogle af eders gæster så ham nede på vejen, og så løb de ilsomt tilbage for at
                   vare jer ad.</p>
@@ -3545,7 +3581,7 @@
             </sp>
             <stage>
                <pb n="184"/>En huskarl kommer skyndsomt fra svalegangen.</stage>
-            <sp>
+            <sp who="#HUSKARL2">
                <speaker>HUSKARLEN</speaker>
                <stage>råber forskrækket</stage>
                <p>Fru Margit! Eders husbond –!</p>
@@ -3559,7 +3595,7 @@
                <stage>sagte</stage>
                <p>Ah, nu fatter jeg –</p>
             </sp>
-            <sp>
+            <sp who="#HUSKARL2">
                <speaker>HUSKARLEN</speaker>
                <p>Knut Gæsling har fældet ham!</p>
             </sp>
@@ -3578,7 +3614,7 @@
                <p>Da priset være gud, som frelste os alle!</p>
             </sp>
             <stage>Hun synker ned i en stol til venstre. Gudmund vil ile ud i baggrunden.</stage>
-            <sp>
+            <sp who="#HUSKARL3">
                <speaker>EN ANDEN HUSKARL</speaker>
                <stage>i døren, standser ham</stage>
                <p>I kommer for sent. Herr Bengt er død.</p>
@@ -3587,7 +3623,7 @@
                <speaker>GUDMUND</speaker>
                <p>Altså dog fældet.</p>
             </sp>
-            <sp>
+            <sp who="#HUSKARL3">
                <speaker>
                   <pb n="184"/>HUSKARLEN</speaker>
                <p>Gæsterne og eders folk har fåt bugt med voldsmændene. Knut Gæsling og hans mænd er
@@ -3667,7 +3703,7 @@
                <stage>angst</stage>
                <p>Der kommer fremmede folk!</p>
             </sp>
-            <sp>
+            <sp who="#HUSKARL4">
                <speaker>EN HUSKARL</speaker>
                <stage>i døren i baggrunden</stage>
                <p>Kongens mænd står udenfor. De søger Gudmund Alfsøn.</p>
@@ -3745,7 +3781,7 @@
                <speaker>GUDMUND</speaker>
                <p>Kansleren!</p>
             </sp>
-            <sp>
+            <sp who="#GAESTER">
                <speaker>GÆSTERNE</speaker>
                <stage>halvhøjt, til hverandre</stage>
                <p>Falden!</p>
@@ -3795,7 +3831,7 @@
                      smerte.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#KOR">
                <speaker>KORSANG</speaker>
                <stage>af mænd og kvinder</stage>
                <lg type="strofisk-strofe-trokeisk-femtakter" met="bi 10 9 9 10" rhyme="A b b A">
