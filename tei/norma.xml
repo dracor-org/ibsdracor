@@ -40,12 +40,12 @@
                   </licence>
                </availability>
                <bibl type="originalSource">
-                  <author>Henrik Ibsen</author> : <title type="main">Norma</title>. <title
+                  <author>Henrik Ibsen</author>: <title type="main">Norma</title>. <title
                      type="sub">Historisk-kritisk utgave, elektronisk versjon</title>. In:
-                     <edition>Henrik Ibsens skrifter, bind 1</edition>. 
-                  <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
-                  <date when="2005">2005</date>
-                  <biblScope unit="page" from="341" to="362">341-362</biblScope>
+                     <edition>Henrik Ibsens skrifter, bind 1</edition>. <pubPlace>Oslo</pubPlace>:
+                     <publisher>Aschehoug</publisher>
+                  <date when="2005">2005</date> s. <biblScope unit="page" from="341" to="362"
+                     >341-362</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -73,7 +73,7 @@
                <personGrp xml:id="DRUIDER" sex="MALE">
                   <name>Chor af Druider</name>
                </personGrp>
-               <personGrp xml:id="DRUIDINDER">
+               <personGrp xml:id="DRUIDINDER" sex="FEMALE">
                   <name>Chor af Druidinder</name>
                </personGrp>
             </listPerson>
@@ -164,7 +164,7 @@
                      <l real="bi- ----" rhyme="b">Ja, ja, ja, ja!</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#ARIOVIST #DRUIDER #DRUIDINDER">
                   <speaker>ALLE</speaker>
                   <lg part="M">
                      <l met="-∪∪-∪∪-∪∪-" rhyme="a">Ja i det gamle, det ældgamle Nor!</l>
