@@ -39,12 +39,12 @@
                   </licence>
                </availability>
                <bibl type="originalSource">
-                  <author>Henrik Ibsen</author> : <title type="main">Kongs-Emnerne</title>. <title
+                  <author>Henrik Ibsen</author>: <title type="main">Kongs-Emnerne</title>. <title
                      type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1864</title>. In: <edition>Henrik
-                     Ibsens skrifter, bind 4</edition>. 
-                  <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
-                  <date when="2008">2008</date>
-                  <biblScope unit="page" from="217" to="464">217-464</biblScope>
+                     Ibsens skrifter, bind 4</edition>. <pubPlace>Oslo</pubPlace>:
+                     <publisher>Aschehoug</publisher>
+                  <date when="2008">2008</date> s. <biblScope unit="page" from="217" to="464"
+                     >217-464</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -116,6 +116,240 @@
                <person xml:id="BAARD" sex="MALE">
                   <persName>Baard</persName>
                </person>
+               <personGrp xml:id="KORAFMUNKEOGNONNER">
+                  <name>Kor af munke og nonner</name>
+               </personGrp>
+               <personGrp xml:id="STEMMERBLANDTMAENGDEN">
+                  <name>Stemmer blandt mængden</name>
+               </personGrp>
+               <personGrp xml:id="ANDRESTEMMER">
+                  <name>Andre stemmer</name>
+               </personGrp>
+               <personGrp xml:id="HELEALMUEN">
+                  <name>Hele almuen</name>
+               </personGrp>
+               <personGrp xml:id="FLEREBLANDTJARLENSOGSIGURDSMAEND">
+                  <name>Flere blandt Jarlens og Sigurds mænd</name>
+               </personGrp>
+               <personGrp xml:id="MANGEAFHIRDEN">
+                  <name>Mange af Hirden</name>
+               </personGrp>
+               <person xml:id="HIRDMAND1" sex="MALE">
+                  <persName>En Hirdmand</persName>
+               </person>
+               <person xml:id="HIRDMAND2" sex="MALE">
+                  <persName>En Hirdmand</persName>
+               </person>
+               <person xml:id="HIRDMAND3" sex="MALE">
+                  <persName>En Hirdmand</persName>
+               </person>
+               <person xml:id="HIRDMAND4" sex="MALE">
+                  <persName>En Hirdmand</persName>
+               </person>
+               <person xml:id="HIRDMAND5" sex="MALE">
+                  <persName>En Hirdmand</persName>
+               </person>
+               <person xml:id="HIRDMAND6" sex="MALE">
+                  <persName>En Hirdmand</persName>
+               </person>
+               <person xml:id="HIRDMAND7" sex="MALE">
+                  <persName>En Hirdmand</persName>
+               </person>
+               <personGrp xml:id="MANGEJARLSMAEND" sex="MALE">
+                  <name>Mange Jarlsmænd</name>
+               </personGrp>
+               <personGrp xml:id="MANGESTEMMER">
+                  <name>Mange stemmer</name>
+               </personGrp>
+               <person xml:id="BUDET">
+                  <persName>Budet</persName>
+               </person>
+               <person xml:id="PRESTEN" sex="MALE">
+                  <persName>Presten</persName>
+               </person>
+               <personGrp xml:id="MUNKENE" sex="MALE">
+                  <name>Munkene</name>
+               </personGrp>
+               <personGrp xml:id="ENKELTESTEMMER">
+                  <name>Enkelte stemmer</name>
+               </personGrp>
+               <personGrp xml:id="ANDRE">
+                  <name>Andre</name>
+               </personGrp>
+               <personGrp xml:id="SKULESMAEND" sex="MALE">
+                  <name>Skules mænd</name>
+               </personGrp>
+               <personGrp xml:id="MANGEBLANDTMAENDENE" sex="MALE">
+                  <name>Mange blandt mændene</name>
+               </personGrp>
+               <personGrp xml:id="MAENDENE" sex="MALE">
+                  <name>Mændene</name>
+               </personGrp>
+               <person xml:id="ENANDEN">
+                  <persName>En anden</persName>
+               </person>
+               <personGrp xml:id="NOGLE">
+                  <name>Nogle</name>
+               </personGrp>
+               <person xml:id="KONGSKULESLURSVEND" sex="MALE">
+                  <persName>Kong Skules lursvend</persName>
+               </person>
+               <person xml:id="KVINDE1" sex="FEMALE">
+                  <persName>En kvinde</persName>
+               </person>
+               <person xml:id="KVINDE2" sex="FEMALE">
+                  <persName>En kvinde</persName>
+               </person>
+               <person xml:id="KVINDE3" sex="FEMALE">
+                  <persName>En kvinde</persName>
+               </person>
+               <person xml:id="BYMAND1" sex="MALE">
+                  <persName>En bymand</persName>
+               </person>
+               <person xml:id="BYMAND2" sex="MALE">
+                  <persName>En bymand</persName>
+               </person>
+               <person xml:id="BYMAND3" sex="MALE">
+                  <persName>En bymand</persName>
+               </person>
+               <person xml:id="BYMAND4" sex="MALE">
+                  <persName>En bymand</persName>
+               </person>
+               <person xml:id="BYMAND5" sex="MALE">
+                  <persName>En bymand</persName>
+               </person>
+               <person xml:id="BYMAND6" sex="MALE">
+                  <persName>En bymand</persName>
+               </person>
+               <person xml:id="BYMAND7" sex="MALE">
+                  <persName>En bymand</persName>
+               </person>
+               <person xml:id="BYMAND8" sex="MALE">
+                  <persName>En bymand</persName>
+               </person>
+               <person xml:id="BYMAND9" sex="MALE">
+                  <persName>En bymand</persName>
+               </person>
+               <person xml:id="BYMAND10" sex="MALE">
+                  <persName>En bymand</persName>
+               </person>
+               <person xml:id="BYMAND11" sex="MALE">
+                  <persName>En bymand</persName>
+               </person>
+               <person xml:id="SKULESMAEND1" sex="MALE">
+                  <persName>En af Skules mænd</persName>
+               </person>
+               <person xml:id="SKULESMAEND2" sex="MALE">
+                  <persName>En anden af Skules mænd</persName>
+               </person>
+               <person xml:id="ENAFMAENDENE" sex="MALE">
+                  <persName>En af mændene</persName>
+               </person>
+               <person xml:id="ENAFFLOKKEN1">
+                  <persName>En af flokken</persName>
+               </person>
+               <person xml:id="ENAFFLOKKEN2">
+                  <persName>En anden af flokken</persName>
+               </person>
+               <personGrp xml:id="FLEREVAARBAELGER">
+                  <name>Flere Vaarbælger</name>
+               </personGrp>
+               <person xml:id="ENGAMMELBYMAND" sex="MALE">
+                  <persName>En gammel bymand</persName>
+               </person>
+               <person xml:id="VAARBAELG1">
+                  <persName>En Vaarbælg</persName>
+               </person>
+               <person xml:id="VAARBAELG2">
+                  <persName>En Vaarbælg</persName>
+               </person>
+               <person xml:id="VAARBAELG3">
+                  <persName>En Vaarbælg</persName>
+               </person>
+               <person xml:id="VAARBAELG4">
+                  <persName>En Vaarbælg</persName>
+               </person>
+               <personGrp xml:id="BIRKEBEJNERNE">
+                  <name>Birkebejnerne</name>
+               </personGrp>
+               <personGrp xml:id="KONGSMAENDENE" sex="MALE">
+                  <name>Kongsmændene</name>
+               </personGrp>
+               <person xml:id="BIRKEBEJNER1">
+                  <persName>En birkebejner</persName>
+               </person>
+               <person xml:id="BIRKEBEJNER2">
+                  <persName>En birkebejner</persName>
+               </person>
+               <person xml:id="BIRKEBEJNER3">
+                  <persName>En birkebejner</persName>
+               </person>
+               <personGrp xml:id="BYMAENDENE" sex="MALE">
+                  <name>Bymændene</name>
+               </personGrp>
+               <person xml:id="ENGAMMELVAARBAELG">
+                  <persName>En gammel Vaarbælg</persName>
+               </person>
+               <personGrp xml:id="HOEJERAAB">
+                  <name>Høje raab</name>
+               </personGrp>
+               <person xml:id="ENMANDSSTEMME" sex="MALE">
+                  <persName>En mandsstemme</persName>
+               </person>
+               <person xml:id="ENDRENG" sex="MALE">
+                  <persName>En dreng</persName>
+               </person>
+               <person xml:id="ENMAND" sex="MALE">
+                  <persName>En mand</persName>
+               </person>
+               <personGrp xml:id="FLEREAFMAENDENE" sex="MALE">
+                  <name>Flere af mændene</name>
+               </personGrp>
+               <person xml:id="ENVILDSTEMME">
+                  <persName>En vild stemme</persName>
+               </person>
+               <personGrp xml:id="MANGEROESTER">
+                  <name>Mange røster</name>
+               </personGrp>
+               <personGrp xml:id="FLERE">
+                  <name>Flere</name>
+               </personGrp>
+               <person xml:id="ENENKELT">
+                  <persName>En enkelt</persName>
+               </person>
+               <personGrp xml:id="MANGEIFLOKKEN">
+                  <name>Mange i flokken</name>
+               </personGrp>
+               <personGrp xml:id="ALLE">
+                  <name>Alle</name>
+               </personGrp>
+               <person xml:id="ENKORSBRODER" sex="MALE">
+                  <persName>En korsbroder</persName>
+               </person>
+               <personGrp xml:id="STEMMER">
+                  <name>Stemmer</name>
+               </personGrp>
+               <personGrp xml:id="LARMENDESTEMMER">
+                  <name>Larmende stemmer</name>
+               </personGrp>
+               <person xml:id="STEMME1">
+                  <persName>En stemme</persName>
+               </person>
+               <person xml:id="STEMME2">
+                  <persName>En stemme</persName>
+               </person>
+               <person xml:id="STEMME3">
+                  <persName>En stemme</persName>
+               </person>
+               <person xml:id="STEMME4">
+                  <persName>En stemme</persName>
+               </person>
+               <person xml:id="STEMME5">
+                  <persName>En stemme</persName>
+               </person>
+               <personGrp xml:id="MAENGDEN">
+                  <name>Mængden</name>
+               </personGrp>
             </listPerson>
          </particDesc>
       </profileDesc>
@@ -252,7 +486,7 @@
                   <p>Stille; nu begynder Salmen.</p>
                </sp>
                <stage>Inde fra den lukkede Kirke høres til Basuners Lyd:</stage>
-               <sp>
+               <sp who="#KORAFMUNKEOGNONNER">
                   <speaker>KOR AF MUNKE OG NONNER</speaker>
                   <l part="Y">Domine coeli etc. etc.</l>
                </sp>
@@ -329,7 +563,7 @@
                   <speaker>GREGORIUS JONSSØN</speaker>
                   <p>Kvinderne græder højt i Forhallen.</p>
                </sp>
-               <sp>
+               <sp who="#KORAFMUNKEOGNONNER">
                   <speaker>KORET FRA KIRKEN</speaker>
                   <stage>falder jublende ind</stage>
                   <l part="Y">Gloria in excelsis deo!</l>
@@ -341,15 +575,15 @@
                   <stage>paa Kirketrappen</stage>
                   <p>Gud har dømt! Se disse Hænder; med dem bar jeg Jernet!</p>
                </sp>
-               <sp>
+               <sp who="#STEMMERBLANDTMAENGDEN">
                   <speaker>STEMMER BLANDT MÆNGDEN</speaker>
                   <p>De er skjære og hvide, som før!</p>
                </sp>
-               <sp>
+               <sp who="#ANDRESTEMMER">
                   <speaker>ANDRE STEMMER</speaker>
                   <p>Endda fagrere!</p>
                </sp>
-               <sp>
+               <sp who="#HELEALMUEN">
                   <speaker>
                      <pb n="224"/>HELE ALMUEN</speaker>
                   <p>Han er visselig Haakon Sverressøns Søn!</p>
@@ -539,7 +773,7 @@
                      har at give Lovskraft til mit Kongevalg, som alt gik for sig paa Ørething for
                      sex Aar siden.</p>
                </sp>
-               <sp>
+               <sp who="#FLEREBLANDTJARLENSOGSIGURDSMAEND">
                   <speaker>FLERE BLANDT JARLENS OG SIGURDS MÆND</speaker>
                   <p>Nej, nej, – det nægter vi!</p>
                </sp>
@@ -592,7 +826,7 @@
                   <stage>forbittret</stage>
                   <p>Brug Værget, Kongsmænd, og lad <emph>det</emph> dele!</p>
                </sp>
-               <sp>
+               <sp who="#MANGEAFHIRDEN">
                   <speaker>MANGE AF HIRDEN</speaker>
                   <stage>stormer frem</stage>
                   <p>Bær Vaaben paa Kongens Uvenner!</p>
@@ -1562,7 +1796,7 @@
                   <speaker>DAGFINN BONDE</speaker>
                   <p>Sandt nok; Jarlen er en mægtig Mand.</p>
                </sp>
-               <sp>
+               <sp who="#HIRDMAND1">
                   <speaker>EN HIRDMAND</speaker>
                   <p>Sidder inde med Tredjedelen af Riget. Det er mere, end nogen Jarl havde før i
                      Tiden.</p>
@@ -2887,7 +3121,7 @@
                   <p>Prest! Jeg undsiger Dig paa Liv og Lemmer, hvor jeg træffer Dig, paa fri Mark,
                      ombord, eller i uhelligt Hus!</p>
                </sp>
-               <sp>
+               <sp who="#MANGEJARLSMAEND">
                   <speaker>MANGE JARLSMÆND</speaker>
                   <p>Jeg ogsaa! Jeg ogsaa! Du skal være fredløs for os!</p>
                </sp>
@@ -2961,7 +3195,7 @@
                   <speaker>DAGFINN BONDE</speaker>
                   <p>At Vegard Væradal er dræbt.</p>
                </sp>
-               <sp>
+               <sp who="#MANGESTEMMER">
                   <speaker>
                      <pb n="289"/>MANGE STEMMER</speaker>
                   <p>Dræbt!</p>
@@ -2988,7 +3222,7 @@
                   <speaker>HAAKON</speaker>
                   <p>Hvad Aarsag var der til Drabet?</p>
                </sp>
-               <sp>
+               <sp who="#BUDET">
                   <speaker>BUDET</speaker>
                   <p>Det ved nok Ingen. De taltes ved om Finneskatten og med Et sprang Andres opp og
                      gav ham Banesaar.</p>
@@ -2997,7 +3231,7 @@
                   <speaker>HAAKON</speaker>
                   <p>Og havde der før været Trætte mellem dem?</p>
                </sp>
-               <sp>
+               <sp who="#BUDET">
                   <speaker>BUDET</speaker>
                   <p>Stundom. Andres sagde tidt, at en klog Raadgiver her sørfra havde skrevet ham
                      til, at han skulde være som Fjeld og Flint mod Vegard Væradal.</p>
@@ -3436,7 +3670,7 @@
                   <speaker>SIRA VILJAM</speaker>
                   <p>Hvad skal dette til?</p>
                </sp>
-               <sp>
+               <sp who="#PRESTEN">
                   <speaker>EN PREST</speaker>
                   <stage>reder opp paa Bænken</stage>
                   <p>Bispen vil ligge herude.</p>
@@ -3445,7 +3679,7 @@
                   <speaker>SIRA VILJAM</speaker>
                   <p>Men er det raadeligt?</p>
                </sp>
-               <sp>
+               <sp who="#PRESTEN">
                   <speaker>PRESTEN</speaker>
                   <p>Mester Sigard mener, vi kan gjerne føje ham. Der er han alt.</p>
                </sp>
@@ -4503,16 +4737,16 @@
                      med sine Hænder</stage>
                   <p>Gud, Du Almægtige!</p>
                </sp>
-               <sp>
+               <sp who="#MUNKENE">
                   <speaker>MUNKENE</speaker>
                   <stage>kommer flygtende ud fra Kapellet</stage>
                   <p>Frelse sig, hvo kan!</p>
                </sp>
-               <sp>
+               <sp who="#ENKELTESTEMMER">
                   <speaker>ENKELTE STEMMER</speaker>
                   <p>Alt Ondt er løst inatt!</p>
                </sp>
-               <sp>
+               <sp who="#ANDRE">
                   <speaker>ANDRE</speaker>
                   <p>Det lo højt fra Krogen! – Det skreg: «vi har ham!» – Alle Lys sluktes!</p>
                </sp>
@@ -4520,7 +4754,7 @@
                   <speaker>HAAKON</speaker>
                   <p>Nu døde Bisp Nikolas.</p>
                </sp>
-               <sp>
+               <sp who="#MUNKENE">
                   <speaker>
                      <pb n="331"/>MUNKENE</speaker>
                   <stage>flygter ud til Højre</stage>
@@ -5358,7 +5592,7 @@
                      </lg>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#SKULESMAEND">
                   <speaker>SKULES MÆND</speaker>
                   <stage>springer opp under stormende Jubel, løfter Krusene og Bægrene ivejret,
                      slaar paa sine Vaaben og gjentager</stage>
@@ -5406,7 +5640,7 @@
                   <speaker>JATGEJR</speaker>
                   <p>Kongsfiender, hvis Flugt og Fald jeg kan kvæde om.</p>
                </sp>
-               <sp>
+               <sp who="#MANGEBLANDTMAENDENE">
                   <speaker>MANGE BLANDT MÆNDENE</speaker>
                   <stage>under Latter og Bifald</stage>
                   <p>Vel talt, Islænding!</p>
@@ -5490,7 +5724,7 @@
                   <speaker>KONG SKULE</speaker>
                   <p>Saa lokker vi dem ud med List.</p>
                </sp>
-               <sp>
+               <sp who="#MANGESTEMMER">
                   <speaker>MANGE STEMMER</speaker>
                   <p>Ja, ja, – gjør det, Herre!</p>
                </sp>
@@ -5559,7 +5793,7 @@
                   <speaker>JATGEJR</speaker>
                   <p>Lad hans Søvn blive lang og uden Drømme, saa faar jeg Stoff til et Kvad.</p>
                </sp>
-               <sp>
+               <sp who="#MAENDENE">
                   <speaker>MÆNDENE</speaker>
                   <p>Ja, ja, gjør som Skalden siger!</p>
                </sp>
@@ -5573,7 +5807,7 @@
                      gives Syssel efter den Dræbte; og alle de, som sidder inde med slige
                      Værdigheder og Embeder før, skal lønnes paa anden kongelig Vis.</p>
                </sp>
-               <sp>
+               <sp who="#MAENDENE">
                   <speaker>MÆNDENE</speaker>
                   <stage>springer opp i vild Glæde</stage>
                   <p>Hil, hil Kong Skule! Før os mod Birkebejnerne!</p>
@@ -5606,7 +5840,7 @@
                   <speaker>JATGEJR</speaker>
                   <p>Jeg vil tage dem fra Gregorius Jonssøn, naar vi kommer nordpaa.</p>
                </sp>
-               <sp>
+               <sp who="#MAENDENE">
                   <speaker>MÆNDENE</speaker>
                   <stage>i Munden paa hverandre</stage>
                   <p>Og jeg vil have – jeg vil have –</p>
@@ -5616,7 +5850,7 @@
                   <speaker>PAAL FLIDA</speaker>
                   <p>Afsted, hver til sit Herberge; kom ihug, at I er i Kongens Hal.</p>
                </sp>
-               <sp>
+               <sp who="#MAENDENE">
                   <speaker>MÆNDENE</speaker>
                   <p>Ja, ja, – hil Kongen, hil Kong Skule!</p>
                </sp>
@@ -5625,20 +5859,20 @@
                      <pb n="359"/>KONG SKULE</speaker>
                   <p>Tilsengs nu, I gode Mænd! Vi har siddet længe ved Drikkebordet inatt.</p>
                </sp>
-               <sp>
+               <sp who="#HIRDMAND2">
                   <speaker>EN HIRDMAND</speaker>
                   <stage>idet Flokken holder paa at gaa</stage>
                   <p>Imorgen trækker vi Lod om Birkebejnernes Gods.</p>
                </sp>
-               <sp>
+               <sp who="#HIRDMAND3">
                   <speaker>EN ANDEN</speaker>
                   <p>Lad heller Tilfældet raade!</p>
                </sp>
-               <sp>
+               <sp who="#NOGLE">
                   <speaker>NOGLE</speaker>
                   <p>Nej, nej!</p>
                </sp>
-               <sp>
+               <sp who="#ANDRE">
                   <speaker>ANDRE</speaker>
                   <p>Jo, jo!</p>
                </sp>
@@ -6060,7 +6294,7 @@
                      Islændingen! <stage>(gaar til Døren og raaber ud)</stage> Er Skalden gaaet fra
                      Kongsgaarden?</p>
                </sp>
-               <sp>
+               <sp who="#HIRDMAND4">
                   <speaker>EN HIRDMAND</speaker>
                   <stage>udenfor</stage>
                   <p>Nej, Herre, han staar i Forhallen og taler med Vagten.</p>
@@ -6805,112 +7039,112 @@
                   sees Kirken, hvis Hovedindgang staar aaben. Det er endnu Natt; lidt efter begynder
                   Dagen at gry. Stormklokken gaar; langt borte tilhøjre høres fjerne Hærskrig og
                   forvirret Larm.</stage>
-               <sp>
+               <sp who="#KONGSKULESLURSVEND">
                   <speaker>KONG SKULES LURSVEND</speaker>
                   <stage>kommer fra Højre, blæser i Luren og raaber</stage>
                   <p>Til Vaaben! Til Vaaben, alle Kong Skules Mænd! <stage>(blæser igjen og gaar
                         videre; om lidt hører man ham blæse og raabe i næste Gade)</stage>
                   </p>
                </sp>
-               <sp>
+               <sp who="#KVINDE1">
                   <speaker>
                      <pb n="389"/>EN KVINDE</speaker>
                   <stage>kommer ud i en Husdør til Højre</stage>
                   <p>Du store barmhjertige Gud, hvad er det?</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND1">
                   <speaker>EN BYMAND</speaker>
                   <stage>som er kommen halvt paaklædt ud fra et Hus paa den anden Side af
                      Gaden</stage>
                   <p>Birkebejnerne er i Byen! Nu faar Skule Løn for alle sine Ugjerninger.</p>
                </sp>
-               <sp>
+               <sp who="#SKULESMAEND1">
                   <speaker>EN AF SKULES MÆND</speaker>
                   <stage>kommer med nogle Andre, bærende Kapper og Vaaben paa Armene, ind fra en
                      Sidegade tilvenstre</stage>
                   <p>Hvor er Birkebejnerne?</p>
                </sp>
-               <sp>
+               <sp who="#SKULESMAEND2">
                   <speaker>EN ANDEN AF SKULES MÆND</speaker>
                   <stage>fra et Hus tilhøjre</stage>
                   <p>Jeg ved ikke!</p>
                </sp>
-               <sp>
+               <sp who="#SKULESMAEND1">
                   <speaker>FØRSTE</speaker>
                   <p>Hyss! Hør! – De maa være nede ved Gejtebroen.</p>
                </sp>
-               <sp>
+               <sp who="#SKULESMAEND2">
                   <speaker>ANDEN</speaker>
                   <p>Ned til Gejtebroen da!</p>
                </sp>
                <stage>Alle iler ud til Højre; en Bymand kommer løbende fra samme Side.</stage>
-               <sp>
+               <sp who="#BYMAND1">
                   <speaker>FØRSTE BYMAND</speaker>
                   <p>Hej, Grande, hvor kommer I fra?</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND2">
                   <speaker>ANDEN BYMAND</speaker>
                   <p>Nede fra Loelven; der gaar det stygt til.</p>
                </sp>
-               <sp>
+               <sp who="#KVINDE1">
                   <speaker>KVINDEN</speaker>
                   <p>Sankt Olaf og Sankt Hallvard! Er det Birkebejnerne, eller hvem er det?</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND2">
                   <speaker>
                      <pb n="390"/>ANDEN BYMAND</speaker>
                   <p>Ja vist er det Birkebejnerne; Kong Haakon er med; hele Flaaden lægger ind til
                      Bryggerne; men selv gik han iland med sine bedste Mænd ude ved
                      Ekebergstøen.</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND1">
                   <speaker>FØRSTE BYMAND</speaker>
                   <p>Saa tager han Hævn for Mandefaldet ved Laaka!</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND2">
                   <speaker>ANDEN BYMAND</speaker>
                   <p>Ja det kan I lide paa!</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND1">
                   <speaker>FØRSTE BYMAND</speaker>
                   <p>Se der, – der flygter alt Vaarbælgerne!</p>
                </sp>
                <stage>En Flok af Skules Mænd kommer flygtende ind fra Højre.</stage>
-               <sp>
+               <sp who="#ENAFMAENDENE">
                   <speaker>EN AF MÆNDENE</speaker>
                   <p>Ind i Kirken! Ingen kan staa sig mod Birkebejnerne, slig som de farer frem
                      inatt!</p>
                </sp>
                <stage>Flokken iler ind i Kirken og stænger Døren indenfor.</stage>
-               <sp>
+               <sp who="#BYMAND2">
                   <speaker>ANDEN BYMAND</speaker>
                   <stage>ser ud til Højre</stage>
                   <p>Jeg skimter et Mærke langt nede i Gaden; det maa være Kong Haakons.</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND1">
                   <speaker>FØRSTE BYMAND</speaker>
                   <p>Se, se hvor Vaarbælgerne flygter!</p>
                </sp>
                <stage>En ny Flok kommer ind fra Højre.</stage>
-               <sp>
+               <sp who="#ENAFFLOKKEN1">
                   <speaker>
                      <pb n="391"/>EN AF FLOKKEN</speaker>
                   <p>Lad os berge os i Kirken og bede om Grid!</p>
                </sp>
                <stage>De stormer mod Porten.</stage>
-               <sp>
+               <sp who="#FLEREVAARBAELGER">
                   <speaker>FLERE VAARBÆLGER</speaker>
                   <p>Der er stængt; der er stængt!</p>
                </sp>
-               <sp>
+               <sp who="#ENAFFLOKKEN1">
                   <speaker>DEN FØRSTE</speaker>
                   <p>Oppover til Martestokke da!</p>
                </sp>
-               <sp>
+               <sp who="#ENAFFLOKKEN2">
                   <speaker>EN ANDEN</speaker>
                   <p>Hvor er Kong Skule?</p>
                </sp>
-               <sp>
+               <sp who="#ENAFFLOKKEN1">
                   <speaker>DEN FØRSTE</speaker>
                   <p>Jeg ved ikke. Afsted, der ser jeg Birkebejnernes Mærke!</p>
                </sp>
@@ -6921,7 +7155,7 @@
                   <speaker>DAGFINN BONDE</speaker>
                   <p>Hør Hærskriget! Skule fylker sine Mænd bag Kirkegaarden.</p>
                </sp>
-               <sp>
+               <sp who="#ENGAMMELBYMAND">
                   <speaker>EN GAMMEL BYMAND</speaker>
                   <stage>raaber fra sin Svale til Haakon</stage>
                   <p>Vogt Eder, kjære Herre; Vargbælgerne er gramme nu de slaas for Livet!</p>
@@ -6931,7 +7165,7 @@
                   <p>Er det Dig, gamle Guthorm Erlendssøn? Du har stridt baade for min Fader og for
                      min Farfader, Du.</p>
                </sp>
-               <sp>
+               <sp who="#ENGAMMELBYMAND">
                   <speaker>
                      <pb n="392"/>BYMANDEN</speaker>
                   <p>Gud give jeg kunde stride for Eder ogsaa.</p>
@@ -6961,12 +7195,12 @@
                </sp>
                <stage>Lursvenden blæser igjen, men stærkere end førstegang; der kommer mange Folk
                   til.</stage>
-               <sp>
+               <sp who="#VAARBAELG1">
                   <speaker>EN VAARBÆLG</speaker>
                   <stage>fra Højre, flygtende henimod Kirken, forfulgt af en Birkebejner</stage>
                   <p>Spar Livet! Spar Livet!</p>
                </sp>
-               <sp>
+               <sp who="#BIRKEBEJNER1">
                   <speaker>BIRKEBEJNEREN</speaker>
                   <p>Ikke om Du saa sad paa Alteret! <stage>(hugger ham ned)</stage> En kostbar
                      Kappe lader det til Du har; den kan jeg bruge. <stage>(vil tage Kappen, men
@@ -6978,7 +7212,7 @@
                      <pb n="393"/>DAGFINN BONDE</speaker>
                   <p>Og det siger Du i slig en Stund!</p>
                </sp>
-               <sp>
+               <sp who="#BIRKEBEJNER1">
                   <speaker>BIRKEBEJNEREN</speaker>
                   <p>Ikke et Slag mere!</p>
                </sp>
@@ -6987,7 +7221,7 @@
                   <stage>hugger ham ned</stage>
                   <p>Nej, nu kan Du ogsaa spare Dig det!</p>
                </sp>
-               <sp>
+               <sp who="#BIRKEBEJNER1">
                   <speaker>BIRKEBEJNEREN</speaker>
                   <stage>pegende paa den døde Vaarbælg</stage>
                   <p>Jeg mente, jeg havde gjort nok, da jeg dræbte min egen Broder.
@@ -7035,7 +7269,7 @@
                   <speaker>KONG SKULE</speaker>
                   <p>Hugg ned for Fode! Spar Ingen! Der er kommet et nyt Kongs-Emne i Norge!</p>
                </sp>
-               <sp>
+               <sp who="#BIRKEBEJNERNE">
                   <speaker>BIRKEBEJNERNE</speaker>
                   <p>Et nyt Kongs-Emne, siger han!</p>
                </sp>
@@ -7097,7 +7331,7 @@
                   <p>I hørte det; han dømte mit Barn fredløs, – mit skyldfri Barn, Norges kaarne
                      Konge efter mig!</p>
                </sp>
-               <sp>
+               <sp who="#KONGSMAENDENE">
                   <speaker>
                      <pb n="396"/>KONGSMÆNDENE</speaker>
                   <p>Ja, ja, vi hørte det!</p>
@@ -7106,7 +7340,7 @@
                   <speaker>HAAKON</speaker>
                   <p>Og hvad Straf er sat for slig Brøde?</p>
                </sp>
-               <sp>
+               <sp who="#MAENDENE">
                   <speaker>MÆNDENE</speaker>
                   <p>Døden!</p>
                </sp>
@@ -7119,12 +7353,12 @@
                   <speaker>DAGFINN BONDE</speaker>
                   <p>Det er hver trofast Mands Pligt at fælde ham.</p>
                </sp>
-               <sp>
+               <sp who="#BIRKEBEJNER2">
                   <speaker>EN BIRKEBEJNER</speaker>
                   <stage>fra Venstre</stage>
                   <p>Nu flygter Hertug Skule!</p>
                </sp>
-               <sp>
+               <sp who="#BYMAENDENE">
                   <speaker>BYMÆNDENE</speaker>
                   <p>Birkebejnerne har sejret!</p>
                </sp>
@@ -7132,7 +7366,7 @@
                   <speaker>HAAKON</speaker>
                   <p>Hvad Vej?</p>
                </sp>
-               <sp>
+               <sp who="#BIRKEBEJNER2">
                   <speaker>BIRKEBEJNEREN</speaker>
                   <p>Forbi Martestokke, oppover til Ejdsvold; de Fleste havde sine Heste staaende
                      oppe i Gaderne, ellers var ikke en Eneste sluppen fra det med Livet.</p>
@@ -7155,7 +7389,7 @@
                      hende om al den Fare, som truer Barnet. Lov mig Alle, som En, at værge Eders
                      Konges Søn; men lad ikke hende vide Noget.</p>
                </sp>
-               <sp>
+               <sp who="#MAENDENE">
                   <speaker>MÆNDENE</speaker>
                   <stage>dæmpet</stage>
                   <p>Det lover vi!</p>
@@ -7293,11 +7527,11 @@
                   Side et Vindu. Tilvenstre en mindre Dør. Det er i Mørkningen; Paal Flida, Baard
                   Bratte og flere af Kong Skules fornemste Mænd staar ved Vinduet og ser
                   oppad.</stage>
-               <sp>
+               <sp who="#HIRDMAND5">
                   <speaker>EN HIRDMAND</speaker>
                   <p>Hvor rød den lyser!</p>
                </sp>
-               <sp>
+               <sp who="#HIRDMAND6">
                   <speaker>EN ANDEN</speaker>
                   <p>Den strækker sig halve Himmelen over, som et gloende Sverd.</p>
                </sp>
@@ -7305,7 +7539,7 @@
                   <speaker>BAARD BRATTE</speaker>
                   <p>Du hellige Kong Olaf, hvad varsler sligt Rædsels-Tegn?</p>
                </sp>
-               <sp>
+               <sp who="#ENGAMMELVAARBAELG">
                   <speaker>EN GAMMEL VAARBÆLG</speaker>
                   <p>Det varsler visselig en stor Høvdings Død.</p>
                </sp>
@@ -7319,13 +7553,13 @@
                   <speaker>BAARD BRATTE</speaker>
                   <p>Lid ikke paa det; der er ikke stort Mod i Hæren nu.</p>
                </sp>
-               <sp>
+               <sp who="#ENGAMMELVAARBAELG">
                   <speaker>
                      <pb n="403"/>DEN GAMLE VAARBÆLG</speaker>
                   <p>Det er rimeligt nok; ligesiden Flugten fra Oslo har jo Kong Skule stængt sig
                      inde, og vil hverken se eller tale med sine Mænd.</p>
                </sp>
-               <sp>
+               <sp who="#HIRDMAND5">
                   <speaker>FØRSTE HIRDMAND</speaker>
                   <p>I Byen er der dem, som ikke ved, enten de skal tro han lever eller han er
                      død.</p>
@@ -7436,7 +7670,7 @@
                   <p>Nej, nej, ikke hidtil; – men jeg vil være stærk og frisk nu, – jeg vil
                      handle.</p>
                </sp>
-               <sp>
+               <sp who="#HOEJERAAB">
                   <speaker>HØJE RAAB</speaker>
                   <stage>udenfor tilhøjre</stage>
                   <p>Kong Skule! Kong Skule!</p>
@@ -7475,7 +7709,7 @@
                   <p>Ja, var det kun saa. <stage>(gaar til Vinduet og taler ud)</stage> Thrøndere,
                      hvad vil I; – her staar Eders Konge.</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND3">
                   <speaker>EN BYMAND</speaker>
                   <stage>udenfor</stage>
                   <p>Drag af Byen! Birkebejnerne vil myrde og brænde, om de finder Eder her.</p>
@@ -7485,29 +7719,29 @@
                   <p>Vi faar Alle holde sammen. Jeg har været jer en mild Konge; jeg har kun krævet
                      ringe Krigsstyr –</p>
                </sp>
-               <sp>
+               <sp who="#ENMANDSSTEMME">
                   <speaker>
                      <pb n="407"/>EN MANDSSTEMME</speaker>
                   <stage>nede blandt Mængden</stage>
                   <p>Hvad kalder Du da alt det Blod, som randt ved Laaka og i Oslo?</p>
                </sp>
-               <sp>
+               <sp who="#KVINDE2">
                   <speaker>EN KVINDE</speaker>
                   <p>Giv mig min Fæstemand igjen!</p>
                </sp>
-               <sp>
+               <sp who="#ENDRENG">
                   <speaker>EN DRENG</speaker>
                   <p>Giv mig min Fader og min Broder!</p>
                </sp>
-               <sp>
+               <sp who="#KVINDE3">
                   <speaker>EN ANDEN KVINDE</speaker>
                   <p>Giv mig mine tre Sønner, Kong Skule!</p>
                </sp>
-               <sp>
+               <sp who="#ENMAND">
                   <speaker>EN MAND</speaker>
                   <p>Han er ikke Konge; thi han er ikke hyldet paa Hellig-Olafs Skrin!</p>
                </sp>
-               <sp>
+               <sp who="#MANGESTEMMER">
                   <speaker>MANGE STEMMER</speaker>
                   <p>Nej, nej, – han er ikke hyldet paa Olafsskrinet! Han er ikke Konge!</p>
                </sp>
@@ -7545,7 +7779,7 @@
                   <p>Er Noget ugjørligt, naar det gjælder <emph>ham</emph>? Lad blæse til Things og
                      bær Skrinet ud!</p>
                </sp>
-               <sp>
+               <sp who="#FLEREAFMAENDENE">
                   <speaker>FLERE AF MÆNDENE</speaker>
                   <stage>viger tilbage</stage>
                   <p>Kirkeran!</p>
@@ -7633,7 +7867,7 @@
                      for Jer, om det kræves; men svigt mig ikke og tvivl ikke –! <stage>(høje Raab,
                         som af Skræk, høres blandt Mængden)</stage> Hvad er <emph>det</emph>?</p>
                </sp>
-               <sp>
+               <sp who="#ENVILDSTEMME">
                   <speaker>EN VILD STEMME</speaker>
                   <p>Gjør Bod, gjør Bod!</p>
                </sp>
@@ -7646,11 +7880,11 @@
                   <speaker>PAAL FLIDA</speaker>
                   <p>Han river sin Kutte i Flænger og pidsker sig med Svøbe.</p>
                </sp>
-               <sp>
+               <sp who="#ENVILDSTEMME">
                   <speaker>STEMMEN</speaker>
                   <p>Gjør Bod, gjør Bod, den yderste Dag er kommen!</p>
                </sp>
-               <sp>
+               <sp who="#MANGEROESTER">
                   <speaker>
                      <pb n="411"/>MANGE RØSTER</speaker>
                   <p>Flygt, flygt! Ve over Nidaros! Saa syndig en Gjerning!</p>
@@ -7743,7 +7977,7 @@
                   <stage>med et Skrig</stage>
                   <p>Du!</p>
                </sp>
-               <sp>
+               <sp who="#MAENDENE">
                   <speaker>MÆNDENE</speaker>
                   <stage>viger sky tilbage</stage>
                   <p>Kirkeraner!</p>
@@ -7814,7 +8048,7 @@
                   <p>Bymændene har rejst sig mod Eder; de dræber Vaarbælgerne rundt om paa Gaderne
                      og i Husene, hvor de kan finde dem!</p>
                </sp>
-               <sp>
+               <sp who="#HIRDMAND7">
                   <speaker>
                      <pb n="415"/>EN HIRDMAND</speaker>
                   <stage>kommer</stage>
@@ -7881,54 +8115,54 @@
                <stage>Alle følger efter Skule.</stage>
                <stage>Stuen staar en kort Stund tom; der høres fjern og forvirret Larm fra Gaderne;
                   derpaa stormer en Flok væbnede Bymænd ind gjennem Døren tilhøjre.</stage>
-               <sp>
+               <sp who="#BYMAND4">
                   <speaker>EN BYMAND</speaker>
                   <p>Herind! Her maa han være.</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND5">
                   <speaker>EN ANDEN</speaker>
                   <p>Dræb ham!</p>
                </sp>
-               <sp>
+               <sp who="#FLERE">
                   <speaker>FLERE</speaker>
                   <p>Dræb Kirkeraneren ogsaa!</p>
                </sp>
-               <sp>
+               <sp who="#ENENKELT">
                   <speaker>
                      <pb n="417"/>EN ENKELT</speaker>
                   <p>Far varligt frem; de bider fra sig.</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND4">
                   <speaker>FØRSTE BYMAND</speaker>
                   <p>Det har ingen Nød; Birkebejnerne er alt oppe i Gaden.</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND6">
                   <speaker>EN BYMAND</speaker>
                   <stage>kommer</stage>
                   <p>For sent; – Kong Skule er flygtet.</p>
                </sp>
-               <sp>
+               <sp who="#FLERE">
                   <speaker>FLERE</speaker>
                   <p>Hvorhen? Hvorhen?</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND6">
                   <speaker>DEN KOMMENDE</speaker>
                   <p>Ind i en af Kirkerne, tænker jeg; de er fulde af Vargbælger.</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND4">
                   <speaker>FØRSTE BYMAND</speaker>
                   <p>Saa lad os søge ham; stor Takk og Løn giver Kong Haakon den Mand, som dræber
                      Skule.</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND7">
                   <speaker>EN ANDEN</speaker>
                   <p>Der kommer Birkebejnerne.</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND8">
                   <speaker>EN TREDJE</speaker>
                   <p>Kong Haakon selv.</p>
                </sp>
-               <sp>
+               <sp who="#MANGEIFLOKKEN">
                   <speaker>MANGE I FLOKKEN</speaker>
                   <stage>raaber</stage>
                   <p>Hil Kong Haakon Haakonssøn!</p>
@@ -7939,27 +8173,27 @@
                      Mængde Andre</stage>
                   <p>Ja, nu er I ydmyge, I Thrøndere; I har længe nok staaet mig imod.</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND4">
                   <speaker>
                      <pb n="418"/>FØRSTE BYMAND</speaker>
                   <stage>paa Knæ</stage>
                   <p>Naade, Herre; Skule Baardssøn var saa haardt over os!</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND9">
                   <speaker>EN ANDEN</speaker>
                   <stage>ogsaa knælende</stage>
                   <p>Han tvang os, ellers havde vi aldrig fulgt ham.</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND4">
                   <speaker>DEN FØRSTE</speaker>
                   <p>Han tog vort Gods og nødte os til at slaa for sin uretfærdige Sag.</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND9">
                   <speaker>DEN ANDEN</speaker>
                   <p>Ak, høje Herre, han har været en Svøbe for sine Venner som for sine
                      Uvenner.</p>
                </sp>
-               <sp>
+               <sp who="#MANGESTEMMER">
                   <speaker>MANGE STEMMER</speaker>
                   <p>Ja, ja, – Skule Baardssøn har været en Svøbe for hele Landet.</p>
                </sp>
@@ -7973,7 +8207,7 @@
                      hvad der er forbrudt; men først er her Andet at tænke paa. Ved Nogen hvor Skule
                      Baardssøn er?</p>
                </sp>
-               <sp>
+               <sp who="#FLERE">
                   <speaker>FLERE</speaker>
                   <p>Inde i en af Kirkerne, Herre!</p>
                </sp>
@@ -7981,7 +8215,7 @@
                   <speaker>HAAKON</speaker>
                   <p>Ved I det saa vist?</p>
                </sp>
-               <sp>
+               <sp who="#BYMAENDENE">
                   <speaker>
                      <pb n="419"/>BYMÆNDENE</speaker>
                   <p>Ja, der er alle Vargbælgerne.</p>
@@ -8062,98 +8296,98 @@
                      Gjerninger. <stage>(gaar med sine Mænd)</stage>
                   </p>
                </sp>
-               <sp>
+               <sp who="#BYMAND4">
                   <speaker>FØRSTE BYMAND</speaker>
                   <p>Ve os for imorgen!</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND9">
                   <speaker>
                      <pb n="421"/>ANDEN BYMAND</speaker>
                   <p>Vi faar et stort Regnskab.</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND4">
                   <speaker>FØRSTE</speaker>
                   <p>Vi, som har været Haakon imod saa længe, – som var med at raabe for Skule, da
                      han tog Kongsnavn.</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND9">
                   <speaker>ANDEN</speaker>
                   <p>Som gav Skule baade Skibe og Krigsstyr, – som kjøbte alt det Gods, han ranede
                      fra Haakons Sysselmænd.</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND4">
                   <speaker>FØRSTE</speaker>
                   <p>Ja, ve os for imorgen!</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND10">
                   <speaker>EN BYMAND</speaker>
                   <stage>kommer ilsomt ind fra Venstre</stage>
                   <p>Hvor er Haakon? Hvor er Kongen?</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND4">
                   <speaker>FØRSTE BYMAND</speaker>
                   <p>Hvad vil Du ham?</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND10">
                   <speaker>DEN KOMMENDE</speaker>
                   <p>Bringe ham et stort og vigtigt Budskab.</p>
                </sp>
-               <sp>
+               <sp who="#FLERE">
                   <speaker>FLERE</speaker>
                   <p>Hvilket?</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND10">
                   <speaker>DEN KOMMENDE</speaker>
                   <p>Det siger jeg ikke Andre end Kongen selv.</p>
                </sp>
-               <sp>
+               <sp who="#FLERE">
                   <speaker>FLERE</speaker>
                   <p>Jo, sig, sig!</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND10">
                   <speaker>
                      <pb n="422"/>DEN KOMMENDE</speaker>
                   <p>Skule Baardssøn flygter oppover mod Elgesæter.</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND4">
                   <speaker>FØRSTE BYMAND</speaker>
                   <p>Umuligt! Han er i en af Kirkerne.</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND10">
                   <speaker>DEN KOMMENDE</speaker>
                   <p>Nej, nej; han og Sønnen satte over Elven i en Færing.</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND4">
                   <speaker>FØRSTE BYMAND</speaker>
                   <p>Ha, saa kan vi frelse os fra Haakons Vrede.</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND9">
                   <speaker>ANDEN BYMAND</speaker>
                   <p>Ja, lad os strax melde ham, hvor Skule er.</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND4">
                   <speaker>FØRSTE</speaker>
                   <p>Nej, bedre end som saa; vi siger Intet, men gaar selv opp til Elgesæter og
                      fælder Skule.</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND9">
                   <speaker>ANDEN</speaker>
                   <p>Ja, ja, – lad os det!</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND8">
                   <speaker>TREDJE</speaker>
                   <p>Men fulgte ikke mange Vargbælger med over Elven?</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND10">
                   <speaker>DEN KOMMENDE</speaker>
                   <p>Nej, der var bare faa Mænd paa Baaden.</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND4">
                   <speaker>FØRSTE BYMAND</speaker>
                   <p>Vi væbner os det bedste vi kan. O, nu er Bymændene bergede! Sig ikke til Nogen,
                      hvad vi har fore; vi er mandstærke nok, – og saa oppover til Elgesæter.</p>
                </sp>
-               <sp>
+               <sp who="#ALLE">
                   <speaker>
                      <pb n="423"/>ALLE</speaker>
                   <stage>dæmpet</stage>
@@ -8206,7 +8440,7 @@
                      Sysselmand og sveg ham for Skules Skyld. Find paa Noget, som kan berge os! Der
                      er ikke saa fortvivlet en Gjerning, at jeg jo vover den nu.</p>
                </sp>
-               <sp>
+               <sp who="#VAARBAELG2">
                   <speaker>en VAARBÆLG</speaker>
                   <p>Kunde vi bare slippe over til Klostret paa Holm.</p>
                </sp>
@@ -8236,7 +8470,7 @@
                   <speaker>PAAL FLIDA</speaker>
                   <p>Ikke jeg, naar det skal berges paa slig Vis.</p>
                </sp>
-               <sp>
+               <sp who="#FLERE">
                   <speaker>FLERE</speaker>
                   <p>Ikke jeg! Ikke jeg!</p>
                </sp>
@@ -8252,7 +8486,7 @@
                      Grid i Kirkerne. De Drenge tør nok gjæste Kongsskibet, de! Hvem af Jer vil saa
                      med?</p>
                </sp>
-               <sp>
+               <sp who="#NOGLE">
                   <speaker>NOGLE</speaker>
                   <p>Jeg, jeg!</p>
                </sp>
@@ -8320,7 +8554,7 @@
                   <p>Mit Rige? Det er mørkt, det, – som Engelens, der rejste sig mod Gud.</p>
                </sp>
                <stage>En Flok Korsbrødre kommer ind fra Højre.</stage>
-               <sp>
+               <sp who="#ENKORSBRODER">
                   <speaker>EN KORSBRODER</speaker>
                   <p>Hvem taler her? Er det Kong Skules Mænd?</p>
                </sp>
@@ -8328,7 +8562,7 @@
                   <speaker>PAAL FLIDA</speaker>
                   <p>Kong Skule selv.</p>
                </sp>
-               <sp>
+               <sp who="#ENKORSBRODER">
                   <speaker>KORSBRODEREN</speaker>
                   <stage>til Skule</stage>
                   <p>Gud være lovet, at vi traff Eder, kjære Herre! Vi fik spurgt af nogle Bymænd,
@@ -8339,7 +8573,7 @@
                   <speaker>PETER</speaker>
                   <p>I havde fortjent Døden, I, som ikke gav Olafsskrinet ud.</p>
                </sp>
-               <sp>
+               <sp who="#ENKORSBRODER">
                   <speaker>
                      <pb n="428"/>KORSBRODEREN</speaker>
                   <p>Erkebispen forbød det; men vi vil gjerne tjene Kong Skule alligevel; vi har jo
@@ -8376,21 +8610,21 @@
                      Riget for min Fader! <stage>(gaar hurtigt ud til Højre)</stage>
                   </p>
                </sp>
-               <sp>
+               <sp who="#VAARBAELG3">
                   <speaker>EN VAARBÆLG</speaker>
                   <stage>hviskende til en Anden</stage>
                   <p>Gaar <emph>Du</emph> til Elgesæter med Skule?</p>
                </sp>
-               <sp>
+               <sp who="#VAARBAELG4">
                   <speaker>
                      <pb n="429"/>DEN ANDEN</speaker>
                   <p>Hyss; nej; Birkebejnerne er der jo.</p>
                </sp>
-               <sp>
+               <sp who="#VAARBAELG3">
                   <speaker>DEN FØRSTE</speaker>
                   <p>Jeg gaar ikke heller; men sig ikke Noget til de Andre.</p>
                </sp>
-               <sp>
+               <sp who="#ENKORSBRODER">
                   <speaker>KORSBRODEREN</speaker>
                   <p>Og nu afsted, To og To, – en Krigsmand og en Korsbroder –</p>
                </sp>
@@ -8407,7 +8641,7 @@
                   <speaker>KORSBRODEREN</speaker>
                   <p>Den brede Vej.</p>
                </sp>
-               <sp>
+               <sp who="#ENKORSBRODER">
                   <speaker>FØRSTE KORSBRODER</speaker>
                   <p>Skynd Jer; lad os spredes paa forskjellige Stier og samles udenfor
                      Klosterporten.</p>
@@ -8703,7 +8937,7 @@
                   <p>Hør, I Birkebejnere! Haakon Haakonssøn var det, som skulde ligge inde for
                      Alteret og trygle Kong Skule om Liv og Fred!</p>
                </sp>
-               <sp>
+               <sp who="#BIRKEBEJNER3">
                   <speaker>EN BIRKEBEJNER</speaker>
                   <p>Usømmeligt er det for trofaste Mænd at høre paa slige Ord.</p>
                </sp>
@@ -8979,7 +9213,7 @@
                   <speaker>FRU RAGNHILD</speaker>
                   <p>Hvem banker paa Porten?</p>
                </sp>
-               <sp>
+               <sp who="#STEMMER">
                   <speaker>STEMMER</speaker>
                   <stage>udenfor</stage>
                   <p>Bymændene fra Nidaros! Lukk opp! Vi ved at Skule Baardssøn er derinde!</p>
@@ -8988,7 +9222,7 @@
                   <speaker>KONG SKULE</speaker>
                   <p>Ja, han er herinde; – hvad vil I ham?</p>
                </sp>
-               <sp>
+               <sp who="#LARMENDESTEMMER">
                   <speaker>LARMENDE STEMMER</speaker>
                   <stage>udenfor</stage>
                   <p>Kom ud, kom ud! Du skal dø, Du onde Mand!</p>
@@ -8997,12 +9231,12 @@
                   <speaker>MARGRETE</speaker>
                   <p>Og det vover I Bymænd at true med!</p>
                </sp>
-               <sp>
+               <sp who="#ENENKELT">
                   <speaker>
                      <pb n="445"/>EN ENKELT</speaker>
                   <p>Kong Haakon har dømt ham i Oslo.</p>
                </sp>
-               <sp>
+               <sp who="#ENANDEN">
                   <speaker>EN ANDEN</speaker>
                   <p>Det er hver Mands Pligt at dræbe ham.</p>
                </sp>
@@ -9010,11 +9244,11 @@
                   <speaker>MARGRETE</speaker>
                   <p>Jeg er Dronningen; jeg byder Eder at fare herfra!</p>
                </sp>
-               <sp>
+               <sp who="#STEMME1">
                   <speaker>EN STEMME</speaker>
                   <p>Det er Skule Baardssøns Datter og ikke Dronningen, som taler saa.</p>
                </sp>
-               <sp>
+               <sp who="#STEMME2">
                   <speaker>EN ANDEN</speaker>
                   <p>I har ingen Magt over Liv og Død; Kongen har dømt ham!</p>
                </sp>
@@ -9047,12 +9281,12 @@
                      <pb n="446"/>FRU RAGNHILD</speaker>
                   <p>Hvem er det?</p>
                </sp>
-               <sp>
+               <sp who="#BYMAND11">
                   <speaker>EN BYMAND</speaker>
                   <stage>udenfor</stage>
                   <p>Se, se; Kirkeraneren klyver over Klostertaget!</p>
                </sp>
-               <sp>
+               <sp who="#ANDRE">
                   <speaker>ANDRE</speaker>
                   <p>Kast Sten paa ham! Kast Sten paa ham!</p>
                </sp>
@@ -9139,7 +9373,7 @@
                   <p>En Helgen kunde tryggelig gjøre det, naar min Fader har sagt det! Min Fader er
                      Kongen; thi han ejer den store Kongstanke!</p>
                </sp>
-               <sp>
+               <sp who="#BYMAENDENE">
                   <speaker>BYMÆNDENE</speaker>
                   <stage>banker paa Porten</stage>
                   <p>Lukk opp! Kom ud, Du og Kirkeraneren, ellers brænder vi Klostret ned!</p>
@@ -9365,7 +9599,7 @@
                   </p>
                </sp>
                <stage>Sang og Klokkeringning vedbliver under det Følgende.</stage>
-               <sp>
+               <sp who="#STEMMER">
                   <speaker>
                      <pb n="454"/>STEMMER</speaker>
                   <stage>udenfor Porten</stage>
@@ -9375,7 +9609,7 @@
                   <speaker>KONG SKULE</speaker>
                   <p>Jeg kommer.</p>
                </sp>
-               <sp>
+               <sp who="#BYMAENDENE">
                   <speaker>BYMÆNDENE</speaker>
                   <p>Og Kirkeraneren skal ogsaa komme!</p>
                </sp>
@@ -9414,7 +9648,7 @@
                      kommer frivilligt; – men hugg ham ikke i Ansigtet.</p>
                </sp>
                <stage>De gaar udenfor, Haand i Haand; Porten glider til.</stage>
-               <sp>
+               <sp who="#STEMME3">
                   <speaker>EN STEMME</speaker>
                   <p>Sigt ikke, spar ikke; – hugg dem, hvor I kan!</p>
                </sp>
@@ -9424,16 +9658,16 @@
                </sp>
                <stage>Kort Vaabenlarm; derpaa høres tunge Fald; Alt bliver et Øjeblik
                   stille.</stage>
-               <sp>
+               <sp who="#STEMME4">
                   <speaker>EN STEMME</speaker>
                   <p>De er døde Beggeto!</p>
                </sp>
                <stage>Kongsluren lyder.</stage>
-               <sp>
+               <sp who="#STEMME5">
                   <speaker>EN ANDEN STEMME</speaker>
                   <p>Der kommer Kong Haakon med al sin Hird!</p>
                </sp>
-               <sp>
+               <sp who="#MAENGDEN">
                   <speaker>MÆNGDEN</speaker>
                   <p>Hil Eder, Haakon Haakonssøn; nu har I ingen Fiender mere!</p>
                </sp>
@@ -9485,7 +9719,8 @@
                </sp>
                <stage>Kvindernes Sang lyder højere fra Kapellet; alle Klokker bliver ved at ringe i
                   Nidaros.</stage>
-               <stage>Tæppet falder.<pb n="457"/></stage>
+               <stage>Tæppet falder.<pb n="457"/>
+               </stage>
             </div>
          </div>
       </body>
