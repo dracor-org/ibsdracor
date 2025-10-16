@@ -40,12 +40,12 @@
                   </licence>
                </availability>
                <bibl type="originalSource">
-                  <author>Henrik Ibsen</author> : <title type="main">Kjæmpehøien, 2.
-                  versjon</title>. <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg.
-                  1854</title>. In: <edition>Henrik Ibsens skrifter, bind 1</edition>. 
-                  <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
-                  <date when="2005">2005</date>
-                  <biblScope unit="page" from="293" to="339">293-339</biblScope>
+                  <author>Henrik Ibsen</author>: <title type="main">Kjæmpehøien, 2. versjon</title>.
+                     <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1854</title>. In:
+                     <edition>Henrik Ibsens skrifter, bind 1</edition>. <pubPlace>Oslo</pubPlace>:
+                     <publisher>Aschehoug</publisher>
+                  <date when="2005">2005</date> s. <biblScope unit="page" from="293" to="339"
+                     >293-339</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -78,6 +78,18 @@
                <person xml:id="HEMMING" sex="MALE">
                   <persName>Hemming</persName>
                </person>
+               <personGrp xml:id="FLERE">
+                  <name>Flere</name>
+               </personGrp>
+               <personGrp xml:id="NOGLE">
+                  <name>Nogle</name>
+               </personGrp>
+               <personGrp xml:id="ANDRE">
+                  <name>Andre</name>
+               </personGrp>
+               <personGrp xml:id="VIKINGERNE" sex="MALE">
+                  <name>Vikingerne</name>
+               </personGrp>
             </listPerson>
          </particDesc>
       </profileDesc>
@@ -514,7 +526,7 @@
                      <l rhyme="X">Og Guld og Skatte, Hrolloug, Guld og Skatte!</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#FLERE">
                   <speaker>FLERE</speaker>
                   <lg part="M">
                      <l rhyme="x">Ja, det er Loven, Gandalf, Agt for den!</l>
@@ -531,7 +543,7 @@
                      <l part="I">Saa maatte Blodhævn til?</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#NOGLE">
                   <speaker>NOGLE</speaker>
                   <lg part="M">
                      <l part="F" rhyme="X">Jo, saadan er det!</l>
@@ -653,13 +665,13 @@
                      <l rhyme="X">Saa lad os reise ham et værdigt Minde!</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#NOGLE">
                   <speaker>NOGLE</speaker>
                   <lg part="M">
                      <l part="I">Ja, ja!</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#ANDRE">
                   <speaker>ANDRE</speaker>
                   <lg part="M">
                      <l part="M">Med Brand og Blod!</l>
@@ -1812,7 +1824,7 @@
                      <l part="I">Saa er hun fri – ei sandt?</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#VIKINGERNE">
                   <speaker>VIKINGERNE</speaker>
                   <lg part="M">
                      <l part="F" rhyme="X">Jo, jo, det er hun!</l>
@@ -1837,7 +1849,7 @@
                      <l part="F" rhyme="X">Her staar han!</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#NOGLE">
                   <speaker>NOGLE</speaker>
                   <lg part="M">
                      <l part="I">Ha, Gubben der!</l>
@@ -2173,7 +2185,7 @@
                      <l part="F" rhyme="X">Her staar Kong Rørek.</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#NOGLE">
                   <speaker>NOGLE</speaker>
                   <lg part="M">
                      <l part="I">Den faldne Konning!</l>
@@ -2315,7 +2327,7 @@
                      <l part="I">Og I vil følge mig?</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#VIKINGERNE">
                   <speaker>ALLE</speaker>
                   <lg part="M">
                      <l part="F" rhyme="x">Vi følge Dig!</l>
@@ -2406,7 +2418,7 @@
                      <l part="M">Hjemad!</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#GANDALF">
                   <speaker>ALLE</speaker>
                   <lg part="M">
                      <l part="F" rhyme="X">Hjem! Til Norge!</l>
