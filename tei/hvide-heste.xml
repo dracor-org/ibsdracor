@@ -41,10 +41,10 @@
                <bibl type="originalSource">
                   <author>Henrik Ibsen</author>: <title type="main">Hvide heste</title>. <title
                      type="sub">Hovedtekst, tekstgrunnlag: NBO Ms.4° 1291c</title>. In:
-                     <edition>Henrik Ibsens skrifter, bind 8</edition>. 
-                  <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
-                  <date when="2009">2009</date>
-                  <biblScope unit="page" from="235" to="321">235-321</biblScope>
+                     <edition>Henrik Ibsens skrifter, bind 8</edition>. <pubPlace>Oslo</pubPlace>:
+                     <publisher>Aschehoug</publisher>
+                  <date when="2009">2009</date> s. <biblScope unit="page" from="235" to="321"
+                     >235-321</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -78,11 +78,17 @@
                   <persName>Mortensgård</persName>
                </person>
                <person xml:id="MADAMHELSETH" sex="FEMALE">
-                  <persName> Madam Helseth</persName>
+                  <persName>Madam Helseth</persName>
                </person>
             </listPerson>
          </particDesc>
       </profileDesc>
+      <revisionDesc>
+         <change when="2025-10-17" who="#ER">Added revisionDesc</change>
+         <change when="2025-10-01" who="#ER">Standardised language attributes to da-no</change>
+         <change when="2025-09-17" who="#ER">Updated tilePage formatting</change>
+         <change when="2025-09-17" who="#ER">Added standOff data</change>
+      </revisionDesc>
    </teiHeader>
    <standOff>
       <listEvent>
@@ -115,17 +121,17 @@
          <pb n="238"/>
          <div type="act" n="1">
             <head>Første akt.</head>
-            <stage>(Gammeldags men stor og hyggelig daglig- stue hos Rosmers. På væggen til højre en
-               kakkelovn; længere tilbage en dør. På bagvæg- gen fløjdør til forstuen. På væggen til
+            <stage>(Gammeldags men stor og hyggelig dagligstue hos Rosmers. På væggen til højre en
+               kakkelovn; længere tilbage en dør. På bagvæggen fløjdør til forstuen. På væggen til
                venstre to vinduer med potteblomster i opsatser. Ved kakkelovnen sofa med bord og
-               lænestole. På væggene hænger gamle familjeportrætter fore- stillende officerer og
-               prester. Det er sen efter- middagstid. Vintersolen skinner ind på gulv-
+               lænestole. På væggene hænger gamle familjeportrætter forestillende officerer og
+               prester. Det er sen eftermiddagstid. Vintersolen skinner ind på gulv-
                tæppet.)</stage>
             <stage>(Fru Rosmer står ved det forreste vindu og steller med blomsterne. Madam Helset
                kommer ind fra højre med en dækketøjskurv.)</stage>
             <sp who="#MADAMHELSETH">
                <speaker>Madam Helset.</speaker>
-               <p>Det er vel bedst jeg begynder så småt at dæk- ke tébordet, frue?</p>
+               <p>Det er vel bedst jeg begynder så småt at dække tébordet, frue?</p>
             </sp>
             <sp who="#REBEKKA">
                <speaker>Fru Rosmer.</speaker>
@@ -154,7 +160,7 @@
             <sp who="#MADAMHELSETH">
                <speaker>Madam Helset.</speaker>
                <p>Ja, og så gik han helt ovenom. Å ja, det er underligt med slige steder. Der, hvor
-                  sligt no- get er hendt, – der –. Det sidder i; det glemmes ikke så fort.</p>
+                  sligt noget er hendt, – der –. Det sidder i; det glemmes ikke så fort.</p>
             </sp>
             <sp who="#REBEKKA">
                <speaker>Fru Rosmer.</speaker>
@@ -229,17 +235,17 @@
             <sp who="#KROLL">
                <speaker>Gylling</speaker>
                <stage>(sætter sig ved ovnen.)</stage>
-               <p>Mange tak. Der er noget, som jeg gerne vil- de tale med ham om.</p>
+               <p>Mange tak. Der er noget, som jeg gerne vilde tale med ham om.</p>
             </sp>
             <sp who="#REBEKKA">
                <speaker>Fru Rosmer</speaker>
                <stage>(sætter sig ved bordet.)</stage>
                <p>Det var jo heldigt; for så fik vi da endelig se <pb n="242"/>Dem hos os en gang.
-                  Hvorfor er De ikke kom- met ud til os før?</p>
+                  Hvorfor er De ikke kommet ud til os før?</p>
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
-               <p>Nå, unge nygifte folk bør man da ikke så- dan rende på dørene.</p>
+               <p>Nå, unge nygifte folk bør man da ikke sådan rende på dørene.</p>
             </sp>
             <sp who="#REBEKKA">
                <speaker>Fru Rosmer</speaker>
@@ -257,7 +263,7 @@
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
-               <p>Er ble’t politisk agitator, som de radikale bla- de kalder det – når det gælder
+               <p>Er ble’t politisk agitator, som de radikale blade kalder det – når det gælder
                      <emph>os</emph>. Eller læser De kanske ikke de blade.</p>
             </sp>
             <sp who="#REBEKKA">
@@ -268,7 +274,7 @@
             <sp who="#KROLL">
                <speaker>
                   <pb n="243"/>Gylling</speaker>
-               <p>Nå, så har De vel set hvorledes jeg er blet over- fuset og tilrakket? Hvilke
+               <p>Nå, så har De vel set hvorledes jeg er blet overfuset og tilrakket? Hvilke
                   grovheder jeg har måttet døje?</p>
             </sp>
             <sp who="#REBEKKA">
@@ -277,30 +283,30 @@
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
-               <p>Det har jeg; det tør jeg selv sige. Skal jeg ende- lig træde offentlig op, så er
-                  jeg sandelig ikke til sinds godvillig at lægge ryggen tilrette. – Men lad os ikke
+               <p>Det har jeg; det tør jeg selv sige. Skal jeg endelig træde offentlig op, så er jeg
+                  sandelig ikke til sinds godvillig at lægge ryggen tilrette. – Men lad os ikke
                   komme ind på alt dette sørgelige og opri<unclear reason="writing">v</unclear>ende
-                  kævl. Sig mig heller – hvorledes sy- nes De nu om det at være ble’t fruen i
+                  kævl. Sig mig heller – hvorledes synes De nu om det at være ble’t fruen i
                   huset?</p>
             </sp>
             <sp who="#REBEKKA">
                <speaker>Fru Rosmer.</speaker>
                <stage>(halvt sagte.)</stage>
-               <p>Jeg føler mig i alle måder så usigelig lykke- lig.</p>
+               <p>Jeg føler mig i alle måder så usigelig lykkelig.</p>
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
                <p>Nå, det glæder mig af hjertet. Anderledes kan det <pb n="244"/>jo heller ikke
-                  være. En mand som Eilert Ros- mer! Og så <emph>det</emph>, at De her slet ikke er
-                  kommet ind i fremmede og uvante forhold, som De be- høver at leve Dem sammen med.
-                  Huset her og alt sammen var jo ble’t Dem som et hjem for læn- ge siden. Der er
-                  bare den forskel at nu er det hele Deres eget.</p>
+                  være. En mand som Eilert Rosmer! Og så <emph>det</emph>, at De her slet ikke er
+                  kommet ind i fremmede og uvante forhold, som De behøver at leve Dem sammen med.
+                  Huset her og alt sammen var jo ble’t Dem som et hjem for længe siden. Der er bare
+                  den forskel at nu er det hele Deres eget.</p>
             </sp>
             <sp who="#REBEKKA">
                <speaker>Fru Rosmer</speaker>
                <stage>(flytter sig lidt nærmere.)</stage>
                <p>Kære rektor, De siger dette så trohjertig, så jeg er viss på der ikke ligger nogen
-                  misstem- ning under.</p>
+                  misstemning under.</p>
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
@@ -311,7 +317,7 @@
                <p>Det vilde jo ikke være så underlig, om De følte dem lidt ilde berørt ved at se en
                   anden råde her, hvor De var vant til at se Deres egen søster styre og råde lige
                   til for et par år siden. Men det gør De altså ikke? <stage>(rækker ham
-                     hånden.)</stage> Tak, kæ- re rektor! Tak, tak for det!</p>
+                     hånden.)</stage> Tak, kære rektor! Tak, tak for det!</p>
             </sp>
             <sp who="#KROLL">
                <speaker>
@@ -319,9 +325,9 @@
                <p>Men sig mig, hvor i al verden har De kunnet falde på en sådan tanke! Jeg skulde
                   ha’ noget imod – nu, da min stakkers søster er borte, – nu skulde jeg ha’ noget
                   imod at De tog den tomme plads efter hende, – at De gjorde Rosmer til en lykkelig
-                  mand – efter alle de grufulde oplevel- ser, – og at De endelig selv blev lykkelig
+                  mand – efter alle de grufulde oplevelser, – og at De endelig selv blev lykkelig
                   efter al Deres utrættelige omhu for hende – for hende, den stakkers utilregnelige
-                  skabning, som valg- te at, – som endte med at – gå bort fra det hele.</p>
+                  skabning, som valgte at, – som endte med at – gå bort fra det hele.</p>
             </sp>
             <sp who="#REBEKKA">
                <speaker>Fru Rosmer.</speaker>
@@ -347,7 +353,7 @@
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
                <p>Madam Helset fortalte det. <stage>(trykker rektorens hænder.)</stage> Velkommen
-                  til huset igen, kære gam- le ven. Det var nok det jeg vidste, at engang måtte det
+                  til huset igen, kære gamle ven. Det var nok det jeg vidste, at engang måtte det
                   bli som før imellem os.</p>
             </sp>
             <sp who="#KROLL">
@@ -357,7 +363,7 @@
             </sp>
             <sp who="#REBEKKA">
                <speaker>Fru Rosmer.</speaker>
-               <p>Ja tænk, hvor lykkeligt at det bare var en ind- bildning.</p>
+               <p>Ja tænk, hvor lykkeligt at det bare var en indbildning.</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>
@@ -373,9 +379,9 @@
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
                <p>Ja, det var jo vakkert og hensynsfuldt tænkt af dig, kære Gylling. Men det vil jeg
-                  sige, at det var aldeles unødvendigt. Hverken Agnete el- ler lille Alfred står for
+                  sige, at det var aldeles unødvendigt. Hverken Agnete eller lille Alfred står for
                   os som noget, vi kvider os for at dvæle ved. Tvert imod. Vi taler ofte om dem. De
-                  hører endnu ligesom huset til, sy- nes vi.</p>
+                  hører endnu ligesom huset til, synes vi.</p>
             </sp>
             <sp who="#KROLL">
                <speaker>Gy<retrace place="inline">l</retrace>ling.</speaker>
@@ -388,7 +394,7 @@
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
                <p>Det er jo så ganske naturligt. Både Agate <pb n="248"/>og jeg holdt jo så inderlig
-                  af de bortgangne. Å, det er en stor velsignet lykke, det, ikke at ha’ no- get at
+                  af de bortgangne. Å, det er en stor velsignet lykke, det, ikke at ha’ noget at
                   bebrejde sig –</p>
             </sp>
             <sp who="#KROLL">
@@ -402,8 +408,8 @@
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
                <p>Jeg skulde højlig ønsket at omgangen mellem os aldrig var ble’t afbrudt. Der er
-                  mangt og me- get, som jeg så gerne vilde tale uforbeholdent med dig om, – sådan
-                  lige ud af hjertet.</p>
+                  mangt og meget, som jeg så gerne vilde tale uforbeholdent med dig om, – sådan lige
+                  ud af hjertet.</p>
             </sp>
             <sp who="#REBEKKA">
                <speaker>Fru Rosmer.</speaker>
@@ -421,9 +427,9 @@
             <sp who="#KROLL">
                <speaker>
                   <pb n="249"/>Gylling.</speaker>
-               <p>Ja nu går det sandelig ikke an for nogen tæn- kende og retsindig mand at stå som
-                  ørkes- løs tilskuer længer. Nu, da de radikale virke- lig er kommet til magten her
-                  i landet, nu er det på tide at alle velsindede borgere rejser sig i endrægtighed –
+               <p>Ja nu går det sandelig ikke an for nogen tænkende og retsindig mand at stå som
+                  ørkesløs tilskuer længer. Nu, da de radikale virkelig er kommet til magten her i
+                  landet, nu er det på tide at alle velsindede borgere rejser sig i endrægtighed –
                   det er på høj tid, siger jeg –</p>
             </sp>
             <sp who="#REBEKKA">
@@ -433,10 +439,10 @@
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
-               <p>Unægtelig havde det været heldigst om vi hav- de standset strømmen på et tidligere
-                  tids- punkt. Men hvem kunde også forudsé, hvad der vilde komme? Jeg i alle fald
-                  ikke. Jo, nu har jeg rigtignok fåt øjnene op; for nu er så- mænd oprørsånden
-                  trængt ind i selve skolen.</p>
+               <p>Unægtelig havde det været heldigst om vi havde standset strømmen på et tidligere
+                  tidspunkt. Men hvem kunde også forudsé, hvad der vilde komme? Jeg i alle fald
+                  ikke. Jo, nu har jeg rigtignok fåt øjnene op; for nu er såmænd oprørsånden trængt
+                  ind i selve skolen.</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
@@ -455,15 +461,15 @@
             </sp>
             <sp who="#REBEKKA">
                <speaker>Fru Rosmer.</speaker>
-               <p>Jeg har ellers lagt mærke til at unge menne- sker ikke plejer være egentlig
+               <p>Jeg har ellers lagt mærke til at unge mennesker ikke plejer være egentlig
                   radikale.</p>
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
                <p>De fleste plejer ikke være det. Det er ganske sandt. De fleste står da, gud ske
-                  lov, i den al- der endnu så vidt under autoritetens respekt både i hjemmet og i
-                  skolen at de ikke lar nogen umoden kritik over det bestående og det aner- kendte
-                  komme til orde. Men der gives desvær- re undtagelser fra regelen. Og det er for os
+                  lov, i den alder endnu så vidt under autoritetens respekt både i hjemmet og i
+                  skolen at de ikke lar nogen umoden kritik over det bestående og det anerkendte
+                  komme til orde. Men der gives desværre undtagelser fra regelen. Og det er for os
                   skolemænd en sørgelig, sørgelig kendsgerning at det netop er de fra åndsevnernes
                   side bedst udrustede gutter som danner undtagelsen.</p>
             </sp>
@@ -474,10 +480,10 @@
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
-               <p>Men desto farligere er de, disse enkelte skab- bede får. De er i stand til at
-                  smitte hele flok- ken for mig. Hele klassen. Hele skolen. Se, derfor er det at jeg
-                  ikke har betænkt mig på at ta’ virksom del i disse folkemøder og advare imod den
-                  fordærvelige tidsånd som er kom- met op hos os for øjeblikket.</p>
+               <p>Men desto farligere er de, disse enkelte skabbede får. De er i stand til at smitte
+                  hele flokken for mig. Hele klassen. Hele skolen. Se, derfor er det at jeg ikke har
+                  betænkt mig på at ta’ virksom del i disse folkemøder og advare imod den
+                  fordærvelige tidsånd som er kommet op hos os for øjeblikket.</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
@@ -486,8 +492,8 @@
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
                <p>Jeg vil i alt fald aftjene min statsborgerlige værnepligt. Og jeg mener, det er
-                  enhver fædre- landssindet og for den gode sag bekymret mands skyldighed at gøre
-                  det samme. Se, derfor er det nærmest at jeg er kommet her ud til dig i dag –</p>
+                  enhver fædrelandssindet og for den gode sag bekymret mands skyldighed at gøre det
+                  samme. Se, derfor er det nærmest at jeg er kommet her ud til dig i dag –</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>
@@ -500,9 +506,9 @@
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
-               <p>Den må han overvinde. <stage>(til Rosmer.)</stage> Du føl- ger ikke med. Du gør
-                  dig ingen forestilling om hvorledes tilstanden er ude omkring i landet. Der er
-                  vendt op og ned på <app type="alteration">
+               <p>Den må han overvinde. <stage>(til Rosmer.)</stage> Du følger ikke med. Du gør dig
+                  ingen forestilling om hvorledes tilstanden er ude omkring i landet. Der er vendt
+                  op og ned på <app type="alteration">
                      <lem>hvert eneste</lem>
                      <rdg/>
                   </app> begreb. Det vil bli et kæmpearbejde at få alle de vildfarelser ryddet ud
@@ -528,34 +534,34 @@
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
-               <p>Nå, det ved jeg jo nok. Jeg finder det så gan- ske rimeligt at du følte dig
-                  ubehagelig berørt af og ikke kunde gå med på – de mørke pieti- stiske retninger,
-                  som dengang havde vundet indgang i så mange kredse her.</p>
+               <p>Nå, det ved jeg jo nok. Jeg finder det så ganske rimeligt at du følte dig
+                  ubehagelig berørt af og ikke kunde gå med på – de mørke pietistiske retninger, som
+                  dengang havde vundet indgang i så mange kredse her.</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
                <p>Jeg skulde aldrig ta’t imod noget kirkeligt embede, aldrig git mig ind på de slags
-                  studi- er; det er hovedsagen.</p>
+                  studier; det er hovedsagen.</p>
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
                <p>Men, kære, så havde du jo brudt med en af din familjes smukkeste og ufravigeligste
-                  traditioner. Eilert Hanibal Rosmer var mi- litær. Følgelig måtte sønnen Eilert
+                  traditioner. Eilert Hanibal Rosmer var militær. Følgelig måtte sønnen Eilert
                   Alfred Rosmer bli prest. Således har det vekslet i mere end to hundrede år. De
                   ting har jeg <pb n="254"/>god rede på, jeg, som samler til slægtens stam-
                   tavle.</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
-               <p>Ja det var vel også det, som var det bestem- mende for mig dengang. Eller, rettere
-                  sagt, der var slet ikke tale om nogen bestemmel- se fra min side. Far, – hm, du
-                  ved han var major i sin huslige kreds også – han vilde ha’ det så, og dermed var
-                  sagen altså afgjort.</p>
+               <p>Ja det var vel også det, som var det bestemmende for mig dengang. Eller, rettere
+                  sagt, der var slet ikke tale om nogen bestemmelse fra min side. Far, – hm, du ved
+                  han var major i sin huslige kreds også – han vilde ha’ det så, og dermed var sagen
+                  altså afgjort.</p>
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling</speaker>
                <stage>(med et suk.)</stage>
-               <p>Ja, det var i de velordnede samfundsfor- holdes tider!</p>
+               <p>Ja, det var i de velordnede samfundsforholdes tider!</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
@@ -588,17 +594,17 @@
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
                <p>De ting ligger ikke nærmest for mig; men jeg synes dog at der i de senere år er
-                  kommet ligesom lidt mere selvstændighed ind i de enkeltes tænk- ning.</p>
+                  kommet ligesom lidt mere selvstændighed ind i de enkeltes tænkning.</p>
             </sp>
             <sp who="#KROLL">
                <speaker>
                   <pb n="256"/>Gylling.</speaker>
                <p>Og hvis så var? Vilde du virkelig regne det for noget godt hos så ubefæstede og
-                  ufærdige men- nesker? For resten tar du nok betydelig fejl. Eller hvad er det for
-                  tanker og meninger, som dominerer blandt de opviglede her ude på lands- bygden hos
+                  ufærdige mennesker? For resten tar du nok betydelig fejl. Eller hvad er det for
+                  tanker og meninger, som dominerer blandt de opviglede her ude på landsbygden hos
                   dig? Er det ikke de samme tanker og meninger som hidser de ildesindede inde i
                   byen? Jo netop. Og tror du mobben suger de tanker og meninger af sit eget bryst?
-                  Nej, simpelt hen – de læser sig dem til i Peder Mortensgårds a- vis. Jo, det er en
+                  Nej, simpelt hen – de læser sig dem til i Peder Mortensgårds avis. Jo, det er en
                   appetitlig kilde at øse af!</p>
             </sp>
             <sp who="#REBEKKA">
@@ -607,12 +613,12 @@
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
-               <p>Ja men herre gud, – en mand med en så til- smudset fortid! Nå, de radikale er jo
-                  ikke kræs- ne, hvad det moralske grundlag angår. Derfor er han en farlig mand,
-                  denne Mortensgård. Han er en af de farligste, vi har her. Og han tør bli’ <pb
-                     n="257"/>endnu besværligere at trækkes med for frem- tiden. For nu tænker han
-                  på at udvide sin a- vis; den skal komme ud hver dag; jeg ved fra sikker kilde at
-                  han ser sig om efter en habil medarbejder.</p>
+               <p>Ja men herre gud, – en mand med en så tilsmudset fortid! Nå, de radikale er jo
+                  ikke kræsne, hvad det moralske grundlag angår. Derfor er han en farlig mand, denne
+                  Mortensgård. Han er en af de farligste, vi har her. Og han tør bli’ <pb n="257"
+                  />endnu besværligere at trækkes med for fremtiden. For nu tænker han på at udvide
+                  sin avis; den skal komme ud hver dag; jeg ved fra sikker kilde at han ser sig om
+                  efter en habil medarbejder.</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
@@ -621,10 +627,10 @@
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
-               <p>Nå, der leder du mig lige ind på mit æren- de. Det er netop det, vi har tænkt på.
+               <p>Nå, der leder du mig lige ind på mit ærende. Det er netop det, vi har tænkt på.
                   Hvad pengespørsmålet angår, så er foretagendet sikret. Men ledelsen, – den
-                  journalistiske ledelse, Rosmer. Sig mig, – skulde ikke du for den go- de sags
-                  skyld føle dig opfordret til at overta’ den?</p>
+                  journalistiske ledelse, Rosmer. Sig mig, – skulde ikke du for den gode sags skyld
+                  føle dig opfordret til at overta’ den?</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
@@ -638,8 +644,8 @@
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
                <p>Jeg selv skulde så inderlig gerne forsøge mig i den retning også. Men det er
-                  aldeles umuligt. Jeg er allerede i forvejen så bebyrdet med en u- tallighed af
-                  gøremål –. Men du, som ikke læn- ger er trykket af nogen embedsgerning –</p>
+                  aldeles umuligt. Jeg er allerede i forvejen så bebyrdet med en utallighed af
+                  gøremål –. Men du, som ikke længer er trykket af nogen embedsgerning –</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
@@ -658,7 +664,7 @@
                <speaker>Gylling.</speaker>
                <p>Det kan du aldrig vide, før du har probert det. Vi skulde desuden hjælpe dig så
                   godt vi kunde. Og så har du desuden straks fra <pb n="260"/>først af en umådelig
-                  fordel i den uindskræn- kelde agtelse, du nyder i hele amtet. Ingen anden mand kan
+                  fordel i den uindskrænkelde agtelse, du nyder i hele amtet. Ingen anden mand kan
                   hamle op med dig i så henseende. Navnet Rosmer, – gud bevar’ os vel, – familjen
                   Rosmer, den har da gennem umindelige tider gældt som et symbol på alt det, som
                   gammelt og godt og ret og rigtigt er. Derved, ser du, vilde netop du kunne trede
@@ -667,7 +673,7 @@
             <sp who="#REBEKKA">
                <speaker>Fru Rosmer</speaker>
                <stage>(ler.)</stage>
-               <p>Kære rektor, for mig er dette her så usige- lig latterligt at høre på.</p>
+               <p>Kære rektor, for mig er dette her så usigelig latterligt at høre på.</p>
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
@@ -701,7 +707,7 @@
             </sp>
             <sp who="#MADAMHELSETH">
                <speaker>Madam Helset.</speaker>
-               <p>Men han ser nok ikke slig ud at en kan slip- pe ’en i stuen.</p>
+               <p>Men han ser nok ikke slig ud at en kan slippe ’en i stuen.</p>
             </sp>
             <sp who="#REBEKKA">
                <speaker>Fru Rosmer.</speaker>
@@ -772,7 +778,7 @@
                <p>Aldrig sådan personlig. Hm –.</p>
             </sp>
             <stage>(Madam Helset åbner døren til højre for Ulrik Rosenhjelm, går igen og lukker
-               efter ham. Han har uredt hår og skæg, og er klædt som en al- mindelig landstryger.
+               efter ham. Han har uredt hår og skæg, og er klædt som en almindelig landstryger.
                Ingen overfrakke; dårligt skotøj; skjorte ses ikke. Gamle sor<unclear
                   reason="writing">t</unclear>e hansker påtrukne; en bulehat sammenklappet under ar-
                men og en stok i hånden.)</stage>
@@ -791,7 +797,7 @@
                <speaker>Rosenhjelm</speaker>
                <stage>(vender sig.)</stage>
                <p>Rigtig, ja; der har vi ham. Goddag, Rosmer. Jeg vilde ikke passere gården forbi
-                  uden at aflæg- ge en visit.</p>
+                  uden at aflægge en visit.</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
@@ -801,7 +807,7 @@
                <speaker>Rosenhjelm.</speaker>
                <p>Jeg havde ikke noget kort hos mig; men jeg håber, at den ældre dame, som jeg traf
                   udenfor har anmeldt mig? Nå; så er det jo godt. <stage>(bukker)</stage>Ah, fru
-                  provstinden, naturligvis. Og <emph>der</emph>? En em- bedsbroder kan jeg se.</p>
+                  provstinden, naturligvis. Og <emph>der</emph>? En embedsbroder kan jeg se.</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
@@ -834,15 +840,15 @@
             </sp>
             <sp who="#BRENDEL">
                <speaker>Rosenhjelm.</speaker>
-               <p>– en af dem, som fik mig exkluderet af studen- tersamfundet?</p>
+               <p>– en af dem, som fik mig exkluderet af studentersamfundet?</p>
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
-               <p>Ganske visst; men jeg protesterer imod ethvert nær- mere bekendtskab.</p>
+               <p>Ganske visst; men jeg protesterer imod ethvert nærmere bekendtskab.</p>
             </sp>
             <sp who="#BRENDEL">
                <speaker>Rosenhjelm.</speaker>
-               <p>Nå, nå; nach Belieben, herr rektor. Det kan kom- me mig ud på et. Jeg blir den jeg
+               <p>Nå, nå; nach Belieben, herr rektor. Det kan komme mig ud på et. Jeg blir den jeg
                   er for det.</p>
             </sp>
             <sp who="#REBEKKA">
@@ -854,7 +860,7 @@
                   <pb n="266"/>Rosenhjelm.</speaker>
                <p>Ja, fru provstinde, jeg gør så. Jeg synes det er næsten en skam for mig at jeg
                   endnu ikke kender denne del af landet. Hvorledes er stemningen her i byen? Jeg
-                  tænker nemlig på at få en af- tenunderholdning istand.</p>
+                  tænker nemlig på at få en aftenunderholdning istand.</p>
             </sp>
             <sp who="#REBEKKA">
                <speaker>Fru Rosmer.</speaker>
@@ -867,7 +873,7 @@
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
-               <p>Tak; men De gør visst bedst i at henvende Dem di- rekte til Peder Mortensgård.</p>
+               <p>Tak; men De gør visst bedst i at henvende Dem direkte til Peder Mortensgård.</p>
             </sp>
             <sp who="#BRENDEL">
                <speaker>Rosenhjelm.</speaker>
@@ -876,11 +882,11 @@
             <sp who="#KROLL">
                <speaker>
                   <pb n="267"/> Gylling.</speaker>
-               <p>Hvorfor kalder de manden en idiot, når De ik- ke kender ham.</p>
+               <p>Hvorfor kalder de manden en idiot, når De ikke kender ham.</p>
             </sp>
             <sp who="#BRENDEL">
                <speaker>Rosenhjelm.</speaker>
-               <p>Hører jeg ikke straks på navnet at det er en ple- bejer?</p>
+               <p>Hører jeg ikke straks på navnet at det er en plebejer?</p>
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
@@ -893,7 +899,7 @@
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
-               <p>Så vidt jeg ved, har De dog før næret en sær- lig interesse for samfundets lavere
+               <p>Så vidt jeg ved, har De dog før næret en særlig interesse for samfundets lavere
                   lag.</p>
             </sp>
             <sp who="#BRENDEL">
@@ -903,13 +909,13 @@
                   – og så utak fra forkuede, som jeg vilde hjælpe. Ja, se på mig. Her ser I Ul-
                      rik<pb n="268"/> Rosenhjelm, som hørte til det gode selskab, til det bedste
                   selskab, – og som var den første i det gode selskab. Mig stødte de ud fordi jeg
-                  havde evner og mod til at sige og skrive, hvad de fi- ne helst vilde ha’ dækket
+                  havde evner og mod til at sige og skrive, hvad de fine helst vilde ha’ dækket
                   over. Nu er jeg aldrig i godt selskab mere, – undtagen når jeg er alene med mig
                   selv.</p>
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
-               <p>Det er vel ikke blot og bart evnerne eller modstan- den som bestemmer ens skæbne.
+               <p>Det er vel ikke blot og bart evnerne eller modstanden som bestemmer ens skæbne.
                   Det er vel også livsførelsen –</p>
             </sp>
             <sp who="#BRENDEL">
@@ -917,7 +923,7 @@
                <p>Jeg forstår. Vi har en statsmoral, og den har jeg ikke levet i samklang med. For
                   resten er jeg ked af <emph>det</emph> også. Jeg vil iføre mig et nyt menneske, som
                   der står skrevet et steds. Findes der en afholdsforening i byen? En
-                  total-afholdsforening? Det gør der natur- ligvis.</p>
+                  total-afholdsforening? Det gør der naturligvis.</p>
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
@@ -931,13 +937,13 @@
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
-               <p>Ja jeg må sige Dem at vi ikke sådan uden vide- re optar alle og enhver.</p>
+               <p>Ja jeg må sige Dem at vi ikke sådan uden videre optar alle og enhver.</p>
             </sp>
             <sp who="#BRENDEL">
                <speaker>Rosenhjelm.</speaker>
                <p>A la bonheur! Ulrik Rosenhjelm har aldrig rendt den slags foreninger på dørene.
-                  Men jeg tør ikke forlænge min visit. Jeg må se at kom- me mig indover til byen og
-                  få logis. Der findes dog vel et ordentligt hotel, vil jeg håbe.</p>
+                  Men jeg tør ikke forlænge min visit. Jeg må se at komme mig indover til byen og få
+                  logis. Der findes dog vel et ordentligt hotel, vil jeg håbe.</p>
             </sp>
             <sp who="#REBEKKA">
                <speaker>Fru Rosmer.</speaker>
@@ -954,8 +960,8 @@
             <sp who="#BRENDEL">
                <speaker>Rosenhjelm.</speaker>
                <p>Nej nej tak. Jeg lægger ikke gerne beslag på den <pb n="270"/>private gæstfrihed.
-                  Far vel. Å det er sandt, Rosmer; vil du gøre mig en tjeneste for gam- melt
-                  venskabs skyld.</p>
+                  Far vel. Å det er sandt, Rosmer; vil du gøre mig en tjeneste for gammelt venskabs
+                  skyld.</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
@@ -990,7 +996,7 @@
             <sp who="#BRENDEL">
                <speaker>
                   <pb n="271"/>Rosenhjelm.</speaker>
-               <p>På ingen måde. Slig ulejlighed. Jeg tar de små- ting med.</p>
+               <p>På ingen måde. Slig ulejlighed. Jeg tar de småting med.</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
@@ -1008,7 +1014,7 @@
             </sp>
             <sp who="#BRENDEL">
                <speaker>Rosenhjelm.</speaker>
-               <p>Nej tak. Jo død og plage, det er sandt, – har du til- fældigvis ti kroner på
+               <p>Nej tak. Jo død og plage, det er sandt, – har du tilfældigvis ti kroner på
                   dig?</p>
             </sp>
             <sp who="#ROSMER">
@@ -1018,7 +1024,7 @@
             <sp who="#BRENDEL">
                <speaker>Rosenhjelm.</speaker>
                <p>Ja ja tak; det kan være det samme. Tak så længe. Husk på at jeg fik femten.
-                  Farvel, mi- ne herrer.</p>
+                  Farvel, mine herrer.</p>
             </sp>
             <stage>
                <pb n="272"/>(han går mod højre, hvor Rosmer tar afsked og lukker døren efter
@@ -1034,7 +1040,7 @@
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
                <p>Ja, det var jo noksom bekendt. Men at se det for sine øjne! Så megen begavelse
-                  gjort ubruge- lig af moralsk smuds –</p>
+                  gjort ubrugelig af moralsk smuds –</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
@@ -1049,7 +1055,7 @@
                <speaker>
                   <pb n="273"/>Rosmer.</speaker>
                <p>Jeg mener, ved at ta’ sig skånsomt – kærligt af ham, vise ham tillid, bygge på
-                  hans gode for- sætter – et slags selverkendelse –</p>
+                  hans gode forsætter – et slags selverkendelse –</p>
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
@@ -1076,10 +1082,9 @@
                   beflitte sig på <pb n="274"/>et ordentligt levnet, – i al fald være forsigtig og
                   ikke offentlig gi’ anledning til forargelse. Og hvis han kunde overvinde sig så
                   vidt, og hvis han kunde i nogen tid bringes til at yde den gode sag sine bona
-                  officia –; under iagttagelse af den aller strængeste anonymitet naturlig- vis
-                  –.</p>
+                  officia –; under iagttagelse af den aller strængeste anonymitet naturligvis –.</p>
             </sp>
-            <stage>(Fru Rosmer er imidlertid kommet ind i- gen.)</stage>
+            <stage>(Fru Rosmer er imidlertid kommet ind igen.)</stage>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
                <p>Gik han?</p>
@@ -1090,7 +1095,7 @@
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
-               <p>Ja nu får nok jeg også tænke på at komme af- sted. Det begynder alt at bli’
+               <p>Ja nu får nok jeg også tænke på at komme afsted. Det begynder alt at bli’
                   mørkt.</p>
             </sp>
             <sp who="#REBEKKA">
@@ -1113,7 +1118,7 @@
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
                <p>Godt, godt, jeg forhører mig i alle fald. Jeg vil tale med dig, jeg vil tale længe
-                  med dig, kæ- re Gylling –</p>
+                  med dig, kære Gylling –</p>
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
@@ -1127,16 +1132,16 @@
                <speaker>Gylling.</speaker>
                <stage>(ryster hans hånd.)</stage>
                <p>Velkommen skal du være, min kære ven. Og jeg tænker nok vi to snart skal bli’
-                  enige om, hvad der er en brav og velsindet borgers pligt i disse træng- selens
+                  enige om, hvad der er en brav og velsindet borgers pligt i disse trængselens
                   tider. Farvel frue! Farvel, kære venner.</p>
             </sp>
             <stage>
                <pb n="276"/>(Rosmer og frue følger han ud i forstuen. Der taleshøjt men uforståeligt
-               mens han trækker yder- frakken på. Tilsidst «Farvel, farvel, farvel» <gap/>i det
-               rektoren går. Rosmer og hans hustru kom- mer ind i stuen igen.)</stage>
+               mens han trækker yderfrakken på. Tilsidst «Farvel, farvel, farvel» <gap/>i det
+               rektoren går. Rosmer og hans hustru kommer ind i stuen igen.)</stage>
             <sp who="#REBEKKA">
                <speaker>Fru Rosmer.</speaker>
-               <p>Hvad var det, ha sa’e da jeg kom ind. Jeg for- stod ham, som han vilde prøve
+               <p>Hvad var det, ha sa’e da jeg kom ind. Jeg forstod ham, som han vilde prøve
                   Rosenhjelm i det nye blad.</p>
             </sp>
             <sp who="#ROSMER">
@@ -1153,8 +1158,8 @@
             </sp>
             <sp who="#REBEKKA">
                <speaker>Fru Rosmer</speaker>
-               <p>Nu skal du ikke ta’ det fortrydeligt at jeg hand- led lidt på egen hånd. Hvad? Vi
-                  to gode venner?</p>
+               <p>Nu skal du ikke ta’ det fortrydeligt at jeg handled lidt på egen hånd. Hvad? Vi to
+                  gode venner?</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>
@@ -1175,7 +1180,7 @@
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
-               <p>Men du hørte jo han kaldte Mortensgård en idi- ot og en plebejer.</p>
+               <p>Men du hørte jo han kaldte Mortensgård en idiot og en plebejer.</p>
             </sp>
             <sp who="#REBEKKA">
                <speaker>Fru Rosmer.</speaker>
@@ -1184,17 +1189,17 @@
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
-               <p>Så det gjorde han? Men imorgen kommer kan- ske Gylling og tar ham.</p>
+               <p>Så det gjorde han? Men imorgen kommer kanske Gylling og tar ham.</p>
             </sp>
             <sp who="#REBEKKA">
                <speaker>
                   <pb n="278"/>Fru Rosmer.</speaker>
-               <p>Hvis han først har kompromitteret sig med Mor- tensgårds avis så kan ikke
+               <p>Hvis han først har kompromitteret sig med Mortensgårds avis så kan ikke
                   «Amtstidenden» bruge ham.</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
-               <p>Og så kommer det ud at det er os som har anbe- falet ham.</p>
+               <p>Og så kommer det ud at det er os som har anbefalet ham.</p>
             </sp>
             <sp who="#REBEKKA">
                <speaker>Fru Rosmer.</speaker>
@@ -1208,7 +1213,7 @@
             </sp>
             <sp who="#REBEKKA">
                <speaker>Fru Rosmer.</speaker>
-               <p>Er det bare det alene, Rosmer? Er det ikke no- get, som er blet tilbage i dig uden
+               <p>Er det bare det alene, Rosmer? Er det ikke noget, som er blet tilbage i dig uden
                   at du selv ved af det?</p>
             </sp>
             <sp who="#ROSMER">
@@ -1234,17 +1239,17 @@
                <speaker>Rosmer.</speaker>
                <p>Hvide heste? Hvilke hvide heste?</p>
             </sp>
-            <stage>(Madam Helset kommer ind med téma- skinen og sætter den på bordet.)</stage>
+            <stage>(Madam Helset kommer ind med témaskinen og sætter den på bordet.)</stage>
             <sp who="#REBEKKA">
                <speaker>Fru Rosmer.</speaker>
                <p>Hvorledes var det, De fortalte mig en gang, madam Helset. De sa’ at fra umindelige
-                  ti- der hændte der noget underligt her på gården hver gang en af slægten var
+                  tider hændte der noget underligt her på gården hver gang en af slægten var
                   død.</p>
             </sp>
             <sp who="#MADAMHELSETH">
                <speaker>
                   <pb n="280"/>Madam Helset.</speaker>
-               <p>Ja det er så sandt som jeg står her. Da kom- mer den hvide hesten.</p>
+               <p>Ja det er så sandt som jeg står her. Da kommer den hvide hesten.</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
@@ -1252,9 +1257,9 @@
             </sp>
             <sp who="#REBEKKA">
                <speaker>Fru Rosmer.</speaker>
-               <p>Ind kommer den når det lider ud over nat- ten. Ind på gårdspladsen. Gennem lukket
-                  port. Skriger højt. Slår op med bagbenene galop- perer en gang rudt og så ud igen
-                  og væk i fy- gende fart.</p>
+               <p>Ind kommer den når det lider ud over natten. Ind på gårdspladsen. Gennem lukket
+                  port. Skriger højt. Slår op med bagbenene galopperer en gang rudt og så ud igen og
+                  væk i fygende fart.</p>
             </sp>
             <sp who="#MADAMHELSETH">
                <speaker>Madam Helset.</speaker>
@@ -1302,7 +1307,7 @@
          <div type="act" n="2">
             <head>Anden akt.</head>
             <stage>(Dagligstuen hos Johannes Rosmer. Det er formiddag.</stage>
-            <stage>(Rosmer går om i stuen og trækker sin over- frakke. Fru Rosmer børster hans hat,
+            <stage>(Rosmer går om i stuen og trækker sin overfrakke. Fru Rosmer børster hans hat,
                som hun derefter rækker.)</stage>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
@@ -1333,7 +1338,7 @@
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
-               <p>Bliv bare ikke utålmodig. Farvel så længe. Far- vel!</p>
+               <p>Bliv bare ikke utålmodig. Farvel så længe. Farvel!</p>
             </sp>
             <sp who="#REBEKKA">
                <speaker>Fru Rosmer.</speaker>
@@ -1370,16 +1375,16 @@
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
-               <p>Er der noget i vejen med dig? Du ser så alvor- lig ud.</p>
+               <p>Er der noget i vejen med dig? Du ser så alvorlig ud.</p>
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
-               <p>Jeg vilde gerne tale med dig under fire øjne. Kun- de vi kanske gå ind på
+               <p>Jeg vilde gerne tale med dig under fire øjne. Kunde vi kanske gå ind på
                   kontoret?</p>
             </sp>
             <sp who="#REBEKKA">
                <speaker>Fru Rosmer.</speaker>
-               <p>Der er ikke i orden endnu. Bliv De her. Jeg har for- retninger ude. <stage>(går ud
+               <p>Der er ikke i orden endnu. Bliv De her. Jeg har forretninger ude. <stage>(går ud
                      til højre.)</stage>
                </p>
             </sp>
@@ -1391,7 +1396,7 @@
                <speaker>
                   <pb n="285"/>Gylling.</speaker>
                <p>Nej; og han kommer visst ikke heller. Men der går allerede ry af ham. Det var en
-                  vakker må- de han introducerte sig på.</p>
+                  vakker måde han introducerte sig på.</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
@@ -1400,7 +1405,7 @@
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
                <p>Han tog ind i et sjofelt hus, slog sig ned i en sjofel kippe – i det sjofleste
-                  selskab naturligvis – drak og trakterte så længe han havde noget; si- den skældte
+                  selskab naturligvis – drak og trakterte så længe han havde noget; siden skældte
                   han hele kompaniet ud for pak og pøbel – det havde han nu for resten ret i; –; så
                   fik han prygl og blev kastet på døren.</p>
             </sp>
@@ -1420,7 +1425,7 @@
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
-               <p>Af herr Mortensgård. Sejerhjelms første vi- sit galdt idioten og plebejeren.</p>
+               <p>Af herr Mortensgård. Sejerhjelms første visit galdt idioten og plebejeren.</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
@@ -1456,8 +1461,8 @@
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
-               <p>Har hun også fortalt dig at hun igår gav Sejer- hjelm et anbefalingskort med til
-                  redaktør Mortens- gård?</p>
+               <p>Har hun også fortalt dig at hun igår gav Sejerhjelm et anbefalingskort med til
+                  redaktør Mortensgård?</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
@@ -1480,7 +1485,7 @@
                <speaker>
                   <pb n="288"/>Rosmer.</speaker>
                <p>Jeg vil sige dig det oprigtigt. Mortensgårds færd virker ved mange anledninger
-                  frastødende på dig. Men jeg kan ikke længere gå med dig og vo- re venner i de
+                  frastødende på dig. Men jeg kan ikke længere gå med dig og vore venner i de
                   offentlige spørsmål. I de sager og i mangfoldige andre må jeg helt skille mig ud
                   fra jer.</p>
             </sp>
@@ -1502,14 +1507,14 @@
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
                <p>Jeg vil prøve på at forædle frigørelsesarbejdet. Tror du ikke jeg ser al den
-                  uhumskhed, som ud- viklingen<pb n="289"/> fører med sig og afføder undervejs.
-                  Dette er det jeg vil træde op imod, advare imod, afdæmme, bundslå, så strømmen kan
-                  flyde ren og klar –</p>
+                  uhumskhed, som udviklingen<pb n="289"/> fører med sig og afføder undervejs. Dette
+                  er det jeg vil træde op imod, advare imod, afdæmme, bundslå, så strømmen kan flyde
+                  ren og klar –</p>
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
-               <p>Å, Rosmer, hvor du er troskyldig! Du ved ik- hvad elementer du får at gøre med.
-                  Men hvad tid kom du ind på disse forvildelsens veje?</p>
+               <p>Å, Rosmer, hvor du er troskyldig! Du ved ikhvad elementer du får at gøre med. Men
+                  hvad tid kom du ind på disse forvildelsens veje?</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
@@ -1550,7 +1555,7 @@
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
                <p>Da jeg hav<retrace place="inline">d</retrace>e fåt fuld klarhed trak jeg mig jo
-                  til- bage.</p>
+                  tilbage.</p>
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
@@ -1558,8 +1563,8 @@
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
-               <p>Jeg kan ikke længere være med på dette mysteri- øse. Jeg må forkaste hele den
-                  gamle lære.</p>
+               <p>Jeg kan ikke længere være med på dette mysteriøse. Jeg må forkaste hele den gamle
+                  lære.</p>
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
@@ -1577,11 +1582,11 @@
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
                <p>Jeg vil fortsætte, utrættelig, med at forske og tænke. Jeg vil søge, så vidt
-                  muligt, at komme til bunds i tingene. Og så vil jeg leve. Være lyk- kelig.</p>
+                  muligt, at komme til bunds i tingene. Og så vil jeg leve. Være lykkelig.</p>
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
-               <p>Ved du vel at dette åbner en afgrund af tan- ker for mig.</p>
+               <p>Ved du vel at dette åbner en afgrund af tanker for mig.</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
@@ -1604,17 +1609,17 @@
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
                <p>Jeg forstår dig ikke. Kan du være i uvisshed om det. Og kan der overhovedet
-                  spørges om grundene til hvad en ulykkelig, syg, utilreg- nelig foretar sig.</p>
+                  spørges om grundene til hvad en ulykkelig, syg, utilregnelig foretar sig.</p>
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
-               <p>Er du viss på at Beate var så aldeles u- tilregnelig? Lægerne mente i alt fald at
+               <p>Er du viss på at Beate var så aldeles utilregnelig? Lægerne mente i alt fald at
                   det ikke var så aldeles afgjort.</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
-               <p>Hvis lægerne nogensinde havde set hende så- ledes, som jeg så mangen gang så
-                  hende, da vilde de ikke ha’ tvilet.</p>
+               <p>Hvis lægerne nogensinde havde set hende således, som jeg så mangen gang så hende,
+                  da vilde de ikke ha’ tvilet.</p>
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
@@ -1624,7 +1629,7 @@
                <speaker>
                   <pb n="293"/>Rosmer.</speaker>
                <p>Det var desværre umuligt at tvile. Jeg har jo fortalt dig om hendes ulykkelige,
-                  vilde liden- skabelighed, som hun forlangte jeg skulde gen- gælde. Å den skræk hun
+                  vilde lidenskabelighed, som hun forlangte jeg skulde gengælde. Å den skræk hun
                   indgød mig. Og så disse pludselige omslag hos hende; dette stumme fortærende had
                   –</p>
             </sp>
@@ -1647,9 +1652,9 @@
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
-               <p> I det sidste år, – når hun ikke syntes hun kun- de bære sit liv længer, så tyed
-                  hun til mig og kla- ged sin angst – først fordi hun påstod at du var på frafaldets
-                  vej –</p>
+               <p> I det sidste år, – når hun ikke syntes hun kunde bære sit liv længer, så tyed hun
+                  til mig og klaged sin angst – først fordi hun påstod at du var på frafaldets vej
+                  –</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>
@@ -1693,7 +1698,7 @@
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
-               <p>Somme tider kom Beate til mig, græd og jam- red. «Rosmer elsker mig ikke mere, sa’
+               <p>Somme tider kom Beate til mig, græd og jamred. «Rosmer elsker mig ikke mere, sa’
                   hun. Han elsker Rebekka; og hun elsker ham».</p>
             </sp>
             <sp who="#ROSMER">
@@ -1711,13 +1716,13 @@
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
                <p>Sidste gang hun var inde hos mig, sa’ hun: Nu må ingen stå i vejen for Johannes og
-                  hans lykke. Nu må snart den vide hesten kom ind på går- den.<pb n="296"/> Jeg
+                  hans lykke. Nu må snart den vide hesten kom ind på gården.<pb n="296"/> Jeg
                   forstod hende ikke.</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
-               <p>Aldrig er det faldt mig ind at hendes syge tan- ker kunde forvilde sig på de veje.
-                  Min stak- kers ulykkelige Beate!</p>
+               <p>Aldrig er det faldt mig ind at hendes syge tanker kunde forvilde sig på de veje.
+                  Min stakkers ulykkelige Beate!</p>
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
@@ -1759,7 +1764,7 @@
             <sp who="#KROLL">
                <speaker> Gylling.</speaker>
                <p>Har du ikke nu bekendt at du allerede længe i løndom har været en frafalden fra
-                  din fæ- dres tro?</p>
+                  din fædres tro?</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
@@ -1779,7 +1784,7 @@
                <speaker>
                   <pb n="298"/>Gylling.</speaker>
                <p>Jeg mener at der er vel ikke noget svælgende dyb, nogen uoverstigelig afgrund
-                  mellem den fri tan- ke og –</p>
+                  mellem den fri tanke og –</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
@@ -1796,7 +1801,7 @@
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
                <p>Jeg ved ikke hvad der skulde hindre en mand fra den stund han har sagt sig løs fra
-                  mor- albudene.</p>
+                  moralbudene.</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
@@ -1815,7 +1820,7 @@
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
-               <p>Den private, menneskelige moral er nok et skrø- beligt værn.</p>
+               <p>Den private, menneskelige moral er nok et skrøbeligt værn.</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
@@ -1824,7 +1829,7 @@
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
                <p>Ja du kan kalde mig fanatisk i dette stykke. Til min sidste stund skal jeg hade og
-                  forfølge dis- se uheldsvangre strømninger i tiden. De har bragt ufred og opløsning
+                  forfølge disse uheldsvangre strømninger i tiden. De har bragt ufred og opløsning
                   ind i mit hjem – og i hundrede andre også. De har forbittret mig min livsgerning
                   –</p>
             </sp>
@@ -1835,9 +1840,9 @@
             <sp who="#KROLL">
                <speaker>
                   <pb n="301"/>Gylling.</speaker>
-               <p>Det ene kan ikke skilles fra det andet. Og at fra- faldet skulde gribe også dig.
-                  Skille os så uigenkal- delig fra hinanden. Men jeg ser det, jeg ser det; – dette
-                  med dig – det er en listig og hensynsløs kvin- des værk.</p>
+               <p>Det ene kan ikke skilles fra det andet. Og at frafaldet skulde gribe også dig.
+                  Skille os så uigenkaldelig fra hinanden. Men jeg ser det, jeg ser det; – dette med
+                  dig – det er en listig og hensynsløs kvindes værk.</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
@@ -1920,7 +1925,7 @@
             </sp>
             <sp who="#REBEKKA">
                <speaker>Frøken Dankert.</speaker>
-               <p>Altfor fast. De var aldrig blet en fri mand, hav- denne kreds fåt bli’ ved at øve
+               <p>Altfor fast. De var aldrig blet en fri mand, havdenne kreds fåt bli’ ved at øve
                   sin indflydelse på Dem.</p>
             </sp>
             <sp who="#ROSMER">
@@ -1981,7 +1986,7 @@
                <speaker>Rosmer</speaker>
                <stage>(med et udråb.)</stage>
             </sp>
-            <stage>(Rektor Gylling har åbnet døren i baggrun- den.)</stage>
+            <stage>(Rektor Gylling har åbnet døren i baggrunden.)</stage>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
                <p>Ja jeg ved jo ikke om jeg tør komme en gang til.</p>
@@ -2021,7 +2026,7 @@
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
-               <p>Hm, De vil vel sigte os for fanatisme og forføl- gelse af anderledes tænkende. Men
+               <p>Hm, De vil vel sigte os for fanatisme og forfølgelse af anderledes tænkende. Men
                   det kan ikke <pb n="307"/>undgåes i en opagiteret tid som vor. Det blir en
                   ligefrem pligt for enhver god borger, som har evne til det, at luge alt det
                   farlige ugræs op, når og hvor det viser sig.</p>
@@ -2044,7 +2049,7 @@
                <speaker>Gylling.</speaker>
                <p>Det er din pligt mod dine omgivelser. Husk på den fremskudte stilling, som din
                   slægt i så lang tid har indtaget. Den agtelse du selv nyder. Mange ubefæstede vil
-                  du gøre vaklende, tvil- rådige, ulykkelige.</p>
+                  du gøre vaklende, tvilrådige, ulykkelige.</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>
@@ -2058,18 +2063,18 @@
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
                <p>Men jeg kan da ikke bli stående udenfor evig og altid. Ude omkring rører der sig
-                  et rigt spi- rende liv på alle områder. Jeg må dog begyn- de at leve engang, jeg
-                  også. Jeg vil om må bli lykkelig her i verden.</p>
+                  et rigt spirende liv på alle områder. Jeg må dog begynde at leve engang, jeg også.
+                  Jeg vil om må bli lykkelig her i verden.</p>
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
-               <p>Jeg skønner godt, hvor denne jagt efter lyk- ken skriver sig fra. Gør ikke De også
-                  det, frø- ken.</p>
+               <p>Jeg skønner godt, hvor denne jagt efter lykken skriver sig fra. Gør ikke De også
+                  det, frøken.</p>
             </sp>
             <sp who="#REBEKKA">
                <speaker>Frøken Dankert.</speaker>
                <p>Den ligger i tiden. Det er noget af det største ved den unge tid at vi vover
-                  åbenlyst at proklame- re lykken som livsmål.</p>
+                  åbenlyst at proklamere lykken som livsmål.</p>
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
@@ -2202,8 +2207,8 @@
                <speaker>Rosmer.</speaker>
                <p>Nej, nej. «overløbere – – – men som går over med fuld musik så snart sejren synes
                   sikkret». At de kan skrive sådant noget, som de ikke selv tror på. «Når uklare
-                  viljeløse fantaster falder i hæn- derne på intrigante beregnende personer –» jeg
-                  vil ikke læse mere. <stage>(rejser sig)</stage> i al fald ikke nu.</p>
+                  viljeløse fantaster falder i hænderne på intrigante beregnende personer –» jeg vil
+                  ikke læse mere. <stage>(rejser sig)</stage> i al fald ikke nu.</p>
             </sp>
             <sp who="#REBEKKA">
                <speaker>Frøken West.</speaker>
@@ -2211,7 +2216,7 @@
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
-               <p>Å hvad kan det nytte? Jeg er jo heller ikke lige- frem nævnt.</p>
+               <p>Å hvad kan det nytte? Jeg er jo heller ikke ligefrem nævnt.</p>
             </sp>
             <sp who="#REBEKKA">
                <speaker>Frøken West.</speaker>
@@ -2232,7 +2237,7 @@
             </sp>
             <sp who="#MADAMHELSETH">
                <speaker>Madam Helset.</speaker>
-               <p>Det er denne Mortensgård som gerne vilde snak- ke med herr Rosmer.</p>
+               <p>Det er denne Mortensgård som gerne vilde snakke med herr Rosmer.</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
@@ -2256,7 +2261,7 @@
                <speaker>
                   <pb n="315"/>Rosmer.</speaker>
                <p>Ja, der ligger år imellem. Jeg har tidt spurt mig selv om jeg ikke dengang greb
-                  ind med alt- for hårde hænder.</p>
+                  ind med altfor hårde hænder.</p>
             </sp>
             <sp who="#MORTENSGAARD">
                <speaker>Mortensgård.</speaker>
@@ -2303,12 +2308,12 @@
             </sp>
             <sp who="#MORTENSGAARD">
                <speaker>Mortensgård.</speaker>
-               <p>Han er ikke med i tiden; står så underlig uden- for det som rører sig. Ser på
+               <p>Han er ikke med i tiden; står så underlig udenfor det som rører sig. Ser på
                   tingene med øjne som kan ha’ været radikale nok for tyve år siden –</p>
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
-               <p>Ja det var de. – Sig mig, har De læst «Amtsti- denden» <retrace place="inline"
+               <p>Ja det var de. – Sig mig, har De læst «Amtstidenden» <retrace place="inline"
                      >f</retrace>or idag?</p>
             </sp>
             <sp who="#MORTENSGAARD">
@@ -2359,7 +2364,7 @@
             <sp who="#REBEKKA">
                <speaker>
                   <pb n="318"/>Frøken West.</speaker>
-               <p>Det er et længe forberedt skridt, herr Mortens- gård.</p>
+               <p>Det er et længe forberedt skridt, herr Mortensgård.</p>
             </sp>
             <sp who="#MORTENSGAARD">
                <speaker>Mortensgård.</speaker>
@@ -2393,7 +2398,7 @@
             <sp who="#MORTENSGAARD">
                <speaker>Mortensgård.</speaker>
                <p>Hvad De vil, herr pastor. Jo mere, jo bedre. Det vil være til uberegnelig gagn for
-                  fremskridtets sag ud over landet om en mand, som De, en kir- kens mand stiller Dem
+                  fremskridtets sag ud over landet om en mand, som De, en kirkens mand stiller Dem
                   på vor side.</p>
             </sp>
             <sp who="#ROSMER">
@@ -2432,7 +2437,7 @@
             </sp>
             <sp who="#MORTENSGAARD">
                <speaker>Mortensgård.</speaker>
-               <p>Det vilde lidet nytte. Den, der engang har væ- ret så uforsigtig – så uheldig som
+               <p>Det vilde lidet nytte. Den, der engang har været så uforsigtig – så uheldig som
                   jeg –.</p>
             </sp>
             <sp who="#ROSMER">
@@ -2452,8 +2457,8 @@
             </sp>
             <sp who="#MORTENSGAARD">
                <speaker>Mortensgård.</speaker>
-               <p>På den vis gør jeg min forgåelse mod samfun- det god igen. For mig selv kan jeg
-                  ikke håbe at vinde noget. Jeg er jo borgerlig død, som De ved.</p>
+               <p>På den vis gør jeg min forgåelse mod samfundet god igen. For mig selv kan jeg ikke
+                  håbe at vinde noget. Jeg er jo borgerlig død, som De ved.</p>
             </sp>
          </div>
       </body>
