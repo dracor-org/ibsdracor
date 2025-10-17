@@ -84,7 +84,7 @@
                   <name>Unge piger</name>
                </personGrp>
                <personGrp xml:id="SVENDE" sex="MALE">
-                 <name>Svende</name>
+                  <name>Svende</name>
                </personGrp>
                <person xml:id="ENAFGAESTERNE">
                   <persName>En af gæsterne</persName>
@@ -119,6 +119,14 @@
             </listPerson>
          </particDesc>
       </profileDesc>
+      <revisionDesc>
+         <change when="2025-10-17" who="#ER">Added revisionDesc</change>
+         <change when="2025-10-16" who="#ER">Updated particDesc and who attributes for nondescript
+            speakers</change>
+         <change when="2025-10-01" who="#ER">Standardised language attributes to da-no</change>
+         <change when="2025-09-17" who="#ER">Updated tilePage formatting and premiere date</change>
+         <change when="2025-09-16" who="#ER">Added indentation editors</change>
+      </revisionDesc>
    </teiHeader>
    <standOff>
       <listEvent>
