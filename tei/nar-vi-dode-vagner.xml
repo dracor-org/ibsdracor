@@ -41,10 +41,10 @@
                <bibl type="originalSource">
                   <author>Henrik Ibsen</author>: <title type="main">Når vi døde vågner</title>.
                      <title type="sub">Hovedtekst, 1. utg. 1899</title>. In: <edition>Henrik Ibsens
-                     skrifter, bind 10</edition>. 
-                  <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
-                  <date when="2010">2010</date>
-                  <biblScope unit="page" from="167" to="288">167-288</biblScope>
+                     skrifter, bind 10</edition>. <pubPlace>Oslo</pubPlace>:
+                     <publisher>Aschehoug</publisher>
+                  <date when="2010">2010</date> s. <biblScope unit="page" from="167" to="288"
+                     >167-288</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -77,6 +77,11 @@
             </listPerson>
          </particDesc>
       </profileDesc>
+      <revisionDesc>
+         <change when="2025-10-17" who="#ER">Added revisionDesc</change>
+         <change when="2025-10-01" who="#ER">Standardised language attributes to da-no</change>
+         <change when="2025-09-17" who="#ER">Updated premiere date, titlePage formatting</change>
+      </revisionDesc>
    </teiHeader>
    <standOff>
       <listEvent>
