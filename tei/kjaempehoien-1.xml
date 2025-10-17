@@ -84,6 +84,13 @@
             </listPerson>
          </particDesc>
       </profileDesc>
+      <revisionDesc>
+         <change when="2025-10-17" who="#ER">Added revisionDesc</change>
+         <change when="2025-10-16" who="#ER">Updated particDesc and who attributes for nondescript
+            speakers</change>
+         <change when="2025-10-01" who="#ER">Standardised langauge attributes to da-no</change>
+         <change when="2025-09-17" who="#ER">Updated event written</change>
+      </revisionDesc>
    </teiHeader>
    <standOff>
       <listEvent>
