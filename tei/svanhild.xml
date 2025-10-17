@@ -44,8 +44,8 @@
                      <edition>Henrik Ibsens skrifter, bind 4</edition>. <editor>Christian Janss,
                      Hilde Bøe og Ellen Nessheim Wiger</editor>
                   <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
-                  <date when="2008">2008</date>
-                  <biblScope unit="page" from="7" to="44">7-44</biblScope>
+                  <date when="2008">2008</date> s. <biblScope unit="page" from="7" to="44"
+                     >7-44</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -93,6 +93,10 @@
             </listPerson>
          </particDesc>
       </profileDesc>
+      <revisionDesc>
+         <change when="2025-10-17" who="#ER">Updated particDesc, who attributes and added
+            revisionDesc</change>
+      </revisionDesc>
    </teiHeader>
    <standOff>
       <listEvent>
