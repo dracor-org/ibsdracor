@@ -43,7 +43,7 @@
                      <edition>Henrik Ibsens skrifter, bind 10</edition>. 
                   <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
                   <date when="2010">2010</date>
-                  <biblScope unit="page" from="7" to="165">7-165</biblScope>
+                  s. <biblScope unit="page" from="7" to="165">7-165</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -82,6 +82,14 @@
             </listPerson>
          </particDesc>
       </profileDesc>
+      <revisionDesc>
+         <change when="2025-10-17" who="#ER">Added revisionDesc</change>
+         <change when="2025-10-01" who="#ER">Standardised language attributes to da-no</change>
+         <change when="2025-09-17" who="#ER">Updated tilePage formatting</change>
+         <change when="2025-09-16" who="#ER">Updated sourceDesc, indentation</change>
+         <change when="2025-09-07" who="#ER">Updated originalSource</change>
+         <change when="2025-09-01" who="#ER">Added standOff data</change>
+      </revisionDesc>
    </teiHeader>
    <standOff>
       <listEvent>
