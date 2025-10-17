@@ -41,10 +41,10 @@
                <bibl type="originalSource">
                   <author>Henrik Ibsen</author>: <title type="main">Olaf Liljekrans, 3.
                      versjon</title>. <title type="sub">Hovedtekst, tekstgrunnlag: NBO Ms.8°
-                     1945</title>. In: <edition>Henrik Ibsens skrifter, bind 2</edition>. 
-                  <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
-                  <date when="2006">2006</date>
-                  <biblScope unit="page" from="423" to="573">423-573</biblScope>
+                     1945</title>. In: <edition>Henrik Ibsens skrifter, bind 2</edition>.
+                     <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
+                  <date when="2006">2006</date> s. <biblScope unit="page" from="423" to="573"
+                     >423-573</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -71,6 +71,24 @@
                <person xml:id="TORGEJR" sex="MALE">
                   <persName>Torgejr</persName>
                </person>
+               <personGrp xml:id="FRUGURIDSFOLK">
+                  <name>Fru Gurids folk</name>
+               </personGrp>
+               <personGrp xml:id="ARNESFOELGE">
+                  <name>Arnes følge</name>
+               </personGrp>
+               <personGrp xml:id="FRUGUNHILDSFOELGE">
+                  <name>Fru Gunhilds følge</name>
+               </personGrp>
+               <personGrp xml:id="FLERE">
+                  <name>Flere</name>
+               </personGrp>
+               <personGrp xml:id="PEJKSFOELGE">
+                  <persName>Pejks følge</persName>
+               </personGrp>
+               <personGrp xml:id="GUNHILDSKVINDER" sex="FEMALE">
+                  <name>Gunhilds kvinder</name>
+               </personGrp>
             </listPerson>
          </particDesc>
       </profileDesc>
@@ -113,7 +131,7 @@
                   <l met="∪-∪∪-∪-∪" rhyme="X">og dalen er min og nøkkens.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#FRUGURIDSFOLK">
                <speaker>FRU GURIDS FOLK</speaker>
                <stage>(fjernt og dybt nede til venstre i baggrunden.)</stage>
                <lg type="strofisk-rapsodisk-strofe-folkevisevers" met="bi+ '9 '5 '5 '4 '5 '4"
@@ -122,7 +140,7 @@
                   <l met="∪-∪∪-∪" rhyme="A">vi maner og lokker.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#ARNESFOELGE">
                <speaker>
                   <pb n="455"/>ARNES FØLGE</speaker>
                <stage>(højt oppe til højre.)</stage>
@@ -153,7 +171,7 @@
                   <l met="∪-∪∪-" rhyme="b">til dommedags tid!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#FRUGUNHILDSFOELGE">
                <speaker>FRU GUNHILDS FØLGE.</speaker>
                <stage>(nærmere.)</stage>
                <lg type="strofisk-rapsodisk-strofe-folkevisevers" met="bi+ '5 '4 '4 '5 '8 '5"
@@ -167,7 +185,7 @@
                   <l met="∪∪-∪-∪" rhyme="B">og på fjerde dagen?</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#ARNESFOELGE">
                <speaker>ARNES FØLGE</speaker>
                <stage>(nærmere.samtidigt)</stage>
                <lg type="strofisk-rapsodisk-strofe-folkevisevers" met="bi++ '4 '4 '5 '4 '4 '7"
@@ -221,7 +239,7 @@
                   <l part="F" met="-∪∪-∪" rhyme="A">Lidt får vi stoppe.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#FLERE">
                <speaker>FLERE.</speaker>
                <stage>(dæmpet.)</stage>
                <lg part="M">
@@ -238,7 +256,7 @@
                   <l part="I" met="∪-∪-∪">Se, se, der kommer –!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#FLERE">
                <speaker>FLERE</speaker>
                <lg part="M">
                   <l part="F" met="∪-∪∪-∪" rhyme="X">Hvem kommer, hvem kommer?</l>
@@ -250,7 +268,7 @@
                   <l met="∪-∪∪-∪∪∪-∪∪-∪" rhyme="X">Fru Gunhild med alle sine frænder og venner.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#PEJK #PEJKSFOELGE">
                <speaker>
                   <unclear reason="writing">P</unclear>ejk og FØLGET(.)</speaker>
                <lg part="M">
@@ -290,7 +308,7 @@
                   <l part="F" met="-∪∪-∪" rhyme="C">Bent over hejen.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#GUNHILDSKVINDER">
                <speaker>GUNHILDS KVINDER</speaker>
                <lg part="M">
                   <l met="-∪∪-∪∪-∪-∪" rhyme="X">Der, hvor det spøger på lyse dagen;</l>
