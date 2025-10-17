@@ -83,12 +83,16 @@
                <person xml:id="INGEBORG" sex="FEMALE">
                   <persName>Ingeborg</persName>
                </person>
-               <personGrp xml:id="CHORAFALFER">
-                  <name>Chor af Alfer</name>
+               <personGrp xml:id="ALFER">
+                  <name>Alfer</name>
                </personGrp>
             </listPerson>
          </particDesc>
       </profileDesc>
+      <revisionDesc>
+         <change when="2025-10-17" who="#ER">Updated particDesc, who attributes and added
+            revisionDesc</change>
+      </revisionDesc>
    </teiHeader>
    <standOff>
       <listEvent>
@@ -2532,7 +2536,7 @@
             </sp>
             <stage>(Under det Følgende staar Alfhild taus og lytter idet hun yttrer sine Følelser
                efter Sangens Indhold, – Bjørn betragter hende med ængstelig Forundring.)</stage>
-            <sp who="#CHORAFALFER">
+            <sp who="#ALFER">
                <speaker>Chor af Alfer.</speaker>
                <lg type="strofisk-strofegruppe"
                   met="1: (tri- 7 7 11 11) | (tri- 7 7 8 8), 2: bi 4 4 10"
