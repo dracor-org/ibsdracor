@@ -89,9 +89,6 @@
                <person xml:id="ENAFGAESTERNE">
                   <persName>En af gæsterne</persName>
                </person>
-               <personGrp xml:id="MANGE">
-                  <name>Mange</name>
-               </personGrp>
                <person xml:id="ENANDENGAEST">
                   <persName>En anden gæst</persName>
                </person>
@@ -120,7 +117,7 @@
          </particDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-10-17" who="#ER">Added revisionDesc</change>
+         <change when="2025-10-17" who="#ER">Added revisionDesc and updated particDesc</change>
          <change when="2025-10-16" who="#ER">Updated particDesc and who attributes for nondescript
             speakers</change>
          <change when="2025-10-01" who="#ER">Standardised language attributes to da-no</change>
@@ -2870,7 +2867,7 @@
                <speaker>EN AF GÆSTERNE</speaker>
                <p>Ja, lad os nu få en stevkamp!</p>
             </sp>
-            <sp who="#MANGE">
+            <sp who="#GAESTER">
                <speaker>MANGE</speaker>
                <stage>råber</stage>
                <p>Ja, ja, en stevkamp!</p>
