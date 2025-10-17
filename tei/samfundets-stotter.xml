@@ -136,6 +136,10 @@
             </listPerson>
          </particDesc>
       </profileDesc>
+      <revisionDesc>
+         <change when="2025-10-17" who="#ER">Updated particDesc, who attributes and added
+            revisionDesc</change>
+      </revisionDesc>
    </teiHeader>
    <standOff>
       <listEvent>
