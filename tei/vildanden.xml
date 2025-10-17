@@ -38,8 +38,7 @@
                   </licence>
                </availability>
                <bibl type="originalSource">
-                  <author>Henrik Ibsen</author>: <title type="main">Vildanden</title>. <title
-                     type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1884</title>. In: <edition>Henrik
+                  <author>Henrik Ibsen</author>: <title type="main">Vildanden</title>. <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1884</title>. In: <edition>Henrik
                      Ibsens skrifter, bind 8</edition>. 
                   <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
                   <date when="2009">2009</date>
@@ -100,9 +99,21 @@
                <person xml:id="ENNÆRSYNTHERRE" sex="MALE">
                   <persName>En nærsynt herre</persName>
                </person>
+               <person xml:id="ENLEJETJENER">
+                  <persName>En lejetjener</persName>
+               </person>
+               <person xml:id="ENTREDJEHERRE" sex="MALE">
+                  <persName>En tredje herre</persName>
+               </person>
+               <personGrp xml:id="GAESTERNE">
+                  <name>Gæsterne</name>
+               </personGrp>
             </listPerson>
          </particDesc>
       </profileDesc>
+      <revisionDesc>
+         <change when="2025-10-17" who="#ER">Updated particDesc, who attributes and added revisionDesc</change>
+      </revisionDesc>
    </teiHeader>
    <standOff>
       <listEvent>
@@ -117,8 +128,9 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000009"
-            passive="http://www.wikidata.org/entity/Q1217608"/>
+         <relation name="wikidata"
+                   active="https://dracor.org/entity/ibs000009"
+                   passive="http://www.wikidata.org/entity/Q1217608"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">
@@ -248,7 +260,7 @@
                   Højdals-værket. Han har ikke været i byen i alle de år jeg har tjent her i
                   huset.</p>
             </sp>
-            <sp>
+            <sp who="#ENLEJETJENER">
                <speaker>EN LEJETJENER</speaker>
                <stage>i døren til den anden stue</stage>
                <p>De, Pettersen, her er en gammel fyr, som –</p>
@@ -378,7 +390,7 @@
                <speaker>DEN FEDE HERRE</speaker>
                <p>Ja, men bagefter, bagefter, min kære kammerherre!</p>
             </sp>
-            <sp>
+            <sp who="#ENTREDJEHERRE">
                <speaker>
                   <pb n="16"/>EN TREDJE HERRE</speaker>
                <p>Jeg hører, mokkaen og maraschinoen skal kredentses i musiksalen.</p>
@@ -1187,7 +1199,7 @@
                <speaker>FRU SØRBY</speaker>
                <p>Ja nok; lad os det.</p>
             </sp>
-            <sp>
+            <sp who="#GAESTERNE">
                <speaker>GÆSTERNE</speaker>
                <p>Bravo, bravo!</p>
             </sp>
@@ -1887,8 +1899,7 @@
                <speaker>EKDAL</speaker>
                <p>Så? Snak; det er ikke noget. <stage>(sætter stokken fra sig i krogen)</stage> Det
                   blir arbejde for lang tid, dette her, Gina. <stage>(trækker den ene halvdør på
-                     bagvæggen lidt tilside)</stage> Hys! <stage>(kikker en stund ind i rummet <pb
-                        n="55"/>og skyder atter døren forsigtigt for)</stage> He-he! De sover såmænd
+                     bagvæggen lidt tilside)</stage> Hys! <stage>(kikker en stund ind i rummet <pb n="55"/>og skyder atter døren forsigtigt for)</stage> He-he! De sover såmænd
                   alle i hob. Og hun selv har lagt sig i kurven. He-he!</p>
             </sp>
             <sp who="#HEDVIG">
