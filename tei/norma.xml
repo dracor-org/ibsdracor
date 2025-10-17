@@ -40,9 +40,9 @@
                   </licence>
                </availability>
                <bibl type="originalSource">
-                  <author>Henrik Ibsen</author>: <title type="main">Norma</title>. <title
-                     type="sub">Historisk-kritisk utgave, elektronisk versjon</title>. In:
-                     <edition>Henrik Ibsens skrifter, bind 1</edition>. <pubPlace>Oslo</pubPlace>:
+                  <author>Henrik Ibsen</author>: <title type="main">Norma</title>. <title type="sub"
+                     >Historisk-kritisk utgave, elektronisk versjon</title>. In: <edition>Henrik
+                     Ibsens skrifter, bind 1</edition>. <pubPlace>Oslo</pubPlace>:
                      <publisher>Aschehoug</publisher>
                   <date when="2005">2005</date> s. <biblScope unit="page" from="341" to="362"
                      >341-362</biblScope>
@@ -79,6 +79,15 @@
             </listPerson>
          </particDesc>
       </profileDesc>
+      <revisionDesc>
+         <change when="2025-10-16" who="#ER">Updated who attributes for nondescript
+            speakers</change>
+         <change when="2025-10-01" who="#ER">Standardised language attributes to da-no</change>
+         <change when="2025-09-17" who="#ER">Updated permiere date</change>
+         <change when="2025-09-16" who="#ER">Updated originalSource formatting, removed group
+            elements</change>
+         <change when="2025-09-15" who="#ER">Updated titleStmt formatting</change>
+      </revisionDesc>
    </teiHeader>
    <standOff>
       <listEvent>
