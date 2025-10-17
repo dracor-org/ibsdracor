@@ -92,9 +92,6 @@
                <person xml:id="GJAEST2">
                   <persName>En anden af gjæsterne</persName>
                </person>
-               <personGrp xml:id="FLEREGJAESTER">
-                  <name>Flere gjæster</name>
-               </personGrp>
                <person xml:id="PIGEN" sex="FEMALE">
                   <persName>Pigen</persName>
                </person>
@@ -104,8 +101,8 @@
                <person xml:id="HUUSKARL2" sex="MALE">
                   <persName>En huuskarl</persName>
                </person>
-               <person xml:id="KARLEN" sex="MALE">
-                  <persName>Karlen</persName>
+               <person xml:id="ENKARL" sex="MALE">
+                  <persName>En karl</persName>
                </person>
                <personGrp xml:id="ALLE">
                   <name>Alle</name>
@@ -2964,7 +2961,7 @@
                   <speaker>EN AF GJÆSTERNE</speaker>
                   <p>Og nu en Stevkamp!</p>
                </sp>
-               <sp who="#FLEREGJAESTER">
+               <sp who="#GJAESTER">
                   <speaker>FLERE</speaker>
                   <p>Ja, ja!</p>
                </sp>
@@ -2974,7 +2971,7 @@
                         Stemme)</stage> I drages vel til Minde, at Knut Gjæsling er paa Gaarden
                      ikvæld.</p>
                </sp>
-               <sp who="#FLEREGJAESTER">
+               <sp who="#GJAESTER">
                   <speaker>FLERE</speaker>
                   <stage>hviskende imellem hverandre</stage>
                   <p>Ja, ja, det er sandt – I mindes sidst da – Det er bedst at vogte sig.</p>
@@ -3026,7 +3023,7 @@
                      tilsinds. <stage>(høit til Gjæsterne)</stage> Jeg kjender et Kvæde, hvis det
                      lyster Eder, saa –</p>
                </sp>
-               <sp who="#FLEREGJAESTER">
+               <sp who="#GJAESTER">
                   <speaker>FLERE GJÆSTER</speaker>
                   <p>Tak, Tak, Gudmund!</p>
                </sp>
@@ -3790,7 +3787,7 @@
             <div type="scene" n="10">
                <head>Tiende Scene</head>
                <stage>De Forrige. – En Karl (fra Baggrunden).</stage>
-               <sp who="#KARLEN">
+               <sp who="#ENKARL">
                   <speaker>KARLEN</speaker>
                   <p>Kongens Mænd staa udenfor; de søge Gudmund Alfsøn!</p>
                </sp>
