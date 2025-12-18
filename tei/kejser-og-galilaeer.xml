@@ -617,6 +617,13 @@
             </listPerson>
          </particDesc>
       </profileDesc>
+      <revisionDesc>
+         <change when="2025-12-18" who="#ER">Add revisionDesc</change>
+         <change when="2025-10-15" who="#ER">Removed group element for network extraction, added nondistinct speakers to particDesc and updated header levels</change>
+         <change when="2025-10-01" who="#ER">Standardise language attributes</change>
+         <change when="2025-09-17" who="#ER">Update premiere date and titlePage formatting</change>
+         <change when="2025-09-16" who="#ER">Update particDesc persName and sourceDesc formatting</change>
+      </revisionDesc>
    </teiHeader>
    <standOff>
       <listEvent>
