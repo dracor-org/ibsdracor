@@ -40,10 +40,10 @@
                <bibl type="originalSource">
                   <author>Henrik Ibsen</author>: <title type="main">En folkefiende</title>. <title
                      type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1882</title>. In: <edition>Henrik
-                     Ibsens skrifter, bind 7</edition>. 
-                  <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
-                  <date when="2008">2008</date>
-                  <biblScope unit="page" from="327" to="727">327-727</biblScope>
+                     Ibsens skrifter, bind 7</edition>. <pubPlace>Oslo</pubPlace>:
+                     <publisher>Aschehoug</publisher>
+                  <date when="2008">2008</date> s. <biblScope unit="page" from="327" to="727"
+                     >327-727</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -88,17 +88,162 @@
                <person xml:id="ASLAKSEN" sex="MALE">
                   <persName>Aslaksen</persName>
                </person>
+               <person xml:id="BORGER1">
+                  <persName>En borger</persName>
+               </person>
+               <person xml:id="BORGER2">
+                  <persName>En borger</persName>
+               </person>
+               <person xml:id="BORGER3">
+                  <persName>En borger</persName>
+               </person>
+               <person xml:id="BORGER4">
+                  <persName>En borger</persName>
+               </person>
+               <person xml:id="BORGER5">
+                  <persName>En borger</persName>
+               </person>
+               <person xml:id="BORGER6">
+                  <persName>En borger</persName>
+               </person>
+               <person xml:id="MAND1" sex="MALE">
+                  <persName>En mand</persName>
+               </person>
+               <person xml:id="MAND2" sex="MALE">
+                  <persName>En mand</persName>
+               </person>
+               <person xml:id="MAND3" sex="MALE">
+                  <persName>En mand</persName>
+               </person>
+               <person xml:id="MAND4" sex="MALE">
+                  <persName>En mand</persName>
+               </person>
+               <person xml:id="MAND5" sex="MALE">
+                  <persName>En mand</persName>
+               </person>
+               <person xml:id="MAND6" sex="MALE">
+                  <persName>En mand</persName>
+               </person>
+               <person xml:id="ARBEJDER1" sex="MALE">
+                  <persName>En arbejder</persName>
+               </person>
+               <person xml:id="ARBEJDER2" sex="MALE">
+                  <persName>En arbejder</persName>
+               </person>
+               <person xml:id="ARBEJDER3" sex="MALE">
+                  <persName>En arbejder</persName>
+               </person>
+               <personGrp xml:id="NOGLEHERRER" sex="MALE">
+                  <name>Nogle herrer</name>
+               </personGrp>
+               <personGrp xml:id="FLERESTEMMER">
+                  <name>Flere stemmer</name>
+               </personGrp>
+               <personGrp xml:id="TREHERRER" sex="MALE">
+                  <name>Tre herrer</name>
+               </personGrp>
+               <personGrp xml:id="MANGESTEMMER">
+                  <name>Mange stemmer</name>
+               </personGrp>
+               <personGrp xml:id="MANGEROESTER">
+                  <name>Mange røster</name>
+               </personGrp>
+               <person xml:id="ENSTEMME">
+                  <persName>En stemme</persName>
+               </person>
+               <personGrp xml:id="MANGE">
+                  <name>Mange</name>
+               </personGrp>
+               <personGrp xml:id="NOGLESPREDTEROESTER">
+                  <name>Nogle spredte røster</name>
+               </personGrp>
+               <person xml:id="ENDRUKKENMAND" sex="MALE">
+                  <persName>En drukken mand</persName>
+               </person>
+               <personGrp xml:id="ANDRE">
+                  <name>Andre</name>
+               </personGrp>
+               <personGrp xml:id="FORBLOEFFEDEROESTER">
+                  <name>Forbløffede røster</name>
+               </personGrp>
+               <personGrp xml:id="VREDESTEMMER">
+                  <name>Vrede stemmer</name>
+               </personGrp>
+               <person xml:id="NAERSTAAENDE1" sex="MALE">
+                  <persName>En nærstående</persName>
+               </person>
+               <person xml:id="NAERSTAAENDE2" sex="MALE">
+                  <persName>En nærstående</persName>
+               </person>
+               <person xml:id="NAERSTAAENDE3" sex="MALE">
+                  <persName>En nærstående</persName>
+               </person>
+               <personGrp xml:id="RAABFRAALLEKANTER">
+                  <name>Råb fra alle kanter</name>
+               </personGrp>
+               <personGrp xml:id="FORBITTREDESTEMMER">
+                  <name>Forbittrede stemmer</name>
+               </personGrp>
+               <personGrp xml:id="STUDSENDESPOERSMAAL">
+                  <name>Studsende spørsmål</name>
+               </personGrp>
+               <personGrp xml:id="MANGEARBEJDERE" sex="MALE">
+                  <name>Mange arbejdere</name>
+               </personGrp>
+               <person xml:id="HERRE1" sex="MALE">
+                  <persName>En herre</persName>
+               </person>
+               <personGrp xml:id="IVRIGEROESTER">
+                  <name>Ivrige røster</name>
+               </personGrp>
+               <personGrp xml:id="HELEMAENGDEN">
+                  <name>Hele mængden</name>
+               </personGrp>
+               <person xml:id="HERRE2" sex="MALE">
+                  <persName>En herre</persName>
+               </person>
+               <person xml:id="HERRE3" sex="MALE">
+                  <persName>En herre</persName>
+               </person>
+               <person xml:id="HERRE4" sex="MALE">
+                  <persName>En herre</persName>
+               </person>
+               <person xml:id="HERRE5" sex="MALE">
+                  <persName>En herre</persName>
+               </person>
+               <personGrp xml:id="ALLEHERRERNE" sex="MALE">
+                  <name>Alle herrerne</name>
+               </personGrp>
+               <personGrp xml:id="RAAB">
+                  <name>Råb</name>
+               </personGrp>
+               <person xml:id="ENFEDHERRE" sex="MALE">
+                  <persName>En fed herre</persName>
+               </person>
+               <person xml:id="GROSSEREREN" sex="MALE">
+                  <persName>Grossereren</persName>
+               </person>
+               <person xml:id="ENYNGREHERRE" sex="MALE">
+                  <persName>En yngre herre</persName>
+               </person>
+               <person xml:id="ENGROVSTEMME">
+                  <persName>En grov stemme</persName>
+               </person>
+               <personGrp xml:id="OPHIDSENDERAAB">
+                  <name>Ophidsende råb</name>
+               </personGrp>
             </listPerson>
          </particDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-12-18" who="#ER">Add revisionDesc</change>
-         <change when="2025-10-01" who="#ER">Update language attributes</change>
-         <change when="2025-09-17" who="#ER">Clean titlePage</change>
-         <change when="2025-09-16" who="#ER">Update xml:id</change>
-         <change when="2025-09-07" who="#ER">Update sourceDesc</change>
-         <change when="2025-09-03" who="#ER">Correct xml:id with missing #</change>
-         <change when="2025-09-01" who="#ER">Add standOff</change>
+         <change when="2025-10-17" who="#ER">Added revisionDesc</change>
+         <change when="2025-10-16" who="#ER">Updated particDesc and who attributes for nondescript speakers</change>
+         <change when="2025-10-01" who="#ER">Updated language attributes to da-no</change>
+         <change when="2025-09-17" who="#ER">Updated titlePage formatting</change>
+         <change when="2025-09-16" who="#ER">Updated work ID</change>
+         <change when="2025-10-17" who="#ER">Updated originalSource formatting</change>
+         <change when="2025-09-03" who="#ER">Updated who attributes for multiple speakers</change>
+         <change when="2025-09-01" who="#ER">Added standOff data</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -4969,74 +5114,74 @@
             <stage>Stor forsamling af byens borgere af alle stænder. Enkelte kvinder og nogle
                skolegutter ses blandt mængden. Flere og flere mennesker strømmer efterhånden ind fra
                baggrunden, så at salen fyldes.</stage>
-            <sp>
+            <sp who="#BORGER1">
                <speaker>EN BORGER</speaker>
                <stage>til en anden, som han støder på</stage>
                <p>Er du også her ikveld, Lamstad?</p>
             </sp>
-            <sp>
+            <sp who="#BORGER2">
                <speaker>DEN TILTALTE</speaker>
                <p>Jeg er med ved alle folkemøder, jeg.</p>
             </sp>
-            <sp>
+            <sp who="#BORGER3">
                <speaker>EN HOSSTÅENDE</speaker>
                <p>De har da vel ta’t pibe med, ved jeg?</p>
             </sp>
-            <sp>
+            <sp who="#BORGER2">
                <speaker>DEN ANDEN BORGER</speaker>
                <p>Jagu’ har jeg da det. Har ikke De?</p>
             </sp>
-            <sp>
+            <sp who="#BORGER3">
                <speaker>DEN TREDJE</speaker>
                <p>Jo da. Og skipper Evensen vilde ta’ med sig en svær diger lur, sa’ han.</p>
             </sp>
-            <sp>
+            <sp who="#BORGER2">
                <speaker>
                   <pb n="580"/>DEN ANDEN BORGER</speaker>
                <p>Han er god, Evensen.</p>
             </sp>
             <stage>Latter i klyngen.</stage>
-            <sp>
+            <sp who="#BORGER4">
                <speaker>EN FJERDE BORGER</speaker>
                <stage>kommer til</stage>
                <p>Hør, sig mig, hvad er det for noget, som skal gå for sig her ikveld?</p>
             </sp>
-            <sp>
+            <sp who="#BORGER2">
                <speaker>DEN ANDEN BORGER</speaker>
                <p>Det er jo doktor Stockmann, som vil holde et foredrag imod byfogden.</p>
             </sp>
-            <sp>
+            <sp who="#BORGER4">
                <speaker>DEN NYKOMNE</speaker>
                <p>Men byfogden er jo hans bror.</p>
             </sp>
-            <sp>
+            <sp who="#BORGER1">
                <speaker>DEN FØRSTE BORGER</speaker>
                <p>Det er det samme; doktor Stockmann er ikke ræd, han.</p>
             </sp>
-            <sp>
+            <sp who="#BORGER3">
                <speaker>DEN TREDJE BORGER</speaker>
                <p>Men han har jo uret; det stod i «Folkebudet».</p>
             </sp>
-            <sp>
+            <sp who="#BORGER2">
                <speaker>DEN ANDEN BORGER</speaker>
                <p>Ja, han må visst ha’ uret dennegang; for de vilde ikke låne ham sal hverken i
                   husejerforeningen eller i borgerklubben.</p>
             </sp>
-            <sp>
+            <sp who="#BORGER1">
                <speaker>DEN FØRSTE BORGER</speaker>
                <p>Ikke engang badesalen kunde han få overladt.</p>
             </sp>
-            <sp>
+            <sp who="#BORGER2">
                <speaker>DEN ANDEN</speaker>
                <p>Nej, det kan du vel vide.</p>
             </sp>
-            <sp>
+            <sp who="#MAND1">
                <speaker>
                   <pb n="582"/>EN MAND</speaker>
                <stage>i en anden klynge</stage>
                <p>Hvem skal en nu holde med i denne her sagen, De?</p>
             </sp>
-            <sp>
+            <sp who="#MAND2">
                <speaker>EN ANDEN MAND</speaker>
                <stage>sammesteds</stage>
                <p>Bare pas på bogtrykker Aslaksen, og gør, som <emph>han</emph> gør.</p>
@@ -5048,11 +5193,11 @@
                   «Folkebudet». Tusend tak!</p>
             </sp>
             <stage>Han sætter sig ved bordet tilvenstre.</stage>
-            <sp>
+            <sp who="#ARBEJDER1">
                <speaker>EN ARBEJDER</speaker>
                <p>Hvem var han der?</p>
             </sp>
-            <sp>
+            <sp who="#ARBEJDER2">
                <speaker>EN ANDEN ARBEJDER</speaker>
                <p>Kender du ikke <emph>han</emph> da? Det er jo den Billingen, som går for Aslaksens
                   avis.</p>
@@ -5144,7 +5289,7 @@
                <speaker>DOKTOR STOCKMANN</speaker>
                <p>Nej; det er sletikke nødvendigt.</p>
             </sp>
-            <sp>
+            <sp who="#NOGLEHERRER">
                <speaker>NOGLE HERRER</speaker>
                <stage>råber</stage>
                <p>Jo, jo!</p>
@@ -5163,7 +5308,7 @@
                <p>Badelægens foredrag turde muligens gi’ anledning til divergerende
                   opinionsytringer.</p>
             </sp>
-            <sp>
+            <sp who="#FLERESTEMMER">
                <speaker>FLERE STEMMER</speaker>
                <stage>fra mængden</stage>
                <p>En ordstyrer! En dirigent!</p>
@@ -5181,7 +5326,7 @@
                <speaker>ASLAKSEN</speaker>
                <p>Skulde ikke herr byfogden ville påtage sig det hverv?</p>
             </sp>
-            <sp>
+            <sp who="#TREHERRER">
                <speaker>TRE HERRER</speaker>
                <stage>klapper</stage>
                <p>Bravo! Bravo!</p>
@@ -5192,7 +5337,7 @@
                   midte en mand, som jeg tror alle kan akceptere. Jeg sigter til formanden i
                   husejerforeningen, herr bogtrykker Aslaksen.</p>
             </sp>
-            <sp>
+            <sp who="#MANGESTEMMER">
                <speaker>MANGE STEMMER</speaker>
                <p>Ja, ja! Aslaksen leve! Hurra for Aslaksen!</p>
             </sp>
@@ -5214,7 +5359,7 @@
                   ord. Jeg er en stilfærdig og fredsommelig mand, som holder på besindig moderation
                   og på – og på moderat besindighed; det ved hver og en, som kender mig.</p>
             </sp>
-            <sp>
+            <sp who="#MANGEROESTER">
                <speaker>MANGE RØSTER</speaker>
                <p>Ja! Ja da, Aslaksen!</p>
             </sp>
@@ -5233,17 +5378,17 @@
                   skulde derfor henstille til den agtede medborger, som har kaldt mødet sammen, at
                   han beflitter sig på at holde sig indenfor mådeholdets grænser.</p>
             </sp>
-            <sp>
+            <sp who="#MAND3">
                <speaker>
                   <pb n="592"/>EN MAND</speaker>
                <stage>oppe ved døren</stage>
                <p>Mådeholdsforeningens skål!</p>
             </sp>
-            <sp>
+            <sp who="#ENSTEMME">
                <speaker>EN STEMME</speaker>
                <p>Fy for fan’ da!</p>
             </sp>
-            <sp>
+            <sp who="#MANGE">
                <speaker>MANGE</speaker>
                <p>Hys, hys!</p>
             </sp>
@@ -5269,7 +5414,7 @@
                   overdrevne fremstillinger af badets og byens sanitære forholde spredes ud i videre
                   kredse.</p>
             </sp>
-            <sp>
+            <sp who="#MANGESTEMMER">
                <speaker>MANGE STEMMER</speaker>
                <p>Nej, nej, nej! Ikke det! Vi protesterer!</p>
             </sp>
@@ -5348,7 +5493,7 @@
                   fåt ligesom et stiltiende mandat til ihærdigt og ufortrødent <pb n="598"/>at
                   fremme sine meningsfællers velfærd? Eller skulde jeg kanske ta’ fejl i dette?</p>
             </sp>
-            <sp>
+            <sp who="#MANGESTEMMER">
                <speaker>MANGE STEMMER</speaker>
                <p>Nej, nej, nej! Redaktør Hovstad har ret!</p>
             </sp>
@@ -5359,7 +5504,7 @@
                   ved sine medborgeres udelte velvilje, – en mand, hvis eneste – eller ialfald
                   væsentligste fejl er, at han mere spør’ sit hjerte end sit hode tilråds.</p>
             </sp>
-            <sp>
+            <sp who="#NOGLESPREDTEROESTER">
                <speaker>NOGLE SPREDTE RØSTER</speaker>
                <p>Det er sandt! Hurra for doktor Stockmann!</p>
             </sp>
@@ -5400,17 +5545,17 @@
                <stage>halvhøjt</stage>
                <p>Hvad er nu det for noget igen?</p>
             </sp>
-            <sp>
+            <sp who="#ENDRUKKENMAND">
                <speaker>EN DRUKKEN MAND</speaker>
                <stage>oppe ved udgangsdøren</stage>
                <p>Jeg er skatteberettiget! Og derfor så er jeg meningsberettiget også! Og jeg har
                   den fulde – faste – ubegribelige mening, at –</p>
             </sp>
-            <sp>
+            <sp who="#FLERESTEMMER">
                <speaker>FLERE STEMMER</speaker>
                <p>Vær stille derborte!</p>
             </sp>
-            <sp>
+            <sp who="#ANDRE">
                <speaker>ANDRE</speaker>
                <p>Han er drukken! Kast ham ud!</p>
             </sp>
@@ -5452,7 +5597,7 @@
                   vandledning er forgiftet og at vort sundhedsbad ligger på en pestsvanger
                   grund.</p>
             </sp>
-            <sp>
+            <sp who="#MANGESTEMMER">
                <speaker>MANGE STEMMER</speaker>
                <stage>skrigende</stage>
                <p>Ikke tal om badet! Vi vil ikke høre det. Ingenting om det.</p>
@@ -5463,7 +5608,7 @@
                   dage, – den opdagelse, at alle vore åndelige livskilder er forgiftede og at hele
                   vort borgersamfund hviler på løgnens pestsvangre grund.</p>
             </sp>
-            <sp>
+            <sp who="#FORBLOEFFEDEROESTER">
                <speaker>
                   <pb n="604"/>FORBLØFFEDE RØSTER</speaker>
                <stage>halvhøjt</stage>
@@ -5566,13 +5711,13 @@
             </sp>
             <stage>Latter, larm og piber. Fru Stockmann sidder og hoster.</stage>
             <stage>Aslaksen ringer voldsomt.</stage>
-            <sp>
+            <sp who="#ENDRUKKENMAND">
                <speaker>DEN DRUKNE MAND</speaker>
                <stage>som er kommen ind igen</stage>
                <p>Er det mig De sigter til? Ja, for rigtignok heder jeg Pettersen; men nej så fan’
                   hente mig –</p>
             </sp>
-            <sp>
+            <sp who="#VREDESTEMMER">
                <speaker>
                   <pb n="610"/>VREDE STEMMER</speaker>
                <p>Ud med den drukne mand! På døren med ham!</p>
@@ -5582,15 +5727,15 @@
                <speaker>BYFOGDEN</speaker>
                <p>Hvem var den person?</p>
             </sp>
-            <sp>
+            <sp who="#NAERSTAAENDE1">
                <speaker>EN NÆRSTÅENDE</speaker>
                <p>Kendte ham ikke, herr byfogd.</p>
             </sp>
-            <sp>
+            <sp who="#NAERSTAAENDE2">
                <speaker>EN ANDEN</speaker>
                <p>Han er ikke her fra byen.</p>
             </sp>
-            <sp>
+            <sp who="#NAERSTAAENDE3">
                <speaker>EN TREDJE</speaker>
                <p>Det skal nok være en lasthandler borte fra – <stage>(resten uhørligt)</stage>
                </p>
@@ -5614,7 +5759,7 @@
                   <emph>dem</emph>, som er sandhedens og frihedens farligste fiender i vort
                   samfund.</p>
             </sp>
-            <sp>
+            <sp who="#RAABFRAALLEKANTER">
                <speaker>RÅB FRA ALLE KANTER</speaker>
                <p>Hvem da? Hvem er det? Nævn dem!</p>
             </sp>
@@ -5772,20 +5917,20 @@
                <stage>samtidigt, råber</stage>
                <p>Borgere, læg mærke til dette her!</p>
             </sp>
-            <sp>
+            <sp who="#FORBITTREDESTEMMER">
                <speaker>FORBITTREDE STEMMER</speaker>
                <p>Hoho, er ikke vi folket? Er det bare de fornemme, som skal styre!</p>
             </sp>
-            <sp>
+            <sp who="#ARBEJDER3">
                <speaker>EN ARBEJDER</speaker>
                <p>Ud med den manden, som står og snakker så!</p>
             </sp>
-            <sp>
+            <sp who="#ANDRE">
                <speaker>
                   <pb n="622"/>ANDRE</speaker>
                <p>Hiv ham på porten!</p>
             </sp>
-            <sp>
+            <sp who="#BORGER5">
                <speaker>EN BORGER</speaker>
                <stage>skriger</stage>
                <p>Tud i luren, Evensen!</p>
@@ -5800,7 +5945,7 @@
                   Hovstad vilde gi’ mig ret, når han bare fik summet sig lidt. Herr Hovstad gør jo
                   fordring på at være fritænker –</p>
             </sp>
-            <sp>
+            <sp who="#STUDSENDESPOERSMAAL">
                <speaker>STUDSENDE SPØRSMÅL</speaker>
                <stage>dæmpet</stage>
                <p>Fritænker, sa’ han? Hvad? Er redaktør Hovstad fritænker?</p>
@@ -5843,12 +5988,12 @@
                   sit hode.</p>
             </sp>
             <stage>Larm og løjer høres rundt omkring.</stage>
-            <sp>
+            <sp who="#BORGER6">
                <speaker>EN BORGER</speaker>
                <stage>råber</stage>
                <p>Vil De nu gøre os til hunde også?</p>
             </sp>
-            <sp>
+            <sp who="#MAND4">
                <speaker>EN ANDEN MAND</speaker>
                <p>Vi er ikke dyr, herr doktor!</p>
             </sp>
@@ -5878,7 +6023,7 @@
                <p>Jeg gør ikke fordring på nogen slags fornemhed. Jeg stammer fra simple bønder; og
                   jeg er stolt af, at jeg har min rod dybt nede i den almue, som her forhånes.</p>
             </sp>
-            <sp>
+            <sp who="#MANGEARBEJDERE">
                <speaker>MANGE ARBEJDERE</speaker>
                <p>Hurra for Hovstad! Hurra, hurra!</p>
             </sp>
@@ -5955,11 +6100,11 @@
                <speaker>ASLAKSEN</speaker>
                <p>En så grov beskyldning må ikke udslynges mod et helt borgersamfund.</p>
             </sp>
-            <sp>
+            <sp who="#HERRE1">
                <speaker>EN HERRE</speaker>
                <p>Jeg henstiller til dirigenten at ta’ ordet fra taleren.</p>
             </sp>
-            <sp>
+            <sp who="#IVRIGEROESTER">
                <speaker>IVRIGE RØSTER</speaker>
                <p>Ja, ja! Det er rigtigt! Ta’ ordet fra ham!</p>
             </sp>
@@ -5999,7 +6144,7 @@
                   lægges øde. Og kommer det <emph>så</emph> vidt, da siger jeg af mit fulde inderste
                   hjerte: lad hele landet lægges øde; lad hele dette folk udryddes!</p>
             </sp>
-            <sp>
+            <sp who="#MAND5">
                <speaker>EN MAND</speaker>
                <stage>i mængden</stage>
                <p>Det er at snakke som en ren folkefiende!</p>
@@ -6008,7 +6153,7 @@
                <speaker>BILLING</speaker>
                <p>Der lød, gud døde mig, folkets røst!</p>
             </sp>
-            <sp>
+            <sp who="#HELEMAENGDEN">
                <speaker>HELE MÆNGDEN</speaker>
                <stage>skriger</stage>
                <p>Ja, ja, ja! Han er en folkefiende! Han hader sit land! Han hader hele folket!</p>
@@ -6050,7 +6195,7 @@
             </sp>
             <stage>Byfogden forlader salen. Aslaksen og et par andre borgere går med papirstykkerne
                i hatte omkring i forsamlingen.</stage>
-            <sp>
+            <sp who="#HERRE2">
                <speaker>EN HERRE</speaker>
                <stage>til Hovstad</stage>
                <p>Hvorledes er det fat med doktoren, De? Hvad skal en tænke om sligt?</p>
@@ -6060,7 +6205,7 @@
                   <pb n="639"/>HOVSTAD</speaker>
                <p>De ved jo, hvor fremfusende han er.</p>
             </sp>
-            <sp>
+            <sp who="#HERRE3">
                <speaker>EN ANDEN HERRE</speaker>
                <stage>til Billing</stage>
                <p>Hør; De vanker jo der i huset. Har De mærket om manden drikker?</p>
@@ -6070,11 +6215,11 @@
                <p>Jeg ved, gud døde mig, ikke hvad jeg skal sige. Toddyen er altid på bordet, når
                   der kommer nogen.</p>
             </sp>
-            <sp>
+            <sp who="#HERRE4">
                <speaker>EN TREDJE HERRE</speaker>
                <p>Nej, jeg tror heller, han er forrykt iblandt.</p>
             </sp>
-            <sp>
+            <sp who="#HERRE2">
                <speaker>DEN FØRSTE HERRE</speaker>
                <p>Ja, mon der ikke er nogen arvelig galskab i familjen?</p>
             </sp>
@@ -6082,7 +6227,7 @@
                <speaker>BILLING</speaker>
                <p>Det kan s’gu gerne være, det.</p>
             </sp>
-            <sp>
+            <sp who="#HERRE5">
                <speaker>EN FJERDE HERRE</speaker>
                <p>Nej, det er bare pure ondskaben, er det; det er hævn over et eller andet.</p>
             </sp>
@@ -6090,17 +6235,17 @@
                <speaker>BILLING</speaker>
                <p>Han talte rigtignok en af dagene om gagetillæg; men det fik han da ikke.</p>
             </sp>
-            <sp>
+            <sp who="#ALLEHERRERNE">
                <speaker>ALLE HERRERNE</speaker>
                <stage>istemmer</stage>
                <p>Aha; da er det jo let at forstå!</p>
             </sp>
-            <sp>
+            <sp who="#ENDRUKKENMAND">
                <speaker>DEN DRUKNE MAND</speaker>
                <stage>inde i mængden</stage>
                <p>Jeg vil ha’ en blå en, jeg! Og så vil jeg ha’ en hvid en også!</p>
             </sp>
-            <sp>
+            <sp who="#RAAB">
                <speaker>
                   <pb n="641"/>RÅB</speaker>
                <p>Der er den drukne mand igen! Ud med ham!</p>
@@ -6143,7 +6288,7 @@
                <p>Det kan bli’ Dem dyrt, det, Stockmann.</p>
             </sp>
             <stage>Han går.</stage>
-            <sp>
+            <sp who="#ENFEDHERRE">
                <speaker>
                   <pb n="643"/>EN FED HERRE</speaker>
                <stage>går hen til Horster, hilser ikke på damerne</stage>
@@ -6153,7 +6298,7 @@
                <speaker>HORSTER</speaker>
                <p>Jeg tænker, jeg kan gøre med min ejendom, hvad jeg vil, herr grosserer.</p>
             </sp>
-            <sp>
+            <sp who="#GROSSEREREN">
                <speaker>GROSSEREREN</speaker>
                <p>Så har De vel ikke noget imod, at jeg gør det samme med min.</p>
             </sp>
@@ -6161,7 +6306,7 @@
                <speaker>HORSTER</speaker>
                <p>Hvad mener grossereren?</p>
             </sp>
-            <sp>
+            <sp who="#GROSSEREREN">
                <speaker>GROSSEREREN</speaker>
                <p>Imorgen skal De høre fra mig.</p>
             </sp>
@@ -6179,7 +6324,7 @@
                <stage>med stemmesedlerne i hånden, stiger op på forhøjningen og ringer</stage>
                <p>Mine herrer, må jeg gøre Dem bekendt med udfaldet. Med alle stemmer imod én –</p>
             </sp>
-            <sp>
+            <sp who="#ENYNGREHERRE">
                <speaker>EN YNGRE HERRE</speaker>
                <p>Den ene er den drukne mands!</p>
             </sp>
@@ -6197,7 +6342,7 @@
                <speaker>BILLING</speaker>
                <p>Leve dirigenten!</p>
             </sp>
-            <sp>
+            <sp who="#HELEMAENGDEN">
                <speaker>HELE MÆNGDEN</speaker>
                <p>Hurra for bogtrykker Aslaksen!</p>
             </sp>
@@ -6237,22 +6382,22 @@
                <speaker>BILLING</speaker>
                <p>Det er, gud dø – –. Sligt er drøjt at høre på for en alvorlig mand.</p>
             </sp>
-            <sp>
+            <sp who="#ENGROVSTEMME">
                <speaker>EN GROV STEMME</speaker>
                <p>Og så truer han også!</p>
             </sp>
-            <sp>
+            <sp who="#OPHIDSENDERAAB">
                <speaker>OPHIDSENDE RÅB</speaker>
                <p>Lad os slå ruderne ind hos ham! Dyp ham i fjorden!</p>
             </sp>
-            <sp>
+            <sp who="#MAND6">
                <speaker>EN MAND</speaker>
                <stage>i mængden</stage>
                <p>Blæs i luren, Evensen! Tud, tud!</p>
             </sp>
             <stage>Lurtoner, piber og vilde skrig. Doktoren går med sine mod udgangen. Horster baner
                vej for dem.</stage>
-            <sp>
+            <sp who="#HELEMAENGDEN">
                <speaker>HELE MÆNGDEN</speaker>
                <stage>hyler efter de bortgående</stage>
                <p>Folkefiende! Folkefiende! Folkefiende!</p>
