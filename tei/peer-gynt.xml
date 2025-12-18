@@ -39,12 +39,12 @@
                   </licence>
                </availability>
                <bibl type="originalSource">
-                  <author>Henrik Ibsen</author> : <title type="main">Peer Gynt</title>. <title
+                  <author>Henrik Ibsen</author>: <title type="main">Peer Gynt</title>. <title
                      type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1867</title>. In: <edition>Henrik
-                     Ibsens skrifter, bind 5</edition>. 
-                  <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
-                  <date when="2007">2007</date>
-                  <biblScope unit="page" from="475" to="746">475-746</biblScope>
+                     Ibsens skrifter, bind 5</edition>. <pubPlace>Oslo</pubPlace>:
+                     <publisher>Aschehoug</publisher>
+                  <date when="2007">2007</date> s. <biblScope unit="page" from="475" to="746"
+                     >475-746</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -138,7 +138,7 @@
                   <persName>Lensmanden</persName>
                </person>
                <person xml:id="KNAPPESTOEBER" sex="MALE">
-                  <persName>En Knappestøber</persName>
+                  <persName>En knappestøber</persName>
                </person>
                <person xml:id="MAGERPERSON" sex="MALE">
                   <persName>En mager person</persName>
@@ -191,9 +191,248 @@
                <personGrp xml:id="BRUDGFORELDRE">
                   <name>Brudgommens foreldre</name>
                </personGrp>
+               <person xml:id="KJAERRING1" sex="FEMALE">
+                  <persName>Første kjærring</persName>
+               </person>
+               <person xml:id="KJAERRING2" sex="FEMALE">
+                  <persName>Anden kjærring</persName>
+               </person>
+               <person xml:id="ENMANDSSTEMME" sex="MALE">
+                  <persName>En mandsstemme</persName>
+               </person>
+               <person xml:id="MAND1" sex="MALE">
+                  <persName>En mand</persName>
+               </person>
+               <person xml:id="MAND2" sex="MALE">
+                  <persName>En mand</persName>
+               </person>
+               <person xml:id="MAND3" sex="MALE">
+                  <persName>En mand</persName>
+               </person>
+               <person xml:id="MAND4" sex="MALE">
+                  <persName>En mand</persName>
+               </person>
+               <person xml:id="MAND5" sex="MALE">
+                  <persName>En mand</persName>
+               </person>
+               <person xml:id="MAND6" sex="MALE">
+                  <persName>En mand</persName>
+               </person>
+               <person xml:id="MAND7" sex="MALE">
+                  <persName>En mand</persName>
+               </person>
+               <person xml:id="MAND8" sex="MALE">
+                  <persName>En mand</persName>
+               </person>
+               <person xml:id="ENKONE" sex="FEMALE">
+                  <persName>En kone</persName>
+               </person>
+               <person xml:id="GUT1" sex="MALE">
+                  <persName>En gut</persName>
+               </person>
+               <person xml:id="GUT2" sex="MALE">
+                  <persName>En gut</persName>
+               </person>
+               <person xml:id="GUT3" sex="MALE">
+                  <persName>En gut</persName>
+               </person>
+               <person xml:id="GUT4" sex="MALE">
+                  <persName>En gut</persName>
+               </person>
+               <person xml:id="GUT5" sex="MALE">
+                  <persName>En gut</persName>
+               </person>
+               <person xml:id="GUT6" sex="MALE">
+                  <persName>En gut</persName>
+               </person>
+               <person xml:id="GUT7" sex="MALE">
+                  <persName>En gut</persName>
+               </person>
+               <person xml:id="GUT8" sex="MALE">
+                  <persName>En gut</persName>
+               </person>
+               <person xml:id="GUT9" sex="MALE">
+                  <persName>En gut</persName>
+               </person>
+               <person xml:id="GUT10" sex="MALE">
+                  <persName>En gut</persName>
+               </person>
+               <person xml:id="GUT11" sex="MALE">
+                  <persName>En gut</persName>
+               </person>
+               <person xml:id="GUT12" sex="MALE">
+                  <persName>En gut</persName>
+               </person>
+               <person xml:id="GUT13" sex="MALE">
+                  <persName>En gut</persName>
+               </person>
+               <person xml:id="GUT14" sex="MALE">
+                  <persName>En gut</persName>
+               </person>
+               <person xml:id="GUT15" sex="MALE">
+                  <persName>En gut</persName>
+               </person>
+               <person xml:id="GUT16" sex="MALE">
+                  <persName>En gut</persName>
+               </person>
+               <person xml:id="GUT17" sex="MALE">
+                  <persName>En gut</persName>
+               </person>
+               <person xml:id="GUT18" sex="MALE">
+                  <persName>En gut</persName>
+               </person>
+               <person xml:id="GUT19" sex="MALE">
+                  <persName>En gut</persName>
+               </person>
+               <person xml:id="GUT20" sex="MALE">
+                  <persName>En gut</persName>
+               </person>
+               <personGrp xml:id="JENTER" sex="FEMALE">
+                  <name>Jenter</name>
+               </personGrp>
+               <person xml:id="JENTE1" sex="FEMALE">
+                  <persName>En jente</persName>
+               </person>
+               <person xml:id="JENTE2" sex="FEMALE">
+                  <persName>En jente</persName>
+               </person>
+               <person xml:id="JENTE3" sex="FEMALE">
+                  <persName>En jente</persName>
+               </person>
+               <person xml:id="JENTE4" sex="FEMALE">
+                  <persName>En jente</persName>
+               </person>
+               <person xml:id="JENTE5" sex="FEMALE">
+                  <persName>En jente</persName>
+               </person>
+               <person xml:id="JENTE6" sex="FEMALE">
+                  <persName>En jente</persName>
+               </person>
+               <person xml:id="JENTE7" sex="FEMALE">
+                  <persName>En jente</persName>
+               </person>
+               <person xml:id="JENTE8" sex="FEMALE">
+                  <persName>En jente</persName>
+               </person>
+               <person xml:id="JENTE9" sex="FEMALE">
+                  <persName>En jente</persName>
+               </person>
+               <person xml:id="JENTE10" sex="FEMALE">
+                  <persName>En jente</persName>
+               </person>
+               <person xml:id="MANDEN" sex="MALE">
+                  <persName>Manden</persName>
+               </person>
+               <personGrp xml:id="FLERE">
+                  <name>Flere</name>
+               </personGrp>
+               <personGrp xml:id="ANDRE">
+                  <name>Andre</name>
+               </personGrp>
+               <person xml:id="ENIFLOKKEN">
+                  <persName>En i flokken</persName>
+               </person>
+               <person xml:id="ENSTEMMEFRAFLOKKEN">
+                  <persName>En stemme fra flokken</persName>
+               </person>
+               <personGrp xml:id="NOGLE">
+                  <name>Nogle</name>
+               </personGrp>
+               <personGrp xml:id="MANGE">
+                  <name>Mange</name>
+               </personGrp>
+               <person xml:id="AELDREMAND1" sex="MALE">
+                  <persName>En ældre mand</persName>
+               </person>
+               <person xml:id="AELDREMAND2" sex="MALE">
+                  <persName>En ældre mand</persName>
+               </person>
+               <person xml:id="AELDREMAND3" sex="MALE">
+                  <persName>En ældre mand</persName>
+               </person>
+               <person xml:id="AELDREMAND4" sex="MALE">
+                  <persName>En ældre mand</persName>
+               </person>
+               <personGrp xml:id="MAENGDEN">
+                  <name>Mængden</name>
+               </personGrp>
+               <person xml:id="ENSLAVE">
+                  <persName>En slave</persName>
+               </person>
+               <person xml:id="ENANDENSLAVE">
+                  <persName>En anden slave</persName>
+               </person>
+               <person xml:id="OPPSYNSMAND" sex="MALE">
+                  <persName>Oppsynsmand</persName>
+               </person>
+               <person xml:id="SCHAFMANN" sex="MALE">
+                  <persName>Schafmann</persName>
+               </person>
+               <person xml:id="VAGTEN" sex="MALE">
+                  <persName>Vagten</persName>
+               </person>
+               <person xml:id="STYRMANDEN" sex="MALE">
+                  <persName>Styrmanden</persName>
+               </person>
+               <person xml:id="BAADSMANDEN" sex="MALE">
+                  <persName>Baadsmanden</persName>
+               </person>
+               <person xml:id="KOKKEN" sex="MALE">
+                  <persName>Kokken</persName>
+               </person>
+               <person xml:id="JUNGMANDEN" sex="MALE">
+                  <persName>Jungnmanden</persName>
+               </person>
+               <person xml:id="TYVEAARIG1">
+                  <persName>En tyveaarig</persName>
+               </person>
+               <person xml:id="TYVEAARIG2">
+                  <persName>En tyveaarig</persName>
+               </person>
+               <person xml:id="TYVEAARIG3">
+                  <persName>En tyveaarig</persName>
+               </person>
+               <person xml:id="DENGRAAKLAEDTE" sex="MALE">
+                  <persName>Den graaklædte</persName>
+               </person>
+               <person xml:id="ENIHOBEN">
+                  <persName>En i hoben</persName>
+               </person>
+               <personGrp xml:id="STEMMER">
+                  <name>Stemmer</name>
+               </personGrp>
+               <person xml:id="ENALDRENDE">
+                  <persName>En aldrende</persName>
+               </person>
+               <personGrp xml:id="NOESTERNE">
+                  <name>Nøsterne</name>
+               </personGrp>
+               <personGrp xml:id="VISSNEBLADE">
+                  <name>Vissne blade</name>
+               </personGrp>
+               <person xml:id="SUSNINGILUFTEN">
+                  <persName>Susning i luften</persName>
+               </person>
+               <personGrp xml:id="DUGGDRAABER">
+                  <name>Duggdraaber</name>
+               </personGrp>
+               <personGrp xml:id="BRAEKKEDESTRAA">
+                  <name>Brækkede straa</name>
+               </personGrp>
+               <personGrp xml:id="KIRKEFOLK">
+                  <name>Kirkefolk</name>
+               </personGrp>
             </listPerson>
          </particDesc>
       </profileDesc>
+      <revisionDesc>
+         <change when="2025-10-17" who="#ER">Added revisionDesc</change>
+         <change when="2025-10-16" who="#ER">Updated particDesc and who attributes for nondescript
+            speakers</change>
+         <change when="2025-10-01" who="#ER">Standardised language attributes to da-no</change>
+         <change when="2025-09-17" who="#ER">Updated titlePage formatting and premiere date</change>
+         <change when="2025-09-16" who="#ER">Updated particDesc formatting</change>
+      </revisionDesc>
    </teiHeader>
    <standOff>
       <listEvent>
@@ -1453,7 +1692,7 @@
                   <l part="F" rhyme="U''''''">Hjælp! Jeg svimler!</l>
                </lg>
             </sp>
-            <sp who="#KJAERRING1-2">
+            <sp who="#KJAERRING1">
                <speaker>FØRSTE KJÆRRING</speaker>
                <lg part="M">
                   <l part="I">Kors; hvem skriger?</l>
@@ -1465,7 +1704,7 @@
                   <l part="F" rhyme="t''''''">Det er mig!</l>
                </lg>
             </sp>
-            <sp who="#KJAERRING1-2">
+            <sp who="#KJAERRING2">
                <speaker>ANDEN KJÆRRING</speaker>
                <lg part="M">
                   <l rhyme="v''''''">Aase! Se, – saa højt paa Straa?</l>
@@ -1478,7 +1717,7 @@
                   <l rhyme="U''''''">snart, Gud bedre mig, jeg himler!</l>
                </lg>
             </sp>
-            <sp who="#KJAERRING1-2">
+            <sp who="#KJAERRING1">
                <speaker>FØRSTE KJÆRRING</speaker>
                <lg part="M">
                   <l part="I">Signe Rejsen!</l>
@@ -1491,7 +1730,7 @@
                   <l rhyme="y''''''">jeg vil ned! Den Fandens Peer –!</l>
                </lg>
             </sp>
-            <sp who="#KJAERRING1-2">
+            <sp who="#KJAERRING2">
                <speaker>ANDEN KJÆRRING</speaker>
                <lg part="M">
                   <l part="I">Sønnen jers?</l>
@@ -1504,7 +1743,7 @@
                   <l rhyme="y''''''">I har set, hvor han sig ter.</l>
                </lg>
             </sp>
-            <sp who="#KJAERRING1-2">
+            <sp who="#KJAERRING1">
                <speaker>
                   <pb n="502"/>FØRSTE KJÆRRING</speaker>
                <lg part="M">
@@ -1518,13 +1757,13 @@
                   <l rhyme="Z''''''">jeg vil bent till Hæggstad fare –</l>
                </lg>
             </sp>
-            <sp who="#KJAERRING1-2">
+            <sp who="#KJAERRING2">
                <speaker>ANDEN KJÆRRING</speaker>
                <lg part="M">
                   <l part="I">Er han der?</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#KJAERRING1">
                <speaker>FØRSTE KJÆRRING</speaker>
                <lg part="M">
                   <l part="F" rhyme="A'''''''">Saa blir I hævnet;</l>
@@ -1539,14 +1778,14 @@
                   <l rhyme="B'''''''">de taer Livet hans till Slutten!</l>
                </lg>
             </sp>
-            <sp who="#KJAERRING1-2">
+            <sp who="#KJAERRING1">
                <speaker>FØRSTE KJÆRRING</speaker>
                <lg part="M">
                   <l rhyme="C'''''''">Ak, den Lod er tidtnok drøftet;</l>
                   <l rhyme="D'''''''">trøst jer med, det saa er laget!</l>
                </lg>
             </sp>
-            <sp who="#KJAERRING1-2">
+            <sp who="#KJAERRING2">
                <speaker>ANDEN KJÆRRING</speaker>
                <lg part="M">
                   <l rhyme="e'''''''">Hun er rent fra Sans og Vid.</l>
@@ -1554,13 +1793,13 @@
                   <l rhyme="e'''''''">Ejvind, Anders! Hej, kom hid!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#ENMANDSSTEMME">
                <speaker>EN MANDSSTEMME</speaker>
                <lg part="M">
                   <l part="I">Hvad er fatt?</l>
                </lg>
             </sp>
-            <sp who="#KJAERRING1-2">
+            <sp who="#KJAERRING2">
                <speaker>ANDEN KJÆRRING</speaker>
                <lg part="F">
                   <l part="F" rhyme="C'''''''">Peer Gynt har løftet</l>
@@ -1596,14 +1835,14 @@
                   Buskene. Nogle Folk med Sendingskost gaar forbi nedover mod
                   Bryllupsgaarden)</stage>
             </sp>
-            <sp>
+            <sp who="#MAND1">
                <speaker>EN MAND</speaker>
                <stage>i Samtalen</stage>
                <lg part="M">
                   <l met="-∪∪∪-∪∪-∪∪-" rhyme="f">Faer hans var fordrukken, og Moer hans er laak.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#ENKONE">
                <speaker>EN KONE</speaker>
                <lg part="M">
                   <l met="∪∪-∪∪∪-∪∪∪-∪∪∪-" rhyme="f">Ja, saa faar en ikke undres paa at Gutten blir
@@ -1811,7 +2050,7 @@
                livligt borte paa Græsvolden. Spillemanden sidder paa et Bord. Kjøgemesteren staar i
                Døren. Kokkekoner gaar frem og tillbage mellem Byggningerne; ældre Folk sidder hist
                og her i Samtale.</stage>
-            <sp>
+            <sp who="#ENKONE">
                <speaker>
                   <pb n="508"/>EN KONE</speaker>
                <stage>tager Plads i en Klynge, siddende paa nogle Tømmerstokke</stage>
@@ -1827,39 +2066,39 @@
                   <l met="-∪∪-∪∪-∪-∪" rhyme="B">Nu faar I, Godtfolk, paa Dunken lænse.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#MAND2">
                <speaker>EN MAND</speaker>
                <lg part="M">
                   <l met="-∪-∪∪∪-∪∪-" rhyme="a">Takk, som byder; men du skjænker for tidt.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#GUT2">
                <speaker>EN GUT</speaker>
                <stage>till Spillemanden, idet han flyver forbi med en Jente ved Haanden</stage>
                <lg part="M">
                   <l met="-∪-∪-∪∪-∪∪" rhyme="Cc">Hejsan, Guttorm, spar ikke Strengene!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#JENTE1">
                <speaker>JENTEN</speaker>
                <lg part="M">
                   <l met="-∪∪-∪-∪∪-∪∪" rhyme="Cc">Stryg, saa det ljomer udover Engene!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#JENTER">
                <speaker>JENTER</speaker>
                <stage>i Ring om en Gut, som danser</stage>
                <lg part="M">
                   <l part="I" met="∪-∪-">Gjildt Kast var det!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#JENTE10">
                <speaker>EN JENTE</speaker>
                <lg part="M">
                   <l part="F" met="∪∪-∪∪-∪" rhyme="D">Han er spænstig i Læggen!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#GUT2">
                <speaker>GUTTEN</speaker>
                <stage>dansende</stage>
                <lg part="M">
@@ -1906,7 +2145,7 @@
                </lg>
                <stage>(vender sig till de andre igjen. Brudgommen driver bortover Tunet)</stage>
             </sp>
-            <sp>
+            <sp who="#GUT3">
                <speaker>EN GUT</speaker>
                <stage>fra Bagsiden af Huset</stage>
                <lg part="M">
@@ -1935,7 +2174,7 @@
                   <l met="-∪∪-∪∪-∪∪-∪" rhyme="H">Snakker han till jer, saa hør ikke paa ham!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#JENTE10">
                <speaker>EN JENTE</speaker>
                <stage>till de andre</stage>
                <lg part="M">
@@ -1949,7 +2188,7 @@
                   <l met="-∪∪-∪∪-∪∪-∪" rhyme="G">Hvem er den sprækeste Jente i Ringen?</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#JENTE10">
                <speaker>
                   <pb n="510"/>EN ENKELT</speaker>
                <stage>till hvem han nærmer sig</stage>
@@ -1957,14 +2196,14 @@
                   <l part="I" met="∪∪-">Ikke jeg.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#JENTE10">
                <speaker>EN ANDEN</speaker>
                <stage>ligesaa</stage>
                <lg part="M">
                   <l part="M" met="∪∪-">Ikke jeg.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#JENTE10">
                <speaker>EN TREDJE</speaker>
                <lg part="M">
                   <l part="F" met="∪-∪∪-∪" rhyme="I">Ja, jeg ikke heller.</l>
@@ -1977,7 +2216,7 @@
                   <l met="∪-∪-∪∪-∪∪-∪" rhyme="I">Saa kom da du, før en bedre sig melder.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#JENTE10">
                <speaker>JENTEN</speaker>
                <stage>vender sig</stage>
                <lg part="M">
@@ -1991,7 +2230,7 @@
                   <l part="M" met="∪-">Saa du!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#JENTE10">
                <speaker>JENTEN</speaker>
                <stage>idet hun gaar</stage>
                <lg part="M">
@@ -2018,7 +2257,7 @@
                   <l part="I" met="∪-∪-∪∪∪">Hvor er de ledige du?</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#MAND5">
                <speaker>MANDEN</speaker>
                <lg part="M">
                   <l part="F" met="-∪-" rhyme="j">Find dem frem.</l>
@@ -2033,26 +2272,26 @@
                   <l met="∪-∪∪-∪∪-∪∪-" rhyme="l">Det gnissler, som Sagbladet under en Fil!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#MAND4">
                <speaker>EN MAND</speaker>
                <stage>till en anden i Nærheden af Peer Gynt</stage>
                <lg part="M">
                   <l part="I" met="∪-∪∪-∪">Se Indflytterfolket.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#MAND5">
                <speaker>DEN ANDEN</speaker>
                <lg part="M">
                   <l part="F" met="∪-∪-" rhyme="m">De vesterfra?</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#MAND4">
                <speaker>FØRSTE</speaker>
                <lg part="M">
                   <l part="I" met="∪-∪-∪∪">Ja, de fra Hedalen.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#MAND5">
                <speaker>ANDEN</speaker>
                <lg part="M">
                   <l part="F" met="-∪-" rhyme="m">Rigtig, ja!</l>
@@ -2065,7 +2304,7 @@
                   <l part="I" met="∪∪-∪∪-∪∪">Faar jeg danse med Datter din?</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#MANDEN">
                <speaker>MANDEN</speaker>
                <stage>stille</stage>
                <lg part="M">
@@ -2096,7 +2335,7 @@
                </lg>
                <stage>(vil ind i Stuen)</stage>
             </sp>
-            <sp>
+            <sp who="#GUT4">
                <speaker>EN GUT</speaker>
                <stage>kommer med flere derfra</stage>
                <lg part="M">
@@ -2110,7 +2349,7 @@
                   <l part="M" met="-">Nej.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#GUT4">
                <speaker>GUTTEN</speaker>
                <lg part="M">
                   <l part="F" met="∪∪-∪∪-" rhyme="r">Men saa stævner du galt!</l>
@@ -2123,7 +2362,7 @@
                   <l part="I" met="∪∪-∪∪-">Lad mig slippe forbi!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#GUT4">
                <speaker>GUTTEN</speaker>
                <lg part="M">
                   <l part="F" met="∪∪-∪-∪" rhyme="S">Er du rædd for Smeden?</l>
@@ -2135,7 +2374,7 @@
                   <l part="I" met="∪-">Jeg rædd?</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#GUT4">
                <speaker>
                   <pb n="513"/>GUTTEN</speaker>
                <lg part="M">
@@ -2272,7 +2511,7 @@
                   <l met="∪-∪∪-∪∪-∪-" rhyme="z">Naa, skjæld ikke. Stakkar, han blir nok bra’.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#GUT5">
                <speaker>
                   <pb n="515"/>EN GUT</speaker>
                <stage>som kommer med en hel Sværm fra Dansepladsen</stage>
@@ -2286,7 +2525,7 @@
                   <l part="M" met="∪">Nej.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#GUT5">
                <speaker>GUTTEN</speaker>
                <lg part="M">
                   <l part="F" met="-∪-" rhyme="b'">Bare lidt?</l>
@@ -2299,7 +2538,7 @@
                   <l part="I" met="-∪-∪">Har du noget?</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#GUT5">
                <speaker>GUTTEN</speaker>
                <lg part="M">
                   <l part="F" met="∪-∪∪-∪" rhyme="C'">Det kunde nok hænde.</l>
@@ -2314,7 +2553,7 @@
                </lg>
                <stage>(drikker)</stage>
             </sp>
-            <sp>
+            <sp who="#GUT6">
                <speaker>EN ANDEN</speaker>
                <lg part="M">
                   <l met="-∪∪-∪-∪∪-" rhyme="b'">Nu faar du ogsaa smage paa mit.</l>
@@ -2326,7 +2565,7 @@
                   <l part="I" met="-">Nej!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#GUT6">
                <speaker>DEN SAMME</speaker>
                <lg part="M">
                   <l part="F" met="∪-∪∪-∪-∪" rhyme="D'">Aa, Snakk; vær nu ingen Taabe.</l>
@@ -2340,7 +2579,7 @@
                </lg>
                <stage>(drikker igjen)</stage>
             </sp>
-            <sp>
+            <sp who="#JENTE10">
                <speaker>EN JENTE</speaker>
                <stage>halvsagte</stage>
                <lg part="M">
@@ -2354,13 +2593,13 @@
                   <l part="F" met="∪∪-∪∪-" rhyme="e'">Er du rædd for mig, Tøs?</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#GUT7">
                <speaker>EN TREDJE GUT</speaker>
                <lg part="M">
                   <l part="I" met="∪-∪∪-∪-">Hvem er ikke rædd for <emph>dig</emph>?</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#GUT8">
                <speaker>EN FJERDE</speaker>
                <lg part="M">
                   <l part="F" met="∪-∪" rhyme="F'">Paa Lunde</l>
@@ -2374,14 +2613,14 @@
                      løs!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#GUT5">
                <speaker>FØRSTE GUT</speaker>
                <stage>hviskende</stage>
                <lg part="M">
                   <l part="I" met="∪-∪∪-">Nu kommer han sig!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#FLERE">
                <speaker>FLERE</speaker>
                <stage>slaar Kreds om ham</stage>
                <lg part="M">
@@ -2395,13 +2634,13 @@
                   <l part="M" met="∪-∪">Imorgen –!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#ANDRE">
                <speaker>ANDRE</speaker>
                <lg part="M">
                   <l part="F" met="∪-∪-" rhyme="g'">Nej, nu ikveld!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#JENTE10">
                <speaker>EN JENTE</speaker>
                <lg part="M">
                   <l part="I" met="∪∪-∪∪">Kan du hexe, Peer?</l>
@@ -2413,7 +2652,7 @@
                   <l part="F" met="-∪-∪-∪" rhyme="H'">Jeg kan mane Fanden!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#MAND6">
                <speaker>EN MAND</speaker>
                <lg part="M">
                   <l met="∪∪-∪∪-∪-∪∪-" rhyme="i'">Det har Bedstemoer kunnet før jeg blev født!</l>
@@ -2429,7 +2668,7 @@
                   <l part="I" met="∪∪-∪∪-∪">Den var ormstukken, ser I!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#FLERE">
                <speaker>FLERE</speaker>
                <stage>leende</stage>
                <lg part="M">
@@ -2443,7 +2682,7 @@
                   <l part="I" met="∪-∪-∪">med ligt og uligt –</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#ENIFLOKKEN">
                <speaker>EN I FLOKKEN</speaker>
                <lg part="M">
                   <l part="F" met="∪-∪∪-" rhyme="k'">Men maatte derind?</l>
@@ -2456,7 +2695,7 @@
                   <l met="-∪∪∪-∪-∪∪-∪" rhyme="L'">Hej; I skulde hørt ham surre og rumle!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#JENTE10">
                <speaker>EN JENTE</speaker>
                <lg part="M">
                   <l part="I" met="∪-">Nej, tænk!</l>
@@ -2468,7 +2707,7 @@
                   <l part="F" met="∪∪-∪∪-∪∪-∪" rhyme="L'">Det var plent som en hører en Humle.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#JENTE10">
                <speaker>JENTEN</speaker>
                <lg part="M">
                   <l part="I" met="-∪∪-∪∪-∪">Har du ham endnu i Nødden?</l>
@@ -2483,7 +2722,7 @@
                      mig for Had.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#GUT9">
                <speaker>EN GUT</speaker>
                <lg part="M">
                   <l part="I" met="-∪">Saa, du?</l>
@@ -2500,7 +2739,7 @@
                   <l met="∪-∪-∪∪-∪-∪" rhyme="Q'">og stødt saa skal han nu bruge Slæggen –</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#ENSTEMMEFRAFLOKKEN">
                <speaker>EN STEMME FRA FLOKKEN</speaker>
                <lg part="M">
                   <l part="I" met="∪∪-∪∪-">Slog han Fanden ihjæl?</l>
@@ -2514,7 +2753,7 @@
                   <l met="-∪∪-∪∪-∪-∪" rhyme="Q'">tvers gjennem Taget og kløvte Væggen.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#FLERE">
                <speaker>FLERE</speaker>
                <lg part="M">
                   <l part="I" met="∪-∪">Og Smeden –?</l>
@@ -2527,13 +2766,13 @@
                   <l met="∪∪-∪-∪-∪-∪" rhyme="R'">Siden den Dag var vi aldrig Venner.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#NOGLE">
                <speaker>NOGLE</speaker>
                <lg part="M">
                   <l part="I" met="∪-∪∪-">Den Rægglen er god!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#ANDRE">
                <speaker>ANDRE</speaker>
                <lg part="M">
                   <l part="F" met="∪∪-∪-∪" rhyme="S'">Den er snart hans bedste!</l>
@@ -2545,7 +2784,7 @@
                   <l part="I" met="-∪∪-∪∪-">Tror I, jeg digter ihob?</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#MAND7">
                <speaker>EN MAND</speaker>
                <lg part="M">
                   <l part="F" met="∪-" rhyme="t'">Aa nej,</l>
@@ -2559,7 +2798,7 @@
                   <l part="F" met="-∪∪-∪-" rhyme="t'">Løgn! Det er hændt med mig!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#MAND7">
                <speaker>
                   <pb n="519"/>MANDEN</speaker>
                <lg part="M">
@@ -2575,13 +2814,13 @@
                   <l met="-∪∪-∪∪-∪∪-∪" rhyme="U'">Aa, jeg kan mangeting, jeg, skal I vide!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#ENIFLOKKEN">
                <speaker>EN I FLOKKEN</speaker>
                <lg part="M">
                   <l part="I" met="∪-∪∪-∪">Peer, rid lidt i Luften!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#MANGE">
                <speaker>MANGE</speaker>
                <lg part="M">
                   <l part="F" met="∪-∪∪-" rhyme="v'">Ja, kjære Peer Gynt –!</l>
@@ -2595,25 +2834,25 @@
                   <l met="∪∪-∪-∪∪-∪-∪" rhyme="W'">Hele Sognet skal mig tillfode falde!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#AELDREMAND1">
                <speaker>EN ÆLDRE MAND</speaker>
                <lg part="M">
                   <l part="I" met="-∪∪-∪∪-">Nu er han rivende gal.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#AELDREMAND2">
                <speaker>EN ANDEN</speaker>
                <lg part="M">
                   <l part="F" met="∪-" rhyme="y'">Det Fæ!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#AELDREMAND3">
                <speaker>EN TREDJE</speaker>
                <lg part="M">
                   <l part="I" met="-∪∪">Storskryder!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#AELDREMAND4">
                <speaker>EN FJERDE</speaker>
                <lg part="M">
                   <l part="M" met="-∪">Løgnhals!</l>
@@ -2627,14 +2866,14 @@
                   <l part="F" met="∪-∪∪-" rhyme="y'">Ja vent, skal I se!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#MAND8">
                <speaker>EN MAND</speaker>
                <stage>halvdrukken</stage>
                <lg part="M">
                   <l met="∪-∪∪-∪∪-∪-∪" rhyme="Z'">Ja vent; du skal faa dig en børstet Trøje!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#FLERE">
                <speaker>FLERE</speaker>
                <lg part="M">
                   <l met="∪-∪∪-∪-∪∪-∪" rhyme="Z'">En mørbanket Rygg! Et blaamalet Øje!</l>
@@ -2894,13 +3133,13 @@
                   <l met="∪-∪∪-∪∪-∪-∪" rhyme="T''">Peer Gynt eller jeg skal i Bakken bændes.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#NOGLE">
                <speaker>NOGLE</speaker>
                <lg part="M">
                   <l part="I" met="-∪∪-∪">Ja, lad dem nappes!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#ANDRE">
                <speaker>ANDRE</speaker>
                <lg part="M">
                   <l part="F" met="∪-∪-∪" rhyme="T''">Nej, bare skjændes!</l>
@@ -2924,26 +3163,26 @@
                   <l part="F" met="∪∪-∪-" rhyme="u''">Vil de slaa ham, Moer?</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#GUT10">
                <speaker>EN GUT</speaker>
                <lg part="M">
                   <l met="∪∪-∪-∪∪-∪∪-∪" rhyme="V''">Lad os heller gjøgle med alle hans Løgne!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#GUT11">
                <speaker>EN ANDEN</speaker>
                <lg part="M">
                   <l part="I" met="-∪∪∪-∪">Sparke ham af Laget!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#GUT12">
                <speaker>
                   <pb n="525"/>EN TREDJE</speaker>
                <lg part="M">
                   <l part="F" met="-∪∪∪-∪" rhyme="V''">Spytte ham i Øjne!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#GUT13">
                <speaker>EN FJERDE</speaker>
                <stage>till Smeden</stage>
                <lg part="M">
@@ -2979,13 +3218,13 @@
                   <l met="∪-∪-∪-∪∪-" rhyme="y''">Till slig en Kropp er Paaken for myg.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#NOGLE">
                <speaker>NOGLE</speaker>
                <lg part="M">
                   <l part="I" met="-∪∪-∪∪">Smeden vil dænge ham!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#ANDRE">
                <speaker>ANDRE</speaker>
                <lg part="M">
                   <l part="M" met="-∪∪">Flænge ham!</l>
@@ -3042,7 +3281,7 @@
                   <l met="-∪-∪-∪∪-∪" rhyme="C'''">Nej, Peer Gynt –! Se, oppover Hejen –!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#MAENGDEN">
                <speaker>MÆNGDEN</speaker>
                <lg part="M">
                   <l part="I" met="∪-∪">Med Bruden!</l>
@@ -3442,7 +3681,7 @@
                   <l part="I" met="∪∪-∪-">Ikke Spor at se!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#MANDEN">
                <speaker>
                   <pb n="535"/>MANDEN</speaker>
                <stage>stille</stage>
@@ -7767,21 +8006,21 @@
                </lg>
             </sp>
             <stage>Natt. Marokkansk Lejr paa Grænsen mod Ørken. Vagtild og hvilende Krigere.</stage>
-            <sp>
+            <sp who="#ENSLAVE">
                <speaker>EN SLAVE</speaker>
                <stage>kommer og river sig i Haaret</stage>
                <lg type="stikisk-knittel" met="bi++ '9" rhyme="R" part="I">
                   <l met="-∪-∪∪-∪-∪" rhyme="A">Væk er Kejserens hvide Ganger!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#ENANDENSLAVE">
                <speaker>EN ANDEN SLAVE</speaker>
                <stage>kommer og sønderriver sine Klæder</stage>
                <lg part="M">
                   <l met="-∪∪-∪∪-∪-∪" rhyme="B">Kejserens hellige Dragt er stjaalen!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#OPPSYNSMAND">
                <speaker>OPPSYNSMAND</speaker>
                <stage>kommer</stage>
                <lg part="F">
@@ -10156,7 +10395,7 @@
                   <l rhyme="A">Han leve! Leve selvets Kejser!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#SCHAFMANN">
                <speaker>SCHAFMANN</speaker>
                <stage>i Buret</stage>
                <lg part="F">
@@ -10512,7 +10751,7 @@
                   <l part="I" met="∪-∪∪-">Hvad er det for Skrig?</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#VAGTEN">
                <speaker>VAGTEN</speaker>
                <stage>forud</stage>
                <lg part="M">
@@ -10526,13 +10765,13 @@
                   <l met="-∪∪-∪-∪-∪" rhyme="S'">Roret hart Styrbord! Klods for Vinden!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#STYRMANDEN">
                <speaker>STYRMANDEN</speaker>
                <lg part="M">
                   <l part="I" met="∪∪-∪-∪">Er der Folk paa Vraget?</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#VAGTEN">
                <speaker>VAGTEN</speaker>
                <lg part="M">
                   <l part="F" met="∪-∪-" rhyme="r'">Jeg skimter tre!</l>
@@ -10560,7 +10799,7 @@
                   <l met="∪-∪∪∪-∪∪-∪-" rhyme="t'">Hvad Fanden, om I faar jer en fugtet Pels –</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#BAADSMANDEN">
                <speaker>BAADSMANDEN</speaker>
                <lg part="M">
                   <l met="∪-∪-∪∪-∪-" rhyme="u'">Det er ugjørligt i sligt et Hav.</l>
@@ -10574,7 +10813,7 @@
                   <l met="-∪∪-∪-∪∪-∪" rhyme="V'">Kokk, tør du prøve? Fort! Jeg betaler –</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#KOKKEN">
                <speaker>KOKKEN</speaker>
                <lg part="M">
                   <l met="∪-∪∪-∪∪-∪∪-" rhyme="u'">Nej, ikke om tyve Pundsterling De gav –</l>
@@ -10589,7 +10828,7 @@
                   <l part="I" met="∪-∪∪∪-∪">Nu sidder de og venter –</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#BAADSMANDEN">
                <speaker>BAADSMANDEN</speaker>
                <lg part="M">
                   <l part="F" met="-∪∪-" rhyme="y'">Taalmod er sundt.</l>
@@ -10601,7 +10840,7 @@
                   <l part="I" met="-∪∪-∪">Bær af for Brottet!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#STYRMANDEN">
                <speaker>STYRMANDEN</speaker>
                <lg part="M">
                   <l part="F" met="-∪∪-" rhyme="y'">Vraget gik rundt.</l>
@@ -10613,7 +10852,7 @@
                   <l part="I" met="∪∪-∪∪-">Der blev stille med <emph>et</emph> –?</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#BAADSMANDEN">
                <speaker>BAADSMANDEN</speaker>
                <lg part="M">
                   <l part="F" met="∪∪-∪∪∪-∪" rhyme="Z'">Var de gifte, som De tænker,</l>
@@ -10921,7 +11160,7 @@
                   <l met="∪∪-∪∪-∪∪∪-∪∪-" rhyme="o'''">Passageren? Hvad er det for et Galehuslem?</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#BAADSMANDEN">
                <speaker>BAADSMANDEN</speaker>
                <lg part="M">
                   <l met="∪-∪∪-∪∪-∪∪-" rhyme="o'''">Jeg ved ikke af, vi har andre end Dem.</l>
@@ -10935,14 +11174,14 @@
                   <l part="I" met="∪-∪∪-∪∪">Hvem gik i Kahyttsdøren?</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#JUNGMANDEN">
                <speaker>JUNGMANDEN</speaker>
                <lg part="M">
                   <l part="F" met="-∪∪-∪" rhyme="P'''">Skibshunden, Herre!</l>
                </lg>
                <stage>(gaar forbi)</stage>
             </sp>
-            <sp>
+            <sp who="#VAGTEN">
                <speaker>
                   <pb n="684"/>VAGTEN</speaker>
                <stage>raaber</stage>
@@ -10957,7 +11196,7 @@
                   <l part="I" met="∪-∪∪-∪">Alt Godset paa Dækket!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#BAADSMANDEN">
                <speaker>BAADSMANDEN</speaker>
                <lg part="M">
                   <l part="F" met="∪∪-∪∪-∪" rhyme="Q'''">Vi har andet at passe.</l>
@@ -10977,13 +11216,13 @@
                   <l part="I" met="-∪∪-">Klyveren sprang!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#STYRMANDEN">
                <speaker>STYRMANDEN</speaker>
                <lg part="M">
                   <l part="F" met="∪-∪-∪" rhyme="S'''">Og der strøg Fokken!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#BAADSMANDEN">
                <speaker>BAADSMANDEN</speaker>
                <stage>skriger forud</stage>
                <lg part="M">
@@ -11011,7 +11250,7 @@
                </lg>
                <stage>(klamrer sig fast till Baadkjølen)</stage>
             </sp>
-            <sp>
+            <sp who="#KOKKEN">
                <speaker>KOKKEN</speaker>
                <stage>dukker opp paa den anden Side</stage>
                <lg part="M">
@@ -11026,7 +11265,7 @@
                   <l part="I">Slipp!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#KOKKEN">
                <speaker>KOKKEN</speaker>
                <lg part="M">
                   <l part="M" n="1">Slipp!</l>
@@ -11038,7 +11277,7 @@
                   <l part="M" n="2">Jeg slaar!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#KOKKEN">
                <speaker>KOKKEN</speaker>
                <lg part="M">
                   <l part="F" rhyme="c">Jeg slaar igjen!</l>
@@ -11051,7 +11290,7 @@
                   <l rhyme="d">Slipp Taget! Hvælvet bær ej to!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#KOKKEN">
                <speaker>
                   <pb n="686"/>KOKKEN</speaker>
                <lg part="M">
@@ -11064,7 +11303,7 @@
                   <l part="M">Vig selv!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#KOKKEN">
                <speaker>KOKKEN</speaker>
                <lg part="M">
                   <l part="F" rhyme="d">Jo-jo!</l>
@@ -11076,7 +11315,7 @@
                   <l part="I">Den Næven væk!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#KOKKEN">
                <speaker>KOKKEN</speaker>
                <lg part="M">
                   <l part="F" rhyme="e">Aa, snille, – spar!</l>
@@ -11090,7 +11329,7 @@
                   <l rhyme="f">for jeg er ungeløs endnu.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#KOKKEN">
                <speaker>KOKKEN</speaker>
                <lg part="M">
                   <l rhyme="g">Slipp! De har levet; jeg er ung!</l>
@@ -11102,7 +11341,7 @@
                   <l rhyme="g">Fort; rapp dig; synk; – du blir saa tung.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#KOKKEN">
                <speaker>KOKKEN</speaker>
                <lg part="M">
                   <l rhyme="h">Vær naadig! Vig i Herrens Navn!</l>
@@ -11120,7 +11359,7 @@
                   <l rhyme="i">jeg holder; læs dit Fadervor!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#KOKKEN">
                <speaker>KOKKEN</speaker>
                <lg part="M">
                   <l rhyme="j">Jeg kan ej mindes –; alt blir svart – –</l>
@@ -11132,7 +11371,7 @@
                   <l rhyme="j">Det væsentligste i en Fart –!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#KOKKEN">
                <speaker>KOKKEN</speaker>
                <lg part="M">
                   <l part="I">Giv os idag –!</l>
@@ -11145,7 +11384,7 @@
                   <l rhyme="k">hvad du har nødig, faar du nok.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#KOKKEN">
                <speaker>KOKKEN</speaker>
                <lg part="M">
                   <l part="I">Giv os idag –</l>
@@ -11158,7 +11397,7 @@
                   <l rhyme="l">Det mærkes, du var Kokk engang –</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#KOKKEN">
                <speaker>KOKKEN</speaker>
                <stage>synkende</stage>
                <lg part="M">
@@ -11637,7 +11876,7 @@
                   <l met="∪-∪∪∪-∪∪-∪∪∪-" rhyme="g">og alle er de gamle; jeg kunde dem som Gut.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#TYVEAARIG1">
                <speaker>EN TYVEAARIG</speaker>
                <stage>med en Støbeske</stage>
                <lg part="M">
@@ -11645,14 +11884,14 @@
                   <l met="∪-∪∪-∪∪-∪∪-" rhyme="h">I den har Peer Gynt sine Sølvknapper støbt.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#TYVEAARIG2">
                <speaker>
                   <pb n="698"/>EN ANDEN</speaker>
                <lg part="M">
                   <l met="∪-∪∪-∪∪-∪-∪" rhyme="I">Men jeg da! En Skilling for Pengeskjæppen!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#TYVEAARIG3">
                <speaker>EN TREDJE</speaker>
                <lg part="M">
                   <l met="∪∪-∪∪-∪∪-∪-∪" rhyme="I">Ingen bedre? Halvfemte for Kramkarl-Skræppen!</l>
@@ -11671,7 +11910,7 @@
                   <l met="∪∪-∪∪-∪∪∪-∪-" rhyme="j">han var Svoger till Døden og till Aslak Smed.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#DENGRAAKLAEDTE">
                <speaker>EN GRAAKLÆDT MAND</speaker>
                <lg part="M">
                   <l met="∪-∪∪-∪∪-∪-" rhyme="k">Du glemmer jo mig! Er du fuld og yr?<note type="met"
@@ -11685,7 +11924,7 @@
                   <l met="∪-∪∪-∪∪∪-∪-" rhyme="k">Du glemmer, paa Hæggstad var en Stabburdør.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#DENGRAAKLAEDTE">
                <speaker>DEN GRAAKLÆDTE</speaker>
                <lg part="M">
                   <l met="∪-∪∪-∪-∪-∪" rhyme="L">Ja, sandt; men du var nu aldrig kræsen.</l>
@@ -11697,7 +11936,7 @@
                   <l met="-∪∪-∪∪-∪∪-∪" rhyme="L">Bare hun ikke taer Døden ved Næsen –</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#DENGRAAKLAEDTE">
                <speaker>DEN GRAAKLÆDTE</speaker>
                <lg part="M">
                   <l met="∪-∪∪-∪-∪∪-" rhyme="m">Kom, Svoger! En Dram, for Svogerskabs Skyld!</l>
@@ -11709,7 +11948,7 @@
                   <l met="-∪∪∪-∪∪-∪∪-" rhyme="m">Fanden være Svoger! Du væver i Fyld –</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#DENGRAAKLAEDTE">
                <speaker>DEN GRAAKLÆDTE</speaker>
                <lg part="M">
                   <l met="∪-∪-∪∪-∪∪-" rhyme="n">Aa, Sludder; Blodet er aldrig saa tyndt,</l>
@@ -11725,7 +11964,7 @@
                   <l part="I" met="∪-∪∪-∪∪">En træffer nok Kjendinger.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#GUT14">
                <speaker>EN GUT</speaker>
                <stage>raaber efter den sørgeklædte</stage>
                <lg part="M">
@@ -11742,7 +11981,7 @@
                   <l met="∪-∪∪-∪∪-∪∪-∪" rhyme="P">jo mere en roder, des bedre det lugter.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#GUT15">
                <speaker>EN GUT</speaker>
                <stage>med et Bjørneskind</stage>
                <lg part="M">
@@ -11750,7 +11989,7 @@
                   <l met="∪∪-∪∪-∪∪-∪-∪" rhyme="Q">Det var den, som jog Troldet paa Julekvelden.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#GUT16">
                <speaker>EN ANDEN</speaker>
                <stage>med en Rensdyrskalle</stage>
                <lg part="M">
@@ -11758,7 +11997,7 @@
                   <l met="∪-∪-∪∪∪-∪-" rhyme="r">Peer Gynt ved Gjendin over Egg og Skar.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#GUT17">
                <speaker>EN TREDJE</speaker>
                <stage>med en Hammer, raaber till den sørgeklædte</stage>
                <lg part="M">
@@ -11766,7 +12005,7 @@
                   <l met="∪∪-∪-∪∪-∪∪-∪" rhyme="S">Var det den, du brugte, da Fanden brød Væggen?</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#GUT18">
                <speaker>EN FJERDE</speaker>
                <stage>tomhændet</stage>
                <lg part="M">
@@ -11781,7 +12020,7 @@
                   <l met="∪∪-∪∪-∪∪-∪-∪" rhyme="U">jeg vil holde Auktion over Skrab og Skrammel!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#GUT19">
                <speaker>
                   <pb n="700"/>EN GUT</speaker>
                <lg part="M">
@@ -11795,7 +12034,7 @@
                   <l met="∪-∪∪-∪∪∪-∪-" rhyme="v">det ligger i Ronden; det er muret godt.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#GUT19">
                <speaker>GUTTEN</speaker>
                <lg part="M">
                   <l part="I" met="∪-∪-∪">En Knapp er buden!</l>
@@ -11808,7 +12047,7 @@
                   <l met="∪-∪-∪∪-∪-" rhyme="w">At byde mindre, var Synd og Skam.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#GUT20">
                <speaker>EN ANDEN</speaker>
                <lg part="M">
                   <l part="I" met="∪∪-∪-∪">Han er lystig, Gamlen!</l>
@@ -11822,7 +12061,7 @@
                   <l part="I" met="∪-∪">hvem byder?</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#ENIHOBEN">
                <speaker>EN I HOBEN</speaker>
                <lg part="M">
                   <l part="M" met="∪-∪">Hvor gaar han?</l>
@@ -11836,7 +12075,7 @@
                   <l met="∪-∪-∪∪-∪∪-∪" rhyme="Z">saa fort, saa fort, som Peer Gynt kunde lyve.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#STEMMER">
                <speaker>STEMMER</speaker>
                <lg part="M">
                   <l part="I" met="∪-∪-∪">Hvad mere har du?</l>
@@ -11849,7 +12088,7 @@
                   <l met="∪∪-∪∪-∪-∪∪-" rhyme="a'">Det er kjøbt med Forlis; det sælges med Tab.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#GUT1">
                <speaker>
                   <pb n="701"/>EN GUT</speaker>
                <lg part="M">
@@ -11863,7 +12102,7 @@
                   <l met="-∪∪-∪∪-∪-" rhyme="b'">Den kan I faa for en Hægtekrog.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#GUT1">
                <speaker>GUTTEN</speaker>
                <lg part="M">
                   <l part="I" met="-∪∪-∪">Fanden med Drømme!</l>
@@ -11877,7 +12116,7 @@
                      derom!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#GUT1">
                <speaker>GUTTEN</speaker>
                <lg part="M">
                   <l part="I" met="∪∪-∪-">Følger Kronen med?</l>
@@ -11951,7 +12190,7 @@
                   <l met="∪∪-∪-∪-∪∪∪-" rhyme="k'">Og hvor er han nu, den mærkelige Mand?</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#ENALDRENDE">
                <speaker>EN ALDRENDE</speaker>
                <lg part="M">
                   <l met="∪-∪∪-∪∪∪-∪-" rhyme="k'">Han foer over Havet till et fremmed Land;</l>
@@ -11973,7 +12212,7 @@
                   <l met="∪∪-∪∪-∪∪-∪-" rhyme="n'">vil I høre en Skrøne till Vederlag?</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#FLERE">
                <speaker>FLERE</speaker>
                <lg part="M">
                   <l part="I" met="∪-∪-∪">Ja, kan du nogen?</l>
@@ -12162,7 +12401,7 @@
                   <l rhyme="h">Væk! I gjør mig Stien trang!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#NOESTERNE">
                <speaker>NØSTERNE</speaker>
                <stage>paa Jorden</stage>
                <lg type="strofisk-strofe-kortvers" met="bi+ ('5 '5)²" rhyme="(A B)²">
@@ -12181,7 +12420,7 @@
                   <l rhyme="i">det blev Fusk og skjæve Ben!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#NOESTERNE">
                <speaker>NØSTERNE</speaker>
                <lg type="strofisk-strofe-kortvers" met="bi+ ('5 '5)²" rhyme="(A B)²">
                   <l met="∪-∪-∪" rhyme="A">Tillvejrs vi skulde</l>
@@ -12199,7 +12438,7 @@
                   <stage>(flygter)</stage>
                </lg>
             </sp>
-            <sp>
+            <sp who="#VISSNEBLADE">
                <speaker>VISSNE BLADE</speaker>
                <stage>flyver for Vinden</stage>
                <lg type="strofisk-strofegruppe-kortvers" met="bi+ ('5 '5)²" rhyme="(A B|Bb)²">
@@ -12224,7 +12463,7 @@
                   <l rhyme="K">lægg jer stillt og tjen till Gjødsel.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#SUSNINGILUFTEN">
                <speaker>
                   <pb n="709"/>SUSNING I LUFTEN</speaker>
                <lg type="strofisk-strofegruppe-kortvers" met="bi+ ('5 '5)²"
@@ -12251,7 +12490,7 @@
                   <stage>(skyder Snarvej)</stage>
                </lg>
             </sp>
-            <sp>
+            <sp who="#DUGGDRAABER">
                <speaker>DUGGDRAABER</speaker>
                <stage>drysser fra Grenene</stage>
                <lg type="strofisk-strofegruppe-kortvers" met="bi+ ('5 '5)²" rhyme="(A B)² | A A B B">
@@ -12276,7 +12515,7 @@
                   <l rhyme="M">fik dog lige fuldt paa Halen!</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#BRAEKKEDESTRAA">
                <speaker>
                   <pb n="710"/>BRÆKKEDE STRAA</speaker>
                <lg type="strofisk-strofegruppe-kortvers" met="bi+ ('5 '4|'5)²" rhyme="(A b|Bb)²">
@@ -14125,7 +14364,7 @@
                      kan.</l>
                </lg>
             </sp>
-            <sp>
+            <sp who="#KIRKEFOLK">
                <speaker>KIRKEFOLK</speaker>
                <stage>synger paa Skogstien</stage>
                <lg type="strofisk-strofe-kortvers" met="tri- ('6 '6 '8)²" rhyme="(A B c)²" part="I">
