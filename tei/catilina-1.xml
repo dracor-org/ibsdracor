@@ -42,10 +42,10 @@
                <bibl type="originalSource">
                   <author>Henrik Ibsen</author>: <title type="main">Catilina, 1. versjon</title>.
                      <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1850</title>. In:
-                     <edition>Henrik Ibsens skrifter, bind 1</edition>. 
-                  <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
-                  <date when="2005">2005</date>
-                  <biblScope unit="page" from="7" to="123">7-123</biblScope>
+                     <edition>Henrik Ibsens skrifter, bind 1</edition>. <pubPlace>Oslo</pubPlace>:
+                     <publisher>Aschehoug</publisher>
+                  <date when="2005">2005</date> s. <biblScope unit="page" from="7" to="123"
+                     >7-123</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -99,20 +99,37 @@
                <person xml:id="OLDING" sex="MALE">
                   <persName>Oldingen</persName>
                </person>
-               <person xml:id="GLADIATOR" sex="MALE">
-                  <persName>Gladiatorer</persName>
+               <person xml:id="GLADIATOR1" sex="MALE">
+                  <persName>En gladiator</persName>
+               </person>
+               <person xml:id="GLADIATOR2" sex="MALE">
+                  <persName>En gladiator</persName>
                </person>
                <person xml:id="AANDEN" sex="UNKNOWN">
                   <persName>Aanden</persName>
                </person>
+               <personGrp xml:id="NOGLE">
+                  <name>Nogle</name>
+               </personGrp>
+               <personGrp xml:id="ANDRE">
+                  <name>Andre</name>
+               </personGrp>
+               <personGrp xml:id="FLERE">
+                  <name>Flere</name>
+               </personGrp>
+               <personGrp xml:id="ALLE">
+                  <name>Alle</name>
+               </personGrp>
             </listPerson>
          </particDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-12-18" who="#ER">Add revisionDesc</change>
-         <change when="2025-10-01" who="#ER">Update language attributes</change>
-         <change when="2025-09-17" who="#ER">Update premiere date and clean titlePage</change>
-         <change when="2025-09-16" who="#ER">Update particDesc</change>
+         <change when="2025-10-17" who="#ER">Added revisionDesc</change>
+         <change when="2025-10-16" who="#ER">Updated particDesc and who attributes for nondescript
+            speakers</change>
+         <change when="2025-10-01" who="#ER">Standardised language attributes to da-no</change>
+         <change when="2025-09-17" who="#ER">Updated titlePage formatting and premiere date</change>
+         <change when="2025-09-16" who="#ER">Updated castList formatting</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -1185,13 +1202,13 @@
                      <l rhyme="x">O, hjælper! hjælper! det er Vanvid jo –</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#NOGLE">
                   <speaker>NOGLE</speaker>
                   <lg part="M">
                      <l part="I">Hvad er paafærde? –</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#ANDRE">
                   <speaker>ANDRE</speaker>
                   <lg part="M">
                      <l part="F" rhyme="X">– Vestaflammen slukket! –</l>
@@ -2803,7 +2820,7 @@
                      <l rhyme="x">vi lide Mangel, – Rigdom er vort Maal!</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#FLERE">
                   <speaker>
                      <pb n="64"/>FLERE</speaker>
                   <lg part="M">
@@ -2822,7 +2839,7 @@
                      <l part="I" real="12">som vilde lede Eder – –</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#NOGLE">
                   <speaker>NOGLE</speaker>
                   <lg part="M">
                      <l part="F" rhyme="x">– – Og hvor findes han?</l>
@@ -2835,13 +2852,13 @@
                      <l rhyme="x">udvælge ham til Eders Leder, – hvad? –</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#NOGLE">
                   <speaker>NOGLE</speaker>
                   <lg part="M">
                      <l part="I">Det ville vi – –</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#ANDRE">
                   <speaker>ANDRE</speaker>
                   <lg part="M">
                      <l part="F" rhyme="x">– – Ja, ja, det ville vi! –</l>
@@ -2902,7 +2919,7 @@
                      <l part="F" rhyme="x">– – Nei, vi følge Dig! –</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#FLERE">
                   <speaker>FLERE</speaker>
                   <lg part="M">
                      <l part="I">Vi følge Dig! – –</l>
@@ -2930,7 +2947,7 @@
                      <l part="I">Her er jeg, Venner!</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#ALLE">
                   <speaker>ALLE</speaker>
                   <lg part="M">
                      <l part="M">– – Catilina! –</l>
@@ -2953,7 +2970,7 @@
                      <l rhyme="x">til Eders Leder; vil I følge mig?</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#ALLE">
                   <speaker>ALLE</speaker>
                   <stage>undtagen Lentulus</stage>
                   <lg part="M">
@@ -3032,7 +3049,7 @@
                      <l part="I" real="12">med deres taabelige Eenfold – –</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#FLERE">
                   <speaker>FLERE</speaker>
                   <lg part="M">
                      <l part="F" rhyme="x">– – Nei, o nei!</l>
@@ -3040,7 +3057,7 @@
                      <l part="I" real="12">et muntert, sorgfrit Liv – –</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#ANDRE">
                   <speaker>ANDRE</speaker>
                   <lg part="M">
                      <l part="F" rhyme="x">– – Ja! ja! det er vort Maal!</l>
@@ -3084,7 +3101,7 @@
                      <l rhyme="X">Holdt inde! holdt! vi taale ei din Spotten! –</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#FLERE">
                   <speaker>FLERE</speaker>
                   <lg part="M">
                      <l part="I">Nei, nei, vi ville ei – –</l>
@@ -3104,7 +3121,7 @@
                      <l part="I">Ned, ned med ham! – –</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#ANDRE">
                   <speaker>ANDRE</speaker>
                   <lg part="M">
                      <l part="F" rhyme="X">– Ja, ned med Catilina!</l>
@@ -3120,13 +3137,13 @@
                      <l rhyme="X">ei Gnist af Mod er end hos jer tilbage! –</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#NOGLE">
                   <speaker>NOGLE</speaker>
                   <lg part="M">
                      <l part="I" real="12">Nei, nei! han er vor Ven! – –</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#ANDRE">
                   <speaker>ANDRE</speaker>
                   <lg part="M">
                      <l part="F" rhyme="x">– – Vi har hans Haan fortjent!</l>
@@ -3185,7 +3202,7 @@
                      <l rhyme="x">vi lettest finde, hvad der var vort Maal – –</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#ALLE">
                   <speaker>ALLE</speaker>
                   <lg part="M">
                      <l rhyme="x">Ja, Catilina, ja, vi følge Dig. – –</l>
@@ -3198,7 +3215,7 @@
                      <l part="I">I lyde vil ethvert mit Bud! –</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#ALLE">
                   <speaker>ALLE</speaker>
                   <lg part="M">
                      <l part="F" rhyme="x">– – – Ja, ja!</l>
@@ -3858,7 +3875,7 @@
                      <l part="I">nu er det Tid – –</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#FLERE">
                   <speaker>FLERE</speaker>
                   <lg part="M">
                      <l part="F" rhyme="x">– – Ja, ja, afsted, afsted!</l>
@@ -4645,7 +4662,7 @@
                      <l part="I">Her talte Nogen nys – –</l>
                   </lg>
                </sp>
-               <sp who="#GLADIATOR">
+               <sp who="#GLADIATOR1">
                   <speaker>1STE GLADIATOR</speaker>
                   <lg part="M">
                      <l part="F" rhyme="X">Nu er det stille,</l>
@@ -4661,7 +4678,7 @@
                      <l part="I">vel skarpe, blinkende – –</l>
                   </lg>
                </sp>
-               <sp who="#GLADIATOR">
+               <sp who="#GLADIATOR2">
                   <speaker>2DEN GLADIATOR</speaker>
                   <lg part="M">
                      <l part="F" rhyme="x">– Som Lynet, ja,</l>
@@ -4677,7 +4694,7 @@
                      <l part="I">nedhugge ham – –</l>
                   </lg>
                </sp>
-               <sp who="#GLADIATOR">
+               <sp who="#GLADIATOR1">
                   <speaker>1STE GLADIATOR</speaker>
                   <lg part="M">
                      <l part="F" rhyme="x">Ja ja, saa skal det skee!</l>
@@ -4696,14 +4713,14 @@
                   </lg>
                   <stage>(gaaer ind mellem Træerne)</stage>
                </sp>
-               <sp who="#GLADIATOR">
+               <sp who="#GLADIATOR1">
                   <speaker>1STE GLADIATOR</speaker>
                   <lg part="M">
                      <l rhyme="x">Men hvem er da den Ubekjendte, som</l>
                      <l part="I">vi skulle myrde – –</l>
                   </lg>
                </sp>
-               <sp who="#GLADIATOR">
+               <sp who="#GLADIATOR2">
                   <speaker>2DEN GLADIATOR</speaker>
                   <lg part="M">
                      <l part="F" rhyme="x">Ti! det er en Sag,</l>
@@ -4745,14 +4762,14 @@
                      <l rhyme="X">Du, Lentulus, vil myrde Catilina?</l>
                   </lg>
                </sp>
-               <sp who="#GLADIATOR">
+               <sp who="#GLADIATOR2">
                   <speaker>2DEN GLADIATOR</speaker>
                   <stage>forfærdet</stage>
                   <lg part="M">
                      <l part="I">Ham er det! –</l>
                   </lg>
                </sp>
-               <sp who="#GLADIATOR">
+               <sp who="#GLADIATOR1">
                   <speaker>1STE GLADIATOR</speaker>
                   <stage>ligeledes</stage>
                   <lg part="M">
@@ -4983,13 +5000,13 @@
                      <l rhyme="x">at falde kjæmpende med Sværd i Haand?</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#NOGLE">
                   <speaker>NOGLE</speaker>
                   <lg part="M">
                      <l part="I">Det vælge vi –</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#ANDRE">
                   <speaker>ANDRE</speaker>
                   <lg part="M">
                      <l part="F" rhyme="x">Ja, ja, med Sværd i Haand!</l>
@@ -5010,7 +5027,7 @@
                      <l part="F" rhyme="X">– Eller Rædsel!</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#NOGLE">
                   <speaker>NOGLE</speaker>
                   <stage>vigende forundrede tilbage</stage>
                   <lg part="M">
@@ -5208,7 +5225,7 @@
                      <l part="F" rhyme="X">– Hist lyder Vaabenlarmen!</l>
                   </lg>
                </sp>
-               <sp>
+               <sp who="#FLERE">
                   <speaker>FLERE</speaker>
                   <lg part="M">
                      <l part="I">De nærme sig –</l>
