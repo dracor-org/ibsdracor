@@ -71,7 +71,7 @@
                <person xml:id="IRENE" sex="FEMALE">
                   <persName>Irene</persName>
                </person>
-               <person xml:id="DIAKONISSE" sex="UNKNOWN">
+               <person xml:id="DIAKONISSE" sex="FEMALE">
                   <persName>Diakonisse</persName>
                </person>
             </listPerson>
