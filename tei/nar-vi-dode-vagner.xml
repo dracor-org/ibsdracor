@@ -78,6 +78,7 @@
          </particDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2025-12-18" who="#ER">Updated sex attribute for Diakonissen</change>
          <change when="2025-10-17" who="#ER">Added revisionDesc</change>
          <change when="2025-10-01" who="#ER">Standardised language attributes to da-no</change>
          <change when="2025-09-17" who="#ER">Updated premiere date, titlePage formatting</change>
