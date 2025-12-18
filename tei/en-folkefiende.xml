@@ -91,6 +91,15 @@
             </listPerson>
          </particDesc>
       </profileDesc>
+      <revisionDesc>
+         <change when="2025-12-18" who="#ER">Add revisionDesc</change>
+         <change when="2025-10-01" who="#ER">Update language attributes</change>
+         <change when="2025-09-17" who="#ER">Clean titlePage</change>
+         <change when="2025-09-16" who="#ER">Update xml:id</change>
+         <change when="2025-09-07" who="#ER">Update sourceDesc</change>
+         <change when="2025-09-03" who="#ER">Correct xml:id with missing #</change>
+         <change when="2025-09-01" who="#ER">Add standOff</change>
+      </revisionDesc>
    </teiHeader>
    <standOff>
       <listEvent>
