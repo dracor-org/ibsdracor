@@ -41,10 +41,10 @@
                <bibl type="originalSource">
                   <author>Henrik Ibsen</author>: <title type="main">Fru Inger til Østråt</title>.
                      <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1874</title>. In:
-                     <edition>Henrik Ibsens skrifter, bind 3</edition>. 
-                  <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
-                  <date when="2006">2006</date>
-                  <biblScope unit="page" from="179" to="348">179-348</biblScope>
+                     <edition>Henrik Ibsens skrifter, bind 3</edition>. <pubPlace>Oslo</pubPlace>:
+                     <publisher>Aschehoug</publisher>
+                  <date when="2006">2006</date> s. <biblScope unit="page" from="179" to="348"
+                     >179-348</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -83,13 +83,48 @@
                <person xml:id="EJNARHUK" sex="MALE">
                   <persName>Ejnar Huk</persName>
                </person>
+               <personGrp xml:id="BOENDER">
+                  <name>Bønderne</name>
+               </personGrp>
+               <person xml:id="ENHUSKARL" sex="MALE">
+                  <persName>En huskarl</persName>
+               </person>
+               <personGrp xml:id="NOGLEAFBOENDERNE">
+                  <name>Nogle af bønderne</name>
+               </personGrp>
+               <personGrp xml:id="MANGEFLERE">
+                  <name>Mange flere</name>
+               </personGrp>
+               <personGrp xml:id="HUSKARLE" sex="MALE">
+                  <name>Huskarle</name>
+               </personGrp>
+               <personGrp xml:id="HELEMAENGDEN">
+                  <name>Hele mængden</name>
+               </personGrp>
+               <person xml:id="FOGDEN" sex="MALE">
+                  <persName>Fogden</persName>
+               </person>
+               <personGrp xml:id="ALLEDEOEVRIGE">
+                  <name>Alle de øvrige</name>
+               </personGrp>
+               <personGrp xml:id="TOHUSKARLE" sex="MALE">
+                  <name>To huskarle</name>
+               </personGrp>
+               <person xml:id="ENAFKRIGSKNAEGTENE" sex="MALE">
+                  <persName>En af krigsknægtene</persName>
+               </person>
+               <personGrp xml:id="KRIGSKNAEGTENE" sex="MALE">
+                  <name>Krigsknægtene</name>
+               </personGrp>
             </listPerson>
          </particDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-12-18" who="#ER">Add revisionDesc</change>
-         <change when="2025-10-01" who="#ER">Update language attributes</change>
-         <change when="2025-09-17" who="#ER">Update premiere date and clean titlePage</change>
+         <change when="2025-10-17" who="#ER">Added revisionDesc</change>
+         <change when="2025-10-16" who="#ER">Updated particDesc and who attributes for nondescript
+            speakers</change>
+         <change when="2025-10-01" who="#ER">Standardised language attributes to da-no</change>
+         <change when="2025-09-17" who="#ER">Update titlePage formatting and premiere date</change>
          <change when="2025-09-16" who="#ER">Update sourceDesc formatting</change>
       </revisionDesc>
    </teiHeader>
@@ -702,7 +737,7 @@
                <speaker>EJNAR HUK</speaker>
                <p>Sent, men tidsnok, tænker jeg.</p>
             </sp>
-            <sp>
+            <sp who="#BOENDER">
                <speaker>BØNDERNE</speaker>
                <p>Ja, ja, – nu må hun høre os!</p>
             </sp>
@@ -747,7 +782,7 @@
                <speaker>FRU INGER</speaker>
                <p>Nu, – om så var, – hvad har da I med Dalkarlernes rejsning at gøre?</p>
             </sp>
-            <sp>
+            <sp who="#BOENDER">
                <speaker>BØNDERNE</speaker>
                <p>Vi vil med! Vi vil hjælpe til! Fri os selv!</p>
             </sp>
@@ -789,7 +824,7 @@
                   næsten lejligheden er kommen, som vi har ventet på. Bryder det nu løs, så må de
                   fremmede ud af landet.</p>
             </sp>
-            <sp>
+            <sp who="#BOENDER">
                <speaker>
                   <pb n="199"/>BØNDERNE</speaker>
                <p>Ja, ud med de danske fogder! Ud med de fremmede herremænd! Ud med rigsrådernes
@@ -880,7 +915,7 @@
                <speaker>FRU INGER</speaker>
                <p>Min magt? O, Gud i himlen!</p>
             </sp>
-            <sp>
+            <sp who="#ENHUSKARL">
                <speaker>EN HUSKARL</speaker>
                <stage>kommer fra salen med et stort sværd</stage>
                <p>Se, her er en rigtig ulvetand! Med den skal jeg flænge blodsugernes svende.</p>
@@ -890,7 +925,7 @@
                <stage>til en anden huskarl</stage>
                <p>Hvad har du fundet der?</p>
             </sp>
-            <sp>
+            <sp who="#ENHUSKARL">
                <speaker>HUSKARLEN</speaker>
                <p>Brystpladen, som de kalder for Herlof Hyttefads.</p>
             </sp>
@@ -957,11 +992,11 @@
                   det første.</p>
             </sp>
             <stage>Der fornemmes uvilje iblandt mængden.</stage>
-            <sp>
+            <sp who="#NOGLEAFBOENDERNE">
                <speaker>NOGLE AF BØNDERNE</speaker>
                <p>Vi går alligevel, fru Inger!</p>
             </sp>
-            <sp>
+            <sp who="#MANGEFLERE">
                <speaker>MANGE FLERE</speaker>
                <p>Ja, ja; vi går alligevel!</p>
             </sp>
@@ -4895,7 +4930,7 @@
             </sp>
             <stage>Olaf Skaktavl, Ejnar Huk, Bjørn, Finn, samt mange bønder og huskarle kommer ind
                fra højre side i baggrunden.</stage>
-            <sp>
+            <sp who="#BOENDER #HUSKARLE">
                <speaker>BØNDER og HUSKARLE</speaker>
                <p>Hil være fru Inger Gyldenløve!</p>
             </sp>
@@ -4916,7 +4951,7 @@
                   tilstedet. Og her stiller jeg frem for eder den unge grev Sture, Sverigs vordende
                   styrer, – og Norges med, hvis Gud så vil det.</p>
             </sp>
-            <sp>
+            <sp who="#HELEMAENGDEN">
                <speaker>HELE MÆNGDEN</speaker>
                <p>Hil ham! Hil grev Sture!</p>
             </sp>
@@ -4951,7 +4986,7 @@
                <speaker>OLAF SKAKTAVL</speaker>
                <p>Hestene venter, I gode bønder! Er I så rede –?</p>
             </sp>
-            <sp>
+            <sp who="#BOENDER">
                <speaker>BØNDERNE</speaker>
                <p>Ja, ja, ja!</p>
             </sp>
@@ -5133,7 +5168,7 @@
                <speaker>FINN</speaker>
                <p>Jeg?</p>
             </sp>
-            <sp>
+            <sp who="#FOGDEN #HUSKARLE">
                <speaker>FOGDEN og HUSKARLENE</speaker>
                <p>Finn!</p>
             </sp>
@@ -5149,7 +5184,7 @@
                <p>I borgekælderen!</p>
             </sp>
             <stage>Ejnar Huk, Bjørn og et par af gårdsfolkene fører Finn ud til venstre.</stage>
-            <sp>
+            <sp who="#ALLEDEOEVRIGE">
                <speaker>ALLE DE ØVRIGE</speaker>
                <stage>undtagen Nils Lykke, idet de stormer ud til højre</stage>
                <p>Afsted! Tilhest, – tilhest! Hil være Inger Gyldenløve!</p>
@@ -5548,7 +5583,7 @@
                <stage>til Eline</stage>
                <p>Hvor er eders moder?</p>
             </sp>
-            <sp>
+            <sp who="#TOHUSKARLE">
                <speaker>TO HUSKARLE</speaker>
                <stage>indstyrtende fra højre</stage>
                <p>Fru Inger! Fru Inger!</p>
@@ -5987,7 +6022,7 @@
             </sp>
             <stage>Kammersvenden Bjørn kommer med nogle svenske krigsknægte ind gennem den forreste
                dør tilhøjre.</stage>
-            <sp>
+            <sp who="#ENAFKRIGSKNAEGTENE">
                <speaker>EN AF KRIGSKNÆGTENE</speaker>
                <p>Tilgiv, hvis I er husets frue –</p>
             </sp>
@@ -5996,7 +6031,7 @@
                   <pb n="340"/>FRU INGER</speaker>
                <p>Er det grev Sture I leder efter?</p>
             </sp>
-            <sp>
+            <sp who="#ENAFKRIGSKNAEGTENE">
                <speaker>KRIGSKNÆGTEN</speaker>
                <p>Det er så.</p>
             </sp>
@@ -6004,7 +6039,7 @@
                <speaker>FRU INGER</speaker>
                <p>I er i så fald ikke på vildspor. Greven har søgt tilflugt hos mig.</p>
             </sp>
-            <sp>
+            <sp who="#ENAFKRIGSKNAEGTENE">
                <speaker>KRIGSKNÆGTEN</speaker>
                <p>Tilflugt? Forlad, min højædle frue, – men den mægter I ej at give ham; thi –</p>
             </sp>
@@ -6013,7 +6048,7 @@
                <p>Hvad I der siger, har nok greven selv begrebet; og derfor har han, – ja, se selv
                   efter –, derfor har han aflivet sig.</p>
             </sp>
-            <sp>
+            <sp who="#ENAFKRIGSKNAEGTENE">
                <speaker>KRIGSKNÆGTEN</speaker>
                <p>Aflivet sig?</p>
             </sp>
@@ -6025,7 +6060,7 @@
                   kiste stået rede i mange år. <stage>(til krigsknægtene)</stage> I den beder jeg at
                   I vil føre grev Stures lig til Sverig.</p>
             </sp>
-            <sp>
+            <sp who="#ENAFKRIGSKNAEGTENE">
                <speaker>DEN FORRIGE KRIGSKNÆGT</speaker>
                <p>Det skal ske, som I byder. <stage>(til en af de andre)</stage> Løb du med dette
                   budskab til herr Jens Bjelke. Han holder med resten af rytterne borte på
@@ -6228,7 +6263,7 @@
                <stage>som er trådt ind fra højre, standser og råber overrasket</stage>
                <p>Død! Altså dog –</p>
             </sp>
-            <sp>
+            <sp who="#ENAFKRIGSKNAEGTENE">
                <speaker>
                   <pb n="347"/>EN AF KRIGSKNÆGTENE</speaker>
                <p>Selv har han –</p>
@@ -6252,7 +6287,7 @@
                <stage>til krigsknægtene</stage>
                <p>Sæt liget ned. Det er ikke grev Sture.</p>
             </sp>
-            <sp>
+            <sp who="#ENAFKRIGSKNAEGTENE">
                <speaker>EN AF KRIGSKNÆGTENE</speaker>
                <p>Tilgiv, herr ridder; – men denne ring, som han bar om sin hals –</p>
             </sp>
@@ -6269,7 +6304,7 @@
                <p>Sten Stures ring! <stage>(med et skrig)</stage> O, Jesus Krist, – min søn!</p>
             </sp>
             <stage>Hun kaster sig ned over kisten.</stage>
-            <sp>
+            <sp who="#KRIGSKNAEGTENE">
                <speaker>KRIGSKNÆGTENE</speaker>
                <p>Hendes søn?</p>
             </sp>
