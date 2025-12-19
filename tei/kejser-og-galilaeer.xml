@@ -24,8 +24,8 @@
             <edition n="0.5">Beta release</edition>
          </editionStmt>
          <publicationStmt>
-            <authority>University of Oslo, Center for Ibsen Studies</authority>
-            <publisher>DraCor</publisher>
+            <publisher>University of Oslo, Center for Ibsen Studies</publisher>
+            <distributor>DraCor</distributor>
             <date when="2025">2025</date>
          </publicationStmt>
          <sourceDesc>
@@ -618,6 +618,7 @@
          </particDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2025-10-19" who="#ER">Changed publicationStmt elements</change>
          <change when="2025-12-18" who="#ER">Add revisionDesc</change>
          <change when="2025-10-15" who="#ER">Removed group element for network extraction, added nondistinct speakers to particDesc and updated header levels</change>
          <change when="2025-10-01" who="#ER">Standardise language attributes</change>
