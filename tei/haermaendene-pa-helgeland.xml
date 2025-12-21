@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000030">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -43,8 +44,7 @@
                      <title type="sub">Hovedtekst, tekstgrunnlag: NBO Ms.8° 1935</title>. In:
                      <edition>Henrik Ibsens skrifter, bind 3</edition>. <pubPlace>Oslo</pubPlace>:
                      <publisher>Aschehoug</publisher>
-                  <date when="2006">2006</date> s. <biblScope unit="page" from="477" to="485"
-                     >477-485</biblScope>
+                  <date when="2006">2006</date> s. <biblScope unit="page" from="477" to="485">477-485</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -96,8 +96,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000030"
-            passive="http://www.wikidata.org/entity/Q3285405"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000030" passive="http://www.wikidata.org/entity/Q3285405"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">

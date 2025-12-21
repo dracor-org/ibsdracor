@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000038">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -44,8 +45,7 @@
                      <title type="sub">Hovedtekst, tekstgrunnlag: NBO Ms 8° 2586</title>. In:
                      <edition>Henrik Ibsens skrifter, bind 1</edition>. <pubPlace>Oslo</pubPlace>:
                      <publisher>Aschehoug</publisher>
-                  <date when="2005">2005</date> s. <biblScope unit="page" from="255" to="291"
-                     >255-291</biblScope>
+                  <date when="2005">2005</date> s. <biblScope unit="page" from="255" to="291">255-291</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -103,8 +103,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000038"
-            passive="http://www.wikidata.org/entity/Q1774352"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000038" passive="http://www.wikidata.org/entity/Q1774352"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">
@@ -294,8 +293,7 @@
                   <l rhyme="v">I Fædrejorden skal den lægges ned!</l>
                </lg>
                <stage>(han drager sit Sværd)</stage>
-               <lg type="strofisk-strofegruppe-Buchnervers" met="tri 5 5 7 5 5 7"
-                  rhyme="A A b C C b | X X a B B a | X X a X X a">
+               <lg type="strofisk-strofegruppe-Buchnervers" met="tri 5 5 7 5 5 7" rhyme="A A b C C b | X X a B B a | X X a X X a">
                   <lg type="strofe" rhyme="A A b C C b">
                      <l rhyme="A">
                         <pb n="263"/>Maalet er vundet!</l>

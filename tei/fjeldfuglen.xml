@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000035">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -39,13 +40,11 @@
                   </licence>
                </availability>
                <bibl type="originalSource">
-                  <author>Henrik Ibsen</author>: <title type="main">Fjeldfuglen</title>. <title
-                     type="sub">Hovedtekst, tekstgrunnlag: NBO Ms.4° 935</title>. In:
+                  <author>Henrik Ibsen</author>: <title type="main">Fjeldfuglen</title>. <title type="sub">Hovedtekst, tekstgrunnlag: NBO Ms.4° 935</title>. In:
                      <edition>Henrik Ibsens skrifter, bind 2</edition>. <editor>Christian Janss,
                      Hilde Bøe og Stine Brenna Taugbøl</editor>
                   <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
-                  <date when="2006">2006</date> s. <biblScope unit="page" from="575" to="607"
-                     >575-607</biblScope>
+                  <date when="2006">2006</date> s. <biblScope unit="page" from="575" to="607">575-607</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -121,8 +120,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000035"
-            passive="http://www.wikidata.org/entity/Q2595792"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000035" passive="http://www.wikidata.org/entity/Q2595792"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">
@@ -196,8 +194,7 @@
                </stage>
                <sp who="#THORGEJR">
                   <speaker>Thorgejr.</speaker>
-                  <lg type="strofisk-strofe-kortvers" met="bi+ ('5 '5)² ('5 '4)²"
-                     rhyme="(X A)² (X b)²">
+                  <lg type="strofisk-strofe-kortvers" met="bi+ ('5 '5)² ('5 '4)²" rhyme="(X A)² (X b)²">
                      <l met="∪-∪-∪" rhyme="X">Det Kvad, som kvædes</l>
                      <l met="∪-∪∪-∪" rhyme="A">I Fossen den stride, –</l>
                      <l met="∪-∪-∪" rhyme="X">Den Slaat, som ljomer</l>
@@ -237,8 +234,7 @@
                   <sp who="#ALFHILD">
                      <speaker>Alfhild.</speaker>
                      <stage>(<hi>drømmende</hi>)</stage>
-                     <lg type="strofisk-strofe-kortvers" met="bi+ ('5 '5)² ('5 '4)²"
-                        rhyme="(X A)² (X b)²">
+                     <lg type="strofisk-strofe-kortvers" met="bi+ ('5 '5)² ('5 '4)²" rhyme="(X A)² (X b)²">
                         <l met="∪-∪-∪" rhyme="X">Det Kvad, som kvædes</l>
                         <l met="∪-∪∪-∪" rhyme="A">I Fossen den stride, –</l>
                         <l met="∪-∪∪-∪" rhyme="X">Det tykkes mig rumme</l>
@@ -253,8 +249,7 @@
                   <sp who="#HOUGFOLK">
                      <speaker>Chor af Hougfolk</speaker>
                      <stage>(<hi>idet de sagte nærme sig.</hi>)</stage>
-                     <lg type="strofisk-strofegruppe-kortvers" met="bi+ '5 '5 '5 '5"
-                        rhyme="X X X X | A B A B">
+                     <lg type="strofisk-strofegruppe-kortvers" met="bi+ '5 '5 '5 '5" rhyme="X X X X | A B A B">
                         <lg type="strofe" rhyme="X X X X">
                            <l met="-∪∪-∪" rhyme="X">Alfhild, den Væne!</l>
                            <l met="-∪-∪" rhyme="X">Stille, stille, –</l>
@@ -290,8 +285,7 @@
                <sp who="#HOUGFOLK" xml:id="HOUGFOLK_1">
                   <speaker>
                      <pb n="584"/>Chor af Hougfolk</speaker>
-                  <lg type="strofisk-strofe-kortvers" met="bi 3 3 7 3 3 7" rhyme="a a a b b b"
-                     part="I">
+                  <lg type="strofisk-strofe-kortvers" met="bi 3 3 7 3 3 7" rhyme="a a a b b b" part="I">
                      <l rhyme="a">Huttetu!</l>
                      <l rhyme="a">Skræk og Gru</l>
                      <l rhyme="a">Fylder Hougafolkets Hug!</l>
@@ -302,8 +296,7 @@
                      <hi>paa engang.</hi>
                   </stage>
                   <sp who="#HOUGFOLK" xml:id="HOUGFOLK_2">
-                     <lg type="strofisk-strofe-kortvers" met="bi 3 3 7 3 3 7" rhyme="a a a b b b"
-                        part="F">
+                     <lg type="strofisk-strofe-kortvers" met="bi 3 3 7 3 3 7" rhyme="a a a b b b" part="F">
                         <l rhyme="b">Rap og snygg, –</l>
                         <l rhyme="b">Hougens Ryg</l>
                         <l rhyme="b">Dølge dig; der er du tryg!</l>
@@ -313,8 +306,7 @@
                   <sp who="#GJAESTER">
                      <speaker>Chor af Bryllupsgjæster.</speaker>
                      <stage>(<hi>fremdeles udenfor, men nærmere.</hi>)</stage>
-                     <lg type="stikisk-folkevisevers" met="bi++ '4|'5|'6|'7|'8|'9" rhyme="r|R|x|X"
-                        part="I">
+                     <lg type="stikisk-folkevisevers" met="bi++ '4|'5|'6|'7|'8|'9" rhyme="r|R|x|X" part="I">
                         <l met="∪-∪-∪-∪-" rhyme="x">Vaagn op, vaagn op, du kristne Mand,</l>
                         <l met="∪-∪∪∪-∪∪-∪ &amp; ∪-∪-∪-∪∪-∪" rhyme="X">Hvi sover du saa tungt og saa
                            længe!</l>
@@ -324,8 +316,7 @@
                <sp who="#ALFHILD">
                   <speaker> .</speaker>
                   <stage>(<hi/>)</stage>
-                  <lg type="stikisk-folkevisevers" met="bi++ '4|'5|'6|'7|'8|'9" rhyme="r|R|x|X"
-                     part="I">
+                  <lg type="stikisk-folkevisevers" met="bi++ '4|'5|'6|'7|'8|'9" rhyme="r|R|x|X" part="I">
                      <l met="-∪∪-∪∪-∪-∪" rhyme="X"/>
                      <l met="-∪∪-∪-∪" rhyme="R"/>
                      <l met="-∪-∪-∪∪-" rhyme="x"/>
@@ -461,8 +452,7 @@
                <sp who="#GJAESTER">
                   <speaker>Gjæsterne.</speaker>
                   <stage>(<hi>hviskende mellem hverandre.</hi>)</stage>
-                  <lg type="strofisk-strofe-kortvers" met="bi 3 4 3 3 4 5" rhyme="a B c a B c"
-                     part="I">
+                  <lg type="strofisk-strofe-kortvers" met="bi 3 4 3 3 4 5" rhyme="a B c a B c" part="I">
                      <l rhyme="a">Huldrelok,</l>
                      <l rhyme="B">Kvad fra Fossen</l>
                      <l rhyme="c">
@@ -521,8 +511,7 @@
                </sp>
                <sp who="#THORGEJR">
                   <speaker>Thorgejr.</speaker>
-                  <lg type="stikisk-folkevisevers" met="bi++ '4|'5|'6|'7|'8|'9" rhyme="r|R|x|X"
-                     part="I">
+                  <lg type="stikisk-folkevisevers" met="bi++ '4|'5|'6|'7|'8|'9" rhyme="r|R|x|X" part="I">
                      <l met="∪-∪-∪-∪-" rhyme="f">Forbandet; ja, I har det sagt!</l>
                      <l met="-∪∪-∪-∪∪-∪" rhyme="G">Mennesket tør ei færdes herinde!</l>
                      <l met="-∪-∪-∪-" rhyme="f">Her blev længst tilhvile lagt</l>
@@ -542,8 +531,7 @@
                <sp who="#THORGEJR">
                   <speaker>Thorgejr.</speaker>
                   <stage>(<hi>til Ivar.</hi>)</stage>
-                  <lg type="stikisk-folkevisevers" met="bi++ '4|'5|'6|'7|'8|'9" rhyme="r|R|x|X"
-                     part="I">
+                  <lg type="stikisk-folkevisevers" met="bi++ '4|'5|'6|'7|'8|'9" rhyme="r|R|x|X" part="I">
                      <l met="-∪∪-∪-∪∪-" rhyme="j">Datter din staar med Guldkrone paa!</l>
                   </lg>
                </sp>
@@ -589,8 +577,7 @@
                   <speaker>Gjæsterne.</speaker>
                   <lg part="M">
                      <l met="-∪-∪-∪-" rhyme="o">Længer, længer frem endnu,</l>
-                     <l met="-∪-∪-∪-" rhyme="o">Skjønt vi gaar m<unclear reason="writing"
-                           >e</unclear>d Skræk ihug!</l>
+                     <l met="-∪-∪-∪-" rhyme="o">Skjønt vi gaar m<unclear reason="writing">e</unclear>d Skræk ihug!</l>
                      <l met="∪-∪∪-∪" rhyme="P">Knut Skytte, Knut Skytte!</l>
                      <l met="-∪-∪-∪-∪" rhyme="P">Tyst paa Bergets Port du glytte!</l>
                      <l met="∪-∪∪-∪-∪∪-∪" rhyme="Q">Vi raaber dit Navn i Kvælden den svale –</l>
@@ -630,8 +617,7 @@
                </sp>
                <sp who="#ALFHILD">
                   <speaker>Alfhild.</speaker>
-                  <lg type="stikisk-folkevisevers" met="bi++ '4|'5|'6|'7|'8|'9" rhyme="r|R|x|X"
-                     part="I">
+                  <lg type="stikisk-folkevisevers" met="bi++ '4|'5|'6|'7|'8|'9" rhyme="r|R|x|X" part="I">
                      <l met="-∪∪-∪∪-∪-∪" rhyme="W">Vent som et Vaarkvad i Lærkemunde</l>
                      <l met="-∪∪-∪-∪-∪" rhyme="Y">Mægter du dine Ord at knytte;</l>
                      <l met="-∪-∪∪-∪-∪" rhyme="W">Fugl i Furru og Lauv i Lunde</l>
@@ -732,8 +718,7 @@
                </stage>
                <stage>
                   <hi>
-                     <rs type="person" ref="INGEBORG">Ingeborg</rs> og <rs type="person" ref="SVEND"
-                        >Svend</rs> er under det Foregaaende kommet frem oppe i Lien
+                     <rs type="person" ref="INGEBORG">Ingeborg</rs> og <rs type="person" ref="SVEND">Svend</rs> er under det Foregaaende kommet frem oppe i Lien
                      tilvenstre.</hi>
                </stage>
                <stage>
@@ -792,8 +777,7 @@
                      <l met="-∪-∪∪-∪-" rhyme="c">Alfhilds Dal er mig nu for trang,</l>
                      <l met="∪-∪-∪∪-∪-" rhyme="c">I Verdens Dal, der er Leg og Sang!</l>
                   </lg>
-                  <lg type="strofisk-strofe-kortvers-Buchnervers" met="tri 5 5 7 6 6 6 6 7"
-                     rhyme="A A b Cc Cc Dd Dd b">
+                  <lg type="strofisk-strofe-kortvers-Buchnervers" met="tri 5 5 7 6 6 6 6 7" rhyme="A A b Cc Cc Dd Dd b">
                      <l rhyme="A">Udad i Verden!</l>
                      <l rhyme="A">Trofast paa Færden</l>
                      <l rhyme="b">Kom og min Styrismand bliv!</l>
@@ -807,8 +791,7 @@
                </sp>
                <sp who="#KNUT">
                   <speaker>Knut.</speaker>
-                  <lg type="strofisk-strofe-kortvers-Buchnervers" met="tri 5 5 7 6 6 6 6 7"
-                     rhyme="A A b Cc Cc Dd Dd b">
+                  <lg type="strofisk-strofe-kortvers-Buchnervers" met="tri 5 5 7 6 6 6 6 7" rhyme="A A b Cc Cc Dd Dd b">
                      <l rhyme="A">Ja, jeg vil følge,</l>
                      <l rhyme="A">Ingen fordølge</l>
                      <l rhyme="b">Skatten, herinde jeg vandt!</l>
@@ -830,8 +813,7 @@
                <sp who="#KNUT">
                   <speaker>Knut.</speaker>
                   <stage>(<hi>der ligesom kommer til sig selv.</hi>)</stage>
-                  <lg type="strofisk-strofe-kortvers" met="bi+ '4 '4 '4 '4 '8 '5 '5 '5 '4"
-                     rhyme="a b a b c D D D c" part="I">
+                  <lg type="strofisk-strofe-kortvers" met="bi+ '4 '4 '4 '4 '8 '5 '5 '5 '4" rhyme="a b a b c D D D c" part="I">
                      <l met="-∪-" rhyme="a">Vee mig; vee!</l>
                      <l met="∪-∪-" rhyme="b">Min Drøm er endt!</l>
                   </lg>
@@ -852,9 +834,7 @@
                </sp>
                <stage>
                   <hi>
-                     <rs type="person" ref="IVAR">Ivar</rs>, <rs type="person" ref="INGEBORG"
-                        >Ingeborg</rs>, <rs type="person" ref="SVEND">Svend</rs> og <rs
-                        type="person" ref="GJAESTER">Gjæsterne</rs> kommer ind fra Venstre. Alfhild
+                     <rs type="person" ref="IVAR">Ivar</rs>, <rs type="person" ref="INGEBORG">Ingeborg</rs>, <rs type="person" ref="SVEND">Svend</rs> og <rs type="person" ref="GJAESTER">Gjæsterne</rs> kommer ind fra Venstre. Alfhild
                      staar noget afsides tilhøire uden at bemærkes og følger i høieste Spænding det
                      følgende Optrin uden dog at høre hvad der handles om.</hi>
                </stage>
@@ -901,8 +881,7 @@
                <sp who="#KNUT">
                   <speaker>Knut.</speaker>
                   <stage>(<hi>sagte og smærteligt med et Blik paa Alfhild.</hi>)</stage>
-                  <lg type="stikisk-folkevisevers" met="bi++ '4|'5|'6|'7|'8|'9" rhyme="r|R|x|X"
-                     part="I">
+                  <lg type="stikisk-folkevisevers" met="bi++ '4|'5|'6|'7|'8|'9" rhyme="r|R|x|X" part="I">
                      <l met="∪-∪∪-∪-∪-∪" rhyme="E">Og hende jeg maa slig Kvide volde!</l>
                   </lg>
                </sp>
@@ -1116,8 +1095,7 @@
                <sp who="#PIGERNE">
                   <speaker>
                      <pb n="606"/>Pigerne.</speaker>
-                  <lg type="stikisk-folkevisevers" met="bi++ '4|'5|'6|'7|'8|'9" rhyme="r|R|x|X"
-                     part="I">
+                  <lg type="stikisk-folkevisevers" met="bi++ '4|'5|'6|'7|'8|'9" rhyme="r|R|x|X" part="I">
                      <l met="-∪∪-∪∪-∪∪-∪" rhyme="A">Nu er hun pyntet med Søljer og Krone,</l>
                   </lg>
                </sp>

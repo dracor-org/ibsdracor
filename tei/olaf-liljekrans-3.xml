@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000032">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -43,8 +44,7 @@
                      versjon</title>. <title type="sub">Hovedtekst, tekstgrunnlag: NBO Ms.8°
                      1945</title>. In: <edition>Henrik Ibsens skrifter, bind 2</edition>.
                      <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
-                  <date when="2006">2006</date> s. <biblScope unit="page" from="423" to="573"
-                     >423-573</biblScope>
+                  <date when="2006">2006</date> s. <biblScope unit="page" from="423" to="573">423-573</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -109,8 +109,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000032"
-            passive="http://www.wikidata.org/entity/Q3285322"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000032" passive="http://www.wikidata.org/entity/Q3285322"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">
@@ -124,8 +123,7 @@
             <stage>(Torgejr står ved fossestupet, lytter og speider udover ned imod dybet.)</stage>
             <sp who="#TORGEJR">
                <speaker>TORGEJR.</speaker>
-               <lg type="strofisk-rapsodisk-strofe-folkevisevers" met="bi+ '8 '8 '8 '4 '4 '7"
-                  rhyme="a x a b b X">
+               <lg type="strofisk-rapsodisk-strofe-folkevisevers" met="bi+ '8 '8 '8 '4 '4 '7" rhyme="a x a b b X">
                   <l met="∪-∪∪-∪∪-∪-" rhyme="a">Hvem er det, som <app type="alteration">
                         <lem>stiger i furuli</lem>
                         <rdg>e</rdg>
@@ -140,8 +138,7 @@
             <sp who="#FRUGURIDSFOLK">
                <speaker>FRU GURIDS FOLK</speaker>
                <stage>(fjernt og dybt nede til venstre i baggrunden.)</stage>
-               <lg type="strofisk-rapsodisk-strofe-folkevisevers" met="bi+ '9 '5 '5 '4 '5 '4"
-                  rhyme="A A B c B c" part="I">
+               <lg type="strofisk-rapsodisk-strofe-folkevisevers" met="bi+ '9 '5 '5 '4 '5 '4" rhyme="A A B c B c" part="I">
                   <l met="∪-∪∪-∪∪-∪∪-∪" rhyme="A">Ung Olaf, ung Olaf! Med sang og med klokker</l>
                   <l met="∪-∪∪-∪" rhyme="A">vi maner og lokker.</l>
                </lg>
@@ -164,8 +161,7 @@
             <sp who="#TORGEJR">
                <speaker>TORGEJR</speaker>
                <stage>(ser opad.)</stage>
-               <lg type="strofisk-rapsodisk-strofe-folkevisevers" met="bi+ '9 '4 '5 '5 '5 '4"
-                  rhyme="A b A Cc Cc b">
+               <lg type="strofisk-rapsodisk-strofe-folkevisevers" met="bi+ '9 '4 '5 '5 '5 '4" rhyme="A b A Cc Cc b">
                   <l met="∪∪-∪∪-∪∪-∪∪-∪" rhyme="A">Også der, også der; under <app type="alteration">
                         <lem>topper og tinder</lem>
                         <rdg/>
@@ -180,8 +176,7 @@
             <sp who="#FRUGUNHILDSFOELGE">
                <speaker>FRU GUNHILDS FØLGE.</speaker>
                <stage>(nærmere.)</stage>
-               <lg type="strofisk-rapsodisk-strofe-folkevisevers" met="bi+ '5 '4 '4 '5 '8 '5"
-                  rhyme="X a a B a B">
+               <lg type="strofisk-rapsodisk-strofe-folkevisevers" met="bi+ '5 '4 '4 '5 '8 '5" rhyme="X a a B a B">
                   <l met="∪-∪∪-∪" rhyme="X">Ung Olaf, ung Olaf,</l>
                   <l met="∪-∪∪-∪" rhyme="B">hvor sidder du tagen?</l>
                   <l met="∪-∪∪-" rhyme="a">Å vågn dog og se.</l>
@@ -194,8 +189,7 @@
             <sp who="#ARNESFOELGE">
                <speaker>ARNES FØLGE</speaker>
                <stage>(nærmere.samtidigt)</stage>
-               <lg type="strofisk-rapsodisk-strofe-folkevisevers" met="bi++ '4 '4 '5 '4 '4 '7"
-                  rhyme="a a B c c B">
+               <lg type="strofisk-rapsodisk-strofe-folkevisevers" met="bi++ '4 '4 '5 '4 '4 '7" rhyme="a a B c c B">
                   <l met="-∪-" rhyme="a">Lystigt nok</l>
                   <l met="∪∪-∪-" rhyme="a">lyder lék og lok</l>
                   <l met="∪∪-∪∪-∪" rhyme="B">mellem tinder og topper.</l>
@@ -207,8 +201,7 @@
             <sp who="#TORGEJR">
                <speaker>TORGEJR</speaker>
                <stage>(samtidigt opad og nedad)</stage>
-               <lg type="strofisk-rapsodisk-strofe-folkevisevers" met="bi+ '5 '5 '5 '8 '5 '6"
-                  rhyme="Aa Aa B c B c">
+               <lg type="strofisk-rapsodisk-strofe-folkevisevers" met="bi+ '5 '5 '5 '8 '5 '6" rhyme="Aa Aa B c B c">
                   <l met="-∪-∪∪" rhyme="Aa">Bræen knuge jer;</l>
                   <l met="-∪-∪∪" rhyme="Aa">elven sluge jer.</l>
                   <l met="-∪∪-∪" rhyme="B">Bergtrold og vætter</l>
@@ -225,8 +218,7 @@
                   <pb n="514"/>PEJK</speaker>
                <lg type="stikisk-folkevisevers" met="bi+++ '8|'9" rhyme="x|X|r|R" part="I">
                   <l met="∪-∪-∪∪-∪∪-∪" rhyme="A">Ja I har godt for at springe og hoppe;</l>
-                  <l met="∪∪-∪∪∪∪∪∪-∪∪∪-∪∪-" rhyme="b">men jeg <restore type="del"/> mer; jeg <app
-                        type="alteration">
+                  <l met="∪∪-∪∪∪∪∪∪-∪∪∪-∪∪-" rhyme="b">men jeg <restore type="del"/> mer; jeg <app type="alteration">
                         <lem>er</lem>
                         <rdg/>
                      </app> stø<retrace place="inline">l</retrace>,.jeg er støl i både lægger og
@@ -292,8 +284,7 @@
                   <pb n="543"/>PEJK.</speaker>
                <lg part="M">
                   <l met="∪∪-∪∪-∪-∪-" rhyme="x">Som I ser! Jeg står altid ved mit ord.</l>
-                  <l met="∪-∪∪∪-∪∪-∪∪-" rhyme="x">Tre dage fra i kveld skal jo bryl<unclear
-                        reason="writing">l</unclear>upet stå.</l>
+                  <l met="∪-∪∪∪-∪∪-∪∪-" rhyme="x">Tre dage fra i kveld skal jo bryl<unclear reason="writing">l</unclear>upet stå.</l>
                   <l met="∪∪∪-∪-∪∪-∪∪-" rhyme="x">Men der er ingen fremkomst fra Botten til
                      Borg.</l>
                   <l met="∪-∪-∪∪-∪-∪" rhyme="C">Et jordskred kom og tog med sig vejen.</l>

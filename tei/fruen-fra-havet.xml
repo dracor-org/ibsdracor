@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000007">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -38,12 +39,10 @@
                   </licence>
                </availability>
                <bibl type="originalSource">
-                  <author>Henrik Ibsen</author>: <title type="main">Fruen fra havet</title>. <title
-                     type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1888</title>. In: <edition>Henrik
+                  <author>Henrik Ibsen</author>: <title type="main">Fruen fra havet</title>. <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1888</title>. In: <edition>Henrik
                      Ibsens skrifter, bind 8</edition>. <pubPlace>Oslo</pubPlace>:
                      <publisher>Aschehoug</publisher>
-                  <date when="2009">2009</date> s. <biblScope unit="page" from="501" to="697"
-                     >501-697</biblScope>
+                  <date when="2009">2009</date> s. <biblScope unit="page" from="501" to="697">501-697</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -105,8 +104,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000007"
-            passive="http://www.wikidata.org/entity/Q1212719"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000007" passive="http://www.wikidata.org/entity/Q1212719"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">

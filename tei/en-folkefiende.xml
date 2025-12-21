@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000011">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -38,12 +39,10 @@
                   </licence>
                </availability>
                <bibl type="originalSource">
-                  <author>Henrik Ibsen</author>: <title type="main">En folkefiende</title>. <title
-                     type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1882</title>. In: <edition>Henrik
+                  <author>Henrik Ibsen</author>: <title type="main">En folkefiende</title>. <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1882</title>. In: <edition>Henrik
                      Ibsens skrifter, bind 7</edition>. <pubPlace>Oslo</pubPlace>:
                      <publisher>Aschehoug</publisher>
-                  <date when="2008">2008</date> s. <biblScope unit="page" from="327" to="727"
-                     >327-727</biblScope>
+                  <date when="2008">2008</date> s. <biblScope unit="page" from="327" to="727">327-727</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -260,8 +259,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000011"
-            passive="http://www.wikidata.org/entity/Q1305319"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000011" passive="http://www.wikidata.org/entity/Q1305319"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">
@@ -1953,8 +1951,7 @@
                <speaker>MORTEN KIIL</speaker>
                <p>Hele byen! Ja det kan sgu’ gerne være, det. Men det er tilpas for dem; det har de
                   godt af. De skulde nu være så meget klogere end vi gamle. De hundsvoterte mig ud
-                  af formandskabet. Ja, jeg siger så; for de voterte mig ud som en hund, <pb n="415"
-                  />gjorde de. Men nu får de det igen. Driv bare abespil med dem, Stockmann.</p>
+                  af formandskabet. Ja, jeg siger så; for de voterte mig ud som en hund, <pb n="415"/>gjorde de. Men nu får de det igen. Driv bare abespil med dem, Stockmann.</p>
             </sp>
             <sp who="#DOKTORSTOCKMANN">
                <speaker>DOKTOR STOCKMANN</speaker>
@@ -5458,8 +5455,7 @@
                   andre hænder. Ingen tviler om doktorens redelige hensigter; gud bevares, dem kan
                   der ikke være to meninger om. <emph>Jeg</emph> er også en ven af folkeligt
                   selvstyre, når det bare ikke falder for dyrt for skatteborgerne. Men
-                     <emph>det</emph> vilde bli’ tilfældet her; og derfor så –; nej <pb n="596"
-                  />guds død – med forlov – om jeg kan være med doktor Stockmann dennegang. En kan
+                     <emph>det</emph> vilde bli’ tilfældet her; og derfor så –; nej <pb n="596"/>guds død – med forlov – om jeg kan være med doktor Stockmann dennegang. En kan
                   også købe guld for dyrt; det er nu <emph>min</emph> mening.</p>
             </sp>
             <stage>Livlig tilslutning fra alle sider.</stage>

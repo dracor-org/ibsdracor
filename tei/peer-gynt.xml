@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000019">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -39,12 +40,10 @@
                   </licence>
                </availability>
                <bibl type="originalSource">
-                  <author>Henrik Ibsen</author>: <title type="main">Peer Gynt</title>. <title
-                     type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1867</title>. In: <edition>Henrik
+                  <author>Henrik Ibsen</author>: <title type="main">Peer Gynt</title>. <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1867</title>. In: <edition>Henrik
                      Ibsens skrifter, bind 5</edition>. <pubPlace>Oslo</pubPlace>:
                      <publisher>Aschehoug</publisher>
-                  <date when="2007">2007</date> s. <biblScope unit="page" from="475" to="746"
-                     >475-746</biblScope>
+                  <date when="2007">2007</date> s. <biblScope unit="page" from="475" to="746">475-746</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -448,8 +447,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000019"
-            passive="http://www.wikidata.org/entity/Q208094"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000019" passive="http://www.wikidata.org/entity/Q208094"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">
@@ -4273,8 +4271,7 @@
             <sp who="#PEERGYNT">
                <speaker>PEER GYNT</speaker>
                <lg part="M">
-                  <l met="-∪∪-∪∪-∪∪∪-∪" rhyme="G">Kjender du Moer min? Hun heder Dronning Aase.<note
-                        type="met">Urent rim.</note>
+                  <l met="-∪∪-∪∪-∪∪∪-∪" rhyme="G">Kjender du Moer min? Hun heder Dronning Aase.<note type="met">Urent rim.</note>
                   </l>
                </lg>
             </sp>
@@ -4535,8 +4532,7 @@
                <lg part="M">
                   <l met="∪-∪∪-∪∪-∪-" rhyme="p">Der er ingen Forskjell, saa vidt jeg ser.</l>
                   <l met="-∪∪-∪∪-∪∪-∪" rhyme="Q">Stortrold vil stege og Smaatrold vil klore; –</l>
-                  <l met="-∪∪∪-∪-∪∪-∪" rhyme="Q">ligesaa hos os, hvis bare de turde.<note type="met"
-                        >Urent rim.</note>
+                  <l met="-∪∪∪-∪-∪∪-∪" rhyme="Q">ligesaa hos os, hvis bare de turde.<note type="met">Urent rim.</note>
                   </l>
                </lg>
             </sp>
@@ -5710,8 +5706,7 @@
                      –</l>
                   <l met="∪∪-∪∪-∪-∪-∪" rhyme="G">Det skal væk, dette her, – at staa i Taagen</l>
                   <l met="∪-∪∪-∪-∪∪-∪" rhyme="G">og væve sig bort lyslevende vaagen. –</l>
-                  <l met="∪∪-∪-∪∪-∪∪-∪" rhyme="G">Du er fredløs, Gut! Du er jaget paa Skogen.<note
-                        type="met">Urent rim.</note>
+                  <l met="∪∪-∪-∪∪-∪∪-∪" rhyme="G">Du er fredløs, Gut! Du er jaget paa Skogen.<note type="met">Urent rim.</note>
                   </l>
                   <stage>(hugger en Stund ilsomt)</stage>
                   <l met="∪-∪-∪-∪∪-" rhyme="h">Ja, fredløs, ja. Du har ikke Moer</l>
@@ -6047,8 +6042,7 @@
                   <l part="F" met="∪∪-∪-∪" rhyme="M">Ja, till dig allene;</l>
                   <l met="∪∪-∪∪-∪∪-∪-∪" rhyme="N">du faar være mig alt, baade Ven og Trøster.</l>
                   <stage>(i Graad)</stage>
-                  <l met="∪-∪∪-∪∪-∪-∪" rhyme="N">Værst var det at slippe min lille Syster; –<note
-                        type="met">Skal uttales 'søster' pga. rim.</note>
+                  <l met="∪-∪∪-∪∪-∪-∪" rhyme="N">Værst var det at slippe min lille Syster; –<note type="met">Skal uttales 'søster' pga. rim.</note>
                   </l>
                   <l met="∪-∪-∪∪-∪∪-" rhyme="o">men endda værre at skilles fra Faer;</l>
                   <l met="∪-∪∪-∪∪-∪∪-" rhyme="o">men værst ifra den, som ved Brystet mig bar; –</l>
@@ -7921,8 +7915,7 @@
                <lg type="stikisk-knittel" met="bi++ '8|'9" rhyme="r|R|Rr" part="I">
                   <l met="-∪∪-∪-∪∪-" rhyme="a">Mareridt! – Væv! – Nu vaagner jeg snart!</l>
                   <l met="∪-∪-∪∪-∪∪-" rhyme="a">Den staar fra Land! Og i rasende Fart! –</l>
-                  <l met="∪∪-∪-∪∪∪-∪∪-" rhyme="b">Bare Væv! Jeg sover! Jeg er drukken og yr!<note
-                        type="met">Skal uttales 'ør' pga. rim.</note>
+                  <l met="∪∪-∪-∪∪∪-∪∪-" rhyme="b">Bare Væv! Jeg sover! Jeg er drukken og yr!<note type="met">Skal uttales 'ør' pga. rim.</note>
                   </l>
                   <stage>(knuger Hænderne)</stage>
                   <l met="∪-∪∪-∪-∪∪-" rhyme="b">Det gaar dog umuligt an, at jeg dør!</l>
@@ -7945,8 +7938,7 @@
                   <l met="∪∪-∪-∪∪-∪-" rhyme="h">Det er Stell! En Gud, som paa Raad er læns!</l>
                   <stage>(vinker oppad)</stage>
                   <l met="-∪∪-∪∪-∪∪-∪" rhyme="I">Pst! Jeg har skillt mig ved Negerplantagen!</l>
-                  <l met="∪∪-∪∪∪-∪-∪∪-∪" rhyme="I">Jeg har skikket Missionærer over till Asien!<note
-                        type="met">Urent rim.</note>
+                  <l met="∪∪-∪∪∪-∪-∪∪-∪" rhyme="I">Jeg har skikket Missionærer over till Asien!<note type="met">Urent rim.</note>
                   </l>
                   <l met="∪-∪∪-∪∪-∪-" rhyme="j">En Haandsrækkning er dog en anden værd!</l>
                   <l part="I" met="∪-∪∪-">Aa, hjælp mig ombord –!</l>
@@ -8230,8 +8222,7 @@
                   <l met="∪-∪∪-∪∪-∪∪-∪" rhyme="E'">Oaserne vilde som Øer sig højne,</l>
                   <l met="-∪-∪∪-∪∪-" rhyme="f'">Atlas grønnes som Fjeldkyst mod Nord;</l>
                   <l met="-∪∪-∪∪-∪∪-∪" rhyme="E'">Sejlere vilde, som Fugle forfløjne,</l>
-                  <l met="-∪∪-∪∪-∪∪-" rhyme="f'">skjære mod Syd Karavanernes Spor.<note type="met"
-                        >Urent rim.</note>
+                  <l met="-∪∪-∪∪-∪∪-" rhyme="f'">skjære mod Syd Karavanernes Spor.<note type="met">Urent rim.</note>
                   </l>
                   <l met="-∪∪-∪∪-∪∪-∪" rhyme="G'">Livende Luft vilde sprede de kvalme</l>
                   <l met="-∪∪-∪∪-∪∪-" rhyme="h'">Dunster, og Dugg vilde drysse fra Sky;</l>
@@ -8292,18 +8283,15 @@
                <lg type="rapsodisk" met="bi+ '4|'5|'6|'7|'8|'9" rhyme="r|R|Rr" part="I">
                   <l met="∪-∪∪-∪" rhyme="A">Profeten er kommen!</l>
                   <l met="∪-∪-∪∪-∪-∪∪" rhyme="Bb">Profeten, Herren, den alting vidende,</l>
-                  <l met="∪-∪-∪∪-∪" rhyme="A">till os, till os er han kommen<note type="met"
-                        >Identisk rim.</note>
+                  <l met="∪-∪-∪∪-∪" rhyme="A">till os, till os er han kommen<note type="met">Identisk rim.</note>
                   </l>
                   <l met="∪∪-∪∪-∪∪" rhyme="Bb">over Sandhavet ridende!</l>
                   <l met="∪-∪-∪∪-∪-∪∪" rhyme="Cc">Profeten, Herren, den aldrig fejlende,</l>
-                  <l met="∪-∪-∪∪-∪" rhyme="A">till os, till os er han kommen<note type="met"
-                        >Identisk rim.</note>
+                  <l met="∪-∪-∪∪-∪" rhyme="A">till os, till os er han kommen<note type="met">Identisk rim.</note>
                   </l>
                   <l met="∪∪-∪∪-∪∪" rhyme="Cc">gjennem Sandhavet sejlende!</l>
                   <l met="∪-∪∪-∪" rhyme="A">Rør Fløjten og Trommen;</l>
-                  <l met="∪-∪∪-∪∪-∪" rhyme="A">Profeten, Profeten er kommen!<note type="met"
-                        >Identisk rim.</note>
+                  <l met="∪-∪∪-∪∪-∪" rhyme="A">Profeten, Profeten er kommen!<note type="met">Identisk rim.</note>
                   </l>
                </lg>
             </sp>
@@ -9054,8 +9042,7 @@
                   <l met="-∪∪-∪∪-∪" rhyme="A">Unge Peer Gynt er en Galfrands; –</l>
                   <l met="∪-∪∪-∪-∪∪-" rhyme="b">han ved ikke paa hvad Fod han vil staa.</l>
                   <l met="-∪--∪-" rhyme="b">Pytt, sa’e Peer; – pytt, lad gaa!</l>
-                  <l met="-∪∪-∪∪-∪" rhyme="A">Unge Peer Gynt er en Galfrands!<note type="met"
-                        >Identisk rim.</note>
+                  <l met="-∪∪-∪∪-∪" rhyme="A">Unge Peer Gynt er en Galfrands!<note type="met">Identisk rim.</note>
                   </l>
                </lg>
             </sp>
@@ -9281,8 +9268,7 @@
             <sp who="#SOLVEJG">
                <speaker>KVINDEN</speaker>
                <stage>kaster et Øje nedover Vejen og synger</stage>
-               <lg type="strofisk-strofegruppe-Erlkönigstrofe" met="bi++ '8 '8 '8 '8"
-                  rhyme="a a b b">
+               <lg type="strofisk-strofegruppe-Erlkönigstrofe" met="bi++ '8 '8 '8 '8" rhyme="a a b b">
                   <l met="-∪∪∪-∪∪-∪∪-" rhyme="a">Kanske vil der gaa baade Vinter og Vaar,</l>
                   <l met="∪-∪∪∪-∪∪-∪-" rhyme="a">og næste Sommer med, og det hele Aar; –</l>
                   <l met="∪-∪∪∪-∪∪-∪-" rhyme="b">
@@ -10896,8 +10882,7 @@
                   <l met="∪∪-∪-∪∪-∪-" rhyme="k''">Var jeg yngre, tror jeg, jeg sadled om,</l>
                   <l met="∪-∪∪-∪-∪-∪" rhyme="L''">og prøved en Stund at spille Basen.</l>
                   <l met="∪∪-∪-∪∪-∪∪-∪" rhyme="M''">Der er Tid endnu! Det skal spørges i Byggden</l>
-                  <l met="∪-∪-∪∪∪-∪∪-∪" rhyme="M''">at Peer er kommen over Havet i Højden!<note
-                        type="met">Skal uttales 'bøggden' pga. rim.</note>
+                  <l met="∪-∪-∪∪∪-∪∪-∪" rhyme="M''">at Peer er kommen over Havet i Højden!<note type="met">Skal uttales 'bøggden' pga. rim.</note>
                   </l>
                   <l met="-∪∪∪-∪∪-∪∪-" rhyme="n''">Gaarden vil jeg vinde med ondt eller godt; –</l>
                   <l met="∪∪-∪∪-∪∪-∪∪∪-" rhyme="n''">jeg vil bygge den om; den skal lyse som et
@@ -11244,8 +11229,7 @@
             <stage>Peer Gynt dukker opp nær ved Hvælvet.</stage>
             <sp who="#PEERGYNT">
                <speaker>PEER GYNT</speaker>
-               <lg type="stikisk-jambisk-firtakter" met="bi '8|'9" rhyme="r r | R R | Rr Rr"
-                  part="I">
+               <lg type="stikisk-jambisk-firtakter" met="bi '8|'9" rhyme="r r | R R | Rr Rr" part="I">
                   <l rhyme="a">Hjælp! Baad fra Land! Hjælp! Jeg forgaar!</l>
                   <l rhyme="a">Frels, Herre Gud, – som skrevet staar!</l>
                </lg>
@@ -11914,8 +11898,7 @@
             <sp who="#DENGRAAKLAEDTE">
                <speaker>EN GRAAKLÆDT MAND</speaker>
                <lg part="M">
-                  <l met="∪-∪∪-∪∪-∪-" rhyme="k">Du glemmer jo mig! Er du fuld og yr?<note type="met"
-                        >Skal uttales 'ør' pga. rim.</note>
+                  <l met="∪-∪∪-∪∪-∪-" rhyme="k">Du glemmer jo mig! Er du fuld og yr?<note type="met">Skal uttales 'ør' pga. rim.</note>
                   </l>
                </lg>
             </sp>
@@ -12467,8 +12450,7 @@
             <sp who="#SUSNINGILUFTEN">
                <speaker>
                   <pb n="709"/>SUSNING I LUFTEN</speaker>
-               <lg type="strofisk-strofegruppe-kortvers" met="bi+ ('5 '5)²"
-                  rhyme="(A Bb)² | A B B A">
+               <lg type="strofisk-strofegruppe-kortvers" met="bi+ ('5 '5)²" rhyme="(A Bb)² | A B B A">
                   <lg type="strofe" rhyme="(A Bb)²">
                      <l met="-∪-∪" rhyme="A">Vi er Sange;</l>
                      <l met="∪-∪-∪∪" rhyme="Bb">du skulde sunget os! –</l>
@@ -14653,8 +14635,7 @@
             <sp who="#SOLVEJG">
                <speaker>SOLVEJG</speaker>
                <stage>synger sagte</stage>
-               <lg type="strofisk-strofegruppe-knittel" met="bi++ ('8 '8) | ('8 '9)"
-                  rhyme="(a a) | (x X)">
+               <lg type="strofisk-strofegruppe-knittel" met="bi++ ('8 '8) | ('8 '9)" rhyme="(a a) | (x X)">
                   <lg type="strofe" met="bi+ '8 '9" rhyme="x X">
                      <l met="-∪-∪∪-∪-" rhyme="x">Sov du, dyreste Gutten min!</l>
                      <l met="-∪-∪∪-∪-∪" rhyme="X">Jeg skal vugge dig, jeg skal vaage. –</l>

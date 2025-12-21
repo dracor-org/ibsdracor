@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000037">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -39,12 +40,10 @@
                   </licence>
                </availability>
                <bibl type="originalSource">
-                  <author>Henrik Ibsen</author>: <title type="main">Rypen i Justedal</title>. <title
-                     type="sub">Hovedtekst, tekstgrunnlag: NBO Ms.4° 932</title>. In:
+                  <author>Henrik Ibsen</author>: <title type="main">Rypen i Justedal</title>. <title type="sub">Hovedtekst, tekstgrunnlag: NBO Ms.4° 932</title>. In:
                      <edition>Henrik Ibsens skrifter, bind 2</edition>. <pubPlace>Oslo</pubPlace>:
                      <publisher>Aschehoug</publisher>
-                  <date when="2006">2006</date> s. <biblScope unit="page" from="189" to="259"
-                     >189-259</biblScope>
+                  <date when="2006">2006</date> s. <biblScope unit="page" from="189" to="259">189-259</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -105,8 +104,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000037"
-            passive="http://www.wikidata.org/entity/Q10381004"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000037" passive="http://www.wikidata.org/entity/Q10381004"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">
@@ -1381,8 +1379,7 @@
                   <l part="F" rhyme="X">Na, ja, det kan jeg gjerne.</l>
                </lg>
                <stage>(de sætte sig.)</stage>
-               <lg type="strofisk-strofegruppe-folkevisevers" met="bi+ ('8 '7)² ('8 '7)²"
-                  rhyme="(a B)² (c D)²">
+               <lg type="strofisk-strofegruppe-folkevisevers" met="bi+ ('8 '7)² ('8 '7)²" rhyme="(a B)² (c D)²">
                   <lg type="strofe">
                      <l met="∪-∪∪-∪∪-∪-" rhyme="a">Der vandred en Spillemand viden om,</l>
                      <l met="∪∪-∪∪-∪-∪" rhyme="B">gjennem Skog og i dybe Dale,</l>
@@ -1469,8 +1466,7 @@
             <sp who="#KNUD">
                <speaker>Knud</speaker>
                <lg part="F">
-                  <l met="∪-∪∪∪-∪-∪-" rhyme="a">Jeg trænger ikke Sølv, ei hel<retrace place="inline"
-                        >l</retrace>er Guld</l>
+                  <l met="∪-∪∪∪-∪-∪-" rhyme="a">Jeg trænger ikke Sølv, ei hel<retrace place="inline">l</retrace>er Guld</l>
                   <l met="∪-∪∪∪-∪∪∪-∪" rhyme="B">end aldrig sang jeg nogentid for Penge</l>
                </lg>
             </sp>
@@ -1816,8 +1812,7 @@
                <speaker>Paal</speaker>
                <lg part="M">
                   <l rhyme="X">Saa vil jeg ogsaa lægge mig til Hvile, –</l>
-                  <l rhyme="x">men Sangerknud! – Gud hved hvad der vil skee! – <stage>(gaa<unclear
-                           reason="writing">r</unclear>)</stage>
+                  <l rhyme="x">men Sangerknud! – Gud hved hvad der vil skee! – <stage>(gaa<unclear reason="writing">r</unclear>)</stage>
                   </l>
                </lg>
             </sp>
@@ -2539,9 +2534,7 @@
                efter Sangens Indhold, – Bjørn betragter hende med ængstelig Forundring.)</stage>
             <sp who="#ALFER">
                <speaker>Chor af Alfer.</speaker>
-               <lg type="strofisk-strofegruppe"
-                  met="1: (tri- 7 7 11 11) | (tri- 7 7 8 8), 2: bi 4 4 10"
-                  rhyme="1: a a B B, 2: C C B">
+               <lg type="strofisk-strofegruppe" met="1: (tri- 7 7 11 11) | (tri- 7 7 8 8), 2: bi 4 4 10" rhyme="1: a a B B, 2: C C B">
                   <lg type="strofe">
                      <lg met="tri- 7 7 11 11" rhyme="a a B B">
                         <l met="-∪∪-∪∪-" rhyme="a">Alferne hviske ved Kvæl</l>
@@ -2594,8 +2587,7 @@
                </lg>
                <stage>(de gaae)</stage>
             </sp>
-            <stage>Thunet paa Bjerkehoug; Træer i Baggrunden, til Venstre sees Væggen af Huset <gap
-                  reason="writing"/> –</stage>
+            <stage>Thunet paa Bjerkehoug; Træer i Baggrunden, til Venstre sees Væggen af Huset <gap reason="writing"/> –</stage>
             <sp who="#PAAL">
                <speaker>
                   <pb n="251"/>Paal</speaker>

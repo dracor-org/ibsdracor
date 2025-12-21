@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000024">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -43,8 +44,7 @@
                      <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1857</title>. In:
                      <edition>Henrik Ibsens skrifter, bind 3</edition>. <pubPlace>Oslo</pubPlace>:
                      <publisher>Aschehoug</publisher>
-                  <date when="2006">2006</date> s. <biblScope unit="page" from="7" to="178"
-                     >7-178</biblScope>
+                  <date when="2006">2006</date> s. <biblScope unit="page" from="7" to="178">7-178</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -135,8 +135,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000024"
-            passive="http://www.wikidata.org/entity/Q2008287"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000024" passive="http://www.wikidata.org/entity/Q2008287"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">
@@ -376,8 +375,7 @@
                      gaar ret artigt forresten; hør nu bare efter: <stage>(synger med dæmpet
                         Stemme)</stage>
                   </p>
-                  <lg type="strofisk-strofegruppe-folkevisevers" met="bi+ '8 '6 '8 '8 '6"
-                     rhyme="a b a a b">
+                  <lg type="strofisk-strofegruppe-folkevisevers" met="bi+ '8 '6 '8 '8 '6" rhyme="a b a a b">
                      <l met="∪-∪-∪∪-∪∪-" rhyme="a">«Fru Inger sidder paa Østeraad Gaard, –</l>
                      <l met="∪-∪-∪-" rhyme="b">Hun er vel svøbt i Skind,</l>
                      <l met="∪-∪-∪-∪∪-" rhyme="a">Hun er vel svøbt i Fløiel og Maard,</l>
@@ -2228,8 +2226,7 @@
                </sp>
                <sp who="#FRUINGER">
                   <speaker>FRU INGER</speaker>
-                  <p>I Sandhed, Herr Ridder! deri har I ikke taget Feil; jeg havde <pb n="66"
-                     />visselig mindst af Alle ventet at see Niels Lykke som Gjæst paa Østeraad.</p>
+                  <p>I Sandhed, Herr Ridder! deri har I ikke taget Feil; jeg havde <pb n="66"/>visselig mindst af Alle ventet at see Niels Lykke som Gjæst paa Østeraad.</p>
                </sp>
                <sp who="#NIELSLYKKE">
                   <speaker>NIELS LYKKE</speaker>
@@ -2801,8 +2798,7 @@
                         <stage>(efter en Pause)</stage> «Guds hellige Blod, hvor hun er stolt og
                      fager!» Havde han hvisket disse Ord i den lønligste Krog, tusinde Mile fra
                      Østeraad, – jeg havde hørt dem alligevel! Hvor jeg hader ham, hvor jeg altid
-                     har hadet ham, denne Niels Lykke! Fra jeg var et tiaars Barn har <pb n="82"
-                     />jeg hørt ham nævne. «Ingen anden Mand er som han», har de sagt mig; «han
+                     har hadet ham, denne Niels Lykke! Fra jeg var et tiaars Barn har <pb n="82"/>jeg hørt ham nævne. «Ingen anden Mand er som han», har de sagt mig; «han
                      agter Kvinden kun som et Legetøi, han slænger hende bort, naar hun ikke huer
                      ham længer.» Og det er til ham min Moder vilde byde mig frem; det er til ham,
                      hun tænkte at sige: Gjør min Datter til Din Hustru, og jeg giver Dig Gods og
@@ -5286,8 +5282,7 @@
                      Inger Gyldenløve, siges der over de tre nordiske Riger.
                         <stage>(hviskende)</stage> Jeg har stridt denne Strid, jeg har i tyve Aar
                      kjæmpet for mit Barns Frelse, – det er Nøglen til Gaaden! <stage>(efter en
-                        Pause, idet hun farer med Haanden over Panden, ligesom for at <pb n="150"
-                        />samle Tankerne)</stage> Jeg veed alligevel ikke, hvordan det hænger
+                        Pause, idet hun farer med Haanden over Panden, ligesom for at <pb n="150"/>samle Tankerne)</stage> Jeg veed alligevel ikke, hvordan det hænger
                      sammen, men det tykkes mig stundom, at Tankerne svigte og jeg maa ligesom gribe
                      efter dem for at holde dem fast. Er det fordi Striden nu er tilende, og jeg
                      saaledes ikke længere har Kløgten behov? Nei, nei! Det er nok heller en
@@ -5774,8 +5769,7 @@
                <sp who="#FRUINGER">
                   <speaker>FRU INGER</speaker>
                   <p>Ha, ha, ha! Det bærer ned ad Bakke med Inger Gyldenløves Slægt!
-                        <emph>Det</emph> var den Sidste af mine Døtre! Hvorfor kunde jeg <pb n="163"
-                     />ikke tiet med Hemmeligheden? havde hun Intet vidst, saa var hun bleven
+                        <emph>Det</emph> var den Sidste af mine Døtre! Hvorfor kunde jeg <pb n="163"/>ikke tiet med Hemmeligheden? havde hun Intet vidst, saa var hun bleven
                      lykkelig – paa en Maade. – Men det er min Skjæbne, det staar skrevet deroppe,
                      at jeg skal bryde den ene grønne Green efter den anden, indtil Stammen staar
                      bladløs tilbage! Lad gaa, lad gaa! jeg faar min Søn igjen; paa de Andre, paa

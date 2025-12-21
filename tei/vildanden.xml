@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000009">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -129,9 +130,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata"
-                   active="https://dracor.org/entity/ibs000009"
-                   passive="http://www.wikidata.org/entity/Q1217608"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000009" passive="http://www.wikidata.org/entity/Q1217608"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">

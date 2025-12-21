@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000028">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -40,12 +41,10 @@
                   </licence>
                </availability>
                <bibl type="originalSource">
-                  <author>Henrik Ibsen</author>: <title type="main">Norma</title>. <title type="sub"
-                     >Historisk-kritisk utgave, elektronisk versjon</title>. In: <edition>Henrik
+                  <author>Henrik Ibsen</author>: <title type="main">Norma</title>. <title type="sub">Historisk-kritisk utgave, elektronisk versjon</title>. In: <edition>Henrik
                      Ibsens skrifter, bind 1</edition>. <pubPlace>Oslo</pubPlace>:
                      <publisher>Aschehoug</publisher>
-                  <date when="2005">2005</date> s. <biblScope unit="page" from="341" to="362"
-                     >341-362</biblScope>
+                  <date when="2005">2005</date> s. <biblScope unit="page" from="341" to="362">341-362</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -104,8 +103,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000028"
-            passive="http://www.wikidata.org/entity/Q3285327"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000028" passive="http://www.wikidata.org/entity/Q3285327"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">

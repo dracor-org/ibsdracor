@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000014">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -42,8 +43,7 @@
                      <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1877</title>. In:
                      <edition>Henrik Ibsens skrifter, bind 7</edition>. <pubPlace>Oslo</pubPlace>:
                      <publisher>Aschehoug</publisher>
-                  <date when="2008">2008</date> s. <biblScope unit="page" from="7" to="208"
-                     >7-208</biblScope>
+                  <date when="2008">2008</date> s. <biblScope unit="page" from="7" to="208">7-208</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -155,8 +155,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000014"
-            passive="http://www.wikidata.org/entity/Q1774700"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000014" passive="http://www.wikidata.org/entity/Q1774700"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">
@@ -3614,8 +3613,7 @@
                   forfra – et nyt liv. Ser du, Johan, jeg har været din stedfortræder herhjemme,
                   jeg, din gamle legekammerat. De pligter, du ikke husked på at varetage her, eller
                   ikke kunde varetage, dem har jeg varetaget for dig. Jeg siger dig dette, for at du
-                  ikke skal have også <emph>det</emph> at bebrejde dig. Det forurettede barn har <pb
-                     n="99"/>jeg været en moder for, har opdraget hende, så godt jeg kunde –</p>
+                  ikke skal have også <emph>det</emph> at bebrejde dig. Det forurettede barn har <pb n="99"/>jeg været en moder for, har opdraget hende, så godt jeg kunde –</p>
             </sp>
             <sp who="#JOHAN">
                <speaker>JOHAN TØNNESEN</speaker>
@@ -6713,8 +6711,7 @@
                <p>Du har heller ikke ret til det. Ikke til at <emph>foragte</emph> mig! – Lona, du
                   kan ikke fatte, hvor usigelig ensom jeg står her i dette sammenknebne forkrøblede
                   samfund, – hvorledes jeg år for år har måttet slå af på min fordring til en hel
-                  udfyldende livsgerning. Hvad har jeg udrettet, så mangfoldigt det end kan <pb
-                     n="179"/>synes? Stykværk, – småpuslerier. Men andet eller mere tåles ikke her.
+                  udfyldende livsgerning. Hvad har jeg udrettet, så mangfoldigt det end kan <pb n="179"/>synes? Stykværk, – småpuslerier. Men andet eller mere tåles ikke her.
                   Vilde jeg gå et skridt foran den stemning og det syn, som just er oppe i døgnet,
                   så var det ude med min magt. Ved du, hvad vi er, vi, som regnes for samfundets
                   støtter? Vi er samfundets redskaber, hverken mere eller mindre.</p>
@@ -7385,8 +7382,7 @@
             </sp>
             <sp who="#RORLUND">
                <speaker>ADJUNKT RØRLUND</speaker>
-               <p>– det tager jeg som et lykkeligt varsel for foretagendet. At jeg <pb n="196"
-                  />berører dette punkt <emph>her</emph>, viser at vi befinder os i et hus, hvor den
+               <p>– det tager jeg som et lykkeligt varsel for foretagendet. At jeg <pb n="196"/>berører dette punkt <emph>her</emph>, viser at vi befinder os i et hus, hvor den
                   ethiske fordring stilles højere end familjebåndet.</p>
             </sp>
             <sp who="#STEMMER">

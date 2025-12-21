@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000026">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -44,8 +45,7 @@
                      <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1854</title>. In:
                      <edition>Henrik Ibsens skrifter, bind 1</edition>. <pubPlace>Oslo</pubPlace>:
                      <publisher>Aschehoug</publisher>
-                  <date when="2005">2005</date> s. <biblScope unit="page" from="293" to="339"
-                     >293-339</biblScope>
+                  <date when="2005">2005</date> s. <biblScope unit="page" from="293" to="339">293-339</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -115,8 +115,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000026"
-            passive="http://www.wikidata.org/entity/Q1774352"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000026" passive="http://www.wikidata.org/entity/Q1774352"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">
@@ -225,8 +224,7 @@
                <sp who="#RODERIK">
                   <speaker>RODERIK</speaker>
                   <stage>efter en Pause, skrivende</stage>
-                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R"
-                     part="I">
+                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R" part="I">
                      <l rhyme="X">«Da, hedder det, har Ragnarok forsonet</l>
                      <l rhyme="x">De vilde Kræfter, vakt et luttret Liv;</l>
                      <l rhyme="X">Alfader, Balder og den milde Freia</l>
@@ -473,8 +471,7 @@
                <stage>Gandalf og Vikingerne komme fra Høire.</stage>
                <sp who="#ASGAUT">
                   <speaker>ASGAUT</speaker>
-                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R"
-                     part="I">
+                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R" part="I">
                      <l part="I">Her er vi snart ved Stedet.</l>
                   </lg>
                </sp>
@@ -841,8 +838,7 @@
                <sp who="#BLANKA">
                   <speaker>BLANKA</speaker>
                   <stage>beskjæftiget med at flette en Blomsterkrands</stage>
-                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R"
-                     part="I">
+                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R" part="I">
                      <l rhyme="X">Der risler Kilder i de grønne Dale,</l>
                      <l rhyme="x">Der gynger klare Bølger under Strand;</l>
                      <l rhyme="x">Men Kildens Rislen, Bølgens sagte Røst</l>
@@ -1528,8 +1524,7 @@
                <sp who="#GANDALF">
                   <speaker>GANDALF</speaker>
                   <stage>afsides</stage>
-                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R"
-                     part="I">
+                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R" part="I">
                      <l part="I">Det er for sildigt!</l>
                   </lg>
                </sp>
@@ -1655,8 +1650,7 @@
                <sp who="#ASGAUT">
                   <speaker>ASGAUT</speaker>
                   <stage>til Gandalf</stage>
-                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R"
-                     part="I">
+                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R" part="I">
                      <l rhyme="X">En mager Fangst – dog altid Noget, Gandalf!</l>
                   </lg>
                </sp>

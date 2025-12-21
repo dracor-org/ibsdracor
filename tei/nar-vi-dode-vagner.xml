@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000002">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -43,8 +44,7 @@
                      <title type="sub">Hovedtekst, 1. utg. 1899</title>. In: <edition>Henrik Ibsens
                      skrifter, bind 10</edition>. <pubPlace>Oslo</pubPlace>:
                      <publisher>Aschehoug</publisher>
-                  <date when="2010">2010</date> s. <biblScope unit="page" from="167" to="288"
-                     >167-288</biblScope>
+                  <date when="2010">2010</date> s. <biblScope unit="page" from="167" to="288">167-288</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -98,8 +98,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000002"
-            passive="http://www.wikidata.org/entity/Q1728632"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000002" passive="http://www.wikidata.org/entity/Q1728632"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">
@@ -1196,8 +1195,7 @@
                <stage>(smiler lidt)</stage>
                <p>Vi arbejder med et hårdt materiale begge to, frue, – både jeg og Deres mand. Han
                   maser vel med marmorstenen, kan jeg tænke mig. Og jeg maser med spændte, dirrende
-                  bjørnesener. Og begge så lægger vi materialet under os tilslut. Gør os til <pb
-                     n="196"/>herre og mester over det. Gi’er os ikke, før vi har vundet bugt med
+                  bjørnesener. Og begge så lægger vi materialet under os tilslut. Gør os til <pb n="196"/>herre og mester over det. Gi’er os ikke, før vi har vundet bugt med
                   det, som strider så hårdt imod.</p>
             </sp>
             <sp who="#RUBEK">
@@ -1680,8 +1678,7 @@
             </sp>
             <sp who="#IRENE">
                <speaker>IRENE</speaker>
-               <p>Jeg har dræbt dem, siger jeg dig. Så ret inderligt har jeg myrdet <pb n="207"
-                  />dem. Så fort, så fort de bare kom til verden. Å, længe, længe før. Det ene efter
+               <p>Jeg har dræbt dem, siger jeg dig. Så ret inderligt har jeg myrdet <pb n="207"/>dem. Så fort, så fort de bare kom til verden. Å, længe, længe før. Det ene efter
                   det andet.</p>
             </sp>
             <sp who="#RUBEK">

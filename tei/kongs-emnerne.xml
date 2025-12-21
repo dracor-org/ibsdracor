@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000021">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -39,12 +40,10 @@
                   </licence>
                </availability>
                <bibl type="originalSource">
-                  <author>Henrik Ibsen</author>: <title type="main">Kongs-Emnerne</title>. <title
-                     type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1864</title>. In: <edition>Henrik
+                  <author>Henrik Ibsen</author>: <title type="main">Kongs-Emnerne</title>. <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1864</title>. In: <edition>Henrik
                      Ibsens skrifter, bind 4</edition>. <pubPlace>Oslo</pubPlace>:
                      <publisher>Aschehoug</publisher>
-                  <date when="2008">2008</date> s. <biblScope unit="page" from="217" to="464"
-                     >217-464</biblScope>
+                  <date when="2008">2008</date> s. <biblScope unit="page" from="217" to="464">217-464</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -374,8 +373,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000021"
-            passive="http://www.wikidata.org/entity/Q1774386"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000021" passive="http://www.wikidata.org/entity/Q1774386"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">
@@ -2309,8 +2307,7 @@
                   <p>Saa ventede jeg paa min Broders Død. Han var syg fra første Færd af; hver
                      Morgen, naar vi mødtes i den hellige Messe, sad jeg og skottede efter om ikke
                      Sotten tog til. Hvert Drag af Smerte, som strøg over hans Ansigt, var mig som
-                     et Vindpust i Sejlet og bar mig nærmere mod Tronen. Hvert Sukk, han <pb n="267"
-                     />lettede sin Ve og Vaande i, lød for mig, som Horn og Lur langt bortunder
+                     et Vindpust i Sejlet og bar mig nærmere mod Tronen. Hvert Sukk, han <pb n="267"/>lettede sin Ve og Vaande i, lød for mig, som Horn og Lur langt bortunder
                      Liderne, som Sendebud, der kom langvejs fra for at melde, at nu fik jeg snart
                      tage Rigsstyret. Slig rykkede jeg hver kjærlig Brodertanke opp med Rod og
                      Trevler; og Inge døde og Haakon kom, – og Birkebejnerne tog <emph>ham</emph>
@@ -2345,8 +2342,7 @@
                      alene, og sejre eller falde <emph>der</emph>. I stiller Snarer for Eders Uven,
                      I bygger Fælde for hans Fod og hænger hvasse Sverd over hans Hoved, I strør
                      Gift i alle Fade og I har hundrede Garn ude; men vil han ind i et af dem, saa
-                     vover I ikke at trække i Traaden; griber han efter Giften, saa tykkes <pb
-                        n="268"/>det Jer tryggere at han falder for Sverd; er han ved at lade sig
+                     vover I ikke at trække i Traaden; griber han efter Giften, saa tykkes <pb n="268"/>det Jer tryggere at han falder for Sverd; er han ved at lade sig
                      fange om Morgenen, saa finder I det bedre at det sker ved Kveldstid.</p>
                </sp>
                <sp who="#SKULE">

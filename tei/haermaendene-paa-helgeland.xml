@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000023">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -43,8 +44,7 @@
                   Helgeland</title>. <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg.
                      1858</title>. In: <edition>Henrik Ibsens skrifter, bind 3</edition>.
                      <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
-                  <date when="2006">2006</date> s. <biblScope unit="page" from="349" to="475"
-                     >349-475</biblScope>
+                  <date when="2006">2006</date> s. <biblScope unit="page" from="349" to="475">349-475</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -138,8 +138,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000023"
-            passive="http://www.wikidata.org/entity/Q3285405"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000023" passive="http://www.wikidata.org/entity/Q3285405"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">
@@ -461,8 +460,7 @@
                   <p>Det maa den; men ubillig skal jeg ikke være, og Gunnar er mig nævnt som en
                      hæderlig Mand. Glad er jeg ogsaa at jeg foer i denne Færd; Tiden faldt mig lang
                      paa Island tilslut; derude paa de blaa Vande var jeg bleven gammel og graa, det
-                     bares mig for som jeg maatte ud paa dem engang til førend jeg, –; <pb n="360"
-                     />naa ja, – Bergthora, min gode Hustru, var jo død for længe siden, mine ældste
+                     bares mig for som jeg maatte ud paa dem engang til førend jeg, –; <pb n="360"/>naa ja, – Bergthora, min gode Hustru, var jo død for længe siden, mine ældste
                      Sønner fore hver Sommer i Viking, og da nu Thorolf voxte til –</p>
                </sp>
                <sp who="#DAGNY">
@@ -610,8 +608,7 @@
                   <speaker>GUNNAR</speaker>
                   <stage>glad</stage>
                   <p>Sigurd – Fosterbroder! <stage>(ryster hans Haand)</stage> Ja er du med, da veed
-                     jeg vist, at Ørnulf kommer med Fred. <stage>(til Ørnulf)</stage> Ræk <pb
-                        n="364"/>mig Haanden, Gubbe! Hvad Ærinde du har her nordpaa er ikke svært at
+                     jeg vist, at Ørnulf kommer med Fred. <stage>(til Ørnulf)</stage> Ræk <pb n="364"/>mig Haanden, Gubbe! Hvad Ærinde du har her nordpaa er ikke svært at
                      skjønne; det gjælder Hjørdis, din Fosterdatter.</p>
                </sp>
                <sp who="#ORNULF">
@@ -739,8 +736,7 @@
                   <speaker>HJØRDIS</speaker>
                   <stage>koldt</stage>
                   <p>Tak. Jeg har alt spurgt at du ikke var langt borte. <stage>(træder nærmere,
-                        idet hun kaster et skarpt Blik over de Forsamlede)</stage> Gunnar <pb
-                        n="367"/>og – Kaare, min Avindsmand, – Ørnulf og hans Sønner, og –
+                        idet hun kaster et skarpt Blik over de Forsamlede)</stage> Gunnar <pb n="367"/>og – Kaare, min Avindsmand, – Ørnulf og hans Sønner, og –
                         <stage>(idet hun faar Øie paa Sigurd, farer hun næsten umærkeligt sammen,
                         tier lidt, men fatter sig og siger)</stage> Nu, Mange seer jeg her, som jeg
                      drager Kjendsel paa, – men ikke veed jeg hvem der er mig bedst sindet.</p>
@@ -1465,8 +1461,7 @@
                   <p>Farvel da, min vakkre Gut; tee dig høvisk i Gildehuset, saa jeg har Hæder af
                      dig. Unødig Tale skal du ikke føre, men det du mæler, skal være hvast som en
                      Sværdsæg. Vær vennesæl saalænge Godt vises dig, men ægges du, da skal du ikke
-                     tie dertil. Drik ikke Mere end du kan bære, men viis heller ikke <pb n="385"
-                     />Hornet fra dig, naar det bydes med Maade, paa det at du ikke skal holdes for
+                     tie dertil. Drik ikke Mere end du kan bære, men viis heller ikke <pb n="385"/>Hornet fra dig, naar det bydes med Maade, paa det at du ikke skal holdes for
                      en Kvindekarl.</p>
                </sp>
                <sp who="#THOROLF">
@@ -3178,8 +3173,7 @@
                   <p>Alt fra den Dag vi stævnede fra Island, saa jeg nok at det ikke vilde gaa godt
                      med os. Dit Sind er stolt og stærkt; der ere de Tider, da jeg fast ræddes for
                      dig; men, sælsomt, – derved er det mest at jeg har dig saa kjær; der staar en
-                     koglende Skræk af dig, – det bæres mig for, at du kunde lokke mig til <pb
-                        n="430"/>Udaad, og at det vilde tykkes mig vel gjort, alt det du krævede.
+                     koglende Skræk af dig, – det bæres mig for, at du kunde lokke mig til <pb n="430"/>Udaad, og at det vilde tykkes mig vel gjort, alt det du krævede.
                         <stage>(med stille Hovedrysten)</stage> Ugrundeligt er Nornens Raad; Sigurd
                      skulde blevet din Husbond.</p>
                </sp>

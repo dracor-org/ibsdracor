@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000003">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -105,8 +106,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000003"
-            passive="http://www.wikidata.org/entity/Q289117"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000003" passive="http://www.wikidata.org/entity/Q289117"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">
@@ -448,8 +448,7 @@
                <p>Ja, det héd sig altid, at vi måtte «repræsentere». Og så repræsenterte han da også
                   rigtig tilgavns! Kørte med firspand, – som om han var en konge. Lod folk bukke og
                   skrabe for sig, som for en konge. <stage>(lér)</stage> Og så kaldte de ham ved
-                  fornavn, – hele landet udover – akkurat som om han var kongen selv. <pb n="18"
-                  />«John Gabriel», «John Gabriel». Alle så vidste de, hvad «John Gabriel» var for
+                  fornavn, – hele landet udover – akkurat som om han var kongen selv. <pb n="18"/>«John Gabriel», «John Gabriel». Alle så vidste de, hvad «John Gabriel» var for
                   en størrelse!</p>
             </sp>
             <sp who="#ELLARENTHEIM">
@@ -4347,8 +4346,7 @@
                <speaker>FRU BORKMAN</speaker>
                <stage>hårdt</stage>
                <p>Lad så være med det. <stage>(truende, med oprakt arm)</stage> Men <emph>det</emph>
-                  siger jeg, – sin fars navn skal han bære! Og bære det højt frem til <pb n="108"
-                  />ære igen! Og jeg alene vil være hans mor! Jeg alene! Mit skal min søns hjerte
+                  siger jeg, – sin fars navn skal han bære! Og bære det højt frem til <pb n="108"/>ære igen! Og jeg alene vil være hans mor! Jeg alene! Mit skal min søns hjerte
                   være. Mit og ingen andens.</p>
             </sp>
             <stage>Hun går ud gennem tapetdøren og lukker efter sig.</stage>
@@ -4590,8 +4588,7 @@
                <p>Jeg også. I de fem endeløse år i cellen – og andetsteds – havde jeg tid til det.
                   Og i de otte år ovenpå i salen havde jeg endnu bedre tid. Jeg har taget hele
                   retssagen op igen til fornyet behandling – for mig selv. Gang efter gang har jeg
-                  taget den op. Jeg har været min egen anklager, min egen forsvarer og <pb n="114"
-                  />min egen dommer. Mere upartisk, end nogensomhelst anden, – det tør jeg nok sige.
+                  taget den op. Jeg har været min egen anklager, min egen forsvarer og <pb n="114"/>min egen dommer. Mere upartisk, end nogensomhelst anden, – det tør jeg nok sige.
                   Jeg har gået deroppe på salsgulvet og krænget og endevendt hver eneste en af mine
                   handlinger. Betragtet dem både forfra og bagfra lige så skånselløst, lige så
                   ubarmhjertigt, som nogen advokat. Og det domsresultat, jeg stadig kommer til, det
@@ -4668,8 +4665,7 @@
                <speaker>BORKMAN</speaker>
                <stage>ryster på hovedet og sér belærende på hende</stage>
                <p>Der sker ingenting nyt. Men <emph>det</emph>, som <emph>er</emph> sket, – det
-                  gentager sig heller ikke. Det er øjet, som forvandler handlingen. Det <pb n="116"
-                  />genfødte øje forvandler den gamle handling. <stage>(afbryder)</stage> Nå, det
+                  gentager sig heller ikke. Det er øjet, som forvandler handlingen. Det <pb n="116"/>genfødte øje forvandler den gamle handling. <stage>(afbryder)</stage> Nå, det
                   forstår du ikke.</p>
             </sp>
             <sp who="#FRUBORKMAN">

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000031">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -39,12 +40,10 @@
                   </licence>
                </availability>
                <bibl type="originalSource">
-                  <author>Henrik Ibsen</author>: <title type="main">Hvide heste</title>. <title
-                     type="sub">Hovedtekst, tekstgrunnlag: NBO Ms.4° 1291c</title>. In:
+                  <author>Henrik Ibsen</author>: <title type="main">Hvide heste</title>. <title type="sub">Hovedtekst, tekstgrunnlag: NBO Ms.4° 1291c</title>. In:
                      <edition>Henrik Ibsens skrifter, bind 8</edition>. <pubPlace>Oslo</pubPlace>:
                      <publisher>Aschehoug</publisher>
-                  <date when="2009">2009</date> s. <biblScope unit="page" from="235" to="321"
-                     >235-321</biblScope>
+                  <date when="2009">2009</date> s. <biblScope unit="page" from="235" to="321">235-321</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -101,8 +100,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000031"
-            passive="http://www.wikidata.org/entity/Q125449950"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000031" passive="http://www.wikidata.org/entity/Q125449950"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">
@@ -616,8 +614,7 @@
                <speaker>Gylling.</speaker>
                <p>Ja men herre gud, – en mand med en så tilsmudset fortid! Nå, de radikale er jo
                   ikke kræsne, hvad det moralske grundlag angår. Derfor er han en farlig mand, denne
-                  Mortensgård. Han er en af de farligste, vi har her. Og han tør bli’ <pb n="257"
-                  />endnu besværligere at trækkes med for fremtiden. For nu tænker han på at udvide
+                  Mortensgård. Han er en af de farligste, vi har her. Og han tør bli’ <pb n="257"/>endnu besværligere at trækkes med for fremtiden. For nu tænker han på at udvide
                   sin avis; den skal komme ud hver dag; jeg ved fra sikker kilde at han ser sig om
                   efter en habil medarbejder.</p>
             </sp>
@@ -780,8 +777,7 @@
             </sp>
             <stage>(Madam Helset åbner døren til højre for Ulrik Rosenhjelm, går igen og lukker
                efter ham. Han har uredt hår og skæg, og er klædt som en almindelig landstryger.
-               Ingen overfrakke; dårligt skotøj; skjorte ses ikke. Gamle sor<unclear
-                  reason="writing">t</unclear>e hansker påtrukne; en bulehat sammenklappet under ar-
+               Ingen overfrakke; dårligt skotøj; skjorte ses ikke. Gamle sor<unclear reason="writing">t</unclear>e hansker påtrukne; en bulehat sammenklappet under ar-
                men og en stok i hånden.)</stage>
             <sp who="#BRENDEL">
                <speaker>Rosenhjelm.</speaker>
@@ -933,8 +929,7 @@
             <sp who="#BRENDEL">
                <speaker>
                   <pb n="269"/>Rosenhjelm.</speaker>
-               <p>Kunde jeg ikke se det på Dem! Nå, det er ikke umuligt at jeg kommer hj<retrace
-                     place="inline">e</retrace>m til Dem og skriver mig ind.</p>
+               <p>Kunde jeg ikke se det på Dem! Nå, det er ikke umuligt at jeg kommer hj<retrace place="inline">e</retrace>m til Dem og skriver mig ind.</p>
             </sp>
             <sp who="#KROLL">
                <speaker>Gylling.</speaker>
@@ -2314,8 +2309,7 @@
             </sp>
             <sp who="#ROSMER">
                <speaker>Rosmer.</speaker>
-               <p>Ja det var de. – Sig mig, har De læst «Amtstidenden» <retrace place="inline"
-                     >f</retrace>or idag?</p>
+               <p>Ja det var de. – Sig mig, har De læst «Amtstidenden» <retrace place="inline">f</retrace>or idag?</p>
             </sp>
             <sp who="#MORTENSGAARD">
                <speaker>Mortensgård.</speaker>

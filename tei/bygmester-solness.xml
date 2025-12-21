@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000005">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -42,8 +43,7 @@
                      <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1892</title>. In:
                      <edition>Henrik Ibsens skrifter, bind 9</edition>. <pubPlace>Oslo</pubPlace>:
                      <publisher>Aschehoug</publisher>
-                  <date when="2009">2009</date> s. <biblScope unit="page" from="205" to="390"
-                     >205-390</biblScope>
+                  <date when="2009">2009</date> s. <biblScope unit="page" from="205" to="390">205-390</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -118,8 +118,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000005"
-            passive="http://www.wikidata.org/entity/Q641378"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000005" passive="http://www.wikidata.org/entity/Q641378"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">
@@ -4999,8 +4998,7 @@
                <stage>fortrolig</stage>
                <p>Tror ikke De også det, Hilde, at der findes enkelte udkårne, udvalgte mennesker,
                   som har fåt nåde og magt og evne til at <emph>ønske</emph> noget,
-                     <emph>begære</emph> noget, <emph>ville</emph> noget – så ihærdigt og <pb
-                     n="320"/>så – så ubønhørligt – at de <emph>må</emph> få det tilslut. Tror De
+                     <emph>begære</emph> noget, <emph>ville</emph> noget – så ihærdigt og <pb n="320"/>så – så ubønhørligt – at de <emph>må</emph> få det tilslut. Tror De
                   ikke det?</p>
             </sp>
             <sp who="#HILDE">

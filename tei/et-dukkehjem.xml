@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000013">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -38,12 +39,10 @@
                   </licence>
                </availability>
                <bibl type="originalSource">
-                  <author>Henrik Ibsen</author>: <title type="main">Et dukkehjem</title>. <title
-                     type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1879</title>. In: <edition>Henrik
+                  <author>Henrik Ibsen</author>: <title type="main">Et dukkehjem</title>. <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1879</title>. In: <edition>Henrik
                      Ibsens skrifter, bind 7</edition>. <pubPlace>Oslo</pubPlace>:
                      <publisher>Aschehoug</publisher>
-                  <date when="2008">2008</date> s. <biblScope unit="page" from="209" to="379"
-                     >209-379</biblScope>
+                  <date when="2008">2008</date> s. <biblScope unit="page" from="209" to="379">209-379</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -108,8 +107,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000013"
-            passive="http://www.wikidata.org/entity/Q669694"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000013" passive="http://www.wikidata.org/entity/Q669694"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">
@@ -925,8 +923,7 @@
             <sp who="#FRULINDE">
                <speaker>FRU LINDE</speaker>
                <p>Nej, du; bare så usigelig tom. Ingen at leve for mere. <stage>(står urolig
-                     op)</stage> Derfor holdt jeg det ikke længere ud derborte i den <pb n="232"
-                  />lille afkrog. Her må det dog være lettere at finde noget, som kan lægge beslag
+                     op)</stage> Derfor holdt jeg det ikke længere ud derborte i den <pb n="232"/>lille afkrog. Her må det dog være lettere at finde noget, som kan lægge beslag
                   på en og optage ens tanker. Kunde jeg bare være så lykkelig at få en fast post,
                   noget kontorarbejde –</p>
             </sp>
@@ -5925,8 +5922,7 @@
                <stage>med forvildede øjne, famler omkring, griber Helmers domino, slår den omkring
                   sig og hvisker hurtigt, hæst og afbrudt</stage>
                <p>Aldrig se ham mere. Aldrig. Aldrig. Aldrig. <stage>(kaster sit schavl over
-                     hovedet)</stage> Aldrig se børnene mere heller. Ikke dem heller. <pb n="357"
-                  />Aldrig; aldrig. – Å, det iskolde sorte vand. Å, det bundløse –; dette –. Å, når
+                     hovedet)</stage> Aldrig se børnene mere heller. Ikke dem heller. <pb n="357"/>Aldrig; aldrig. – Å, det iskolde sorte vand. Å, det bundløse –; dette –. Å, når
                   det bare var over. – Nu har han det; nu læser han det. Å nej, nej; ikke endnu.
                   Torvald, farvel du og børnene –</p>
             </sp>
@@ -6468,8 +6464,7 @@
                <p>Det tror jeg ikke længere på. Jeg tror, at jeg er først og fremst et menneske,
                   jeg, ligesåvel som du, – eller ialfald, at jeg skal forsøge på at bli’e det. Jeg
                   ved nok, at de fleste gir dig ret, Torvald, og at der står noget sligt i bøgerne.
-                  Men jeg kan ikke længere lade mig nøje med, hvad de fleste siger og hvad der <pb
-                     n="371"/>står i bøgerne. Jeg må selv tænke over de ting og se at få rede på
+                  Men jeg kan ikke længere lade mig nøje med, hvad de fleste siger og hvad der <pb n="371"/>står i bøgerne. Jeg må selv tænke over de ting og se at få rede på
                   dem.</p>
             </sp>
             <sp who="#HELMER">
@@ -6504,8 +6499,7 @@
                <p>Ja, Torvald, det er ikke godt at svare på det. Jeg ved det jo slet ikke. Jeg er
                   ganske i vilderede med de ting. Jeg ved bare, at jeg har en ganske anden mening om
                   sligt noget, end du. Jeg hører jo også nu, at lovene er anderledes, end jeg
-                  tænkte; men at de love skulde være rigtige, det kan jeg umulig få i mit <pb
-                     n="372"/>hode. En kvinde skal altså ikke ha’e ret til at skåne sin gamle døende
+                  tænkte; men at de love skulde være rigtige, det kan jeg umulig få i mit <pb n="372"/>hode. En kvinde skal altså ikke ha’e ret til at skåne sin gamle døende
                   fader, eller til at redde sin mands liv! Sligt tror jeg ikke på.</p>
             </sp>
             <sp who="#HELMER">

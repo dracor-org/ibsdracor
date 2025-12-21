@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000015">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -44,8 +45,7 @@
                      <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1875</title>. In:
                      <edition>Henrik Ibsens skrifter, bind 1</edition>. <pubPlace>Oslo</pubPlace>:
                      <publisher>Aschehoug</publisher>
-                  <date when="2005">2005</date> s. <biblScope unit="page" from="125" to="253"
-                     >125-253</biblScope>
+                  <date when="2005">2005</date> s. <biblScope unit="page" from="125" to="253">125-253</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -164,8 +164,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000015"
-            passive="http://www.wikidata.org/entity/Q1774375"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000015" passive="http://www.wikidata.org/entity/Q1774375"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">
@@ -906,8 +905,7 @@
                <lg part="M">
                   <l rhyme="x">Så lad os nytte dette øjeblik!</l>
                   <l rhyme="X">Højt over fjelde; vidt bag havets flade, –</l>
-                  <l rhyme="l">langt, langt fra Roma standser først vor flugt.<note type="met"
-                        >Identisk rim.</note>
+                  <l rhyme="l">langt, langt fra Roma standser først vor flugt.<note type="met">Identisk rim.</note>
                   </l>
                   <l rhyme="N">Dig følger sikkert tusend venners skare;</l>
                   <l rhyme="o">i fjerne lande fæster vi vort bo;</l>
@@ -1337,8 +1335,7 @@
                   <pb n="159"/>AURELIA</speaker>
                <lg part="M">
                   <l rhyme="x">Er din Aurelia dig ikke nok, –</l>
-                  <l rhyme="J">formår hun ej, din sjæl tilfreds at stille, –<note type="met"
-                        >Identisk rim.</note>
+                  <l rhyme="J">formår hun ej, din sjæl tilfreds at stille, –<note type="met">Identisk rim.</note>
                   </l>
                   <l rhyme="x">så åbn dog hjertet for et venligt ord,</l>
                   <l rhyme="X">en kærlig trøst ifra din hustrus læber.</l>
@@ -2633,8 +2630,7 @@
             <sp who="#ALLEVENNERNE">
                <speaker>ALLE VENNERNE</speaker>
                <stage>synger</stage>
-               <lg type="strofisk-strofegruppe-Buchnervers" met="tri 5 5 5 4 5 5 5 4"
-                  rhyme="A A X x B B X x | X X X x A A X x">
+               <lg type="strofisk-strofegruppe-Buchnervers" met="tri 5 5 5 4 5 5 5 4" rhyme="A A X x B B X x | X X X x A A X x">
                   <lg type="strofe" rhyme="A A X x B B X x">
                      <l rhyme="A">Bacchus vi hylder;</l>
                      <l rhyme="A">glade vi fylder</l>
@@ -4464,8 +4460,7 @@
             </sp>
             <sp who="#GJENFERD">
                <speaker>SKYGGEN</speaker>
-               <lg type="strofisk-strofe-jambisk-firtakter" met="bi ('8 '9)² ('8 '9)²"
-                  rhyme="(a B)² (c D)²">
+               <lg type="strofisk-strofe-jambisk-firtakter" met="bi ('8 '9)² ('8 '9)²" rhyme="(a B)² (c D)²">
                   <l rhyme="a">Nej, først bag dødens dunkle port</l>
                   <l rhyme="B">forsvinder dæmringen, som hylles</l>
                   <l rhyme="a">omkring hvad grufuldt og hvad stort</l>
@@ -5576,8 +5571,7 @@
             <sp who="#CATILINA">
                <speaker>CATILINA</speaker>
                <stage>hen for sig</stage>
-               <lg type="strofisk-strofe-jambisk-firtakter-(ufullstendig)" part="Y" met="bi '8 '9"
-                  rhyme="c D">
+               <lg type="strofisk-strofe-jambisk-firtakter-(ufullstendig)" part="Y" met="bi '8 '9" rhyme="c D">
                   <l rhyme="c">«Du falder for din egen hånd, –</l>
                   <l rhyme="D">og dog en fremmed skal dig fælde.»</l>
                </lg>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000008">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -38,8 +39,7 @@
                   </licence>
                </availability>
                <bibl type="originalSource">
-                  <author>Henrik Ibsen</author>: <title type="main">Rosmersholm</title>. <title
-                     type="sub">Hovedtekst, 1. utg. 1886</title>. In: <edition>Henrik Ibsens
+                  <author>Henrik Ibsen</author>: <title type="main">Rosmersholm</title>. <title type="sub">Hovedtekst, 1. utg. 1886</title>. In: <edition>Henrik Ibsens
                      skrifter, bind 8</edition>. 
                   <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
                   <date when="2009">2009</date>
@@ -99,8 +99,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000008"
-            passive="http://www.wikidata.org/entity/Q1432009"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000008" passive="http://www.wikidata.org/entity/Q1432009"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">

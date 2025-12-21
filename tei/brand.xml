@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000020">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -39,12 +40,10 @@
                   </licence>
                </availability>
                <bibl type="originalSource">
-                  <author>Henrik Ibsen</author>: <title type="main">Brand</title>. <title type="sub"
-                     >Hovedtekst, tekstgrunnlag: 1. utg. 1866</title>. In: <edition>Henrik Ibsens
+                  <author>Henrik Ibsen</author>: <title type="main">Brand</title>. <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1866</title>. In: <edition>Henrik Ibsens
                      skrifter, bind 5</edition>. <pubPlace>Oslo</pubPlace>:
                      <publisher>Aschehoug</publisher>
-                  <date when="2007">2007</date> s. <biblScope unit="page" from="191" to="474"
-                     >191-474</biblScope>
+                  <date when="2007">2007</date> s. <biblScope unit="page" from="191" to="474">191-474</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -307,8 +306,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000020"
-            passive="http://www.wikidata.org/entity/Q2660511"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000020" passive="http://www.wikidata.org/entity/Q2660511"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">
@@ -5928,8 +5926,7 @@
                <speaker>BRAND</speaker>
                <lg part="M">
                   <l rhyme="l''">Hør, Foged, er ej, fattet kort,</l>
-                  <l rhyme="l''">al Talens Kjærne <emph>den</emph>: rejs bort!?<note type="met"
-                        >Urent rim.</note>
+                  <l rhyme="l''">al Talens Kjærne <emph>den</emph>: rejs bort!?<note type="met">Urent rim.</note>
                   </l>
                </lg>
             </sp>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000034">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -39,13 +40,11 @@
                   </licence>
                </availability>
                <bibl type="originalSource">
-                  <author>Henrik Ibsen</author>: <title type="main">Svanhild</title>. <title
-                     type="sub">Hovedtekst, tekstgrunnlag: NBO Ms.4° 926</title>. In:
+                  <author>Henrik Ibsen</author>: <title type="main">Svanhild</title>. <title type="sub">Hovedtekst, tekstgrunnlag: NBO Ms.4° 926</title>. In:
                      <edition>Henrik Ibsens skrifter, bind 4</edition>. <editor>Christian Janss,
                      Hilde Bøe og Ellen Nessheim Wiger</editor>
                   <pubPlace>Oslo</pubPlace>: <publisher>Aschehoug</publisher>
-                  <date when="2008">2008</date> s. <biblScope unit="page" from="7" to="44"
-                     >7-44</biblScope>
+                  <date when="2008">2008</date> s. <biblScope unit="page" from="7" to="44">7-44</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -112,8 +111,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000034"
-            passive="http://www.wikidata.org/entity/Q17195108"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000034" passive="http://www.wikidata.org/entity/Q17195108"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">
@@ -729,8 +727,7 @@
                   <speaker>Falk.</speaker>
                   <p>Aa hvad. Den havde sunget alt hvad den vid- ste, og hvad den sang, det formede
                      sig i mig til et Digt; Digtet skal jeg skrive iaften, det skal komme ud blandt
-                     Mængden; tør- hænde det kan gjøre et Hjerte glad og frit for en Stu<retrace
-                        place="inline">n</retrace>d; og skeer det, hvad har da slig en ganske
+                     Mængden; tør- hænde det kan gjøre et Hjerte glad og frit for en Stu<retrace place="inline">n</retrace>d; og skeer det, hvad har da slig en ganske
                      almindelig Stær at leve for længere. Det er mere end der times de Fleste af
                      dens Lige; og tilmed slig en, som ovenikjøbet havde i Lyde.</p>
                </sp>
@@ -897,10 +894,8 @@
                </sp>
                <sp who="#FALK">
                   <speaker>Falk.</speaker>
-                  <p>De græder, Svanhild! O, gjør ikke det, <stage>(tager hendes <pb n="39"
-                        />Tørklæde og tørrer Taarerne af)</stage> Saa, saa, – vær nu ikke bedrøvet;
-                     Gud ved, jeg vil ikke gjøre Dem ondt. Der kommer d<retrace place="inline"
-                        >e</retrace> Andre. Svar mig havde De Mod til at leve det Liv med mig, rigt,
+                  <p>De græder, Svanhild! O, gjør ikke det, <stage>(tager hendes <pb n="39"/>Tørklæde og tørrer Taarerne af)</stage> Saa, saa, – vær nu ikke bedrøvet;
+                     Gud ved, jeg vil ikke gjøre Dem ondt. Der kommer d<retrace place="inline">e</retrace> Andre. Svar mig havde De Mod til at leve det Liv med mig, rigt,
                      men kort, kort, bare en Sommer over?</p>
                </sp>
                <sp who="#SVANHILD">

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000016">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -43,8 +44,7 @@
                      <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1874</title>. In:
                      <edition>Henrik Ibsens skrifter, bind 3</edition>. <pubPlace>Oslo</pubPlace>:
                      <publisher>Aschehoug</publisher>
-                  <date when="2006">2006</date> s. <biblScope unit="page" from="179" to="348"
-                     >179-348</biblScope>
+                  <date when="2006">2006</date> s. <biblScope unit="page" from="179" to="348">179-348</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -142,8 +142,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000016"
-            passive="http://www.wikidata.org/entity/Q2008287"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000016" passive="http://www.wikidata.org/entity/Q2008287"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">
@@ -371,8 +370,7 @@
                <p>Ja, den er i folkemunde. Det er en skammelig nidvise; det forstår sig. Men den går
                   ret artigt forresten. Hør nu bare efter.</p>
                <stage>(han synger med dæmpet stemme)</stage>
-               <lg type="strofisk-strofegruppe-folkevisevers" met="bi+ '8 '6 '8 '8 '6"
-                  rhyme="a b a a b">
+               <lg type="strofisk-strofegruppe-folkevisevers" met="bi+ '8 '6 '8 '8 '6" rhyme="a b a a b">
                   <l met="∪-∪-∪∪-∪-" rhyme="a">Fru Inger sidder på Østråt gård;</l>
                   <l met="∪-∪-∪-" rhyme="b">hun er vel svøbt i skind.</l>
                   <l met="∪-∪-∪-∪∪-" rhyme="a">Hun er vel svøbt i fløjel og mård;</l>
@@ -2350,8 +2348,7 @@
                <p>Først og fremst, fru Inger, må jeg bede eder ikke at lægge nogen vægt på de
                   letfærdige ord, hvormed jeg før kan have omtalt det, der er os imellem. Tro ikke
                   at jeg nogen stund har tabt af tankerne den skyld, jeg står i til eder. Sæt, at
-                  det længe havde været min agt, såvidt muligt, at gøre godt igen, hvad <pb n="241"
-                  />jeg har forbrudt. Sæt, at det var derfor jeg havde skaffet mig denne sendelse
+                  det længe havde været min agt, såvidt muligt, at gøre godt igen, hvad <pb n="241"/>jeg har forbrudt. Sæt, at det var derfor jeg havde skaffet mig denne sendelse
                   herop.</p>
             </sp>
             <sp who="#FRUINGER">
@@ -2814,8 +2811,7 @@
                   ham!</p>
                <p>De siger, at Nils Lykke er anderledes end andre mænd. Det er ikke sandt! Der er
                   intet sælsomt ved ham. Der findes mange, mange, som han! Når Bjørn fortalte mig
-                  eventyr, da så alle prinser ud som Nils Lykke. Når jeg sad ensom her <pb n="254"
-                  />i salen og drømte krøniker, og mine riddere kom og gik, – allesammen så de ud
+                  eventyr, da så alle prinser ud som Nils Lykke. Når jeg sad ensom her <pb n="254"/>i salen og drømte krøniker, og mine riddere kom og gik, – allesammen så de ud
                   som Nils Lykke.</p>
                <p>Hvor det er forunderligt, og hvor det er godt at hade. Aldrig har jeg vidst, hvor
                   sødt det var – før ikveld. Nej, – ikke for tusend års liv vilde jeg sælge de
@@ -5628,8 +5624,7 @@
                <p>Jeg beskærmer eder fra denne stund. Har jeg forsyndet mig imod eder, – nu, ved
                   himlen, så vil jeg også prøve på at oprette min brøde. Men ud <emph>må</emph> jeg
                   nu, om jeg så skal <emph>hugge</emph> mig igennem porten! – Eline, – sig din moder
-                  alt! – Og I, fru Inger, lad vort regnskab være glemt! Vær højmodig – og taus! <pb
-                     n="330"/>Tro mig, I skal komme til at vide mig stor tak før dagen gryr.</p>
+                  alt! – Og I, fru Inger, lad vort regnskab være glemt! Vær højmodig – og taus! <pb n="330"/>Tro mig, I skal komme til at vide mig stor tak før dagen gryr.</p>
             </sp>
             <stage>Han går skyndsomt ud til højre.</stage>
             <sp who="#FRUINGER">

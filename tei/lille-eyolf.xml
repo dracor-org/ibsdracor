@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000004">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -38,12 +39,10 @@
                   </licence>
                </availability>
                <bibl type="originalSource">
-                  <author>Henrik Ibsen</author>: <title type="main">Lille Eyolf</title>. <title
-                     type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1894</title>. In: <edition>Henrik
+                  <author>Henrik Ibsen</author>: <title type="main">Lille Eyolf</title>. <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1894</title>. In: <edition>Henrik
                      Ibsens skrifter, bind 9</edition>. <pubPlace>Oslo</pubPlace>:
                      <publisher>Aschehoug</publisher>
-                  <date when="2009">2009</date> s. <biblScope unit="page" from="391" to="532"
-                     >391-532</biblScope>
+                  <date when="2009">2009</date> s. <biblScope unit="page" from="391" to="532">391-532</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -100,8 +99,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000004"
-            passive="http://www.wikidata.org/entity/Q983970"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000004" passive="http://www.wikidata.org/entity/Q983970"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">
@@ -3907,8 +3905,7 @@
                <stage>greben af stillere stemning</stage>
                <p>Jeg drømte om Eyolf inat. Jeg syntes, jeg så ham komme op fra bryggen. Han kunde
                   springe, ligesom andre gutter. Der var altså ingenting hændt ham. Hverken det ene
-                  eller det andet. Den kvælende virkelighed var altså bare en drøm, <pb n="480"
-                  />tænkte jeg. Å, hvor jeg takked og velsigned – <stage>(holder inde)</stage>
+                  eller det andet. Den kvælende virkelighed var altså bare en drøm, <pb n="480"/>tænkte jeg. Å, hvor jeg takked og velsigned – <stage>(holder inde)</stage>
                   hm –</p>
             </sp>
             <sp who="#RITA">

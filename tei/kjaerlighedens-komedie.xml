@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000022">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -43,8 +44,7 @@
                      <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1862</title>. In:
                      <edition>Henrik Ibsens skrifter, bind 4</edition>. <pubPlace>Oslo</pubPlace>:
                      <publisher>Aschehoug</publisher>
-                  <date when="2008">2008</date> s. <biblScope unit="page" from="45" to="216"
-                     >45-216</biblScope>
+                  <date when="2008">2008</date> s. <biblScope unit="page" from="45" to="216">45-216</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -219,8 +219,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000022"
-            passive="http://www.wikidata.org/entity/Q3286220"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000022" passive="http://www.wikidata.org/entity/Q3286220"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">
@@ -313,8 +312,7 @@
             <sp who="#FALK">
                <speaker>FALK</speaker>
                <stage>reiser sig med hævet Glas og synger</stage>
-               <lg type="strofegruppe-trokeisk-firtakter" met="bi (8 7)² (8 7)²"
-                  rhyme="(A b)² (C d)²" part="I">
+               <lg type="strofegruppe-trokeisk-firtakter" met="bi (8 7)² (8 7)²" rhyme="(A b)² (C d)²" part="I">
                   <l rhyme="A">Solglad Dag i hegnet Have</l>
                   <l rhyme="b">Skabtes Dig til Lyst og Leg;</l>
                   <l rhyme="A">Tænk ej paa, at Høstens Gave</l>
@@ -3526,8 +3524,7 @@
                <lg part="M">
                   <l part="F" rhyme="N''">Ja, det er netop Frihed,</l>
                   <l rhyme="o''">At gjøre heltud Fyldest i sit Kald;</l>
-                  <l rhyme="N''">Og <emph>De</emph>, det ved jeg, blev af Himlen viet<note
-                        type="met">Urent rim.</note>
+                  <l rhyme="N''">Og <emph>De</emph>, det ved jeg, blev af Himlen viet<note type="met">Urent rim.</note>
                   </l>
                   <l rhyme="o''">Til Værn for mig mod Skjønheds Syndefald.</l>
                   <l rhyme="P''">Jeg maa, som Fuglen jeg blev opkaldt efter,</l>
@@ -3724,8 +3721,7 @@
                paa Vandet skimtes en Baad, derfra høres fjernt og dæmpet følgende:</stage>
             <sp who="#KOR">
                <speaker>KOR</speaker>
-               <lg type="strofe-krønikestrofe" met="bi+ '8 '8 '7 '8 '8 '7" rhyme="a a B c c B"
-                  part="I">
+               <lg type="strofe-krønikestrofe" met="bi+ '8 '8 '7 '8 '8 '7" rhyme="a a B c c B" part="I">
                   <l met="∪-∪∪-∪-∪∪-" rhyme="a">Jeg spiler min Vinge, hejser mit Sejl,</l>
                   <l met="-∪∪-∪∪-∪∪-" rhyme="a">Suser som Ørn over Livssjøens Spejl;</l>
                   <l met="-∪∪-∪∪-∪" rhyme="B">Agter gaar Maagernes Skare.</l>
@@ -4770,8 +4766,7 @@
                <stage>viser mod Anna, som staar længre inde i Haven</stage>
                <lg part="M">
                   <l part="F" rhyme="Cc">Ja, læs selv Dommen i</l>
-                  <l rhyme="Bb">Hint taarerige Blik. Det gjælder Menigheden<note type="met"
-                        >Tetrasyllabisk rim (-vvv).</note>
+                  <l rhyme="Bb">Hint taarerige Blik. Det gjælder Menigheden<note type="met">Tetrasyllabisk rim (-vvv).</note>
                   </l>
                   <l part="I">Der over i Amerika.</l>
                </lg>
@@ -6022,8 +6017,7 @@
                   <l rhyme="P'''''">Hvor var det muligt at – hvor var det gjørligt – –</l>
                   <l rhyme="P'''''">Nej, Sandheds Ord er mægtigt, ubønhørligt, –</l>
                   <l rhyme="Q'''''">At stoppe Øret til, kan kun en Taabe.</l>
-                  <l rhyme="Q'''''">Se – disse Børn er Elskovsbørn tilhobe – – –!<note type="met"
-                        >Skal uttales «tilhåbe» for å rime på «Taabe».</note>
+                  <l rhyme="Q'''''">Se – disse Børn er Elskovsbørn tilhobe – – –!<note type="met">Skal uttales «tilhåbe» for å rime på «Taabe».</note>
                   </l>
                   <stage>(standser forvirret)</stage>
                   <l rhyme="r'''''">Ja det vil sige – nej, naturligvis –!</l>
@@ -6053,11 +6047,9 @@
                   <l rhyme="Yy'''''">Den er en Stand af Kjærester og Ægtemænd, –</l>
                   <l rhyme="Yy'''''">
                      <emph>De</emph> passer Tjenesten og kan nok mægte den,</l>
-                  <l rhyme="Zz'''''">Thi der er Samhold, som i Havets Tangforgrening.<note
-                        type="met">Tetrasyllabisk rim (-vvv).</note>
+                  <l rhyme="Zz'''''">Thi der er Samhold, som i Havets Tangforgrening.<note type="met">Tetrasyllabisk rim (-vvv).</note>
                   </l>
-                  <l rhyme="Zz'''''">Alt, hvad Etaten mangler, er en Sangforening –<note type="met"
-                        >Tetrasyllabisk rim (-vvv).</note>
+                  <l rhyme="Zz'''''">Alt, hvad Etaten mangler, er en Sangforening –<note type="met">Tetrasyllabisk rim (-vvv).</note>
                   </l>
                </lg>
             </sp>
@@ -6100,11 +6092,9 @@
                   <l rhyme="K''''''">Imod den Tid, da Abonnenten bider,</l>
                   <l rhyme="Ll''''''">Da bruger jeg en Agn, som ikke dræber den –</l>
                   <l rhyme="Ll''''''">Da slagter jeg, paa Storbladsvis, – en Pebersvend; –</l>
-                  <l rhyme="Mm''''''">Jo, I skal se mig kjækt til Laugets Nytte stridende,<note
-                        type="met">Pentasyllabisk rim (-vvvv).</note>
+                  <l rhyme="Mm''''''">Jo, I skal se mig kjækt til Laugets Nytte stridende,<note type="met">Pentasyllabisk rim (-vvvv).</note>
                   </l>
-                  <l rhyme="Mm''''''">Som Tiger, ja, som Redaktør mit Bytte bidende –<note
-                        type="met">Pentasyllabisk rim (-vvvv).</note>
+                  <l rhyme="Mm''''''">Som Tiger, ja, som Redaktør mit Bytte bidende –<note type="met">Pentasyllabisk rim (-vvvv).</note>
                   </l>
                </lg>
             </sp>
@@ -6117,8 +6107,7 @@
             <sp who="#FALK">
                <speaker>FALK</speaker>
                <lg part="M">
-                  <l part="F" rhyme="Mm''''''">Amors norske Skyttetidende!<note type="met"
-                        >Pentasyllabisk rim (-vvvv).</note>
+                  <l part="F" rhyme="Mm''''''">Amors norske Skyttetidende!<note type="met">Pentasyllabisk rim (-vvvv).</note>
                   </l>
                </lg>
             </sp>
@@ -9156,8 +9145,7 @@
                <speaker>FRØKEN SKJÆRE</speaker>
                <stage>nejer ironisk</stage>
                <lg part="M">
-                  <l rhyme="Qq">Ved Juletider kaster jeg min Pigekjole.<note type="met"
-                        >Tetrasyllabisk rim (-vvv).</note>
+                  <l rhyme="Qq">Ved Juletider kaster jeg min Pigekjole.<note type="met">Tetrasyllabisk rim (-vvv).</note>
                   </l>
                </lg>
             </sp>
@@ -9172,16 +9160,14 @@
                <speaker>LIND</speaker>
                <stage>dølger sin Forlegenhed</stage>
                <lg part="M">
-                  <l rhyme="Qq">Og søger Plads som Lærer paa en Pigeskole.<note type="met"
-                        >Tetrasyllabisk rim (-vvv).</note>
+                  <l rhyme="Qq">Og søger Plads som Lærer paa en Pigeskole.<note type="met">Tetrasyllabisk rim (-vvv).</note>
                   </l>
                </lg>
             </sp>
             <sp who="#FRUHALM">
                <speaker>FRU HALM</speaker>
                <lg part="M">
-                  <l rhyme="Rr">Jeg øver Anna op i alskens Dueligheder –<note type="met"
-                        >Tetrasyllabisk rim (-vvv).</note>
+                  <l rhyme="Rr">Jeg øver Anna op i alskens Dueligheder –<note type="met">Tetrasyllabisk rim (-vvv).</note>
                   </l>
                </lg>
             </sp>
@@ -9197,8 +9183,7 @@
                <speaker>FALK</speaker>
                <stage>med et Smil ud over Mængden</stage>
                <lg part="M">
-                  <l rhyme="Rr">Og jeg gaar opad – til en Fremtids Muligheder!<note type="met"
-                        >Tetrasyllabisk rim (-vvv).</note>
+                  <l rhyme="Rr">Og jeg gaar opad – til en Fremtids Muligheder!<note type="met">Tetrasyllabisk rim (-vvv).</note>
                   </l>
                   <l part="I">Farvel!</l>
                   <stage>(dæmpet til Svanhild)</stage>

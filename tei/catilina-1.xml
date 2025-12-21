@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000029">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -44,8 +45,7 @@
                      <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1850</title>. In:
                      <edition>Henrik Ibsens skrifter, bind 1</edition>. <pubPlace>Oslo</pubPlace>:
                      <publisher>Aschehoug</publisher>
-                  <date when="2005">2005</date> s. <biblScope unit="page" from="7" to="123"
-                     >7-123</biblScope>
+                  <date when="2005">2005</date> s. <biblScope unit="page" from="7" to="123">7-123</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -146,8 +146,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000029"
-            passive="http://www.wikidata.org/entity/Q1774375"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000029" passive="http://www.wikidata.org/entity/Q1774375"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">
@@ -244,8 +243,7 @@
                <sp who="#CATILINA">
                   <speaker>CATILINA</speaker>
                   <stage>staaer lænet mod et Træ til Venstre, hensunken i Eftertanke</stage>
-                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R"
-                     part="I">
+                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R" part="I">
                      <l>– – – – – – –</l>
                      <stage>(efter en Pause)</stage>
                      <l rhyme="X">Jeg maa, jeg maa, saa byder mig en Stemme,</l>
@@ -432,8 +430,7 @@
                <stage>Lentulus, Statilius, Coeparius og Cethegus komme ind i ivrig Samtale.</stage>
                <sp who="#COEPARIUS">
                   <speaker>COEPARIUS</speaker>
-                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R"
-                     part="I">
+                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R" part="I">
                      <l rhyme="X">Ja, Du har Ret, det vorder stedse værre,</l>
                      <l rhyme="x">– hvad Enden bliver, veed jeg ikke selv.</l>
                   </lg>
@@ -695,8 +692,7 @@
                   ind og stille sig bag Søilerne i Forgrunden.</stage>
                <sp who="#CURIUS">
                   <speaker>CURIUS</speaker>
-                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R"
-                     part="I">
+                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R" part="I">
                      <l rhyme="x">Hvad, Catilina! hid Du fører mig</l>
                      <l part="I">i Vestatemplet?</l>
                   </lg>
@@ -1261,8 +1257,7 @@
                <sp who="#CATILINA">
                   <speaker>CATILINA</speaker>
                   <stage>træder med Heftighed ind</stage>
-                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R"
-                     part="I">
+                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R" part="I">
                      <l rhyme="x">«Ha, saa har Nemesis jo hørt min Bøn;</l>
                      <l rhyme="X">selv har Du Hævnen over Dig nedkaldet.» –</l>
                      <l rhyme="X">– Saa lød det jo fra Sværmerindens Læbe –</l>
@@ -1648,8 +1643,7 @@
                   Hvælvingen, iført en sort Dragt, og i en lyttende Stilling.</stage>
                <sp who="#FURIA">
                   <speaker>FURIA</speaker>
-                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R"
-                     part="I">
+                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R" part="I">
                      <l>– – – – – – – –</l>
                      <l rhyme="X">– Det drønner huult! det tordner hist deroppe!</l>
                      <l rhyme="x">den fjerne Larm gjenlyder ned til mig –</l>
@@ -1723,8 +1717,7 @@
                <stage>Catilina gaaer op og ned ad Gulvet. Lentulus og Cethegus.</stage>
                <sp who="#CATILINA">
                   <speaker>CATILINA</speaker>
-                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R"
-                     part="I">
+                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R" part="I">
                      <l real="bi+ -∪-∪-∪∪-∪-∪" rhyme="X">Nei – jeg siger Eder, I fatte ikke,</l>
                      <l rhyme="x">I forstaae mig ei, – ha, skulde jeg</l>
                      <l rhyme="X">forræderisk en Borgerkrig begynde,</l>
@@ -2613,8 +2606,7 @@
                   ind.</stage>
                <sp who="#STATILIUS">
                   <speaker>STATILIUS</speaker>
-                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R"
-                     part="I">
+                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R" part="I">
                      <l rhyme="X">Her, Venner! her vi kunne os fornøie;</l>
                      <l rhyme="x">her er vi sikkre, Ingen hører os!</l>
                   </lg>
@@ -2643,8 +2635,7 @@
                </sp>
                <stage>Medens Bægeret bæres omkring af Tjenerne, afsynges nedenstaaende Sang.</stage>
                <sp>
-                  <lg type="strofisk-strofegruppe-Buchnervers" met="tri 5 5 5 4 5 5 5 4"
-                     rhyme="A A X x B B X x | X X X x A A X x">
+                  <lg type="strofisk-strofegruppe-Buchnervers" met="tri 5 5 5 4 5 5 5 4" rhyme="A A X x B B X x | X X X x A A X x">
                      <lg type="strofe" rhyme="A A X x B B X x">
                         <l rhyme="A">Bachus vi hylde</l>
                         <l rhyme="A">glade vi fylde</l>
@@ -2692,8 +2683,7 @@
                   <pb n="62"/>Lentulus og Cethegus komme ind.</stage>
                <sp who="#LENTULUS">
                   <speaker>LENTULUS</speaker>
-                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R"
-                     part="I">
+                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R" part="I">
                      <l part="I">Nu væk med Sang og Lystighed!</l>
                   </lg>
                </sp>
@@ -3965,8 +3955,7 @@
                   Teltet.</stage>
                <sp who="#MANLIUS">
                   <speaker>MANLIUS</speaker>
-                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R"
-                     part="I">
+                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R" part="I">
                      <l rhyme="x">Det ligner dem, de Ubesindige;</l>
                      <l rhyme="x">der slumre de saa rolig og saa fast,</l>
                      <l rhyme="x">som var det Moderskjødets trygge Værn</l>
@@ -4195,8 +4184,7 @@
                </sp>
                <sp who="#MANLIUS">
                   <speaker>MANLIUS</speaker>
-                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R"
-                     part="I">
+                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R" part="I">
                      <l rhyme="X">Underlig isandhed Catilina!</l>
                      <l part="I">er denne Drøm – –</l>
                   </lg>
@@ -4338,8 +4326,7 @@
                </sp>
                <sp who="#AANDEN">
                   <speaker>AANDEN</speaker>
-                  <lg type="strofisk-strofe-jambisk-firtakter" met="bi ('8 '9)² ('8 '9)²"
-                     rhyme="(a B)² (c D)²">
+                  <lg type="strofisk-strofe-jambisk-firtakter" met="bi ('8 '9)² ('8 '9)²" rhyme="(a B)² (c D)²">
                      <l rhyme="a">Nei, først bag Gravens dunkle Port</l>
                      <l rhyme="B">forsvinder Dæmringen som hylles</l>
                      <l rhyme="a">omkring, hvad Rædsomt og hvad Stort</l>
@@ -4354,8 +4341,7 @@
                <sp who="#CATILINA">
                   <speaker>CATILINA</speaker>
                   <stage>efter en Pause, seende sig om</stage>
-                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R"
-                     part="I">
+                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R" part="I">
                      <l rhyme="x">Han er forsvunden! Var det da en Drøm?</l>
                      <l rhyme="x">Nei, nei, der stod han, Maanens Straaler faldt</l>
                      <l rhyme="x">ned paa hans Ansigt, ha, jeg kjendte ham; –</l>
@@ -5357,8 +5343,7 @@
                <sp who="#FURIA">
                   <speaker>FURIA</speaker>
                   <stage>stirrer ud gjennem Træerne i Baggrunden</stage>
-                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R"
-                     part="I">
+                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R" part="I">
                      <l rhyme="x">Gaa kuns, Forblindede! – jeg frygter ei;</l>
                      <l rhyme="x">min Seier hviler sikker i min Haand,</l>
                      <l rhyme="X">– hør, Kampen lyder, snart er Timen kommen.</l>
@@ -5401,8 +5386,7 @@
                <sp who="#CATILINA">
                   <speaker>CATILINA</speaker>
                   <stage>uden at bemærke Furia</stage>
-                  <lg type="strofisk-strofe-jambisk-firtakter-(ufullstendig)" part="Y"
-                     met="bi '8 '9" rhyme="c D">
+                  <lg type="strofisk-strofe-jambisk-firtakter-(ufullstendig)" part="Y" met="bi '8 '9" rhyme="c D">
                      <l rhyme="c">«Du falder for din egen Haand,</l>
                      <l rhyme="D">og dog en fremmed skal Dig fælde.»</l>
                   </lg>
@@ -5413,8 +5397,7 @@
                </sp>
                <sp who="#FURIA">
                   <speaker>FURIA</speaker>
-                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R"
-                     part="I">
+                  <lg type="stikisk-femfotsjambe-blankvers" met="bi '10|'11" rhyme="x|X|r|R" part="I">
                      <l rhyme="X">Velkommen ifra Kampen, Catilina!</l>
                   </lg>
                </sp>

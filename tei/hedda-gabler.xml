@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000006">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -38,12 +39,10 @@
                   </licence>
                </availability>
                <bibl type="originalSource">
-                  <author>Henrik Ibsen</author>: <title type="main">Hedda Gabler</title>. <title
-                     type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1890</title>. In: <edition>Henrik
+                  <author>Henrik Ibsen</author>: <title type="main">Hedda Gabler</title>. <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1890</title>. In: <edition>Henrik
                      Ibsens skrifter, bind 9</edition>. <pubPlace>Oslo</pubPlace>:
                      <publisher>Aschehoug</publisher>
-                  <date when="2009">2009</date> s. <biblScope unit="page" from="7" to="203"
-                     >7-203</biblScope>
+                  <date when="2009">2009</date> s. <biblScope unit="page" from="7" to="203">7-203</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -102,8 +101,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000006"
-            passive="http://www.wikidata.org/entity/Q176465"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000006" passive="http://www.wikidata.org/entity/Q176465"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">
@@ -3036,8 +3034,7 @@
             </sp>
             <sp who="#BRACK">
                <speaker>BRACK</speaker>
-               <p>Alt, hvad jeg begærer, det er at ha’ en god, fortrolig omgangskreds, <pb n="80"
-                  />hvor jeg kan være til tjeneste med råd og dåd og får lov til at gå ud og ind som
+               <p>Alt, hvad jeg begærer, det er at ha’ en god, fortrolig omgangskreds, <pb n="80"/>hvor jeg kan være til tjeneste med råd og dåd og får lov til at gå ud og ind som
                   – som en prøvet ven –</p>
             </sp>
             <sp who="#HEDDA">

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000010">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -43,8 +44,7 @@
                      <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1883</title>. In:
                      <edition>Henrik Ibsens skrifter, bind 2</edition>. <pubPlace>Oslo</pubPlace>:
                      <publisher>Aschehoug</publisher>
-                  <date when="2006">2006</date> s. <biblScope unit="page" from="93" to="188"
-                     >93-188</biblScope>
+                  <date when="2006">2006</date> s. <biblScope unit="page" from="93" to="188">93-188</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -139,8 +139,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000010"
-            passive="http://www.wikidata.org/entity/Q1774368"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000010" passive="http://www.wikidata.org/entity/Q1774368"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">
@@ -272,8 +271,7 @@
                <speaker>MARGIT</speaker>
                <p>Så lidet kan mine ord krænke jer. Min søster kender eder jo kun af de viser, som
                   er gjort om eder, – og de viser klinger ilde for høviske øren.</p>
-               <lg type="strofisk-strofe-folkevisevers-kjempevise" met="bi++ ('8 '7)² ('8 '7)²"
-                  rhyme="(a B)² (c D)²">
+               <lg type="strofisk-strofe-folkevisevers-kjempevise" met="bi++ ('8 '7)² ('8 '7)²" rhyme="(a B)² (c D)²">
                   <l met="∪∪-∪-∪∪-∪-" rhyme="a">Eders fædres gård er et utrygt hjem</l>
                   <l met="∪∪-∪∪-∪-∪" rhyme="B">mellem alle de vilde gæster.</l>
                   <l met="∪∪-∪-∪∪-∪∪-" rhyme="a">Både nat og dag har I gilde med dem.</l>
@@ -567,8 +565,7 @@
                   <l met="∪-∪∪-∪∪∪-∪∪-" rhyme="h">jeg kender en vise, som kan sorgen forslå.</l>
                </lg>
                <stage>(hun synger)</stage>
-               <lg type="strofisk-strofegruppe-folkevisevers-kjempevise" met="bi++ ('8 '7)²"
-                  rhyme="(a B)²">
+               <lg type="strofisk-strofegruppe-folkevisevers-kjempevise" met="bi++ ('8 '7)²" rhyme="(a B)²">
                   <l met="-∪∪-∪-∪-" rhyme="a">Bergkongen red sig under ø;</l>
                   <l met="∪-∪∪-∪∪∪-∪" rhyme="B">– så klageligt rinde mine dage –</l>
                   <l met="-∪∪-∪∪-∪-" rhyme="a">vilde han fæste den væne mø.</l>
@@ -1871,8 +1868,7 @@
             <sp who="#GUDMUND">
                <speaker>GUDMUND</speaker>
                <stage>synger</stage>
-               <lg type="strofisk-strofegruppe-folkevisevers-kjempevise" met="bi+ '9 '9 '8 '8"
-                  rhyme="A A b b">
+               <lg type="strofisk-strofegruppe-folkevisevers-kjempevise" met="bi+ '9 '9 '8 '8" rhyme="A A b b">
                   <l met="∪-∪∪-∪∪-∪∪-∪" rhyme="A">Jeg vandred i lien så tung og så ene;</l>
                   <l met="∪-∪∪-∪∪-∪∪-∪" rhyme="A">de småfugle kviddred fra busker og grene;</l>
                   <l met="∪-∪∪-∪∪-∪∪-" rhyme="b">så listeligt kviddred de sangere små:</l>
@@ -1889,8 +1885,7 @@
             <sp who="#SIGNE">
                <speaker>SIGNE</speaker>
                <stage>tankefuld, gentager for sig selv</stage>
-               <lg type="strofisk-strofe-folkevisevers-kjempevise" part="Y" met="bi+ '8 '8"
-                  rhyme="b b">
+               <lg type="strofisk-strofe-folkevisevers-kjempevise" part="Y" met="bi+ '8 '8" rhyme="b b">
                   <l met="∪-∪∪-∪∪-∪∪-" rhyme="b">Den spirer så let; i den flygtigste stund</l>
                   <l met="-∪∪-∪∪-∪-" rhyme="b">fæster den rødder i hjertets grund.</l>
                </lg>
@@ -1909,8 +1904,7 @@
             <sp who="#MARGIT">
                <speaker>MARGIT</speaker>
                <stage>halv højt; ser frem for sig</stage>
-               <lg type="strofisk-strofe-folkevisevers-kjempevise" part="Y" met="bi+ '9 '9"
-                  rhyme="A A">
+               <lg type="strofisk-strofe-folkevisevers-kjempevise" part="Y" met="bi+ '9 '9" rhyme="A A">
                   <l met="∪-∪∪-∪∪-∪∪-∪" rhyme="A">Den vokser som eken i årene lange;</l>
                   <l met="∪-∪∪-∪∪-∪∪-∪" rhyme="A">den næres ved tanker og sorger og sange.</l>
                </lg>
@@ -1930,8 +1924,7 @@
                <speaker>
                   <pb n="148"/>GÆSTERNE</speaker>
                <stage>synger</stage>
-               <lg type="strofisk-strofe-folkevisevers" met="bi++ ('8 '7)² '8 '4 '3"
-                  rhyme="(a B)² c c B">
+               <lg type="strofisk-strofe-folkevisevers" met="bi++ ('8 '7)² '8 '4 '3" rhyme="(a B)² c c B">
                   <l met="∪∪-∪∪-∪-∪-" rhyme="a">Over tilje med sang og strengespil</l>
                   <l met="∪-∪-∪∪-∪" rhyme="B">i gildestuen vi træde.</l>
                   <l met="∪-∪-∪∪-∪-" rhyme="a">Guds fred vi ønsker den frue mild;</l>
@@ -1953,8 +1946,7 @@
             <sp who="#GAESTER">
                <speaker>GÆSTERNE</speaker>
                <stage>synger i gildestuen</stage>
-               <lg type="strofisk-strofe-krønikestrofe" met="bi+ '8 '8 '7 '8 '8 '7"
-                  rhyme="a a B c c B">
+               <lg type="strofisk-strofe-krønikestrofe" met="bi+ '8 '8 '7 '8 '8 '7" rhyme="a a B c c B">
                   <l met="∪-∪-∪∪-∪-" rhyme="a">Lad fedlen klinge; ved strengeklang</l>
                   <l met="-∪∪-∪∪-∪-" rhyme="a">træder vi dansen den nat så lang.</l>
                   <l met="∪-∪∪-∪∪-∪" rhyme="B">Hvor lystigt at trine på tilje!</l>
@@ -2647,8 +2639,7 @@
                <speaker>SIGNE</speaker>
                <p>Å, jeg forstår mig endnu så lidet på kærlighed; men det ved jeg, sandt er det, som
                   der står i visen:</p>
-               <lg type="strofisk-strofe-folkevisevers-kjempevise" part="Y" met="bi+ '8 '8"
-                  rhyme="b b">
+               <lg type="strofisk-strofe-folkevisevers-kjempevise" part="Y" met="bi+ '8 '8" rhyme="b b">
                   <l met="∪-∪∪-∪∪-∪∪-" rhyme="b">den spirer så let; i den flygtigste stund</l>
                   <l met="-∪∪-∪∪-∪-" rhyme="b">fæster den rødder i hjertets grund –</l>
                </lg>
@@ -3086,8 +3077,7 @@
             <sp who="#GAESTER">
                <speaker>GÆSTERNE</speaker>
                <stage>synger i frastand</stage>
-               <lg type="strofisk-strofe-folkevisevers" met="bi+ ('8 '7)² '4 '8 '4"
-                  rhyme="(a B)² c c x">
+               <lg type="strofisk-strofe-folkevisevers" met="bi+ ('8 '7)² '4 '8 '4" rhyme="(a B)² c c x">
                   <l met="∪-∪∪-∪-∪-" rhyme="a">Guds fred og farvel til hver og en,</l>
                   <l met="∪-∪-∪-∪" rhyme="B">som har på gården hjemme!</l>
                   <l met="∪-∪-∪∪-∪-" rhyme="a">Nu går vor sti over stok og sten; –</l>

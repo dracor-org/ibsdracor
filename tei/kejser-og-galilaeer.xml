@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000017">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -43,8 +44,7 @@
                      <title type="sub">Hovedtekst, tekstgrunnlag: 1. utg. 1873</title>. In:
                      <edition>Henrik Ibsens skrifter, bind 6</edition>. <pubPlace>Oslo</pubPlace>:
                      <publisher>Aschehoug</publisher>
-                  <date when="2008">2008</date> S. <biblScope unit="page" from="255" to="744"
-                     >255-744</biblScope>
+                  <date when="2008">2008</date> S. <biblScope unit="page" from="255" to="744">255-744</biblScope>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -639,8 +639,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000017"
-            passive="http://www.wikidata.org/entity/Q268276"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000017" passive="http://www.wikidata.org/entity/Q268276"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">
@@ -4645,8 +4644,7 @@
                      tribunen Skudilo, med stort følge til Antiokia, viste Cæsar Gallos kejserlig
                      ære og bød ham i kejserens navn til gæst ved hoflejren i Rom. – Cæsars rejse er
                      nu som en sejerherres tog gennem landene. I Konstantinopel har han holdt
-                     væddeløb i hippodromen, og mængden jubled højt da han, skønt endnu <pb n="362"
-                     />kun Cæsar af navn, stod frem på de fordums kejseres vis og rakte kransen til
+                     væddeløb i hippodromen, og mængden jubled højt da han, skønt endnu <pb n="362"/>kun Cæsar af navn, stod frem på de fordums kejseres vis og rakte kransen til
                      hin Korax, der vandt løbet. Så vidunderligt ophøjer Gud igen vor slægt, som var
                      sunken under synd og forfølgelse.</p>
                </sp>
@@ -4721,8 +4719,7 @@
                      noget uoverstigeligt? Jeg ved, hvad jeg ved. I hvert af de skiftende slægts-led
                      har der været <emph>en</emph> sjæl, hvori den rene Adam genfødtes; han var
                      stærk i lovgiveren Moses; han havde evnen til at gøre sig jorden underdanig i
-                     den makedoniske Alexander; han var næsten fuldkommen i Jesus fra <pb n="364"
-                     />Nazareth. Men se, Basilios, <stage>(han griber ham i armen)</stage> dem alle
+                     den makedoniske Alexander; han var næsten fuldkommen i Jesus fra <pb n="364"/>Nazareth. Men se, Basilios, <stage>(han griber ham i armen)</stage> dem alle
                      fattedes, hvad der er <emph>mig</emph> lovet, – den rene kvinde!</p>
                </sp>
                <sp who="#BASILIOS">
@@ -4754,8 +4751,7 @@
                      Vent, vent, – I skal få se; – bruden skal visselig skænkes mig, og da –, hånd i
                      hånd vil vi gå imod øst, did hen, hvor nogle siger at Helios fødes, – ind i
                      ensomheden, skjule os, som guddommen skjuler sig, søge lunden ved Eufrats
-                     bredder, finde den, og <emph>der</emph> –, o, forherligelse – derfra <pb
-                        n="365"/>skal en ny slægt i skønhed og ligevægt gå ud over jorden; der, I
+                     bredder, finde den, og <emph>der</emph> –, o, forherligelse – derfra <pb n="365"/>skal en ny slægt i skønhed og ligevægt gå ud over jorden; der, I
                      skriftbundne tvivlere, <emph>der</emph> skal åndens kejser-rige grundes!</p>
                </sp>
                <sp who="#BASILIOS">
@@ -9806,8 +9802,7 @@
                <pb n="487"/>Første handling foregår i Konstantinopel, anden handling i Antiokia,
                tredje handling ligeledes i Antiokia, fjerde handling i og omkring de østlige egne af
                kejserriget og femte handling på sletterne hinsides Tigris. Begivenheden omfatter
-               tidsrummet fra December måned i året 361 til slutningen af Juni i året 363.<pb
-                  n="488"/>
+               tidsrummet fra December måned i året 361 til slutningen af Juni i året 363.<pb n="488"/>
             </p>
             <div type="act" n="1">
                <head type="act">
@@ -10404,8 +10399,7 @@
                      buer og pile; thi, siger de, vi agter det rådeligst at stå værgeløse lige over
                      for den sejerherre, der, ligesom en guddom, har vist sig mægtig nok til at
                      bryde enhver modstand. – Til gengæld beder de alle, som den højeste nåde, om
-                     dit venskab, og navnlig beder de at du, hvis du, som et rygte har sagt dem, <pb
-                        n="507"/>til våren agter at tilintetgøre den forvovne Perser-konge, – at du
+                     dit venskab, og navnlig beder de at du, hvis du, som et rygte har sagt dem, <pb n="507"/>til våren agter at tilintetgøre den forvovne Perser-konge, – at du
                      da vil skåne deres lande for fiendtligt indfald.</p>
                </sp>
                <sp who="#JULIAN">
@@ -10962,8 +10956,7 @@
                   kejser Julian, ridende på et æsel, der er overtrukket med panterskind; han er
                   klædt som guden Dionysos, med en panterhud over skuldrene, vinløvkrans om panden,
                   og i hånden en med grønt omvunden stav, på hvis øverste ende der er fæstet en
-                  pinje-kongle. Halvnøgne sminkede kvinder og ynglinge, dansere og <pb n="522"
-                  />gøglere omringer ham; nogle bærer vinkander og drikkeskåler, andre slår
+                  pinje-kongle. Halvnøgne sminkede kvinder og ynglinge, dansere og <pb n="522"/>gøglere omringer ham; nogle bærer vinkander og drikkeskåler, andre slår
                   tamburiner og bevæger sig fremad under vilde spring og fagter.</stage>
                <sp who="#DANSERNE">
                   <speaker>DANSERNE</speaker>
@@ -11178,8 +11171,7 @@
                   <p>Du skal høre alt, herre, og døm mig så efter din retfærdighed. – Da du var
                      borte blev det mig næsten utåleligt at leve ved din høje forgængers hof. Jeg
                      ved ikke om du har erfaret at jeg forfremmedes til kejserindens forelæser og
-                     til uddeler af milde gaver? Ak, kunde æresposter erstatte mig savnet af min <pb
-                        n="528"/>Julian? Jeg holdt næsten ikke længere ud at se på, hvorledes mænd,
+                     til uddeler af milde gaver? Ak, kunde æresposter erstatte mig savnet af min <pb n="528"/>Julian? Jeg holdt næsten ikke længere ud at se på, hvorledes mænd,
                      der bar en pralende dyd til skue, tog imod foræringer og stikpenge af alle
                      slags. Det blev mig forhadt, dette samkvem med grådige lykkejægere, hvis forbøn
                      var tilfals for enhver, som kunde opveje klingende ord med klingende guld. O,
@@ -11613,8 +11605,7 @@
                      skal følge mig. Jorden brænder under mig i denne forgiftede galilæiske stad!
                      Jeg vil skrive til hine visdomsvenner Kytron og Priskos, som har vundet så
                      stort ry i de senere år. Maximos kan jeg hver dag vente hid; han skal gå med
-                     os. – Jeg siger dig, der forestår os lykkelige sejersdage, <pb n="539"
-                     />Hekebolios! I Antiokia, ven, – der kommer vi til at mødes med den
+                     os. – Jeg siger dig, der forestår os lykkelige sejersdage, <pb n="539"/>Hekebolios! I Antiokia, ven, – der kommer vi til at mødes med den
                      uforlignelige Libanios, – og der er vi Helios nærmere i hans opstandelse. – O,
                      denne dragende længsel imod sol-kongen –!</p>
                </sp>
@@ -12183,8 +12174,7 @@
                   <p>Nådige kejser, jeg er ikke af den mening. Jeg har selv været en ligegyldig i
                      troen, og jeg holder enhver sådan for en syg, der har helbredens mulighed i sig
                      så længe han blir i kirkens skød. Således tænkte også vor lille menighed i
-                     Nazianz. Bekymringsfulde brødre og søstre kom sammen for at rådslå om <pb
-                        n="556"/>hjælp imod tidens nød. Med dem forenede sig udsendinger fra Cæsaræa
+                     Nazianz. Bekymringsfulde brødre og søstre kom sammen for at rådslå om <pb n="556"/>hjælp imod tidens nød. Med dem forenede sig udsendinger fra Cæsaræa
                      og fra de andre stæder. Min fader er affældig, og – som han med sorg bekender –
                      han har ikke det faste uryggelige sind, som i disse trængselens dage kræves af
                      den, der sidder på bispesædet. Da vedtog forsamlingen, at der til hans
@@ -13501,8 +13491,7 @@
                      mine kære venner, hvad skal dette føre til? Er I visdomselskere? Er I
                      efterfølgere af Diogenes, hvis klædning og lader I har taget på? I sandhed, man
                      ser eder ikke nær så ofte i læresalene som hos min skatmester. O, hvor er dog
-                     ikke visdommen bleven en jammerlig og foragtelig ting for eders <pb n="592"
-                     />skyld! O, I hyklere og højst uvidende talere! O, I – – men hvad vil dog den
+                     ikke visdommen bleven en jammerlig og foragtelig ting for eders <pb n="592"/>skyld! O, I hyklere og højst uvidende talere! O, I – – men hvad vil dog den
                      fede mand hist henne?</p>
                </sp>
                <sp who="#ORIBASES">
@@ -15528,8 +15517,7 @@
                   <p>At jeg ikke tør låne min hånd til noget, som er sandheden imod. – O, hør mig,
                      min ophøjede kejser og herre! Gives der en eneste af dine soldater, som tvivler
                      på at han er sikker i dine hænder? Har du ikke på Galliens grænser, trods
-                     fiendtlig overmagt og vanskeligheder af forskellig slags, tilkæmpet dig <pb
-                        n="648"/>større sejervindinger, end nogen anden hærfører i vore dage kan
+                     fiendtlig overmagt og vanskeligheder af forskellig slags, tilkæmpet dig <pb n="648"/>større sejervindinger, end nogen anden hærfører i vore dage kan
                      rose sig af?</p>
                </sp>
                <sp who="#JULIAN">
@@ -16442,8 +16430,7 @@
                   <p>Det gøres vel nødigt. Kan I tænke jer, hvad Alexandros melder? Galilæernes
                      vanvid overstiger alle grænser siden min afrejse. Og dette uvæsen øges dag for
                      dag. De skønner at min sejr i Persien vil drage deres udryddelse efter sig; og
-                     med hin skamløse Gregor som hovedmand står de nu, lig en fiendtlig <pb n="674"
-                     />hær, i ryggen på mig; i de frygiske egne forberedes hemmelige ting, som ingen
+                     med hin skamløse Gregor som hovedmand står de nu, lig en fiendtlig <pb n="674"/>hær, i ryggen på mig; i de frygiske egne forberedes hemmelige ting, som ingen
                      ret kan få rede på –</p>
                </sp>
                <sp who="#NEVITA">

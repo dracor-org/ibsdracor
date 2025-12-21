@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000036">
    <teiHeader xml:lang="nob">
       <fileDesc>
@@ -97,8 +98,7 @@
          </event>
       </listEvent>
       <listRelation>
-         <relation name="wikidata" active="https://dracor.org/entity/ibs000036"
-            passive="http://www.wikidata.org/entity/Q3285322"/>
+         <relation name="wikidata" active="https://dracor.org/entity/ibs000036" passive="http://www.wikidata.org/entity/Q3285322"/>
       </listRelation>
    </standOff>
    <text type="drama" xml:lang="da-no">
@@ -166,8 +166,7 @@
                <sp>
                   <speaker>CHOR AF FRU KIRSTENS FØLGE</speaker>
                   <stage>dybt inde i Skoven tilvenstre</stage>
-                  <lg type="strofisk-strofegruppe-folkevisevers" part="I"
-                     met="bi++ ('8 '6)² | ('8 '7)²" rhyme="(a b)² | (a B)²">
+                  <lg type="strofisk-strofegruppe-folkevisevers" part="I" met="bi++ ('8 '6)² | ('8 '7)²" rhyme="(a b)² | (a B)²">
                      <lg type="strofe" met="bi+ ('8 '7)²" rhyme="(a B)²">
                         <l rhyme="a" met="∪-∪-∪∪-∪-">Med fromme Sange, med Klokkespil</l>
                         <l rhyme="B" met="∪-∪∪-∪∪-∪">Saa vide vi færdes i Dale;</l>
@@ -179,8 +178,7 @@
                <sp>
                   <speaker>SLÆGTNINGE AF ARNE FRA GULDVIK</speaker>
                   <stage>langt borte, udenfor til Høire</stage>
-                  <lg type="strofisk-strofe-folkevisevers" met="bi++ '4 '4 '7 '4 '4 '7"
-                     rhyme="a a B c c B">
+                  <lg type="strofisk-strofe-folkevisevers" met="bi++ '4 '4 '7 '4 '4 '7" rhyme="a a B c c B">
                      <l rhyme="a" met="∪-∪-">Nu Færden staaer</l>
                      <l rhyme="a" met="∪-∪-">Til Bryllupsgaard;</l>
                      <l rhyme="B" met="-∪∪∪-∪∪-∪">Folen løber let under Lide!</l>
@@ -1105,8 +1103,7 @@
                <sp who="#THORGJERD">
                   <speaker>THORGJERD</speaker>
                   <stage>med et forvildet Udtryk og halvt for sig selv</stage>
-                  <lg type="strofisk-strofegruppe-folkevisevers" met="bi++ ('8|'9 '6|'7)²"
-                     rhyme="(x|X a|A)²">
+                  <lg type="strofisk-strofegruppe-folkevisevers" met="bi++ ('8|'9 '6|'7)²" rhyme="(x|X a|A)²">
                      <lg type="strofe" met="bi++ '8 '6 '9 '6" rhyme="x a X a">
                         <l rhyme="x" met="∪-∪-∪∪-∪-">Jeg var mig engang en Ungersvend,</l>
                         <l rhyme="a" met="∪-∪∪-∪-">Jeg sov under grønnen Li.</l>
@@ -1144,8 +1141,7 @@
                      Bryllup staa. – Gale Thorgjerd maa være med, han kan faa Bord og Bænke til at
                      dandse, saa saare han rører ved sin Fælestreng. Men I, agt Jer vel, drag hjem
                      igjen; her er ikke godt for Jer; har I ikke hørt hvad der siges:</p>
-                  <lg type="strofisk-strofegruppe-folkevisevers" met="bi++ ('8|'9 '6|'7)²"
-                     rhyme="(x|X a|A)²">
+                  <lg type="strofisk-strofegruppe-folkevisevers" met="bi++ ('8|'9 '6|'7)²" rhyme="(x|X a|A)²">
                      <lg type="strofe" met="bi++ '8 '7 '9 '7" rhyme="x A X A">
                         <l rhyme="x" met="∪-∪-∪-∪-">Jeg veed forvist saa ven en Dal,</l>
                         <l rhyme="A" met="-∪∪∪-∪∪-∪">Alfer monne raade derinde!</l>
@@ -1165,8 +1161,7 @@
                      Bygden med, han har sig en Fæstemø der ogsaa! Ja Sligt har I vel spurgt før!
                      Jeg veed nu engang, – det er mange Aar siden – men jeg mindes det vel.</p>
                   <stage>(vedbliver efter et Øiebliks Pause, stedse mere og mere forvirret)</stage>
-                  <lg type="strofisk-strofegruppe-folkevisevers" met="bi++ ('8|'9 '6|'7)²"
-                     rhyme="var (x a)²">
+                  <lg type="strofisk-strofegruppe-folkevisevers" met="bi++ ('8|'9 '6|'7)²" rhyme="var (x a)²">
                      <lg type="strofe" met="bi++ '8 '7 '9 '7" rhyme="x A X A">
                         <l rhyme="x" met="∪-∪-∪∪∪-∪- &amp; ∪-∪∪∪-∪-∪-">Herr Alvar havde liden Ingrid
                            fæst’,</l>
@@ -1301,8 +1296,7 @@
                <sp who="#INGEBORG">
                   <speaker>INGEBORG</speaker>
                   <stage>medens han er beskjæftiget dermed</stage>
-                  <lg type="strofisk-strofegruppe-folkevisevers" part="I" met="bi++ ('8|'9 '6)²"
-                     rhyme="(x|X a)²">
+                  <lg type="strofisk-strofegruppe-folkevisevers" part="I" met="bi++ ('8|'9 '6)²" rhyme="(x|X a)²">
                      <lg type="strofe" met="bi++ ('8 '6)²" rhyme="(x a)²">
                         <l rhyme="x" met="∪-∪-∪∪-∪-">Herr Hjalmar seiled til Sjællands Ø,</l>
                         <l rhyme="a" met="∪-∪∪-∪-">Der lod han sit unge Liv;</l>
@@ -1539,8 +1533,7 @@
                   <p>Jeg skjønner Dig ikke; det jeg sang var kun en gammel Vise. <stage>(stiger ned
                         fra Stenen med Hæggekvistene i Haanden og nærmer sig, idet hun betragter ham
                         stivt)</stage> Men jeg kjender en Vise til, og den vil jeg sige for Dig:</p>
-                  <lg type="strofisk-strofegruppe-Erlkönigstrofe" met="bi++ '8 '8 '8 '8"
-                     rhyme="a a b b">
+                  <lg type="strofisk-strofegruppe-Erlkönigstrofe" met="bi++ '8 '8 '8 '8" rhyme="a a b b">
                      <lg type="strofe">
                         <l rhyme="a" met="∪-∪-∪∪-∪∪-">I Kongens Gaard stander Gangeren god;</l>
                         <l rhyme="a" met="∪-∪∪-∪∪-∪-">Den Beiler som eier en Ridders Mod,</l>
@@ -2461,8 +2454,7 @@
                <sp>
                   <speaker>CHOR AF BRYLLUPSGJÆSTER</speaker>
                   <stage>raskt men dæmpet inde i Skoven til Venstre</stage>
-                  <lg type="strofisk-strofe-folkevisevers" met="bi++ '4 '4 '7 '4 '4 '7"
-                     rhyme="a a B c c B">
+                  <lg type="strofisk-strofe-folkevisevers" met="bi++ '4 '4 '7 '4 '4 '7" rhyme="a a B c c B">
                      <l rhyme="a" met="∪-∪-">Nu Færden staaer</l>
                      <l rhyme="a" met="∪-∪-">Til Bryllupsgaard!</l>
                      <l rhyme="B" met="-∪∪∪-∪∪-∪">Folen løber let under Lide!</l>
@@ -2979,8 +2971,7 @@
                   <p>Med Arnes Penge kan det Altsammen bødes paa; en hæderlig Plads vil Du vinde
                      blandt Kongens Mænd. Tænk Dig vel om; har Du lovet Alfhild mere end Du kan
                      holde – og mig tykkes at mærke noget Sligt hos hende, saa stille hun end gaaer
-                     med det – saa tal med hende derom. Sig hende, nu ja, sig hende hvad <pb n="335"
-                     />Du selv vil; tomhændet skal hun ikke gaa herfra, det kan Du frit love. See
+                     med det – saa tal med hende derom. Sig hende, nu ja, sig hende hvad <pb n="335"/>Du selv vil; tomhændet skal hun ikke gaa herfra, det kan Du frit love. See
                      der kommer hun! Olaf, min Søn! tænk paa din Fæstemø og paa din stolte Æt, tænk
                      paa din gamle Moder, som maatte gaa i Jorden af Blussel ifald – vær Mand, Olaf!
                      Nu gaaer jeg ind og seer efter Gildebordet.</p>
@@ -3215,8 +3206,7 @@
                      <l rhyme="q'" met="∪-∪∪-∪∪-∪-">Og spurgte min Fader hvad Døden var,</l>
                      <l rhyme="q'" met="∪-∪∪∪-∪∪-∪-">Da sang han mig en Vise derom til Svar:</l>
                   </lg>
-                  <lg type="strofisk-strofegruppe-folkevisevers" met="bi++ ('8|'9 '6|'7)²"
-                     rhyme="var (x a)²">
+                  <lg type="strofisk-strofegruppe-folkevisevers" met="bi++ ('8|'9 '6|'7)²" rhyme="var (x a)²">
                      <lg type="strofe" met="bi++ '8 '7 '9 '7" rhyme="x A X A">
                         <l rhyme="x" met="∪-∪∪-∪-∪∪-">«Naar Menneskets Barn er stedet i Kval</l>
                         <l rhyme="A" met="∪-∪∪-∪∪-∪">Og lyster at vugges i Slummer,</l>
@@ -3275,8 +3265,7 @@
                </sp>
                <stage>Udenfor til Høire høres dæmpet følgende Chor af Ligbærere:</stage>
                <sp>
-                  <lg type="strofisk-strofe-Hildebrandstrofe" met="bi ('7 '6)² ('7 '6)²"
-                     rhyme="(A b)² (C d)²">
+                  <lg type="strofisk-strofe-Hildebrandstrofe" met="bi ('7 '6)² ('7 '6)²" rhyme="(A b)² (C d)²">
                      <l rhyme="A">Vi bær’ den lille Døde</l>
                      <l rhyme="b">Med Sorg til Gravens Fred,</l>
                      <l rhyme="A">Vi lægge Ormens Føde</l>
@@ -4899,8 +4888,7 @@
                </sp>
                <sp who="#OLAF">
                   <speaker>OLAF</speaker>
-                  <p>Tilvisse! Her har jeg lært det Bedste jeg veed<unclear reason="binding"
-                        >&lt;.&gt;</unclear>
+                  <p>Tilvisse! Her har jeg lært det Bedste jeg veed<unclear reason="binding">&lt;.&gt;</unclear>
                   </p>
                </sp>
                <sp who="#THORGJERD">
@@ -5112,8 +5100,7 @@
                      <l rhyme="c'" met="∪-∪-∪∪-∪∪-">Og syng om Alfhild en klagelig Sang</l>
                      <l rhyme="c'" met="∪-∪-∪-∪∪-">For Bygdens Piger; hør kun engang:</l>
                   </lg>
-                  <lg type="strofisk-strofegruppe-folkevisevers" met="bi++ ('8|'9 '7)²"
-                     rhyme="(a|A B)²">
+                  <lg type="strofisk-strofegruppe-folkevisevers" met="bi++ ('8|'9 '7)²" rhyme="(a|A B)²">
                      <lg type="strofe" met="bi++ ('8 '7)²" rhyme="(a B)²">
                         <l rhyme="a" met="∪-∪∪-∪-∪∪-">Jeg var mig igaar saa liden en Hind,</l>
                         <l rhyme="B" met="∪-∪∪-∪∪-∪">Jeg gik i de grønnende Lunde!</l>
@@ -5138,8 +5125,7 @@
                <sp who="#OLAF">
                   <speaker>OLAF</speaker>
                   <stage>smerteligt bevæget</stage>
-                  <lg type="strofisk-strofegruppe-folkevisevers" met="bi++ ('8|'9 '7)²"
-                     rhyme="(a|A B)²">
+                  <lg type="strofisk-strofegruppe-folkevisevers" met="bi++ ('8|'9 '7)²" rhyme="(a|A B)²">
                      <lg type="strofe" met="bi+ ('9 '7)²" rhyme="(A B)²">
                         <l rhyme="A" met="-∪∪-∪∪-∪-∪">Ak, at jeg laa under grønnen Tue,</l>
                         <l rhyme="B" met="-∪∪-∪-∪">Stedet til evig Hvile!</l>
@@ -6233,8 +6219,7 @@
                </sp>
                <sp who="#ALFHILD">
                   <speaker>ALFHILD</speaker>
-                  <p>O, nu er jeg salig som den første Stund vi mødtes<unclear reason="binding"
-                        >&lt;!&gt;</unclear>
+                  <p>O, nu er jeg salig som den første Stund vi mødtes<unclear reason="binding">&lt;!&gt;</unclear>
                   </p>
                </sp>
                <sp who="#FRUKIRSTEN">
