@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000028">
-   <teiHeader xml:lang="nob">
+   <teiHeader xml:lang="no">
       <fileDesc>
          <titleStmt>
-            <title type="main">Norma</title>
+            <title>Norma</title>
             <author>
                <persName>
                   <forename>Henrik</forename>
@@ -262,7 +262,7 @@
                         <pb n="351"/>Hun holder dog strængt paa Moral og Pligt,</l>
                      <l met="∪-∪-∪∪-∪-" rhyme="d">Og derfor maa jeg, som nylig sagt,</l>
                      <l met="∪-∪∪-∪-∪∪-" rhyme="d">
-                        <foreign xml:lang="lat">Politico modo</foreign> ta’e mig i Agt,</l>
+                        <foreign xml:lang="la">Politico modo</foreign> ta’e mig i Agt,</l>
                      <l met="-∪∪-∪∪-∪-∪" rhyme="E">Ofre tilbørligt paa hendes Alter,</l>
                      <l met="-∪∪-∪∪-∪-∪" rhyme="E">Røge med Virak i Bladets Spalter.</l>
                      <l met="∪-∪∪-∪∪-∪-" rhyme="f">Men hvem kommer der i den dunkle Skov?</l>

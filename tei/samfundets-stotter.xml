@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000014">
-   <teiHeader xml:lang="nob">
+   <teiHeader xml:lang="no">
       <fileDesc>
          <titleStmt>
-            <title type="main">Samfundets støtter</title>
+            <title>Samfundets støtter</title>
             <author>
                <persName>
                   <forename>Henrik</forename>

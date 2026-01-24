@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000027">
-   <teiHeader xml:lang="nob">
+   <teiHeader xml:lang="no">
       <fileDesc>
          <titleStmt>
-            <title type="main">Sancthansnatten</title>
+            <title>Sancthansnatten</title>
             <author>
                <persName>
                   <forename>Henrik</forename>
@@ -2186,7 +2186,7 @@
                      Jeg gjorde Alt for at vække mit nationale Jeg tillive, jeg gik med Tollekniv og
                      begyndte at skrive orthofonisk, – Verden lod sig blænde deraf – men jeg selv
                      skjønnede nok at det var galt fat. Nu veed De hvad der rører sig indeni mig –
-                     det er omtrent hvad Tydskerne kalde <foreign xml:lang="ger">«Weltschmerz»</foreign>.</p>
+                     det er omtrent hvad Tydskerne kalde <foreign xml:lang="de">«Weltschmerz»</foreign>.</p>
                </sp>
                <stage>Han skyller et Glas Punsch ned.</stage>
                <sp who="#JULIANE">

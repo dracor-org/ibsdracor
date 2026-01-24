@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibs000010">
-   <teiHeader xml:lang="nob">
+   <teiHeader xml:lang="no">
       <fileDesc>
          <titleStmt>
-            <title type="main">Gildet på Solhaug, 2. versjon</title>
+            <title>Gildet på Solhaug, 2. versjon</title>
             <author>
                <persName>
                   <forename>Henrik</forename>
